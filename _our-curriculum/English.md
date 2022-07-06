@@ -35,3 +35,15 @@ of English.
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRY9nmapGyHhGH97I--hFZ2DofpWYHckHYYOpIUvWAKgS5zH_BwKXIGDY99qVvz9K6wt0LFxZ8Qjac9/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
 
+**Learning Support Programme**
+
+The LSP Programme aims to help students improve their literacy skills. This is achieved by placing students into a smaller and more focused group teaching during curriculum. LSP students also attend Buddy Reading sessions conducted in the mornings. They are guided by better readers from the P3-P4 levels. These sessions are monitored by the LSP teacher and assisted by volunteers from the Parent Support Group (PSG).
+
+**School-based Dyslexia Remediation**
+
+![School-based Dyslexia Remediation](/images/SDR-2.jpg)
+
+![School-based Dyslexia Remediation](/images/SDR-1.jpg)
+
+**Reading Remediation Programme**
+
