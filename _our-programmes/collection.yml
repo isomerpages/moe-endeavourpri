@@ -2,9 +2,9 @@ collections:
   our-programmes:
     output: true
     order:
-      - Every Child A Writer (ECAW).md
-      - LLP – Every Child A Performer.md
-      - Applied Learning Programme@EDP.md
-      - Every Child Holistic Programme (ECHP).md
-      - EPAL (Endeavour Programme for Active Learning).md
       - Our Programmes.md
+      - EPAL (Endeavour Programme for Active Learning).md
+      - Every Child Holistic Programme (ECHP).md
+      - Applied Learning Programme@EDP.md
+      - LLP – Every Child A Performer.md
+      - Every Child A Writer (ECAW).md
