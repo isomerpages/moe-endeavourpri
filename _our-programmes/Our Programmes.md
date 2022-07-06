@@ -5,7 +5,7 @@ description: ""
 ---
 <html>
 <body>
-<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<p><a href="/about-us/our-programmes/epal-endeavour-programme-for-active-learning/">
 <img src="/images/EPAL_img_2.jpg"  style="width:45%">
 </a></p>
 </body>
