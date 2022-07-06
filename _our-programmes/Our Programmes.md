@@ -15,8 +15,9 @@ description: ""
 
 <html>
 <body>
-<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<p><a href="/about-us/our-programmes/echp-every-child-holistic-programme/">
 <img src="/images/EHCP.jpg"  style="width:45%">
+<p><strong>Every Child Holistic Programme (ECHP)</strong></p>
 </a></p>
 </body>
 </html>
