@@ -26,8 +26,10 @@ description: ""
 
 <html>
 <body>
-<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<p><a href="/applied-learning-programme/">
 <img src="/images/ALP.jpg"  style="width:45%">
+<p><strong>Applied Learning Programme@EDP</strong></p>
+
 </a></p>
 </body>
 </html>
