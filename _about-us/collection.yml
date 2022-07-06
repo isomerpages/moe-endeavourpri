@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Other Support Staff.md
       - Our Staff/Operations Support Staff.md
       - Our Staff/ICT MRL Support Staff.md
       - Our Staff/Administration Staff.md
