@@ -2,6 +2,7 @@ collections:
   mother-tongue-teachers:
     output: true
     order:
+      - P4 Mother Tongue Teachers.md
       - P3 Mother Tongue Teachers.md
       - P2 Mother Tongue Teachers.md
       - P1 Mother Tongue Teachers.md
