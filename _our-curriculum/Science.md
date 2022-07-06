@@ -146,6 +146,5 @@ Students love competitions so they enjoy participating in various Science compet
 
 ![science links](/images/science_links.jpg)
 
-Refer to the QR codes provided at the back of each activity book.
-
+Refer to the QR codes provided at the back of each activity book. <br>
 Follow us on Instagram #**edpscience** for more pictures and updates.
