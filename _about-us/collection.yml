@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - School Profile/.keep
       - Principal’s Message.md
