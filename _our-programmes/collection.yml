@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Applied Learning Programme@EDP.md
       - Every Child Holistic Programme (ECHP).md
       - EPAL (Endeavour Programme for Active Learning).md
       - Our Programmes.md
