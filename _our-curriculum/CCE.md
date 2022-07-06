@@ -129,3 +129,19 @@ We are pleased to inform that Endeavour Primary School has achieved the Yellow F
 It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2020 (Bronze Award) for participating actively in North West Community Development Council programmes in 2019. We will like to thank all of our staff and students for their contribution.
 
 ![North-West CDC Outstanding School Partner Award](/images/North-West%20CDC%20Outstanding%20School%20Partner%20Award.jpg)
+
+![](/images/pupil_welfare_links.jpg)
+
+[Sexuality Education](https://endeavourpri.moe.edu.sg/parents-hub/sexuality-education-programme/)
+
+[Cyberwellness Programme](http://edpcw.weebly.com/)
+
+[Values-in-Action (VIA)](http://2014edpcce.blogspot.sg/)
+
+[Asean Friendship Programme (AFP) Vietnam 2017 Blog](http://p5edpvietnam2017.blogspot.sg/) 
+
+[Asean Friendship Programme (AFP) Malacca 2018 Photos.](https://photos.google.com/share/AF1QipMjg_pMw1OK0N3nebLWWvjjJX57RX6l2my2tUI8_eyhjUUOuk-lAgCtkotxJMjOpg?key=NWVWWW1nZlEteUFhclRHRURVNjBxTlgxaXJmdGl3)
+
+[Asean Friendship Programme (AFP) Vietnam 2018 Blog](http://edpp5vietnam2018.blogspot.com/) 
+
+[Asean Friendship Programme (AFP) Vietnam 2019 Photos.](https://www.instagram.com/edp_afp/)
