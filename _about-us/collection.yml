@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Achievements.md
       - EDP Virtual Tour.md
       - School Profile/.keep
       - School Profile/Our Crest.md
