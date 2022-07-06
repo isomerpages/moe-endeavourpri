@@ -55,3 +55,27 @@ Primary 4 and 5 students who display an aptitude for and an interest in Mathemat
 **National Mathematical Olympiad of Singapore (NMOS)**
 
 ![National Mathematical Olympiad of Singapore (NMOS)](/images/Congratulations-NMOS-ACS-768x614.png)
+
+**ACS Annual Mathlympics**
+
+![ACS Annual Mathlympics](/images/Congratulations-NMOS-ACS-1-768x614.png)
+
+![ACS Mathlympics 2017 Awardees](/images/ACS-Mathlympics-2017-1-768x573.png)
+ACS Mathlympics 2017 Awardees
+
+### **Competitions**
+
+Other than the school-based Tangrams and Sudoku competitions, students with strong logical thinking skills are invited to participate in external competitions.
+
+**Interschool Sudoku Mania @ Yuying Secondary School**
+
+![Interschool Sudoku Mania @ Yuying Secondary School](/images/Interschool%20Sudoku%20Mania%20@%20Yuying%20Secondary%20School.png)
+
+![Yuying Secondary Interschool Sudoku Mania 2017 (Senior & Junior Team)](/images/Yuying-2017-768x593.png)
+Yuying Secondary Interschool Sudoku Mania 2017 (Senior & Junior Team)
+
+**Interschool Sudoku Challenge @ Broadrick Secondary School**
+![Interschool Sudoku Challenge @ Broadrick Secondary School](/images/Interschool%20Sudoku%20Challenge%20@%20Broadrick%20Secondary%20School.png)
+Interschool Sudoku Challenge @ Broadrick Secondary School
+
+![math reference links](/images/math_reference_links.jpg)
