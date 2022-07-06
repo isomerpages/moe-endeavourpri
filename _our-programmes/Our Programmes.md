@@ -44,8 +44,10 @@ description: ""
 
 <html>
 <body>
-<p><a href="/academic-curriculum/applied-learning-programme-alp">
+<p><a href="/every-child-a-writer-ecaw/">
 <img src="/images/Every%20child%20a%20writer.jpg"  style="width:45%">
+<p><strong>Every Child A Writer</strong></p>
+
 </a></p>
 </body>
 </html>
