@@ -42,11 +42,16 @@ Primary 5 Students Writing
 ------------------------------
 
 ![Primary 5 Students Writing](/images/Primary%205%20Students%20Writing_1.jpg)
+_Why_ **_by Li Shantian (5 Compassion)_**
 
 ![Primary 5 Students Writing](/images/Primary%205%20Students%20Writing_2.jpg)
+_All because of_ **_by Lai Si Ning (5 Integrity)_**
 
 ![Primary 5 Students Writing](/images/Primary%205%20Students%20Writing_3.jpeg)
+_My Happiest Moment **b**_**_y Fedelia Ng Jing Ning (5 Integrity)_**
 
 ![Primary 5 Students Writing](/images/Primary%205%20Students%20Writing_4.jpeg)
+Why I think Mymmar citizens are risking their lives to protest against the military coup **by Lai Si Ning (5 Integrity)**
 
 ![Primary 5 Students Writing](/images/Primary%205%20Students%20Writing_5.jpeg)
+_What I would want to be if I could become an animal_ **_by Lin Yuxin (5 Integrity)_**
