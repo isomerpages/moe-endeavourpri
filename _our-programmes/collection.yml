@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Every Child Holistic Programme (ECHP).md
       - EPAL (Endeavour Programme for Active Learning).md
       - Our Programmes.md
