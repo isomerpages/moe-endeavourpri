@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Visual Arts.md
       - Information and Communications Technology (ICT).md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
