@@ -38,6 +38,8 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KY9Ii7zmAdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[**Learning For Life (LLP) Programme**](/about-us/our-programmes/llp-every-child-a-performer/)
+
 ---
 
 <html>
