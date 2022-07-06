@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
-      - Our Staff/Other Support Staff.md
-      - Our Staff/Operations Support Staff.md
-      - Our Staff/ICT MRL Support Staff.md
-      - Our Staff/Administration Staff.md
-      - Our Staff/Allied Educators.md
-      - Our Staff/Teachers.md
-      - Our Staff/Key Personnel.md
       - Our Staff/.keep
+      - Our Staff/Key Personnel.md
+      - Our Staff/Teachers.md
+      - Our Staff/Allied Educators.md
+      - Our Staff/Administration Staff.md
+      - Our Staff/ICT MRL Support Staff.md
+      - Our Staff/Operations Support Staff.md
+      - Our Staff/Other Support Staff.md
       - Our Achievements.md
       - EDP Virtual Tour.md
       - School Profile/.keep
