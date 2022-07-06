@@ -41,9 +41,34 @@ The LSP Programme aims to help students improve their literacy skills. This is a
 
 **School-based Dyslexia Remediation**
 
+The School-based Dyslexia Remediation (SDR) programme aims to provide support for P3 and P4 students who have been identified as at-risk of Dyslexia. This programme seeks to enable the selected students to acquire coping strategies in reading so that they will be better able to cope with their learning in school. The programme relies on a systemic set of strategies and activities which have been carefully designed by MOE.
+
 ![School-based Dyslexia Remediation](/images/SDR-2.jpg)
 
 ![School-based Dyslexia Remediation](/images/SDR-1.jpg)
 
 **Reading Remediation Programme**
 
+The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students who still face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme exposes students to a range of coping strategies for reading comprehension which will enable them to better manage their learning in the regular classroom.
+
+![Reading Remediation Programme](/images/RRP1.jpg)
+
+![Reading Remediation Programme](/images/RRP2.jpg)
+
+![Reading Remediation Programme](/images/RRP3.jpg)
+
+**Library Programme**
+
+Our Endeavour Media Resource Library has a full-time Library Assistant who sees to the day-to-day operation of the school library. English teachers take their students to the library and teach them about library etiquette and how to use the library effectively. Termly thematic activities are conducted in the library to improve readership. Every month, the top reader and the class with the highest readership from each level will be acknowledged.
+
+**ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines**
+
+The Knowledge Building pedagogy is used in the teaching of Stimulus-Based Conversation. Students collaborate with one another to build on and expand their knowledge on a given theme through the Knowledge Forum. This platform encourages self-directed learning where pupils can post their views online and read their peers’ comments using specially designed Conversational Scaffolds. Through Knowledge Building pedagogy, our students have deepened their knowledge about the theme and are able to express their ideas coherently.
+
+The English Department has incorporated Thinking Routines (TR) in various components in the teaching and learning of English. Some thinking routines such as See-Think-Wonder (STW), Think-Puzzle-Explore (TPE) and Zoom-In (ZI) enrich our students’ learning and enhances their learning processes. STW is widely used in the teaching of oral and compositions via the visual stimulus. TPE is used for grammar and vocabulary lessons and  ZI is commonly used during the Big Book reading to promote rich discussions using visual clues to trigger thoughts. We believe strongly that these thinking routines help to develop thinking dispositions, interpretation and inference skills while exploring ideas. TRs also activate prior knowledge and uncover current understandings and correct misconceptions.
+
+![ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines](/images/ALP1.jpg)
+
+![ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines](/images/ALP2.jpg)
+
+![ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines](/images/ALP3.jpg)
