@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - School Profile/Our School Song.md
-      - School Profile/Our Philosophy.md
-      - School Profile/Our School Values.md
-      - School Profile/Our Vision & Mission.md
-      - School Profile/Our Crest.md
       - School Profile/.keep
+      - School Profile/Our Crest.md
+      - School Profile/Our Vision & Mission.md
+      - School Profile/Our School Values.md
+      - School Profile/Our Philosophy.md
+      - School Profile/Our School Song.md
       - Principal’s Message.md
