@@ -72,3 +72,28 @@ The English Department has incorporated Thinking Routines (TR) in various compon
 ![ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines](/images/ALP2.jpg)
 
 ![ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines](/images/ALP3.jpg)
+
+**Every Child A Writer (ECAW) Programme**
+
+In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a platform in which all our students’ works are recognised. The Class Publication, in which we publish every pupil’s writing, is published online in our school’s website and Our Budding Writer’s Publication (booklet) seeks to celebrate the works of the outstanding writers in each class and level.
+
+![ECAW](/images/ECAW.jpg)
+
+**Harnessing Technology – Podcasting**
+
+We want our students to become self-directed and collaborative in their learning by harnessing technology to become confident users of the language. Our belief is that the move towards virtual learning will assist students in developing the 3Cs (Confidence, Curiosity & Cooperation). Our lower primary students are introduced to the software Audacity. Our students do their own podcasting to improve oracy. This initiative serves as an alternative assessment to oral. This approach allows for self-directed learning and brings about improvement in students’ reading skills through peer and teacher assessment. Students are involved in reviewing their own performance through self-checklists as well. This increases their confidence to communicate better.
+
+![Harnessing Technology – Podcasting](/images/Harnessing%20Technology.jpg)
+
+**Endeavour Reading Programme**
+
+Positive attitude towards reading is achieved through a range of interesting activities. Students visit the school library weekly during curriculum time and our teachers conduct reading sessions using guided readers to expand their reading diet. Thematic book displays and activities in the school are held to introduce students to books of different genres and themes. Students were highly engaged and the element of fun in these activities generated much curiosity
+
+![Endeavour Reading Programme](/images/ERP1.jpg)
+
+![Endeavour Reading Programme](/images/ERP2.jpg)
+
+![Endeavour Reading Programme](/images/ERP3.jpg)
+
+Our community partner, the National Library Board updates teachers and students on the current reading trends through our termly assembly sessions. To keep students informed of activities in the school library, our teachers introduce the planned reading activities and affirm students who have participated in these ongoing activities.
+
