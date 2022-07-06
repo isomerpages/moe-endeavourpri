@@ -2,4 +2,5 @@ collections:
   our-programmes:
     output: true
     order:
+      - EPAL (Endeavour Programme for Active Learning).md
       - Our Programmes.md
