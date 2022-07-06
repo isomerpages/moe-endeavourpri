@@ -79,3 +79,8 @@ Yuying Secondary Interschool Sudoku Mania 2017 (Senior & Junior Team)
 Interschool Sudoku Challenge @ Broadrick Secondary School
 
 ![math reference links](/images/math_reference_links.jpg)
+
+*   [Primary Maths Syllabus (2013)](/files/mathematics_syllabus_primary_1_to_6.pdf)
+*   [SEAB: List of Approved Calculators for PSLE Maths & Foundation Maths](/files/guidelines_calculators.pdf)
+*   [Maths Playground Thinking Blocks (Modelling Tool)](https://www.mathplayground.com/thinkingblocks.html)
+*   [Sheppard Software (Maths)](http://www.sheppardsoftware.com/math.htm)
