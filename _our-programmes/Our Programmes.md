@@ -29,7 +29,6 @@ description: ""
 <p><a href="/applied-learning-programme/">
 <img src="/images/ALP.jpg"  style="width:45%">
 <p><strong>Applied Learning Programme@EDP</strong></p>
-
 </a></p>
 </body>
 </html>
@@ -47,7 +46,6 @@ description: ""
 <p><a href="/every-child-a-writer-ecaw/">
 <img src="/images/Every%20child%20a%20writer.jpg"  style="width:45%">
 <p><strong>Every Child A Writer</strong></p>
-
 </a></p>
 </body>
 </html>
