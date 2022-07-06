@@ -100,6 +100,32 @@ Traditional festivals form an important part of Chinese culture, the main festiv
 
 二年级学生，**胡烜铭**和她母亲，刘可菁女士参加了“2020年讲华语运动亲子才艺比赛”。烜铭和妈妈一起表演了一出短剧，并把表演录像寄去参赛。她们的创作在的总决赛获得：“B组-决赛入围者”奖项。恭喜烜铭与刘女士！我们一起来欣赏她们的精彩演出吧！
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fdduMd_vTuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+**4\. 2020** **第六届全国小学生绘本创作大赛**
+
+**2020 – 6th National Primary School “Picture Book Creation” Competition**
+
+2020年，我校学生在第六届全国小学生绘本创作大赛中夺得两个奖项。五年级学生的参赛作品《云树之约》赢得佳作奖。
+
+Our Primary 5 students participated in the 6th National Primary School “Picture Book Creation” Competition and won the Merit award.
+
 ![6th National Primary School “Picture Book Creation” Competition](/images/6th%20National%20Primary%20School%20“Picture%20Book%20Creation”%20Competition.jpg)
 
+---
+
 ![](/images/chinese_links.jpg)
+
+**List of Chinese learning resources**
+
+*   小学华文课外读物参考书目 (Recommended reading materials for P1- P6) [https](https://tinyurl.com/y92348xp)[://](https://tinyurl.com/y92348xp)[tinyurl.com/y92348xp](https://tinyurl.com/y92348xp)
+
+*   List of Approved Dictionaries for use in PSLE [https://](https://www.seab.gov.sg/home/examinations/approved-dictionaries)[www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
+
+*   《知识网》线上学习平台 Ezhishi learning portal  [https://www.ezhishi.net](https://www.ezhishi.net/)
+
+*   国家图书馆线上平台：您可到以下平台为孩子借阅中文书籍 [https://libbyapp.com/search/nlb](https://libbyapp.com/search/nlb) [https://nlbsg.ebook.hyread.com.tw/index.jsp](https://nlbsg.ebook.hyread.com.tw/index.jsp)
+
+（Updated on 14 Jun 2021）
