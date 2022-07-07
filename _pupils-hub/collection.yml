@@ -1,4 +1,5 @@
 collections:
   pupils-hub:
     output: true
-    order: []
+    order:
+      - School Rules.md
