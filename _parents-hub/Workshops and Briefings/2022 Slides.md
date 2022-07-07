@@ -22,9 +22,9 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 
 **EDP Library Revamp (file too big!)**
 
-**Parents Networking Session (P3) (file too big!)**
+Parents Networking Session (P3) **(file too big!)**
 
-**Parents Networking Session (P4) (file too big!)**
+Parents Networking Session (P4) **(file too big!)**
 
 [Student Development Team (P3 & P4)](/files/Student-Development-Team-P3P4.pdf)
 
@@ -34,7 +34,7 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 
 [P5 & P6 Parents’ Briefing (Maths)](/files/EDP-2022-P5-P6-Parents-Briefing-Maths.pdf)
 
-**P5 & P6 Parents’ Briefing (EL & MT Languages) (file too big!)**
+P5 & P6 Parents’ Briefing (EL & MT Languages) **(file too big!)**
 
 [P5 & P6 Parents’ Briefing (Science)](/files/P5-and-6-Parents-briefing-Science.pdf)
 
@@ -52,11 +52,11 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 
 [P1 Parent’s Briefing (MT)](/files/2022-MT-P1-Parent-Briefing_final.pdf)
 
-**Parents Networking Session (P1) file too big!**
+Parents Networking Session (P1) **file too big!**
 
-**Parents Networking Session (P2) file too big!**
+Parents Networking Session (P2) **file too big!**
 
-**EDP Library Revamp 2022 & Movements to P3 (file too big!)**
+EDP Library Revamp 2022 & Movements to P3 **(file too big!)**
 
 --- 
 
