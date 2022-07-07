@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - 2022 Booklist and Uniform Order.md
       - NLB discoverReads.md
       - Principal's Letters/.keep
       - Principal's Letters/2022 Letters.md
