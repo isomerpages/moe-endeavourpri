@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Workshops and Briefings/2020 Slides.md
       - Workshops and Briefings/2021 Slides.md
       - Workshops and Briefings/2022 Slides.md
       - Workshops and Briefings/.keep
