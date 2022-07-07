@@ -28,6 +28,6 @@ Saturdays: 9:00 am – 9:00 pm
 
 Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their **full name, name of school and form class.**
 
-If you need help in navigating the SLS’s basic interface or assignments, please [click here.](https://endeavourpri.moe.edu.sg/sls-assignments-video-help/)
+If you need help in navigating the SLS’s basic interface or assignments, please [click here.](/sls-assignments-video-help/)
 
-For various guidelines and tips for Home-Based Learning, please [click here.](https://endeavourpri.moe.edu.sg/pupils-hub/home-based-learning-resources/)
+For various guidelines and tips for Home-Based Learning, please [click here.](/pupils-hub/home-based-learning-resources/)
