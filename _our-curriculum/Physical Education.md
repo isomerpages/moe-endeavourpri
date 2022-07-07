@@ -31,31 +31,35 @@ Stuednts’ physical abilities are further developed through play in modified ga
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 600px; height: 241px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 1</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Acquire a range of movement skills to participate in a variety of physical activities.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 2</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Understand and apply movement concepts, principles and strategies in a range of physical activities.</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 3</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 4</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Display positive personal and social behaviour across different experiences.</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 5</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Acquire and maintain health-enhancing fitness through regular participation in physical activities.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 6</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Enjoy and value the benefits of living a physically active and healthy life.</td></tr></tbody></table>
 
-_**Sports Day**_
+#### _**Sports Day**_
 
 In EDP, we have two separate Sports Days to provide greater opportunity for more students to participate actively in the various sporting events.  The events and games are also customized to the meet to the different abilities and needs of the Lower Primary and Upper Primary students.
 
-![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/Miguel-22-300x200.jpg)![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/Cloud-2-300x200.jpg)
+**insert image!**
 
-_**SwimSafer 2.0 Programme**_
+**insert image!**
+
+#### _**SwimSafer 2.0 Programme**_
 
 SwimSafer 2.0 programme is a national water safety program developed to raise the standard of swimming proficiency in Singapore. This program will help evolve your child from a non-swimmer into a good swimmer. In EDP, all students in Primary 3 are strongly encouraged to participate in the programme.
 
-![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-28-at-8.59.09-AM-300x225.jpeg) ![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-28-at-8.59.33-AM-300x225.jpeg)
+**insert image!**
 
-_**Sports Enrichment Programmes for Primary 4 and Primary 5 (SEP)**_
+**insert image!**
+
+#### _**Sports Enrichment Programmes for Primary 4 and Primary 5 (SEP)**_
 
 The SEP aims to advocate the importance of sports education, encourage sports participation and increase sporting opportunities for the students. Sports programmes under SEP should cater for development of skills and sports knowledge of students and help promote active participation of sports in schools. These programmes promote team spirit and character building, and arouse interest in continual sports participation amongst students.
 
-**_Primary 5 Adventure Camp_**
+#### **_Primary 5 Adventure Camp_**
 
 Upper primary years are important years to increase the confidence and self-belief of the students. The aim of the camp is also to allow the teachers and students to build strong relationships and promote class bonding through its activities.
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 600px; height: 241px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 116px; text-align: left;">Objectives of Programme</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 579px; text-align: left;">The camp programme must achieve the following objectives:<p style="box-sizing: inherit; font-size: 1em;"></p><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">To build teacher- student relationship (TSR).</li><li style="box-sizing: inherit;">To foster teamwork within the classes and amongst the students.</li><li style="box-sizing: inherit;">To expose the students in challenging but controlled situations.</li></ol></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 116px; text-align: left;">Outcome of Programme</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 579px; text-align: left;">Students should be able to:<p style="box-sizing: inherit; font-size: 1em;"></p><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">&nbsp;Acknowledge their individual strengths and weaknesses.</li><li style="box-sizing: inherit;">Work and function together as a team.</li><li style="box-sizing: inherit;">Foster closer friendship amongst their peers.</li><li style="box-sizing: inherit;">Display traits of values as highlighted in the school values.</li></ol></td></tr></tbody></table>
 
-![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/DSC_7199-300x199.jpg)  ![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/DSC_7488-300x199.jpg) ![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/DSC_7601-300x199.jpg) ![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/DSC_7682-300x199.jpg)
+**insert 4 images!**
 
-_**Health Education**_
+#### _**Health Education**_
 
 In promoting holistic health, our students are provided with a wide variety of interesting and engaging Health Education programmes. These programmes are aimed to equip our students with relevant skills and enable them to make responsible decisions in taking charge of their health. Some of these programmes include:
 
@@ -71,15 +75,15 @@ In promoting holistic health, our students are provided with a wide variety of i
 
 – Temperature-taking exercises to remind on safeguarding individual health and social responsibility.
 
-![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-28-at-1.34.08-PM-300x225.jpeg) ![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-28-at-1.37.18-PM-207x300.jpeg) ![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-28-at-1.37.22-PM-300x267.jpeg) ![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-28-at-1.35.39-PM-300x169.jpeg) ![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-28-at-1.35.27-PM-300x169.jpeg)
+**insert 5 images!**
 
-_**Play@Recess**_
+#### _**Play@Recess**_
 
 During the respective recesses, sports equipment are made available for our students to play in a supervised environment as part of the Play@Recess programme. Students are encouraged to make new friends from other classes, share the equipment and play together. Play@ Recess allows our students to further enhance their SEL competencies.
 
-![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-28-at-9.48.54-AM-300x225.jpeg) ![](https://endeavourpri.moe.edu.sg/wp-content/uploads/2018/05/WhatsApp-Image-2018-05-28-at-9.48.55-AM-300x225.jpeg)
+**insert 2 images!**
 
-![](https://endeavourpri.moe.edu.sg/wp-content/uploads/images/departments/cca/cca_links.jpg)
+![](/images/cca_links.jpg)
 
 Information for parents:
 
