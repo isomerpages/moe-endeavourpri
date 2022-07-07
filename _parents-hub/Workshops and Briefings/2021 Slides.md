@@ -10,23 +10,23 @@ Please click on the link below to access briefings / workshops slides for 2021.
 
 **Parent Engagement Deck – Indicative PSLE score ranges for secondary schools**
 
-[Booklet](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/05/Parent-Engagement-Deck-Indicative-PSLE-score-ranges-for-secondary-schools.pdf)
+[Booklet](/files/Parent-Engagement-Deck-Indicative-PSLE-score-ranges-for-secondary-schools.pdf)
 
 ---
 
-**Subjects Briefing for P****arents**
+**Subjects Briefing for Parents**
 
-[P3 & P4 Science](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/P3-and-4-Science_Briefing-for-Parents-2021.pdf)
+[P3 & P4 Science](/files/P3-and-4-Science_Briefing-for-Parents-2021.pdf)
 
-[P5 & P6 EL & MT](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/P5-P6-Slides-for-Parents-_-EL-MT-Languages.pdf)
+[P5 & P6 EL & MT](/files/P5-P6-Slides-for-Parents-_-EL-MT-Languages.pdf)
 
-[P5 & P6 Sci & Maths](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/P5-and-6-Parents-briefing-Science-and-Math_2021.pdf)
+[P5 & P6 Sci & Maths](/files/P5-and-6-Parents-briefing-Science-and-Math_2021.pdf)
 
 ---
 
 **Primary 1 & 2 Parents’ Briefing from Assistant Year Head**
 
-[P1 & P2](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/P1-and-2-Slides-for-Parents-briefing_AYH.pdf)
+[P1 & P2](/files/P1-and-2-Slides-for-Parents-briefing_AYH.pdf)
 
 ---
 
