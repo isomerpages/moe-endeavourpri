@@ -2,6 +2,8 @@ collections:
   parents-hub:
     output: true
     order:
+      - Parents Gateway/Making Travel Declarations and Amendments on Parents
+        Gateway.md
       - Parents Gateway/Introducing Parents Gateway.md
       - Parents Gateway/Guide to booking for PTM via Parent’s Gateway.md
       - Parents Gateway/.keep
