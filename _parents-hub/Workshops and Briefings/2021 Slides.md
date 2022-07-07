@@ -32,24 +32,24 @@ Please click on the link below to access briefings / workshops slides for 2021.
 
 **Parents’ Networking Session**
 
-[P1 & P2](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/Parents-Networking-Session-P1-2-2021.pdf)
+[P1 & P2](/files/Parents-Networking-Session-P1-2-2021.pdf)
 
-[P3 & P4](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/Parents-Networking-Session-P3-4-2021.pdf)
+[P3 & P4](/files/Parents-Networking-Session-P3-4-2021.pdf)
 
-[P5](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/Parents-Networking-Session-P5-2021.pdf)
+[P5](/files/Parents-Networking-Session-P5-2021.pdf)
 
-[P6](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/Parents-Networking-Session-P6-2021.pdf)
+[P6](/files/Parents-Networking-Session-P6-2021.pdf)
 
-[Cyberwellness](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/Parents-Networking-_Cyberwellness.pdf)
+[Cyberwellness](/files/Parents-Networking-_Cyberwellness.pdf)
 
 ---
 
 **Parents’ briefing slides on Subject Based Banding (5th March 2021)**
 
-[Principal’s Letter (SBB)](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/SBB-letter-2021.pdf)
+[Principal’s Letter (SBB)](/files/SBB-letter-2021.pdf)
 
-[MOE SBB – English](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/MOE_SBB_ENG.pdf)
+[MOE SBB – English](/files/MOE_SBB_ENG.pdf)
 
-[MOE SBB – Chinese](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/MOE_SBB_CHI.pdf)
+[MOE SBB – Chinese](/files/MOE_SBB_CHI.pdf)
 
-[MOE SBB – Malay](https://endeavourpri.moe.edu.sg/wp-content/uploads/2021/03/MOE_SBB_MLY.pdf)
+[MOE SBB – Malay](/files/MOE_SBB_MLY.pdf)
