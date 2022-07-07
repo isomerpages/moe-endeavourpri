@@ -2,4 +2,5 @@ collections:
   pupils-hub:
     output: true
     order:
+      - Student iCON & more!.md
       - School Rules.md
