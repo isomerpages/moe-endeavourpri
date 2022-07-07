@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Workshops and Briefings/2022 Slides.md
       - Workshops and Briefings/.keep
       - MOE FAS application.md
       - Family Matters @ School (FMS).md
