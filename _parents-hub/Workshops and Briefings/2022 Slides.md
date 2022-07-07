@@ -14,6 +14,8 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 
 ---
 
+**Parents’ briefing slides on 22nd February 2022:**
+
 [P4 Parents’ Briefing (HMT Language)](/files/2022_P4-parents-briefing_HMT.pdf)
 
 [P3 Parents’ Briefing (Science)](/files/Briefing-for-Parents_P3-Science.pdf)
@@ -28,6 +30,8 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 
 ---
 
+**Parents’ briefing slides on 21st January 2022:**
+
 [P5 & P6 Parents’ Briefing (Maths)](/files/EDP-2022-P5-P6-Parents-Briefing-Maths.pdf)
 
 **P5 & P6 Parents’ Briefing (EL & MT Languages) (file too big!)**
@@ -37,3 +41,19 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 [Parents Networking Session (P5)](/files/Parents-Networking-Session-P5-21-Jan-2022.pdf)
 
 [Parents Networking Session (P6)](/files/Parents-Networking-Session-P6-21-Jan2022.pdf)
+
+---
+
+**Parents’ briefing slides on 25th February 2022:**
+
+[P1 Parent’s Briefing (EL)](/files/25-Feb-2022-P1-English-Language-Briefing.pdf)
+
+[P1 Parents’ Briefing (Math)](/files/P1-Parents-Briefing-2022-Maths-final.pdf)
+
+[P1 Parent’s Briefing (MT)](/files/2022-MT-P1-Parent-Briefing_final.pdf)
+
+**Parents Networking Session (P1) file too big!**
+
+**Parents Networking Session (P2) file too big!**
+
+**EDP Library Revamp 2022 & Movements to P3 (file too big!)**
