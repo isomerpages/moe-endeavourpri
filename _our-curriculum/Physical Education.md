@@ -15,20 +15,19 @@ To develop the child holistically under the CAMPS domains by inculcating the sch
 
 ![](/images/cca_programme_highlights.jpg)
 
-**_Overview_**
+#### **_Overview_**
 
 The PE Programme aims to develop students’ psychomotor and games skills, equip them with the knowledge, and attitudes to pursue and enjoy a physically active and healthy lifestyle.
 
 Students develop and maintain physical health and fitness through regular participation in physical activities and acquire safe practices during physical activities. They also demonstrate the spirit of fair play, teamwork and sportsmanship.
 
-**_Approach_**
---------------
+#### **_Approach_**
 
 Teachers adopt Experiential Learning pedagogy in the teaching of PE. Teachers also use Movement Education to encourage the learning of basic and generic skills such as fundamental movement skills, dance and gymnastics. Through Movement Education, the students learn through experiences and construct their own understanding, instead of being told. In addition, they acquire a variety of manipulative skill sets required for gameplay through engaging activities and modified games.
 
 Stuednts’ physical abilities are further developed through play in modified games settings. The Games Concept Approach (GCA) pedagogy is used to teach performance skills and tactics in modified games. As students play and experience authentic problem-solving situations, they get to be fully engaged in physical, cognitive and social challenges that promote their holistic learning.
 
-**_Goals of Physical Education_** 
+#### **_Goals of Physical Education_** 
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 600px; height: 241px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 1</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Acquire a range of movement skills to participate in a variety of physical activities.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 2</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Understand and apply movement concepts, principles and strategies in a range of physical activities.</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 3</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 4</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Display positive personal and social behaviour across different experiences.</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 5</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Acquire and maintain health-enhancing fitness through regular participation in physical activities.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 6</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Enjoy and value the benefits of living a physically active and healthy life.</td></tr></tbody></table>
 
