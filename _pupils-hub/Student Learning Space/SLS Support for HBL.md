@@ -31,6 +31,3 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 If you need help in navigating the SLS’s basic interface or assignments, please [click here.](https://endeavourpri.moe.edu.sg/sls-assignments-video-help/)
 
 For various guidelines and tips for Home-Based Learning, please [click here.](https://endeavourpri.moe.edu.sg/pupils-hub/home-based-learning-resources/)
-
-[  
-](https://endeavourpri.moe.edu.sg/singapore-student-learning-space-sls/sls-support-for-home-based-learning/#top)
