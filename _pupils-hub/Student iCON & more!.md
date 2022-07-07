@@ -11,7 +11,7 @@ description: ""
 </body>
 </html>
 
-Guides/Resources:
+### Guides/Resources:
 
 *   [Student iCON Onboarding Guide](/files/Student-iCON-Onboarding-Guide.pdf)
     -----------------------------------------------------------------------------------------------------------------------------
