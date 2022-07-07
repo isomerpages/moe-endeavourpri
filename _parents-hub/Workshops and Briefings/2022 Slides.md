@@ -57,3 +57,9 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 **Parents Networking Session (P2) file too big!**
 
 **EDP Library Revamp 2022 & Movements to P3 (file too big!)**
+
+--- 
+
+**Parents’ briefing slides on 20th May 2022:**
+
+[P5 & P6 PSLE 2022 Parent Engagement](/files/P5-P6-PSLE-2022-Parent-Engagement-20-May-2022.pdf)
