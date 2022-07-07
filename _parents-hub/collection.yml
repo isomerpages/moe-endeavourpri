@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Cyber Wellness.md
       - "#edpwellness.md"
       - Sexuality Education Programme.md
       - Parents Gateway/.keep
