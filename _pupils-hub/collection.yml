@@ -2,6 +2,7 @@ collections:
   pupils-hub:
     output: true
     order:
+      - Knowledge Forum.md
       - School Library Online System.md
       - CyberWellness @EDP.md
       - Homework Policy.md
