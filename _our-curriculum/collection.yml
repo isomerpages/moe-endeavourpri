@@ -2,18 +2,18 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Student Development Team.md
-      - Co Curricular Activities/Co Curricular Activities.md
-      - Co Curricular Activities/.keep
-      - Music.md
-      - Physical Education.md
-      - CCE.md
-      - Visual Arts.md
-      - Information and Communications Technology (ICT).md
+      - English.md
+      - Mathematics.md
+      - Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese Language.md
       - Mother Tongue/Malay Language.md
       - Mother Tongue/Tamil Language.md
-      - Science.md
-      - Mathematics.md
-      - English.md
+      - Information and Communications Technology (ICT).md
+      - Visual Arts.md
+      - CCE.md
+      - Physical Education.md
+      - Music.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co Curricular Activities.md
+      - Student Development Team.md
