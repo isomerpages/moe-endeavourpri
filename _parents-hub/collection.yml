@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Parents In Education.md
       - Workshops and Briefings/.keep
       - Workshops and Briefings/2022 Slides.md
       - Workshops and Briefings/2021 Slides.md
