@@ -194,7 +194,7 @@ You may click **[here](https://www.moe.gov.sg/programmes/sexuality-education)**
 </tbody>
 </table>
 
-**Information for Parents**
+### **Information for Parents**
 
 8.  Parents may opt their children out of the Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
     
