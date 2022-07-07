@@ -2,5 +2,6 @@ collections:
   pupils-hub:
     output: true
     order:
+      - Home Based Learning/.keep
       - Student iCON & more!.md
       - School Rules.md
