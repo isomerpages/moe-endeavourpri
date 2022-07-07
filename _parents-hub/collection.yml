@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - MOE FAS application.md
       - Family Matters @ School (FMS).md
       - Cyber Wellness.md
       - "#edpwellness.md"
