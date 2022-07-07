@@ -25,3 +25,15 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 **Parents Networking Session (P4) (file too big!)**
 
 [Student Development Team (P3 & P4)](/files/Student-Development-Team-P3P4.pdf)
+
+---
+
+[P5 & P6 Parents’ Briefing (Maths)](/files/EDP-2022-P5-P6-Parents-Briefing-Maths.pdf)
+
+**P5 & P6 Parents’ Briefing (EL & MT Languages) (file too big!)**
+
+[P5 & P6 Parents’ Briefing (Science)](/files/P5-and-6-Parents-briefing-Science.pdf)
+
+[Parents Networking Session (P5)](/files/Parents-Networking-Session-P5-21-Jan-2022.pdf)
+
+[Parents Networking Session (P6)](/files/Parents-Networking-Session-P6-21-Jan2022.pdf)
