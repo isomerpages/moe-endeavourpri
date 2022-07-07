@@ -6,7 +6,7 @@ description: ""
 <html>
 <body>
 <p><a href="https://workspace.google.com/dashboard">
-<img src="/images/icon-300x125.jpg"  style="width:35%">
+<img src="/images/icon-300x125.jpg"  style="width:40%">
 </a></p>
 </body>
 </html>
