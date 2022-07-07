@@ -20,7 +20,7 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 
 [P3 Parents’ Briefing (Science)](/files/Briefing-for-Parents_P3-Science.pdf)
 
-**EDP Library Revamp (file too big!)**
+EDP Library Revamp **(file too big!)**
 
 Parents Networking Session (P3) **(file too big!)**
 
