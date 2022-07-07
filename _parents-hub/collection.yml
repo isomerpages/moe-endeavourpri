@@ -2,4 +2,5 @@ collections:
   parents-hub:
     output: true
     order:
+      - Parents Gateway/Guide to booking for PTM via Parent’s Gateway.md
       - Parents Gateway/.keep
