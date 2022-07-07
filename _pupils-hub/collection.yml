@@ -2,6 +2,7 @@ collections:
   pupils-hub:
     output: true
     order:
+      - Home Based Learning/Cyber Wellness.md
       - Home Based Learning/Home Based Learning Resources.md
       - Home Based Learning/.keep
       - Student iCON & more!.md
