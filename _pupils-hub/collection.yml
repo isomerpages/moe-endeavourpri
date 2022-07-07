@@ -2,6 +2,7 @@ collections:
   pupils-hub:
     output: true
     order:
+      - CyberWellness @EDP.md
       - Homework Policy.md
       - Student Learning Space/.keep
       - Student Learning Space/Singapore Student Learning Space (SLS).md
