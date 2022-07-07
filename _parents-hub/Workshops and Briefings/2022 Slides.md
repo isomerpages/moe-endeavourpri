@@ -14,20 +14,6 @@ Please click on the link below to access briefings/ workshop slides for 2022.
 
 ---
 
-**Parents’ briefing slides on 21st January 2022:**
-
-[P5 & P6 Parents’ Briefing (Maths)](/files/EDP-2022-P5-P6-Parents-Briefing-Maths.pdf)
-
-P5 & P6 Parents’ Briefing (EL & MT Languages) **(file too big!)**
-
-[P5 & P6 Parents’ Briefing (Science)](/files/P5-and-6-Parents-briefing-Science.pdf)
-
-[Parents Networking Session (P5)](/files/Parents-Networking-Session-P5-21-Jan-2022.pdf)
-
-[Parents Networking Session (P6)](/files/Parents-Networking-Session-P6-21-Jan2022.pdf)
-
----
-
 **Parents’ briefing slides on 25th February 2022:**
 
 [P1 Parent’s Briefing (EL)](/files/25-Feb-2022-P1-English-Language-Briefing.pdf)
