@@ -32,7 +32,7 @@ Guides/Resources:
 ### FAQs:
 
 1.  **What is the naming convention for Student iCON email address?**  
-    a. The student’s email address will be based on @students.edu.sg.  
+    a. The student’s email address will be based on <u>Full Name</u>@students.edu.sg.  
     b. Any space in the full name will be replaced with an underscore.  
     c. Should the student’s full name have words such as “Bte” and “s/o”, they will not appear in the email address.  
     d. The full name is limited to the first 4 words as given in their NRIC/FIN to keep the length of the email address manageable.  
