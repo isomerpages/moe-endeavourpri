@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Family Matters @ School (FMS).md
       - Cyber Wellness.md
       - "#edpwellness.md"
       - Sexuality Education Programme.md
