@@ -18,19 +18,25 @@ This is achieved through the Year Head structure, where each level is overseen b
 **Get-It-Right**
 
 To promote a culture of care in our school, we developed the ‘Get-It-Right’ programme. It is a school-wide programme that is carried out on the first day of each semester. It consists of a series of activities to foster positive teacher-student and student-student relationships. The programme also provides a platform for students to share their views and feelings.
-![](/images/Get-It-Right.jpg)
+
+<img src="/images/Get-It-Right.jpg"  
+style="width:40%">
 
 **P.S.L.E. @ EDP**
 
 Please Show Love and Encouragement @ EDP is an initiative introduced in 2015. This initiative is about the lower primary students making encouragement cards for our P6 students who are preparing for their PSLE. This meaningful gesture allows the younger members of our Endeavour family to encourage and give a timely boost to our graduating students. The aim of this initiative is also to strengthen the bonds among our students.
-![](/images/PSLE_EDP-300x225.jpg)
+
+<img src="/images/PSLE_EDP-300x225.jpg"  
+style="width:40%">
 
 **FUNtastic Me!**
 
 FUNtastic Me! is a student-centric programme in collaboration with Canberra Secondary School. Besides providing an additional platform for student voice, the programme also helps boost students’ self-esteem through a series of hands-on activities such as cupcake making, art therapy and team challenges.
 
 The engaging sessions also enhance students’ psychological well-being by giving them another level of emotional support as they foster new bonds with their buddies. Through the programme, students will also learn time management and revision techniques that will equip them with skills to cope well academically.
-![](/images/FUNtastic%20Me.jpg)
+
+<img src="/images/FUNtastic%20Me.jpg"  
+style="width:40%">
 
 ![](/images/student_development_reference_links.jpg)
 
@@ -53,4 +59,3 @@ Helping students with special needs in mainstream schools
 
 Health Promotion Board  
 [http://www.hpb.gov.sg/HOPPortal/](http://www.hpb.gov.sg/HOPPortal/)
-
