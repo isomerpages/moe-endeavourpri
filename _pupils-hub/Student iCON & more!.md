@@ -6,26 +6,26 @@ description: ""
 <html>
 <body>
 <p><a href="https://workspace.google.com/dashboard">
-<img src="/images/icon-300x125.jpg"  style="width:40%">
+<img src="/images/icon-300x125.jpg"  style="width:30%">
 </a></p>
 </body>
 </html>
 
 ### Guides/Resources:
 
-*   [Student iCON Onboarding Guide](/files/Student-iCON-Onboarding-Guide.pdf)
+*   ### [Student iCON Onboarding Guide](/files/Student-iCON-Onboarding-Guide.pdf)
     -----------------------------------------------------------------------------------------------------------------------------
     
-*   [Student iCON – Introducing&nbsp;Google&nbsp;Classroom!](/files/Student-iCON-Introducing-Google-Classroom.pdf)
+*   ### [Student iCON – Introducing&nbsp;Google&nbsp;Classroom!](/files/Student-iCON-Introducing-Google-Classroom.pdf)
     --------------------------------------------------------------------------------------------------------------------------------------------------------
     
-*   [Zoom&nbsp;with Student iCON!](/files/Student_Zoom_Onboarding_Guide.pdf)
+*   ### [Zoom&nbsp;with Student iCON!](/files/Student_Zoom_Onboarding_Guide.pdf)
     -----------------------------------------------------------------------------------------------------------------------
     
-*   [Student&nbsp;**iCON**&nbsp;Password Reset Form](https://form.gov.sg/622591f0b89fad0012ff253c)
+*   ### [Student&nbsp;**iCON**&nbsp;Password Reset Form](https://form.gov.sg/622591f0b89fad0012ff253c)
     ------------------------------------------------------------------------------------
     
-*   [Microsoft Office 365 for Students – (Free)!](/files/Microsoft_Office_365_ProPlus_Apps_Student_Guide.pdf)
+*   ### [Microsoft Office 365 for Students – (Free)!](/files/Microsoft_Office_365_ProPlus_Apps_Student_Guide.pdf)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 
