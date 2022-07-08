@@ -7,29 +7,38 @@ In 2011, the school embarked on a programme called Endeavour Programme for Activ
 
 In 2012, Endeavour Primary School will be one of the selected schools embarking on Programme for Active Learning (PAL).
 
-![Learning to play percussion instruments (Sound Shapes)](/images/Learning%20to%20play%20percussion%20instruments%20(Sound%20Shapes).jpg)
+<img src="/images/Learning%20to%20play%20percussion%20instruments%20(Sound%20Shapes).jpg"  
+style="width:60%">
 Learning to play percussion instruments (Sound Shapes)
 
-![Finding my way! (Orienteering)](/images/Finding%20my%20way!%20(Orienteering).jpg)
+<img src="/images/Finding%20my%20way!%20(Orienteering).jpg"  
+style="width:60%">
 Finding my way! (Orienteering)
 
-![Using PowerPoint software for Digital Art](/images/EPAL_img_1.jpg)
+<img src="/images/EPAL_img_1.jpg"  
+style="width:60%">
 Using PowerPoint software for Digital Art
 
-![Keeping fit (Fundamental Movements)](/images/EPAL_img_4.jpg)
+<img src="/images/EPAL_img_4.jpg"  
+style="width:60%">
 Keeping fit (Fundamental Movements)
 
-![Staying focus! (Visual Art)](/images/EPAL_img_5.jpg)
+<img src="/images/EPAL_img_5.jpg"  
+style="width:60%">
 Staying focus! (Visual Art)
 
-![Developing confidence in public speaking (Show and Tell)](/images/EPAL_img_6.jpg)
+<img src="/images/EPAL_img_6.jpg"  
+style="width:60%">
 Developing confidence in public speaking (Show and Tell)
 
-![Stretching my mind and body (Gymnastics)](/images/EPAL_img_7.jpg)
+<img src="/images/EPAL_img_7.jpg"  
+style="width:60%">
 Stretching my mind and body (Gymnastics)
 
-![On my way to stardom! (Speech and Drama)](/images/EPAL_img_8.jpg)
+<img src="/images/EPAL_img_8.jpg"  
+style="width:60%">
 On my way to stardom! (Speech and Drama)
 
-![Safety in the water (Swim Safer)](/images/EPAL_img_9.jpg)
+<img src="/images/EPAL_img_9.jpg"  
+style="width:60%">
 Safety in the water (Swim Safer)
