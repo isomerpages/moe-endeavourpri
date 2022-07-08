@@ -143,7 +143,7 @@ style="width:50%">
 
 ![](/images/pupil_welfare_links.jpg)
 
-[Sexuality Education](https://endeavourpri.moe.edu.sg/parents-hub/sexuality-education-programme/)
+[Sexuality Education](/parents-hub/sexuality-education-programme/)
 
 [Cyberwellness Programme](http://edpcw.weebly.com/)
 
