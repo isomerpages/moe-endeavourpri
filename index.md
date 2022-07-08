@@ -32,4 +32,12 @@ sections:
       url: /applied-learning-programme/
       image: /images/ALP.png
       alt: Applied Learning Programme@EDP
+  - infopic:
+      title: Every Child Holistic Programme (ECHP)
+      description: In fulfilling our school’s mission, “To provide a unique schooling
+        experience to develop in […]
+      button: Find Out More
+      url: /about-us/our-programmes/echp-every-child-holistic-programme/
+      image: /images/ECHP.png
+      alt: Image alt text
 ---
