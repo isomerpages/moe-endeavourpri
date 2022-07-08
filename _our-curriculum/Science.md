@@ -72,7 +72,8 @@ At the end of the lessons, students would have learnt to:
 
 Through our P5 Orchid Hybridisation programme, we have been able to successfully create and our very own orchid hybrid: _Guarvolclia_ Miss Endeavour. This orchid was registered in year 2018 and launched during the EDP10 Homecoming Carnival.
 
-![Guarvolclia Miss Endeavour](/images/Miss-Endeavour-flower-300x210.jpg)
+<img src="/images/Miss-Endeavour-flower-300x210.jpg"  
+style="width:40%">
 
 ### **ENVIRONMENT EDUCATION**
 
