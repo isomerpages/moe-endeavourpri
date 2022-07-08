@@ -22,7 +22,8 @@ Under EDP’s Character & Citizenship Education (CCE), there are 4 main programm
 
 EDP’s **Character Development Programme** focuses on inculcating the 7 school values – **Diligence; Perseverance; Integrity; Innovation; Compassion; Respect & Responsibility**; into our students. Assembly Talks on the school values are conducted termly, in which students, teachers or other EDP staff members that have exhibited the school values to a great degree will be highlighted.  Students are also encouraged to reflect on the message delivered at the Assembly Talk by completing a customised level-based Reflection Worksheet after the talk.  This message will be further reinforced during Form Teacher Guidance Period (FTGP) where Form and Co-Form Teachers will conduct school-based Values Education lessons or workshops for the students.
 
-![Character Development Programme](/images/CDP1.jpg)
+<img src="/images/CDP1.jpg"  
+style="width:50%">
 **Assembly Talk on Character Values**
 
 Every Term, teachers and students will present an assembly talk on the school values.
@@ -49,12 +50,16 @@ National Education (NE) aims to develop national cohesion, cultivate the instinc
 **NE Learning Journey**
 
 The students always look forward to trips out of the school as it provides an important learning experience for them.
-![NE Learning Journey](/images/NE1.jpg)
+
+<img src="/images/NE1.jpg"  
+style="width:50%">
 
 **Rainbow Day** **cum NE events**
 
 Our students celebrate Total Defence Day, International Friendship Day and Racial Harmony Day in conjunction with the school’s signature Rainbow Days.
-![Rainbow Day cum NE events](/images/NE2.jpg)
+
+<img src="/images/NE2.jpg"  
+style="width:50%">
 
 **National Day Celebrations**
 
@@ -106,7 +111,9 @@ Prefects will undergo a structured and customised leadership training programme.
 **Student Leaders Camp**
 
 Once a year, our student leaders will undergo a leadership camp to equip them with the necessary knowledge and skills to be an effective leader.
-![Student Leaders Camp](/images/Student%20Leaders%20Camp.jpg)
+
+<img src="/images/Student%20Leaders%20Camp.jpg"  
+style="width:50%">
 
 **P4/P3 Buddy Leaders Programme**
 
@@ -121,14 +128,18 @@ The NW CDC OARS Award is recognition of our students’ leadership capabilities,
 **School Green Awards (SGA) 2019 – Yellow Flame Award**
 
 In Endeavour Primary, we are committed to promote pro-environmental behaviour amongst the students, staff and other key stakeholders through school-based initiatives and community engagement. This aligns us to raising global awareness in the students for them to be able to recognise global trends and their interconnections to recent environmental trends that are happening in our country. Through the green initiatives, students perceived themselves as part of a wider community, a deeper understanding about the impact of issues affecting everyone, and that they could contribute actively to a greener school and beyond.
-![School Green Awards (SGA) 2019 – Yellow Flame Award](/images/School-Green-Awards-SGA-2019-Yellow-Flame-Award-225x300.jpg)
+
+<img src="/images/School-Green-Awards-SGA-2019-Yellow-Flame-Award-225x300.jpg"  
+style="width:50%">
+
 We are pleased to inform that Endeavour Primary School has achieved the Yellow Flame Award in the SEC-StarHub School Green Awards (SGA) 2019!
 
 **North-West CDC Outstanding School Partner Award**
 
 It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2020 (Bronze Award) for participating actively in North West Community Development Council programmes in 2019. We will like to thank all of our staff and students for their contribution.
 
-![North-West CDC Outstanding School Partner Award](/images/North-West%20CDC%20Outstanding%20School%20Partner%20Award.jpg)
+<img src="/images/North-West%20CDC%20Outstanding%20School%20Partner%20Award.jpg"  
+style="width:50%">
 
 ![](/images/pupil_welfare_links.jpg)
 
