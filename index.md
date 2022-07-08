@@ -22,9 +22,11 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: C.A.M.P.S
+      description: 5 Student Outcomes (C.A.M.P.S) for  Value-based Holistic Education
+        ognitively Capable Achieves academic success and  […]
+      button: Find Out More
       alt: Image alt text
+      url: /c-a-m-p-s/
+      image: /images/camps.png
 ---
