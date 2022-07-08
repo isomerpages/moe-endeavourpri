@@ -41,4 +41,3 @@ sections:
       image: /images/ECHP.png
       alt: Image alt text
 ---
-
