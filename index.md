@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Endeavour Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/cropped-EDP_LoGO0.jpg
 permalink: /
 notification: ""
 sections:
@@ -41,3 +41,4 @@ sections:
       image: /images/ECHP.png
       alt: Image alt text
 ---
+
