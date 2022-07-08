@@ -18,7 +18,8 @@ third_nav_title: Mother Tongue
 
 We believe in the joy of reading; we want our students to cultivate the habit of reading from young. Our ‘Let’s love reading’ programme has a wide range of reading activities both in class and beyond. It enables the students to read extensively and develop the love for Tamil Language and instil the habit of life-long reading.
 
-![](/images/Reading-Programme_F.jpg)
+<img src="/images/Reading-Programme_F.jpg"  
+style="width:35%">
 
 ---
 
