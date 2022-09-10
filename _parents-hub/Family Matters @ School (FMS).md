@@ -8,6 +8,6 @@ _Because FAMILY matters._ Our family is the anchor in our lives, bringing us lo
 Please click on the link [HERE](https://sites.google.com/moe.edu.sg/endeavour-primary-fms/home) to find out more! Or, you may also scan the QR code below to access to the site. 
 
 <img src="/images/qrcode.png"  
-style="width:27%">
+style="width:25%">
 
 Please scan the QR code to get to FMS for EDP site.
