@@ -13,25 +13,29 @@ In Endeavour, we want every child to be a **Leader,** a **Performer**, a **S
 
 <img src="/images/Every%20Child%20a%20Leader.jpg"  
 style="width:40%">
-**Every Child a Leader**
+
+<p style="text-align:center;"><strong>Every Child a Leader</strong></p>
 
 All our students are given leadership roles and tasks to fulfil. We monitor their leadership capabilities and train them to be more effective and caring leaders. The students’ performance is assessed by their teachers and recorded in their Holistic Development Profile.
 
 <img src="/images/Every%20Child%20a%20Performer.jpg" 
 style="width:40%">
-**Every Child a Performer**
+
+<p style="text-align:center;"><strong>Every Child a Performer</strong></p>
 
 Every term, the school sets aside a special day, Rainbow Day, for students to showcase their talents. This will help build their self-confidence and courage in performing in front of large audiences. Parents are invited to view their performance. Students come to school in clothes of their choice and this adds to the gaiety of the events.
 
 <img src="/images/Every%20Child%20a%20Sportsperson.jpg" 
 style="width:40%">
-**Every Child a Sportsperson**
+
+<p style="text-align:center;"><strong>Every Child a Sportsperson</strong></p>
 
 All our students participate in Sports Day and represent their class for various events.  They learn the values of Sportsmanship and also about the importance of class spirit and teamwork.
 
 <img src="/images/Every%20Child%20a%20Thinker.jpg" 
 style="width:40%">
-**Every Child a Thinker**
+
+<p style="text-align:center;"><strong>Every Child a Thinker</strong></p>
 
 Our ALP is “Nurturing Thinking”. Through this ALP, we hope to achieve the following desired 21CC and learning outcomes:
 
@@ -43,19 +47,22 @@ Our ALP is “Nurturing Thinking”. Through this ALP, we hope to achieve the fo
 
 <img src="/images/Every%20Child%20a%20Responsible%20Citizen.jpg" 
 style="width:40%">
-****Every Child a Responsible Citizen****
+
+<p style="text-align:center;"><strong>Every Child a Responsible Citizen</strong></p>
 
 We involve every child actively in the Community Involvement Programme (CIP) and National Education (NE) Programme. We believe our students should do their part for the nation and community.
 
 <img src="/images/Every%20Child%20an%20Artist.jpg" 
 style="width:40%">
-****Every Child an Artist****
+
+<p style="text-align:center;"><strong>Every Child an Artist</strong></p>
 
 The school believes that every child is capable of producing a good piece of artwork. Each child’s artwork is displayed around the school and on the school’s Art blog.
 
 
 <img src="/images/Every%20Child%20a%20Writer_0.jpg" 
 style="width:40%">
-****Every Child a Writer**** 
+
+<p style="text-align:center;"><strong>Every Child a Writer</strong></p>
 
 Every child has his or her writing compiled in booklets and uploaded onto our school website. The pupils can read their essays online as well as those of the other classes. We hope they can become confident writers with a sense of pride in their writing.
