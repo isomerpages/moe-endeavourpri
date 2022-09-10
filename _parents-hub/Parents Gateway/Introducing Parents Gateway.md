@@ -4,9 +4,8 @@ permalink: /parents-gateway/
 description: ""
 third_nav_title: Parents Gateway
 ---
-
 <img src="/images/Parents-Gateway-150x150.jpg"  
-style="width:40%">
+style="width:25%">
 
 Have you downloaded the **“Parents Gateway” app**?
 
