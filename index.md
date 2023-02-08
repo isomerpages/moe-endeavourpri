@@ -15,6 +15,7 @@ sections:
         - title: School Calendar
           description: ""
           url: https://calendar.google.com/calendar/u/0/embed?title=Endeavour+Primary+School&showNav=0&showPrint=0&showTabs=0&showCalendars=0&height=600&wkst=1&bgcolor=%23FFFFFF&src=endeavourprischool@gmail.com&color=%23182C57&src=en.singapore%23holiday@group.v.calendar.google.com&color=%23856508&ctz=Asia/Singapore&pli=1
+      title: test
   - infopic:
       title: C.A.M.P.S
       description: 5 Student Outcomes (C.A.M.P.S) for  Value-based Holistic Education
