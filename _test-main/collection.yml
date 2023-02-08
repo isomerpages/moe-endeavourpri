@@ -1,4 +1,5 @@
 collections:
   test-main:
     output: true
-    order: []
+    order:
+      - P1 Teachers.md
