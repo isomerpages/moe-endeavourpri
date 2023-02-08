@@ -1,5 +1,5 @@
 title: Endeavour Primary School
-url: ""
+url: https://moe-endeavourpri-staging.netlify.app
 favicon: /images/EDP favicon.png
 colors:
   primary-color: "#2cc0ff"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: A Leading School of Vibrant Learners, Rooted in Good Values.
 permalink: none
 baseurl: ""
 exclude:
