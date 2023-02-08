@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Endeavour Primary School
-description: Brief site description here
+description: A Leading School of Vibrant Learners, Rooted in Good Values.
 image: /images/cropped-EDP_LoGO0.jpg
 permalink: /
 notification: ""
@@ -42,3 +42,4 @@ sections:
       image: /images/ECHP.png
       alt: Image alt text
 ---
+
