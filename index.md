@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/EDP homepage.gif
       key_highlights:
         - title: For Staff
           description: ""
