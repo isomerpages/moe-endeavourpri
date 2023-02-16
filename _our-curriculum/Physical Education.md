@@ -87,8 +87,6 @@ During the respective recesses, sports equipment are made available for our stud
 
 Information for parents:
 
-[Swimsafer 2.0 Briefing Slides for pupils](https://endeavourpri.moe.edu.sg/wp-content/uploads/2019/01/Primary-3-SwimSafer-Programme.pdf)
+[Swimsafer 2.0 Progr[Swimsafe 2.0 Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme)amme]
 
-[Swimsafer 2.0 Quiz Portal](https://members.myactivesg.com/swimsafer/)
-
-[Direct School Admission User Guide 2019](https://endeavourpri.moe.edu.sg/wp-content/uploads/2019/05/user-guide-for-dsa-sec-application-mainstream.pdf)
+sec-application-mainstream.pdf)
