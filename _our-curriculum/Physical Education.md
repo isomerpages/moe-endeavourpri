@@ -35,9 +35,12 @@ Stuednts’ physical abilities are further developed through play in modified ga
 
 In EDP, we have two separate Sports Days to provide greater opportunity for more students to participate actively in the various sporting events.  The events and games are also customized to the meet to the different abilities and needs of the Lower Primary and Upper Primary students.
 
-**insert image!**
+<img src="NOO"  
+style="width:70%">
 
-**insert image!**
+<img src="NOO"  
+style="width:70%">
+
 
 #### _**SwimSafer 2.0 Programme**_
 
