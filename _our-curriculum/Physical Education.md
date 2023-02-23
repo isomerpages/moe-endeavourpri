@@ -35,10 +35,10 @@ Stuednts’ physical abilities are further developed through play in modified ga
 
 In EDP, we have two separate Sports Days to provide greater opportunity for more students to participate actively in the various sporting events.  The events and games are also customized to the meet to the different abilities and needs of the Lower Primary and Upper Primary students.
 
-<img src="NOO"  
+<img src="![](/images/Cloud-2.jpeg)"  
 style="width:70%">
 
-<img src="NOO"  
+<img src="![](/images/Miguel-22.jpeg)"  
 style="width:70%">
 
 <img src="NOO"  
@@ -47,11 +47,9 @@ style="width:70%">
 
 ##### _**SwimSafer 2.0 Programme**_
 
-SwimSafer 2.0 programme is a national water safety program developed to raise the standard of swimming proficiency in Singapore. This program will help evolve your child from a non-swimmer into a good swimmer. In EDP, all students in Primary 3 are strongly encouraged to participate in the programme.
+SwimSafer 2.0 programme is a national water safety program developed to raise the standard of swimming proficiency in Singapore. This program will help evolve your child from a non-swimmer into a good swimmer. In EDP, all students in Primary 3 are strongly encouraged to participate in the programme. For more details, please visit the SwimSafer 2.0 Programme website below.
 
-**insert image!**
-
-**insert image!**
+[https://www.myactivesg.com/Programmes/SwimSafer-Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme)
 
 ##### _**Sports Enrichment Programmes for Primary 4 and Primary 5 (SEP)**_
 
