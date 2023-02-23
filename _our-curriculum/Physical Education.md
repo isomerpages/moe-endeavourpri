@@ -64,10 +64,10 @@ Upper primary years are important years to increase the confidence and self-beli
 <img src="![](/images/DSC_7158-scaled.jpeg)"  
 style="width:70%">
 
-<img src="NOO"  
+<img src="![](/images/DSC_7314-scaled.jpeg)"  
 style="width:70%">
 
-<img src="NOO"  
+<img src="![](/images/DSC_7614-scaled.jpeg)"  
 style="width:70%">
 
 ##### _**Health Education**_
