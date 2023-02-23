@@ -35,13 +35,13 @@ Stuednts’ physical abilities are further developed through play in modified ga
 
 In EDP, we have two separate Sports Days to provide greater opportunity for more students to participate actively in the various sporting events.  The events and games are also customized to the meet to the different abilities and needs of the Lower Primary and Upper Primary students.
 
-<img src="![](/images/Cloud-2.jpeg)"  
+<img src="/images/Cloud-2.jpeg"  
 style="width:70%">
 
-<img src="![](/images/Miguel-22.jpeg)"  
+<img src="/images/Miguel-22.jpeg"  
 style="width:70%">
 
-<img src="![](/images/Carousel_4.jpeg)"  
+<img src="/images/Carousel_4.jpeg"  
 style="width:70%">
 
 
@@ -61,13 +61,13 @@ Upper primary years are important years to increase the confidence and self-beli
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 600px; height: 241px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 116px; text-align: left;">Objectives of Programme</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 579px; text-align: left;">The camp programme must achieve the following objectives:<p style="box-sizing: inherit; font-size: 1em;"></p><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">To build teacher- student relationship (TSR).</li><li style="box-sizing: inherit;">To foster teamwork within the classes and amongst the students.</li><li style="box-sizing: inherit;">To expose the students in challenging but controlled situations.</li></ol></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 116px; text-align: left;">Outcome of Programme</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 579px; text-align: left;">Students should be able to:<p style="box-sizing: inherit; font-size: 1em;"></p><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">&nbsp;Acknowledge their individual strengths and weaknesses.</li><li style="box-sizing: inherit;">Work and function together as a team.</li><li style="box-sizing: inherit;">Foster closer friendship amongst their peers.</li><li style="box-sizing: inherit;">Display traits of values as highlighted in the school values.</li></ol></td></tr></tbody></table>
 
-<img src="![](/images/DSC_7158-scaled.jpeg)"  
+<img src="/images/DSC_7158-scaled.jpeg"  
 style="width:70%">
 
-<img src="![](/images/DSC_7314-scaled.jpeg)"  
+<img src="/images/DSC_7314-scaled.jpeg"  
 style="width:70%">
 
-<img src="![](/images/DSC_7614-scaled.jpeg)"  
+<img src="/images/DSC_7614-scaled.jpeg"  
 style="width:70%">
 
 ##### _**Health Education**_
