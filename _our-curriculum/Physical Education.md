@@ -41,7 +41,7 @@ style="width:70%">
 <img src="![](/images/Miguel-22.jpeg)"  
 style="width:70%">
 
-<img src="NOO"  
+<img src="![](/images/Carousel_4.jpeg)"  
 style="width:70%">
 
 
