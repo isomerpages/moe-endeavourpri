@@ -61,13 +61,7 @@ The Knowledge Building pedagogy is used in the teaching of Stimulus-Based Conver
 
 The English Department has incorporated Thinking Routines (TR) in various components in the teaching and learning of English. Some thinking routines such as See-Think-Wonder (STW), Think-Puzzle-Explore (TPE) and Zoom-In (ZI) enrich our students’ learning and enhances their learning processes. STW is widely used in the teaching of oral and compositions via the visual stimulus. TPE is used for grammar and vocabulary lessons and  ZI is commonly used during the Big Book reading to promote rich discussions using visual clues to trigger thoughts. We believe strongly that these thinking routines help to develop thinking dispositions, interpretation and inference skills while exploring ideas. TRs also activate prior knowledge and uncover current understandings and correct misconceptions.
 
-![ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines](/images/ALP1.jpg)
-
-<img src="/images/ALP2.jpg"  
-style="width:40%">
-
-<img src="/images/ALP3.jpg"  
-style="width:40%">
+![ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines](/images/ALP%20–%20Nurturing%20Thinkers%20through%20Knowledge%20Building%20&%20Thinking%20Routines.jpg)
 
 **Every Child A Writer (ECAW) Programme**
 
