@@ -79,14 +79,7 @@ We want our students to become self-directed and collaborative in their learning
 
 Positive attitude towards reading is achieved through a range of interesting activities. Students visit the school library weekly during curriculum time and our teachers conduct reading sessions using guided readers to expand their reading diet. Thematic book displays and activities in the school are held to introduce students to books of different genres and themes. Students were highly engaged and the element of fun in these activities generated much curiosity
 
-<img src="/images/ERP1.jpg"  
-style="width:40%">
-
-<img src="/images/ERP2.jpg"  
-style="width:40%">
-
-<img src="/images/ERP3.jpg"  
-style="width:40%">
+![Endeavour Reading Programme](/images/Endeavour%20Reading%20Programme_1.jpg)
 
 Our community partner, the National Library Board updates teachers and students on the current reading trends through our termly assembly sessions. To keep students informed of activities in the school library, our teachers introduce the planned reading activities and affirm students who have participated in these ongoing activities.
 
