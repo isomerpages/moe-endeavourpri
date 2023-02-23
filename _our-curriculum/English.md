@@ -43,9 +43,7 @@ The LSP Programme aims to help students improve their literacy skills. This is a
 
 The School-based Dyslexia Remediation (SDR) programme aims to provide support for P3 and P4 students who have been identified as at-risk of Dyslexia. This programme seeks to enable the selected students to acquire coping strategies in reading so that they will be better able to cope with their learning in school. The programme relies on a systemic set of strategies and activities which have been carefully designed by MOE.
 
-![School-based Dyslexia Remediation](/images/SDR-2.jpg)
-
-![School-based Dyslexia Remediation](/images/SDR-1.jpg)
+![School-based Dyslexia Remediation](/images/School-based%20Dyslexia%20Remediation.jpg)
 
 **Reading Remediation Programme**
 
