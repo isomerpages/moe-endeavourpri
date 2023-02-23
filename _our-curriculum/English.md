@@ -33,7 +33,7 @@ For each of these strategies, there will be a range of activities that will appr
 can be taught explicitly. In this model, there is a weaving between ‘whole’ and ‘parts’ in the teaching and learning  
 of English.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRY9nmapGyHhGH97I--hFZ2DofpWYHckHYYOpIUvWAKgS5zH_BwKXIGDY99qVvz9K6wt0LFxZ8Qjac9/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+![Stellar Programme](/images/Stellar%20Programme.jpg)
 
 **Learning Support Programme**
 
