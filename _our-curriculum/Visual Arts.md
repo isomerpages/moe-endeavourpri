@@ -70,6 +70,6 @@ Useful Tips:
 (2) Click on each artwork to view the artist’s name and a closer look at the details.  
 (3) Click on the 4-cornered square icon on the right to view the gallery in full screen.
 
-**(embed virtual art exhibition here?)**
+[Virtual Art Exhibition](https://www.artsteps.com/embed/5f09701a69922f180b882a96/560/315)
 
 Please allow wait time for the virtual art exhibition to load before viewing. Thank you.
