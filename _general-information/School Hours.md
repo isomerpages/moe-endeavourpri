@@ -3,26 +3,135 @@ title: School Hours
 permalink: /2021-school-hours/
 description: ""
 ---
-**2022 School Hours**
----------------------
-
-**Due to COVID-19 School Safety Management Measures (SMM), do take note of the following information:**
+### **2023 School Hours**
 
 **1\. Reporting Time for Primary 1 to Primary 6:**
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 714.362px; height: 138px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(19, 82, 158); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; height: 23px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; height: 23px; text-align: center;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Monday to Friday</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; height: 23px; text-align: left;">Silent Reading*</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; height: 23px; text-align: center;">7.20am</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; height: 23px; text-align: left;">Flag-Raising Ceremony*</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; height: 23px; text-align: center;">7.35am</td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-gw6x{background-color:#13529E;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-58zc{background-color:#13529E;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-gj5f{background-color:#E6E6E6;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gw6x"> </th>
+    <th class="tg-58zc"><span style="font-weight:bold">Monday to Friday</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">Flag-Raising Ceremony*</td>
+    <td class="tg-gj5f">7.30am</td>
+  </tr>
+</tbody>
+</table>
 
-**\*Note:**  
-_– All students are to report at their own respective classrooms.  
-
-* * *
+---
 
 **2\. Recess and Snack Break Timing:**
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 785.562px; height: 148px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(19, 82, 158); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 145.275px; height: 10px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.825px; height: 10px; text-align: center;"><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Recess<br style="box-sizing: inherit;"></strong></span><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">(Monday to Friday)</strong></span></p></td><td style="box-sizing: inherit; padding: 5px 10px; width: 365.462px; text-align: center; height: 10px;"><p style="box-sizing: inherit; font-size: 1em;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Snack Break&nbsp;<br style="box-sizing: inherit;"></strong></span><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">(Monday to Friday – 10mins)</strong></span></p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 145.275px; height: 23px; text-align: left;">Primary 1</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.825px; height: 23px; text-align: center;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">9.30am – 10.00am</span></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 365.462px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">12.00pm</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 145.275px; height: 23px; text-align: left;">Primary 2</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.825px; height: 23px; text-align: center;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">10.00am – 10.30am</span></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 365.462px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">12.00pm</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 145.275px; text-align: left; height: 23px;">Primary 3</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.825px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">10.30am – 11.00am</span></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 365.462px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">9.00am&nbsp;</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 145.275px; text-align: left; height: 23px;">Primary 4</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.825px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">8.30am – 9.00am</span></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 365.462px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">11.00am</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 145.275px; text-align: left; height: 23px;">Primary 5</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.825px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">9.00am – 9.30am</span></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 365.462px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">11.00am</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 145.275px; text-align: left; height: 23px;">Primary 6</td><td style="box-sizing: inherit; padding: 5px 10px; width: 274.825px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">11.00am – 11.30am</span></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 365.462px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">9.00am&nbsp;</span></span></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-p7hm{background-color:#FFF;color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-gsdb{background-color:#E6E6E6;color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-gw6x{background-color:#13529E;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-58zc{background-color:#13529E;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gw6x"> </th>
+    <th class="tg-58zc"><span style="font-weight:bold">Recess</span><br><span style="font-weight:bold">(Monday to Friday)</span></th>
+    <th class="tg-58zc"><span style="font-weight:bold">Snack Break </span><br><span style="font-weight:bold">(Monday to Friday – 10mins)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">Primary 1 &amp; Primary 4</td>
+    <td class="tg-gsdb"><span style="color:#000">9.30am – 10.00am</span></td>
+    <td class="tg-gsdb"><span style="color:#000">12.00pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Primary 2 &amp; Primary 5</td>
+    <td class="tg-p7hm"><span style="color:#000">10.00am – 10.30am</span></td>
+    <td class="tg-p7hm"><span style="color:#000">12.00pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Primary 3 &amp; Primary 6</td>
+    <td class="tg-gsdb"><span style="color:#000">10.30am – 11.00am</span></td>
+    <td class="tg-gsdb"><span style="color:#000">9.00am </span></td>
+  </tr>
+</tbody>
+</table>
 
-* * *
+--- 
 
 **3\. Dismissal Timing:**
 
-<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 714.362px; height: 161px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(19, 82, 158); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; height: 23px;">&nbsp;</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; height: 23px; text-align: center;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><strong style="box-sizing: inherit; font-weight: bold;">Monday to Friday</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; height: 23px; text-align: left;">Primary 1</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; height: 23px; text-align: center;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">1.20pm</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; height: 23px; text-align: left;">Primary 2</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; height: 23px; text-align: center;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">1.35pm</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; text-align: left; height: 23px;">Primary 3</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">1.30pm</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; text-align: left; height: 23px;">Primary 4</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">1.30pm</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; text-align: left; height: 23px;">Primary 5</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">1.25pm</span></span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 306.25px; text-align: left; height: 23px;">Primary 6</td><td style="box-sizing: inherit; padding: 5px 10px; width: 408.112px; text-align: center; height: 23px;"><span style="box-sizing: inherit; color: rgb(255, 255, 255);"><span style="box-sizing: inherit; color: rgb(0, 0, 0);">1.35pm</span></span></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-p7hm{background-color:#FFF;color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-gsdb{background-color:#E6E6E6;color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-gw6x{background-color:#13529E;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-58zc{background-color:#13529E;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gw6x"> </th>
+    <th class="tg-58zc"><span style="font-weight:bold">Monday to Friday</span><br><span style="font-weight:bold">(Except Wednesday)</span></th>
+    <th class="tg-58zc"><span style="font-weight:bold">Wednesday</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">Primary 1</td>
+    <td class="tg-gsdb"><span style="color:#000">1.25pm</span></td>
+    <td class="tg-gsdb"><span style="color:#000">12:55pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Primary 2</td>
+    <td class="tg-p7hm"><span style="color:#000">1.25pm</span></td>
+    <td class="tg-p7hm"><span style="color:#000">12:55pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Primary 3</td>
+    <td class="tg-gsdb"><span style="color:#000">1.30pm</span></td>
+    <td class="tg-gsdb"><span style="color:#000">1:00pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Primary 4</td>
+    <td class="tg-p7hm"><span style="color:#000">1.30pm</span></td>
+    <td class="tg-p7hm"><span style="color:#000">1:00pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Primary 5</td>
+    <td class="tg-gsdb"><span style="color:#000">1.30pm</span></td>
+    <td class="tg-gsdb"><span style="color:#000">1:00pm</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Primary 6</td>
+    <td class="tg-p7hm"><span style="color:#000">1.30pm</span></td>
+    <td class="tg-p7hm"><span style="color:#000">1:00pm</span></td>
+  </tr>
+</tbody>
+</table>
