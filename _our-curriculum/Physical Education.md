@@ -94,6 +94,6 @@ During the respective recesses, sports equipment are made available for our stud
 
 Information for parents:
 
-[Swimsafer 2.0 Progr[Swimsafe 2.0 Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme)amme]
+SwimSafer 2.0 Programme
 
-sec-application-mainstream.pdf)
+[https://www.myactivesg.com/Programmes/SwimSafer-Programme](https://www.myactivesg.com/Programmes/SwimSafer-Programme)
