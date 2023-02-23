@@ -83,11 +83,7 @@ Positive attitude towards reading is achieved through a range of interesting act
 
 Our community partner, the National Library Board updates teachers and students on the current reading trends through our termly assembly sessions. To keep students informed of activities in the school library, our teachers introduce the planned reading activities and affirm students who have participated in these ongoing activities.
 
-<img src="/images/ERP4.jpg"  
-style="width:40%">
-
-<img src="/images/ERP5.jpg"  
-style="width:40%">
+![Endeavour Reading Programme](/images/Endeavour%20Reading%20Programme_2.jpg)
 
 To fuel interest in reading, recess activities such as word games with creative craft work are organised. An annual parent workshop is conducted for P1 parents to equip them with strategies to engage their children in reading. Participants were highly engaged and the element of fun in these activities generated much curiosity and a deeper appreciation for reading.
 
