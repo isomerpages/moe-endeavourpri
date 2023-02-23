@@ -73,8 +73,7 @@ In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a
 
 We want our students to become self-directed and collaborative in their learning by harnessing technology to become confident users of the language. Our belief is that the move towards virtual learning will assist students in developing the 3Cs (Confidence, Curiosity & Cooperation). Our lower primary students are introduced to the software Audacity. Our students do their own podcasting to improve oracy. This initiative serves as an alternative assessment to oral. This approach allows for self-directed learning and brings about improvement in students’ reading skills through peer and teacher assessment. Students are involved in reviewing their own performance through self-checklists as well. This increases their confidence to communicate better.
 
-<img src="/images/Harnessing%20Technology.jpg"  
-style="width:40%">
+![Harnessing Technology – Podcasting](/images/Harnessing%20Technology%20–%20Podcasting.jpg)
 
 **Endeavour Reading Programme**
 
