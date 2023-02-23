@@ -57,15 +57,22 @@ SwimSafer 2.0 programme is a national water safety program developed to raise th
 
 The SEP aims to advocate the importance of sports education, encourage sports participation and increase sporting opportunities for the students. Sports programmes under SEP should cater for development of skills and sports knowledge of students and help promote active participation of sports in schools. These programmes promote team spirit and character building, and arouse interest in continual sports participation amongst students.
 
-#### **_Primary 5 Adventure Camp_**
+##### **_Primary 5 Camp Resilience_**
 
 Upper primary years are important years to increase the confidence and self-belief of the students. The aim of the camp is also to allow the teachers and students to build strong relationships and promote class bonding through its activities.
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 600px; height: 241px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 116px; text-align: left;">Objectives of Programme</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 579px; text-align: left;">The camp programme must achieve the following objectives:<p style="box-sizing: inherit; font-size: 1em;"></p><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">To build teacher- student relationship (TSR).</li><li style="box-sizing: inherit;">To foster teamwork within the classes and amongst the students.</li><li style="box-sizing: inherit;">To expose the students in challenging but controlled situations.</li></ol></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 116px; text-align: left;">Outcome of Programme</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 579px; text-align: left;">Students should be able to:<p style="box-sizing: inherit; font-size: 1em;"></p><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">&nbsp;Acknowledge their individual strengths and weaknesses.</li><li style="box-sizing: inherit;">Work and function together as a team.</li><li style="box-sizing: inherit;">Foster closer friendship amongst their peers.</li><li style="box-sizing: inherit;">Display traits of values as highlighted in the school values.</li></ol></td></tr></tbody></table>
 
-**insert 4 images!**
+<img src="NOO"  
+style="width:70%">
 
-#### _**Health Education**_
+<img src="NOO"  
+style="width:70%">
+
+<img src="NOO"  
+style="width:70%">
+
+##### _**Health Education**_
 
 In promoting holistic health, our students are provided with a wide variety of interesting and engaging Health Education programmes. These programmes are aimed to equip our students with relevant skills and enable them to make responsible decisions in taking charge of their health. Some of these programmes include:
 
@@ -81,13 +88,9 @@ In promoting holistic health, our students are provided with a wide variety of i
 
 – Temperature-taking exercises to remind on safeguarding individual health and social responsibility.
 
-**insert 5 images!**
-
-#### _**Play@Recess**_
+##### _**Play@Recess**_
 
 During the respective recesses, sports equipment are made available for our students to play in a supervised environment as part of the Play@Recess programme. Students are encouraged to make new friends from other classes, share the equipment and play together. Play@ Recess allows our students to further enhance their SEL competencies.
-
-**insert 2 images!**
 
 ![](/images/cca_links.jpg)
 
