@@ -49,11 +49,7 @@ The School-based Dyslexia Remediation (SDR) programme aims to provide support fo
 
 The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students who still face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme exposes students to a range of coping strategies for reading comprehension which will enable them to better manage their learning in the regular classroom.
 
-![Reading Remediation Programme](/images/RRP1.jpg)
-
-![Reading Remediation Programme](/images/RRP2.jpg)
-
-![Reading Remediation Programme](/images/RRP3.jpg)
+![Reading Remediation Programme](/images/Reading%20Remediation%20Programme.jpg)
 
 **Library Programme**
 
