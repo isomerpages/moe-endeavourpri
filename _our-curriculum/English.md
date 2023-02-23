@@ -67,8 +67,7 @@ The English Department has incorporated Thinking Routines (TR) in various compon
 
 In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a platform in which all our students’ works are recognised. The Class Publication, in which we publish every pupil’s writing, is published online in our school’s website and Our Budding Writer’s Publication (booklet) seeks to celebrate the works of the outstanding writers in each class and level.
 
-<img src="/images/ECAW.jpg"  
-style="width:40%">
+![Every Child A Writer (ECAW) Programme](/images/Every%20Child%20A%20Writer%20(ECAW)%20Programme.jpg)
 
 **Harnessing Technology – Podcasting**
 
