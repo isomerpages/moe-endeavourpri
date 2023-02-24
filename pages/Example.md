@@ -10,7 +10,7 @@ Testing
 |-|-|-|-|-|
 | Student 1 | Student 2| Student 3   | Student 4 | Student 5   |
 
-* ![Sample Photo 1](/images/PHYSICAL-SPORTS.png)
+* Sample Image 1![Sample Photo 1](/images/PHYSICAL-SPORTS.png)
 * Sample 2
 
 1. [Book List ](/files/2022-P2-BOOK-LIST.pdf)
