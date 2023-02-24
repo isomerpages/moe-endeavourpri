@@ -14,9 +14,5 @@ Testing
 * Sample 2
 
 1. [Book List ](/files/2022-P2-BOOK-LIST.pdf)
-2. Letter 2
-
-
-
-
-
+2. [Children's Day](https://youtu.be/Ssk2EKH6yvE)
+3. Letter 2
