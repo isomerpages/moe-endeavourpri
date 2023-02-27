@@ -1,0 +1,4 @@
+collections:
+  teachers-test:
+    output: true
+    order: []
