@@ -1,5 +1,0 @@
-collections:
-  teachers-test:
-    output: true
-    order:
-      - P1 Teachers.md
