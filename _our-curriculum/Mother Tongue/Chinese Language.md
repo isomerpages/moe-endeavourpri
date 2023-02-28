@@ -6,14 +6,16 @@ third_nav_title: Mother Tongue
 ---
 ![chinese vision](/images/chinese_vision.jpg)
 
-**Vision:**
 
+<strong style="color: blue;">Vision:</strong>
+<br>
 Learners who are grounded in good character, appreciative of the Chinese culture, skilled in speaking and writing in Chinese Language.
 
 拥有良好品德，懂得欣赏中华文化，并 能善用华文沟通与书写。
 
-**Mission:**
 
+<strong style="color: blue;">Mission:</strong>
+<br>
 To provide opportunities for pupils to inculcate good values, appreciate Chinese culture, develop strong interest and competency in writing and speaking of the Chinese language.
 
 提供学习中华文化与品德教育的良好环境，培养对学习华文的兴趣与能力。
@@ -26,8 +28,8 @@ The Mother Tongue Department (Chinese Language) seeks to realise the key goals o
 
 ---
 
-**课堂教学活动  Classroom Activities**
-
+<strong style="color: blue;">课堂教学活动  Classroom Activities</strong>
+<br>
 ![CL classroom activities](/images/CL%20classroom%20activities.png)
 
 低年级学生通过游戏进行口语互动。  Lower Primary pupils interacting with their peers through games. (Photos were taken during Pre-Covid times.)
@@ -40,8 +42,9 @@ The Mother Tongue Department (Chinese Language) seeks to realise the key goals o
 
 ---
 
-**母语双周**  **Mother Tongue Fortnight**
 
+<strong style="color: blue;">母语双周 Mother Tongue Fortnight</strong>
+<br>
 通过母语双周活动，学生对中华传统文化艺术或传统语言游戏有基本的认识。他们除了了解各门艺术的起源和发展外，也有机会动手制作红包灯笼、中国结等，通过实践体验活动的乐趣与增强动手创新的能力。此外，我们鼓励学生与家人一起进行活动或给家人介绍刚接触的文化艺术，以促进亲子关系，还有制造更多机会让学生在生活中用华语与人沟通。
 
 During Mother Tongue Fortnight, opportunities are created for students to understand and explore Chinese culture through various activities. Students learn about the history of Chinese cultural arts and delve into it by observing, discussing and trying to replicate the various arts. Apart from classroom activities, the students are also encouraged to share what they have learnt or carry out the art and craft activities with their family members, which is great for bonding and promotes the use of Chinese language at home.
@@ -60,8 +63,9 @@ During Mother Tongue Fortnight, opportunities are created for students to unders
 
 ---
 
-**四年级文化营** **P4 Cultural Camp**
 
+<strong style="color: blue;">四年级文化营 P4 Cultural Camp</strong>
+<br>
 学校每年都为四年级学生举办母语文化营，让学生通过有趣的活动认识中华文化，与此同时培养他们对华文学习的兴趣。
 
 Our school organises the Language and Cultural Camp for all Primary 4 students annually. The purpose is to cultivate students’ interest in the learning of Chinese language by getting them to experience Chinese culture and use the language in a fun and interactive way.
@@ -69,9 +73,8 @@ Our school organises the Language and Cultural Camp for all Primary 4 students a
 ![P4 Cultural Camp](/images/P4%20Cultural%20Camp.jpg)
 
 ---
-
-**传统节日的庆祝** **Celebration of Traditional Festivals**
-
+<strong style="color: blue;">传统节日的庆祝 Celebration of Traditional Festivals</strong>
+<br>
 传统节日是华族文化的重要部分，我校每年都会举办农历新年大型庆祝会，每两年举办一次中秋节庆祝晚会，让老师、学生和家长齐聚一堂一起庆祝节日。节日的庆祝让华族和外族学生对华族文化有所认识，有助于促进各族交流与了解。此外，也让家长与孩子有机会一起参加节日庆祝活动，贴近孩子的学习生活。
 
 Traditional festivals form an important part of Chinese culture, the main festivals celebrated in our school are Chinese New Year and Mid-Autumn festival. Teachers, pupils and parents come together to celebrate both festivals which provide opportunities for Chinese and non-Chinese pupils to understand Chinese culture and for parents and children to bond over festive celebrations in school.
