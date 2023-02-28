@@ -6,10 +6,13 @@ third_nav_title: Mother Tongue
 ---
 ![](/images/malay_vision.jpg)
 
-**Vision:** To lead pupils to know and understand Malay language and culture as part of multiracial Singapore.
+<strong style="color: blue;">Vision:</strong>
+<br>
+To lead pupils to know and understand Malay language and culture as part of multiracial Singapore.
 
-**Mission:** To develop each child to become a person with the qualities of “Arif Budiman” – a learned person  
-who contributes to society.
+<strong style="color: blue;">Mission:</strong>
+<br>
+To develop each child to become a person with the qualities of “Arif Budiman” – a learned person who contributes to society.
 
 ![](/images/malay_programme_highlights.jpg)
 
@@ -19,8 +22,9 @@ Arif Budiman Award is given to recognise pupils who exemplifies the values of *
 
 Arif Budiman collar pin badges will be awarded to pupils who display the quality of an Arif Budiman. Pupils will be able to collect all six collar pin badges by the time they graduate from Endeavour Primary.
 
-**ARIF BUDIMAN COLLAR PIN BADGES**
 
+<strong style="color: blue;">ARIF BUDIMAN COLLAR PIN BADGES</strong>
+<br>
 ![arif budiman collar pin badges](/images/arif%20budiman%20collar%20pin%20badges.png)
 
 ---
