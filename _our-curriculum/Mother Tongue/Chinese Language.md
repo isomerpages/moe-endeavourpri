@@ -82,8 +82,8 @@ Traditional festivals form an important part of Chinese culture, the main festiv
 ![Celebration of Traditional Festivals](/images/Celebration%20of%20Traditional%20Festivals.jpg)
 
 ---
-
-**校外比赛**  **External Competitions**
+<strong style="color: blue;">校外比赛 External Competitions</strong>
+<br>
 
 **1.2021年 第四届中小学课文朗诵比赛 (** **4th National Recital Competition)**
 
