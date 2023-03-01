@@ -4,13 +4,11 @@ permalink: /departments/ccas-pe-dept/
 description: ""
 ---
 ![](/images/cca_vision.jpg)
-
-### Vision
-
+<p style="font-size: 26px; color: blue; font-weight: bold;">Vision</p>
 Every Child a Sportsperson
 
-### Mission
 
+<p style="font-size: 26px; color: blue; font-weight: bold;">Mission</p>
 To develop the child holistically under the CAMPS domains by inculcating the school’s values through active participation in physically and healthy activities.
 
 ![](/images/cca_programme_highlights.jpg)
