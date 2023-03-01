@@ -5,12 +5,10 @@ description: ""
 ---
 ![science vision](/images/science_vision.jpg)
 
-## Vision
 
+<p style="font-size: 26px; color: blue; font-weight: bold;">Vision</p>
 Every Child A Scientist
-
-## Mission
-
+<p style="font-size: 26px; color: blue; font-weight: bold;">Mission</p>
 To nurture curious and active learners through inquiry-based learning and develop their scientific skills for life-long learning.
 
 ![science_programme_highlights](/images/science_programme_highlights.jpg)
