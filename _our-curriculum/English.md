@@ -15,10 +15,8 @@ To promote a positive attitude towards English learning in students while streng
 
 ![english programme highlights](/images/english_programme_highlights.jpg)
 
-**Stellar Programme**
-
-Endeavour Primary School has implemented the national English language curriculum known as STELLAR  
-(Strategies for English Language Learning and Reading). This initiative by the Ministry of Education  
+<p style="font-size: 18px; color: blue; font-weight: bold;">Stellar Programme</p>
+Endeavour Primary School has implemented the national English language curriculum known as STELLAR (Strategies for English Language Learning and Reading). This initiative by the Ministry of Education  
 has been running well in the school since 2008.
 
 STELLAR places an emphasis on reading and enjoyment of the language. Thus, in place of English textbooks,  
@@ -33,12 +31,10 @@ of English.
 
 ![Stellar Programme](/images/Stellar%20Programme.jpg)
 
-**Learning Support Programme**
 
+<p style="font-size: 18px; color: blue; font-weight: bold;">Learning Support Programme</p>
 The LSP Programme aims to help students improve their literacy skills. This is achieved by placing students into a smaller and more focused group teaching during curriculum. LSP students also attend Buddy Reading sessions conducted in the mornings. They are guided by better readers from the P3-P4 levels. These sessions are monitored by the LSP teacher and assisted by volunteers from the Parent Support Group (PSG).
-
-**School-based Dyslexia Remediation**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">School-based Dyslexia Remediation</p>
 The School-based Dyslexia Remediation (SDR) programme aims to provide support for P3 and P4 students who have been identified as at-risk of Dyslexia. This programme seeks to enable the selected students to acquire coping strategies in reading so that they will be better able to cope with their learning in school. The programme relies on a systemic set of strategies and activities which have been carefully designed by MOE.
 
 ![School-based Dyslexia Remediation](/images/School-based%20Dyslexia%20Remediation.jpg)
