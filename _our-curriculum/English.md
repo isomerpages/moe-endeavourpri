@@ -39,38 +39,33 @@ The School-based Dyslexia Remediation (SDR) programme aims to provide support fo
 
 ![School-based Dyslexia Remediation](/images/School-based%20Dyslexia%20Remediation.jpg)
 
-**Reading Remediation Programme**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">Reading Remediation Programme</p>
 The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 students who still face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme exposes students to a range of coping strategies for reading comprehension which will enable them to better manage their learning in the regular classroom.
 
 ![Reading Remediation Programme](/images/Reading%20Remediation%20Programme.jpg)
 
-**Library Programme**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">Library Programme</p>
 Our Endeavour Media Resource Library has a full-time Library Assistant who sees to the day-to-day operation of the school library. English teachers take their students to the library and teach them about library etiquette and how to use the library effectively. Termly thematic activities are conducted in the library to improve readership. Every month, the top reader and the class with the highest readership from each level will be acknowledged.
 
-**ALP – Nurturing Thinkers through Knowledge Building &amp; Thinking Routines**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">ALP – Nurturing Thinkers through Knowledge Building &amp; Thinking Routines</p>
 The Knowledge Building pedagogy is used in the teaching of Stimulus-Based Conversation. Students collaborate with one another to build on and expand their knowledge on a given theme through the Knowledge Forum. This platform encourages self-directed learning where pupils can post their views online and read their peers’ comments using specially designed Conversational Scaffolds. Through Knowledge Building pedagogy, our students have deepened their knowledge about the theme and are able to express their ideas coherently.
 
 The English Department has incorporated Thinking Routines (TR) in various components in the teaching and learning of English. Some thinking routines such as See-Think-Wonder (STW), Think-Puzzle-Explore (TPE) and Zoom-In (ZI) enrich our students’ learning and enhances their learning processes. STW is widely used in the teaching of oral and compositions via the visual stimulus. TPE is used for grammar and vocabulary lessons and&nbsp; ZI is commonly used during the Big Book reading to promote rich discussions using visual clues to trigger thoughts. We believe strongly that these thinking routines help to develop thinking dispositions, interpretation and inference skills while exploring ideas. TRs also activate prior knowledge and uncover current understandings and correct misconceptions.
 
 ![ALP – Nurturing Thinkers through Knowledge Building &amp; Thinking Routines](/images/ALP%20–%20Nurturing%20Thinkers%20through%20Knowledge%20Building%20&amp;%20Thinking%20Routines.jpg)
 
-**Every Child A Writer (ECAW) Programme**
 
-In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a platform in which all our students’ works are recognised. The Class Publication, in which we publish every pupil’s writing, is published online in our school’s website and Our Budding Writer’s Publication (booklet) seeks to celebrate the works of the outstanding writers in each class and level.
+<p style="font-size: 18px; color: blue; font-weight: bold;">Every Child A Writer (ECAW) Programme</p>In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a platform in which all our students’ works are recognised. The Class Publication, in which we publish every pupil’s writing, is published online in our school’s website and Our Budding Writer’s Publication (booklet) seeks to celebrate the works of the outstanding writers in each class and level.
 
 <img style="width: 40%;" alt="Image" src="/images/Every%20Child%20A%20Writer%20(ECAW)%20Programme.jpg">
 
-**Harnessing Technology – Podcasting**
 
+<p style="font-size: 18px; color: blue; font-weight: bold;">Harnessing Technology – Podcasting</p>
 We want our students to become self-directed and collaborative in their learning by harnessing technology to become confident users of the language. Our belief is that the move towards virtual learning will assist students in developing the 3Cs (Confidence, Curiosity &amp; Cooperation). Our lower primary students are introduced to the software Audacity. Our students do their own podcasting to improve oracy. This initiative serves as an alternative assessment to oral. This approach allows for self-directed learning and brings about improvement in students’ reading skills through peer and teacher assessment. Students are involved in reviewing their own performance through self-checklists as well. This increases their confidence to communicate better.
 
 ![Harnessing Technology – Podcasting](/images/Harnessing%20Technology%20–%20Podcasting.jpg)
 
-**Endeavour Reading Programme**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">Endeavour Reading Programme</p>
 Positive attitude towards reading is achieved through a range of interesting activities. Students visit the school library weekly during curriculum time and our teachers conduct reading sessions using guided readers to expand their reading diet. Thematic book displays and activities in the school are held to introduce students to books of different genres and themes. Students were highly engaged and the element of fun in these activities generated much curiosity
 
 ![Endeavour Reading Programme](/images/Endeavour%20Reading%20Programme_1.jpg)
