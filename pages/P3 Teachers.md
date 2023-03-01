@@ -3,7 +3,7 @@ title: P3 Teachers
 permalink: /p3-teachers/
 description: ""
 ---
-| Class             | Form Teacher                                                          | Co-Form Teacher                                                            |
+| <p style="font-size: 26px; color: blue; font-weight: bold;">Class</p>|<p style="font-size: 26px; color: blue; font-weight: bold;">Form Teacher</p>                                                         | <p style="font-size: 26px; color: blue; font-weight: bold;">Co-Form Teacher  </p>                                                                 |
 |-------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------|
 | P3 Compassion     | Ms Brenda Goh Puoy Choo<br><br>goh_puoy_choo@moe.edu.sg               | Mr Suhardi Bin Marino<br><br>suhardi_marino@moe.edu.sg                     |
 | P3 Diligence      | Mdm Loo Lai Yin<br><br>loo_lai_yin@moe.edu.sg                         | Mdm Nazreen Bte Mohamed Noor<br> <br>nazreen_mohamed_noor@moe.edu.sg       |
