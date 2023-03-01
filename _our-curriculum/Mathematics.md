@@ -4,16 +4,13 @@ permalink: /departments/math-department/
 description: ""
 ---
 ![math vision](/images/math_vision.jpg)
+<p style="font-size: 18px; color: blue; font-weight: bold;">Cognitively Capable – MATHEMATICS</p>
 
-**Cognitively Capable – MATHEMATICS**
 
-## Vision
-
+<p style="font-size: 26px; color: blue; font-weight: bold;">Vision</p>
 Every Child A Problem Solver
 
-## Mission
-
-
+<p style="font-size: 26px; color: blue; font-weight: bold;">Mission</p>
 To nurture confident problem solvers through a vibrant, student-centred environment that provides rich and meaningful Mathematics learning experiences
 
 ![math programme highlights](/images/math_programme_highlights.jpg)
