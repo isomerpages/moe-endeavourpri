@@ -3,7 +3,7 @@ title: P2 Teachers
 permalink: /p2-teachers/
 description: ""
 ---
-| <p style="font-size: 26px; color: blue; font-weight: bold;">Class</p>|<p style="font-size: 26px; color: blue; font-weight: bold;">Form Teacher</p>                                                         | <p style="font-size: 26px; color: blue; font-weight: bold;">Co-Form Teacher  </p>                                                                                                 |
+|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>|
 |-------------------|-------------------------------------------------------------------|--------------------------------------------------------------------|
 | P2 Compassion     | Ms Anne Siew Thiang<br><br>tan_siew_thiang_anne@moe.edu.sg        | Ms Brintha d/o Sivabalan <br>                                      |
 | P2 Diligence      | Mrs Dawn Yeo Meow Sim<br><br>yeo_meow_sim_dawn@moe.edu.sg         | Mdm Ng Tay Kee<br><br>ng_tay_kee@moe.edu.sg                        |
