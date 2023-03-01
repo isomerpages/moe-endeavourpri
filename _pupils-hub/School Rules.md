@@ -3,8 +3,7 @@ title: School Rules
 permalink: /pupils-hub/school-rules/
 description: ""
 ---
-**1\. General Conduct**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">1. General Conduct</p>
 1.1. All pupils should uphold the core values of the school
 
 1.2. All pupils should be polite, courteous and well-behaved at all times
@@ -19,36 +18,31 @@ description: ""
 
 1.7 All pupils should take care of the school property
 
-**2\. General Conduct**
-
-2.1. Attendance is **compulsory** for all pupils on school days. No pupil should leave early for holidays before the term closes
+<p style="font-size: 18px; color: blue; font-weight: bold;">2. General Conduct</p>
+2.1. Attendance is&nbsp;**compulsory**&nbsp;for all pupils on school days. No pupil should leave early for holidays before the term closes
 
 2.2. Absence from school must be covered by medical certificate which should be handed to the form teacher when the pupil returns
 
-**3\. Leaving School During School Hours**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">3. Leaving School During School Hours</p>
 3.1. All pupils are to remain in school during school hours unless their parents come personally and obtain permission from the Principal / Vice-Principal to leave school
 
 3.2. Pupils who are sick and would like to leave early should be accompanied by an adult
 
 3.3. Parents / Guardians who need to take their child home must sign out at the general office
 
-**4\. Assembly / Pledge Taking**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">4. Assembly / Pledge Taking</p>
 4.1. All pupils who are Singapore Citizens must sing the National Anthem and take the Pledge. Pupils will take the Pledge with the right fist placed over the heart
 
 4.2. All late comers as well as parents / visitors, who are on the school premises, should stand at attention during the singing of the National Anthem and Pledge taking
 
-**5\. School Uniform**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">5. School Uniform</p>
 5.1. All pupils must wear the prescribed school uniform and PE attire with the name tag on the right hand side adjacent to our school name which is on the left. Modification of the school uniform is not allowed
 
 5.2. If there is a leg injury, pupils are allowed to wear sandals instead of their school shoes
 
 5.3. All pupils must be in their school uniform at all school activities unless the school indicates otherwise
 
-**6\. Hair and Personal Hygiene**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">6. Hair and Personal Hygiene</p>
 6.1. Hair must be neat and tidy at all times
 
 6.2. Male pupils must be neat in appearance, clean shaven and no facial hair is allowed
@@ -61,8 +55,7 @@ description: ""
 
 6.6. Nails should be kept short and clean
 
-**7\. Classroom Conduct**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">7. Classroom Conduct</p>
 7.1. All pupils must stand up and greet the teacher when he / she enters or leaves the classroom
 
 7.2. All pupils must leave the classroom during recess, except for those performing recess duties or if a teacher is present
@@ -73,8 +66,7 @@ description: ""
 
 7.5. No pupils are allowed to eat or drink in the classroom
 
-**8\. Recess**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">8. Recess</p>
 8.1. All pupils should queue up in an orderly manner when purchasing food
 
 8.2. All food and drinks must be consumed within the school canteen
@@ -89,7 +81,7 @@ description: ""
 
 8.7. All pupils are to assemble at the canteen immediately after recess before proceeding to their classrooms
 
-**9\. Valuables**
+<p style="font-size: 18px; color: blue; font-weight: bold;">9. Valuables</p>
 
 9.1. Pupils should not bring valuables to school
 
