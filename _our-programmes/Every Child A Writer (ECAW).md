@@ -3,6 +3,7 @@ title: Every Child A Writer (ECAW)
 permalink: /every-child-a-writer-ecaw/
 description: ""
 ---
+<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Every Child A Writer (ECAW)</p>
 In Endeavour Primary, we value all our students writing. Our ECAW platform in which all our students works are recognized. The class publication that features every student’s writing features the creative essays of all the students in the school.
 
 All the writings are compiled in folders and passed onto the following year’s cohort which inspires the new batch of writers and encourages them to write their own innovative pieces. Our Budding Writers booklet which is an annual school publication, celebrates the works of outstanding writers in each class and level. A copy of this booklet is issued to the students and teaching staff in the school.
