@@ -3,7 +3,7 @@ title: P5 Teachers
 permalink: /p5-teachers/
 description: ""
 ---
-| <p style="font-size: 26px; color: blue; font-weight: bold;">Class</p>|<p style="font-size: 26px; color: blue; font-weight: bold;">Form Teacher</p>                                                         | <p style="font-size: 26px; color: blue; font-weight: bold;">Co-Form Teacher  </p>                                                                                         |
+|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>|
 |--------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------|
 | P5 Compassion      | Mr Tan Jian’an Jeremy<br><br>tan_jianan_jeremy@moe.edu.sg                            | Mdm Chia-Tjen Sak Tju Cindy<br><br>chia-_tjen_sak_tju@moe.edu.sg |
 | P5 Diligence       | Mr Muhammad Aidilsofyan Bin Abd <br><br>muhammad_aidilsofyan_abdul_rahman@moe.edu.sg | Mr Ramanan Ramadoss<br><br>ramanan_ramadoss@moe.edu.sg           |
