@@ -5,12 +5,12 @@ description: ""
 ---
 ![english vision](/images/english_vision.jpg)
 
-<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Cognitively Capable</p>
+<p style="text-align:center;font-size: 26px; color: blue; font-weight: bold;">Cognitively Capable</p>
 
-<p style="font-size: 18px; color: blue; font-weight: bold;">Department Vision:</p>
+<p style="font-size: 26px; color: blue; font-weight: bold;">Department Vision:</p>
 Every Student A Confident Speaker and Writer
 
-<p style="font-size: 18px; color: blue; font-weight: bold;">Department Mission:</p>
+<p style="font-size: 26px; color: blue; font-weight: bold;">Department Mission:</p>
 To promote a positive attitude towards English learning in students while strengthening both their language and reading skills
 
 ![english programme highlights](/images/english_programme_highlights.jpg)
