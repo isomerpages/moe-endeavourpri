@@ -13,7 +13,7 @@ description: ""
 	
 	
 	
-<p style="font-size: 26px; color: blue; font-weight: bold;">Mission</p><br>
+<p style="font-size: 26px; color: blue; font-weight: bold;">Mission</p> 
 To develop the child holistically under the CAMPS domains by inculcating the school’s values through active participation in physically and healthy activities.</b>
 
 ![](/images/cca_programme_highlights.jpg)
