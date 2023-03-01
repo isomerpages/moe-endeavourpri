@@ -4,7 +4,7 @@ permalink: /departments/math-department/
 description: ""
 ---
 ![math vision](/images/math_vision.jpg)
-<p style="font-size: 18px; color: blue; font-weight: bold;">Cognitively Capable – MATHEMATICS</p>
+<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Cognitively Capable – MATHEMATICS</p>
 
 
 <p style="font-size: 26px; color: blue; font-weight: bold;">Vision</p>
