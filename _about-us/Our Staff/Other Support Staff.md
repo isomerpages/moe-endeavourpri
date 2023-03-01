@@ -6,5 +6,5 @@ third_nav_title: Our Staff
 ---
 |  <strong style="color: blue;">Other Support Staff </strong>                    |                                   |
 |------------------------|-----------------------------------|
-| Receptionist| Miss Hajar Binti Saharon         |
+| Receptionist| Miss Siti Hajar Binti Saharon         |
 | Science Lab Technician | Mdm Rukiah Binte Sabri
