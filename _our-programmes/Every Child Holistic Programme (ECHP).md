@@ -3,6 +3,8 @@ title: Every Child Holistic Programme (ECHP)
 permalink: /about-us/our-programmes/echp-every-child-holistic-programme/
 description: ""
 ---
+<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Every Child Holistic Programme (ECHP)</p>
+
 In fulfilling our school’s mission,&nbsp;**“To provide a unique schooling experience to develop in every child Cognitive, Aesthetics, Moral, Physical and Social domains”**, we have embarked on the Every Child Holistic Programme (ECHP) since 2008.
 
 Under&nbsp;**ECHP, the Every Child an Artist (ECAA)**&nbsp;programme and&nbsp;**Every Child a Performer (ECAP)**&nbsp;programme were implemented to&nbsp;**support the development of the Aesthetics domain.**
