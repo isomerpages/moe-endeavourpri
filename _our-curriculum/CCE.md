@@ -7,8 +7,9 @@ description: ""
 <p style="font-size: 20px; color: blue; font-weight: bold;">Department Vision:</p>
 
  **Every Child A Student of Character**           
+<p style="font-size: 20px; color: blue; font-weight: bold;">Department Mission: </p>
 
-Department Mission: **To develop the Moral & Social domains of every child**
+**To develop the Moral & Social domains of every child**
 
 ![](/images/pupil_welfare_highlights.jpg)
 
