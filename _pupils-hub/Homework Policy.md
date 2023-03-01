@@ -3,7 +3,6 @@ title: Homework Policy
 permalink: /pupils-hub/homework-policy/
 description: ""
 ---
-
 <p style="font-size: 26px; color: blue; font-weight: bold;">IMPORTANCE OF HOMEWORK</p>
 Homework plays an important role in strengthening pupils’ learning and overall development.&nbsp;&nbsp; Homework assignments are set to enable pupils to revisit what has been learnt in class and to practise the skills taught. This would help to increase retention of learning, deepen pupils’ understanding and prepare them for future lessons. Through homework, pupils can develop self-discipline and cultivate good study habits and positive attitude towards learning.
 
