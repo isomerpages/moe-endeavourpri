@@ -4,7 +4,7 @@ permalink: /teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-| Teachers          |
+| <strong style="color: blue;">Teachers  </strong>       |
 |----------------------|
 | [P1 Teachers](/p1-teachers/)          |
 | [P2 Teachers](/p2-teachers/)          |
