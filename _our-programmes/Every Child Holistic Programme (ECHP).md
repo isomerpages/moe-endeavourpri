@@ -47,19 +47,26 @@ Our ALP is “Nurturing Thinking”. Through this ALP, we hope to achieve the fo
 
 <img style="width:40%" src="/images/Every%20Child%20a%20Responsible%20Citizen.jpg">
 
-<p style="text-align:center;"><strong>Every Child a Responsible Citizen</strong></p>
+
+<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Every Child a Responsible Citizen</p>
+
 
 We involve every child actively in the Community Involvement Programme (CIP) and National Education (NE) Programme. We believe our students should do their part for the nation and community.
 
 <img style="width:40%" src="/images/Every%20Child%20an%20Artist.jpg">
 
-<p style="text-align:center;"><strong>Every Child an Artist</strong></p>
+
+
+<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Every Child an Artist</p>
+
 
 The school believes that every child is capable of producing a good piece of artwork. Each child’s artwork is displayed around the school and on the school’s Art blog.
 
 
 <img style="width:40%" src="/images/Every%20Child%20a%20Writer_0.jpg">
 
-<p style="text-align:center;"><strong>Every Child a Writer</strong></p>
+
+<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Every Child a Writer</p>
+
 
 Every child has his or her writing compiled in booklets and uploaded onto our school website. The pupils can read their essays online as well as those of the other classes. We hope they can become confident writers with a sense of pride in their writing.
