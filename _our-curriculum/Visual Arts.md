@@ -5,11 +5,12 @@ description: ""
 ---
 ![](/images/aesthetics_vision.jpg)
 
-### **Vision**
+<p style="font-size: 26px; color: blue; font-weight: bold;">Vision</p>
 
 **Every Child an Artist**
 
-### **Mission**
+
+<p style="font-size: 26px; color: blue; font-weight: bold;">Mission</p>
 
 **To enable every child to enjoy art, communicate visually, and make meaning through connecting with society and culture.**
 
