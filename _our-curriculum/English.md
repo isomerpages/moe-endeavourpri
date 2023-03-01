@@ -5,14 +5,12 @@ description: ""
 ---
 ![english vision](/images/english_vision.jpg)
 
-**Cognitively Capable**
+<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Cognitively Capable</p>
 
-**Department Vision:**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">Department Vision:</p>
 Every Student A Confident Speaker and Writer
 
-**Department Mission:**
-
+<p style="font-size: 18px; color: blue; font-weight: bold;">Department Mission:</p>
 To promote a positive attitude towards English learning in students while strengthening both their language and reading skills
 
 ![english programme highlights](/images/english_programme_highlights.jpg)
@@ -55,23 +53,23 @@ The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 st
 
 Our Endeavour Media Resource Library has a full-time Library Assistant who sees to the day-to-day operation of the school library. English teachers take their students to the library and teach them about library etiquette and how to use the library effectively. Termly thematic activities are conducted in the library to improve readership. Every month, the top reader and the class with the highest readership from each level will be acknowledged.
 
-**ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines**
+**ALP – Nurturing Thinkers through Knowledge Building &amp; Thinking Routines**
 
 The Knowledge Building pedagogy is used in the teaching of Stimulus-Based Conversation. Students collaborate with one another to build on and expand their knowledge on a given theme through the Knowledge Forum. This platform encourages self-directed learning where pupils can post their views online and read their peers’ comments using specially designed Conversational Scaffolds. Through Knowledge Building pedagogy, our students have deepened their knowledge about the theme and are able to express their ideas coherently.
 
-The English Department has incorporated Thinking Routines (TR) in various components in the teaching and learning of English. Some thinking routines such as See-Think-Wonder (STW), Think-Puzzle-Explore (TPE) and Zoom-In (ZI) enrich our students’ learning and enhances their learning processes. STW is widely used in the teaching of oral and compositions via the visual stimulus. TPE is used for grammar and vocabulary lessons and  ZI is commonly used during the Big Book reading to promote rich discussions using visual clues to trigger thoughts. We believe strongly that these thinking routines help to develop thinking dispositions, interpretation and inference skills while exploring ideas. TRs also activate prior knowledge and uncover current understandings and correct misconceptions.
+The English Department has incorporated Thinking Routines (TR) in various components in the teaching and learning of English. Some thinking routines such as See-Think-Wonder (STW), Think-Puzzle-Explore (TPE) and Zoom-In (ZI) enrich our students’ learning and enhances their learning processes. STW is widely used in the teaching of oral and compositions via the visual stimulus. TPE is used for grammar and vocabulary lessons and&nbsp; ZI is commonly used during the Big Book reading to promote rich discussions using visual clues to trigger thoughts. We believe strongly that these thinking routines help to develop thinking dispositions, interpretation and inference skills while exploring ideas. TRs also activate prior knowledge and uncover current understandings and correct misconceptions.
 
-![ALP – Nurturing Thinkers through Knowledge Building & Thinking Routines](/images/ALP%20–%20Nurturing%20Thinkers%20through%20Knowledge%20Building%20&%20Thinking%20Routines.jpg)
+![ALP – Nurturing Thinkers through Knowledge Building &amp; Thinking Routines](/images/ALP%20–%20Nurturing%20Thinkers%20through%20Knowledge%20Building%20&amp;%20Thinking%20Routines.jpg)
 
 **Every Child A Writer (ECAW) Programme**
 
 In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a platform in which all our students’ works are recognised. The Class Publication, in which we publish every pupil’s writing, is published online in our school’s website and Our Budding Writer’s Publication (booklet) seeks to celebrate the works of the outstanding writers in each class and level.
 
-<img src="/images/Every%20Child%20A%20Writer%20(ECAW)%20Programme.jpg" alt="Image" style="width: 40%;">
+<img style="width: 40%;" alt="Image" src="/images/Every%20Child%20A%20Writer%20(ECAW)%20Programme.jpg">
 
 **Harnessing Technology – Podcasting**
 
-We want our students to become self-directed and collaborative in their learning by harnessing technology to become confident users of the language. Our belief is that the move towards virtual learning will assist students in developing the 3Cs (Confidence, Curiosity & Cooperation). Our lower primary students are introduced to the software Audacity. Our students do their own podcasting to improve oracy. This initiative serves as an alternative assessment to oral. This approach allows for self-directed learning and brings about improvement in students’ reading skills through peer and teacher assessment. Students are involved in reviewing their own performance through self-checklists as well. This increases their confidence to communicate better.
+We want our students to become self-directed and collaborative in their learning by harnessing technology to become confident users of the language. Our belief is that the move towards virtual learning will assist students in developing the 3Cs (Confidence, Curiosity &amp; Cooperation). Our lower primary students are introduced to the software Audacity. Our students do their own podcasting to improve oracy. This initiative serves as an alternative assessment to oral. This approach allows for self-directed learning and brings about improvement in students’ reading skills through peer and teacher assessment. Students are involved in reviewing their own performance through self-checklists as well. This increases their confidence to communicate better.
 
 ![Harnessing Technology – Podcasting](/images/Harnessing%20Technology%20–%20Podcasting.jpg)
 
@@ -91,8 +89,8 @@ To fuel interest in reading, recess activities such as word games with creative 
 
 ![english links](/images/english_links.jpg)
 
-Dolch List – [www.sightwords.com/sight-words/dolch/](http://www.sightwords.com/sight-words/dolch/)
+Dolch List –&nbsp;[www.sightwords.com/sight-words/dolch/](http://www.sightwords.com/sight-words/dolch/)
 
-Starfall – [www.starfall.com](http://www.starfall.com/) 
+Starfall –&nbsp;[www.starfall.com](http://www.starfall.com/)&nbsp;
 
-Cambridge Dictionary – [www.dictionary.cambridge.org/](https://dictionary.cambridge.org/)
+Cambridge Dictionary –&nbsp;[www.dictionary.cambridge.org/](https://dictionary.cambridge.org/)
