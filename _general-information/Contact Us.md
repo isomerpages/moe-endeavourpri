@@ -5,7 +5,7 @@ description: ""
 ---
 **Address**: 10 Admiralty Link, Singapore 757521
 
-**Tel**: 64824650
+**Tel**: 6482 4650
 
 **Email**: [endeavour\_ps@moe.edu.sg](mailto:endeavour_ps@moe.edu.sg)
 
