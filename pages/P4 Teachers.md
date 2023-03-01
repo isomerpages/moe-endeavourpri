@@ -3,7 +3,7 @@ title: P4 Teachers
 permalink: /p4-teachers/
 description: ""
 ---
-| <p style="font-size: 26px; color: blue; font-weight: bold;">Class</p>|<p style="font-size: 26px; color: blue; font-weight: bold;">Form Teacher</p>                                                         | <p style="font-size: 26px; color: blue; font-weight: bold;">Co-Form Teacher  </p>                                                              |
+|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>|
 |-------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------|
 | P4 Compassion     | Mr Mohammad Ridzal Bin Md Ajis<br><br>mohammad_ridzal_mohd_ajis@moe.edu.sg    | Mdm Raveendran Pavithra<br><br>raveendran_pavithra@moe.edu.sg |
 | P4 Diligence      | Mdm Agnes Tan Mui Kheng<br><br>tan_mui_kheng_a@moe.edu.sg                     | Ms Dong Jing Jing<br><br>dong_jingjing_a@moe.edu.sg           |
