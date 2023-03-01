@@ -5,9 +5,9 @@ description: ""
 ---
 ![](/images/student_development_vision.jpg)
 
-<p style="font-size: 18px; color: blue; font-weight: bold;">Department Vision:</p>
+<p style="font-size: 26px; color: blue; font-weight: bold;">Department Vision:</p>
 Vibrant Learners who are socially, emotionally and mentally rooted in good values.
-<p style="font-size: 18px; color: blue; font-weight: bold;">Department Mission:</p>
+<p style="font-size: 26px; color: blue; font-weight: bold;">Department Mission:</p>
 To promote a school-wide, social, emotional and mental well-being of all students through a culture of care.
 
 ![](/images/student_development_programme_highlights.jpg)
