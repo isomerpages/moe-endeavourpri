@@ -3,7 +3,7 @@ title: P6 Teachers
 permalink: /p6-teachers/
 description: ""
 ---
-| Class              | Form Teacher                                                            | Co-Form Teacher                                                             |
+| <p style="font-size: 26px; color: blue; font-weight: bold;">Class</p>|<p style="font-size: 26px; color: blue; font-weight: bold;">Form Teacher</p>                                                         | <p style="font-size: 26px; color: blue; font-weight: bold;">Co-Form Teacher  </p>                                                                                          |
 |--------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | P6 Compassion      | Mdm Valliammai d/o Nagappan<br><br>valliammai_nagappan_sekar@moe.edu.sg | Ms Peh Chieh Yin<br><br>peh_chieh_yin@moe.edu.sg                            |
 | P6 Diligence       | Ms Rebecca Priya Francis<br><br>rebecca_francis@moe.edu.sg              | Mr Ramadhan s/o Isaahak Piperdy <br><br>ramadhan_isaahak_piperdy@moe.edu.sg |
