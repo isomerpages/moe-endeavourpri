@@ -4,14 +4,14 @@ permalink: /key-personnel/
 description: ""
 third_nav_title: Our Staff
 ---
-| <strong style="color: blue;">SCHOOL LEADERS</strong>  |                                                    |
+|  <strong style="color: blue; font-size: 24px;">SCHOOL LEADERS</strong>  |                                                    |
 |------------------|----------------------------------------------------|
 | Principal        | Mr Thomas Koh<br><br>thomas_koh@schools.gov.sg     |
 | Vice Principal 1 | Ms Chua Hui Pin<br><br>CHUA_Hui_Pin@schools.gov.sg |
 | Vice Principal 2 | Ms Fauziah Daud<br><br>fauziah_daud@schools.gov.sg |
 
-| <strong style="color: blue;">HEADS OF DEPARTMENT (HOD)</strong>                                                 |                                                                 |
-|---------------------------------------------------------------------------|-----------------------------------------------------------------|
+| <strong style="color: blue; font-size: 24px;">HEADS OF DEPARTMENT (HOD) </strong>   |                                                       |
+|------------------------------------------------------------------|-----------------------------------------------------------------|
 | School Staff Developer                                                    | Mrs Theresa Lee<br><br>chu_ka_hing_theresa@moe.edu.sg           |
 | HOD (Character & Citizenship Education)                                   | Mr Lee Beng Lim<br><br>lee_beng_lim@moe.edu.sg                  |
 | HOD (Co-curricular Activities [CCA]/ Physical Education [PE]/ Discipline) | Mr Yaidi Bin Mohamad<br><br>yaidi_b_mohamad@moe.edu.sg          |
@@ -22,7 +22,7 @@ third_nav_title: Our Staff
 | HOD (Aesthetics)                                                          | Mdm Gan Ai Lee<br><br>gan_ai_lee@moe.edu.sg                     |
 | HOD (ICT)                                                                 | Mr Zhuo Weiwen<br><br>zhuo_weiwen@schools.gov.sg                |
 
-| <strong style="color: blue;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
+| <strong style="color: blue; font-size: 24px;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Year Head                                                                                   | Mr Lim Chin Boon Matt<br><br>lim_chin_boon@moe.edu.sg                            |
 | Year Head                                                                                   | Mdm Norashinah Md Yusope<br><br>norashinah_md_yusope@moe.edu.sg                  |
