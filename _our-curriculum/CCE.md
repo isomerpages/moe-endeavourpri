@@ -4,8 +4,9 @@ permalink: /departments/cce-department/
 description: ""
 ---
 ![](/images/pupil_welfare_vision.jpg)
+<p style="font-size: 20px; color: blue; font-weight: bold;">Department Vision:</p>
 
-Department Vision: **Every Child A Student of Character**           
+ **Every Child A Student of Character**           
 
 Department Mission: **To develop the Moral & Social domains of every child**
 
