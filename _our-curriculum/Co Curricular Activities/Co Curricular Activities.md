@@ -4,9 +4,9 @@ permalink: /co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-#### _**Co-Curricular Activities (CCAs)**_
 
-CCAs play an important role in developing our students holistically. Through CCA, students discover their interests and talents. Friendships are forged among peers from diverse backgrounds as they learn, play and grow together. At the same time, students develop values and 21st  Century Competencies that will prepare them for a rapidly changing world. Participation in CCA fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.
+<p style=";font-size: 26px; color: blue; font-weight: bold;">Co-Curricular Activities (CCAs)</p>
+CCAs play an important role in developing our students holistically. Through CCA, students discover their interests and talents. Friendships are forged among peers from diverse backgrounds as they learn, play and grow together. At the same time, students develop values and 21st&nbsp; Century Competencies that will prepare them for a rapidly changing world. Participation in CCA fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.
 
 ![](/images/VISUAL-PERFORMING-ARTS.png)
 
