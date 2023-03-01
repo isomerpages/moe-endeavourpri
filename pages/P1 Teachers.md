@@ -3,8 +3,8 @@ title: P1 Teachers
 permalink: /p1-teachers/
 description: ""
 ---
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong></p>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>                                         |
-|-------------------|--------------------------------------------------------------------|-----------------------------------------------------------------|
+|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong></p>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>|
+|--------------|-----------------|---------------------------------|
 | P1 Compassion     | Ms Thamayanthi d/o Chillah<br><br>thamayanthi_chillayah@moe.edu.sg | Mdm Teo Siew Hong<br><br>teo_siew_hong@moe.edu.sg               |
 | P1 Diligence      | Mdm Govindarajoo Geetha<br><br>govindarajoo_geetha@moe.edu.sg<br>  | Mdm Ai Lee Gan <br>gan_ai_lee@moe.edu.sg<br>                    |
 | P1 Harmony        | Mr Hong King Yong<br><br>hong_king_yong@moe.edu.sg                 | Mrs Tan Hock Heng@Yee Min<br><br>tan_hock_heng@moe.edu.sg       |
