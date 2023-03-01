@@ -5,11 +5,9 @@ description: ""
 ---
 ![](/images/pupil_welfare_vision.jpg)
 <p style="font-size: 26px; color: blue; font-weight: bold;">Department Vision:</p>
-
- **Every Child A Student of Character**           
+ <b>Every Child A Student of Character</b>           
 <p style="font-size: 26px; color: blue; font-weight: bold;">Department Mission: </p>
-
-**To develop the Moral & Social domains of every child**
+<b>To develop the Moral & Social domains of every child</b>
 
 ![](/images/pupil_welfare_highlights.jpg)
 
