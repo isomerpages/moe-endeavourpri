@@ -5,10 +5,15 @@ description: ""
 ---
 ![](/images/cca_vision.jpg)
 <p style="font-size: 26px; color: blue; font-weight: bold;">Vision</p>
-<b>Every Child a Sportsperson
+<b>Every Child a Sportsperson  <br>                                                                                                     
 
+	
 
-<p style="font-size: 26px; color: blue; font-weight: bold;">Mission</p>
+	
+	
+	
+	
+<p style="font-size: 26px; color: blue; font-weight: bold;">Mission</p><br>
 To develop the child holistically under the CAMPS domains by inculcating the school’s values through active participation in physically and healthy activities.</b>
 
 ![](/images/cca_programme_highlights.jpg)
