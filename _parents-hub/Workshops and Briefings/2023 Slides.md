@@ -83,11 +83,11 @@ third_nav_title: Workshops and Briefings
           <strong style="color: black; font-size: 18;">Parents’ briefing slides on 10th February 2023:</strong>
           <br>
           <br>
-          <a href="https://AhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">P5-P6-Slides-for-Parents-_-EL-MT-Languages_2023 <br></a><br>
-				 <a href="https://AhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">P5-Parents-briefing-Science-2023 <br><br></a>
-					<a href="https://AhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">P6-Parents-briefing-Science-2023<br><br></a>
-					<a href="https://AhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">Parents-Networking-Session_YH_Briefing_2023-P56 <br><br></a>
-					<a href="https://AhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">Parents-Networking-Session-P5-10-Feb-2023-P<br><br></a>
-					<a href="https://AhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">Parents-Networking-Session-P6-10-Feb-2023-P<br><br></a>
-					<a href="https://AhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">PRIMARY-5-Camp-Resilience<br><br></a>
+          <a href="https://drive.google.com/file/d/1snJme6rWYaWr7AYFCkA8TGG_LScdXS6W/view?usp=share_link">P5-P6-Slides-for-Parents-_-EL-MT-Languages_2023 <br></a><br>
+				 <a href="https://drive.google.com/file/d/1Ff_DN5fhYJGYsHAyqytOGMMMEXwckp4b/view?usp=share_link">P5-Parents-briefing-Science-2023 <br><br></a>
+					<a href="https://drive.google.com/file/d/1S4c2zMWSy6jmvtsZVv2YewXyqA4aT6J5/view?usp=share_link">P6-Parents-briefing-Science-2023<br><br></a>
+					<a href="https://drive.google.com/file/d/1gmAH8w9GXsZSaLEL2tz1iJC9YXRVbk_a/view?usp=share_link">Parents-Networking-Session_YH_Briefing_2023-P56 <br><br></a>
+					<a href="https://drive.google.com/file/d/1M-Mz2cZnl4DGwwNEF7sWn3n6jAC2cIZ3/view?usp=share_link">Parents-Networking-Session-P5-10-Feb-2023-P<br><br></a>
+					<a href="https://drive.google.com/file/d/15HOJGvc20pMTOm5xFE3Oauhz01I-JRZV/view?usp=share_link">Parents-Networking-Session-P6-10-Feb-2023-P<br><br></a>
+					<a href="https://drive.google.com/file/d/11i7Be5wlO-GaqM9PrvtDMCMjqhmOMQiG/view?usp=share_link">PRIMARY-5-Camp-Resilience<br><br></a>
 				</b></td></tr></tbody></table>
