@@ -7,11 +7,11 @@ third_nav_title: Workshops and Briefings
 <table style="border: 1px solid black; width: 800px;">  
 	<tbody><tr>  
 		<td style="border: 1px solid black; width: 300px;"><b>
-			<strong style="color: blue; font-size: 18;">Parents’ briefing slides on 22nd February 2022:</strong><br>
-			<a href="https://drive.google.com/file/d/1QkZJFZPI0dadVz2qsRUVl3KLxCrM5iEt/view?usp=share\_link">2023-P4 parents briefing-HMT<br>  
-			</a><a href="https://drive.google.com/file/d/1BlxoO3EhfpbWd0Dk0FZblSL\_ZG-dM8bb/view?usp=share\_link">Parents Networking Session (P3) Feb 2023</a><br>  
-			<a href="https://drive.google.com/file/d/1ZCUgOf5iS1NV4PSAcZbq0WFJgA-LFe0c/view?usp=share\_link">Parents Networking Session (P4) Feb 2023</a><br>  
-			<a href="https://drive.google.com/file/d/1PLY4bzNf-F\_uIlSLqfSuCD4xMO0gz1QO/view?usp=share\_link">Parents’ Networking Session-YH-Briefing-P3-2023</a><br>  
+			<strong style="color: black; font-size: 18;">Parents’ briefing slides on 22nd February 2022:</strong><br>
+			<a href="https://drive.google.com/file/d/1O8kgUUEYAHGMdq9av9VI_tM1htwy-so5/view?usp=sharing">2023-P4 parents briefing-HMT<br>  
+			</a><a href="https://drive.google.com/file/d/1cILvPj_mKn2x5k_JQe4ioPJrwC1g4ero/view?usp=sharing">Briefing-for-Parents_P3-Science</a><br>  
+			<a href="https://drive.google.com/file/d/1boVfFmDMiPpvu13fCE93Tmm8pWSMCPDp/view?usp=sharing">EDP-Library-Revamp-2022_for-Parents-Briefing</a><br>  
+			<a href="https://drive.google.com/file/d/1vU5A5yxk93nsfn2Y4gZ_Xt9FIDz60Gjl/view?usp=sharing">Parents-Networking-Session-P3-2022_Updated</a><br>  
 			<a href="https://drive.google.com/file/d/1hQM7InUHNZgwQxmidahfdSjgV5pirkfo/view?usp=share\_link">Parents’ Networking Session\_YH\_Briefing\_P4\_2023</a>  
 		</p></b></td>  
 		<td style="border: 1px solid black; width: 300px;"><b><p style="font-size: 14px;"> Parents’ briefing slides on 17th February 202<br>  
