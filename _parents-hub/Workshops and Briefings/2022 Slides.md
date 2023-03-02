@@ -4,7 +4,7 @@ permalink: /2022-slides/
 description: ""
 third_nav_title: Workshops and Briefings
 ---
-<table style="border: 1px solid black; width: 1000px;">  
+<table style="border: 1px solid black; width: 850px;">  
 	<tbody><tr>  
 		<td style="border: 1px solid black; width: 350px;"><b>
 			<strong style="color: black; font-size: 18;">Parents’ briefing slides on 22nd February 2022:</strong><br>
