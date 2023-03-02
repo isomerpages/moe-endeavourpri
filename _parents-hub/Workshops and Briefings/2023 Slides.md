@@ -34,7 +34,7 @@ third_nav_title: Workshops and Briefings
           <strong style="color: black; font-size: 18;">P1 and P2 Parents’ briefing slides on 24th February 2023</strong>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1u3kbfpM4NxEHmGyJigm_rYLiPSmpI9GM/view?usp=sharing">2023-P1-English-Language-Briefing-EL <br>
+          <a href="https://drive.google.com/file/d/1gA32gIsj9LNkAHsr3kdspRqWb8N3CuK2/view?usp=share_link">2023-P1-English-Language-Briefing-EL <br>
             <br>
           </a>
           <a href="https://drive.google.com/file/d/1KkqgXroS-TyQRpFoG7mzWQFiBUzI0NZ8/view?usp=sharing">LOWER-PRIMARY-PARENT-NETWORKING-BRIEFING-MTL-24-FEB-2023</a>
