@@ -34,19 +34,25 @@ third_nav_title: Workshops and Briefings
           <strong style="color: black; font-size: 18;">P1 and P2 Parents’ briefing slides on 24th February 2023</strong>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1u3kbfpM4NxEHmGyJigm_rYLiPSmpI9GM/view?usp=sharing">EDP-2022-P5-P6-Parents-Briefing-Maths <br>
+          <a href="https://drive.google.com/file/d/1u3kbfpM4NxEHmGyJigm_rYLiPSmpI9GM/view?usp=sharing">2023-P1-English-Language-Briefing-EL <br>
             <br>
           </a>
-          <a href="https://drive.google.com/file/d/1KkqgXroS-TyQRpFoG7mzWQFiBUzI0NZ8/view?usp=sharing">P5-and-6-Parents-briefing-Science</a>
+          <a href="https://drive.google.com/file/d/1KkqgXroS-TyQRpFoG7mzWQFiBUzI0NZ8/view?usp=sharing">LOWER-PRIMARY-PARENT-NETWORKING-BRIEFING-MTL-24-FEB-2023</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1p3wgXfVjXNmtCiJJH5LmxR_2RNCO6ZRY/view?usp=share_link">P5-P6-Slides-for-Parents-_-EL-MT-Languages_Updated</a>
+          <a href="https://drive.google.com/file/d/1p3wgXfVjXNmtCiJJH5LmxR_2RNCO6ZRY/view?usp=share_link">P1-Parents-Briefing-Math-2023</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/11kDOaYa5i3_A0iJ-on3GCY9L14ZN2dIu/view?usp=share_link">Parents-Networking-Session-P5-21-Jan-2022</a>
+          <a href="https://drive.google.com/file/d/11kDOaYa5i3_A0iJ-on3GCY9L14ZN2dIu/view?usp=share_link">P1-Parents-Networking-Session_AYH_Briefing_2023</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/18tlgcfxmKTa6GpDm7Jia1pzGtSnyf9YL/view?usp=share_link">Parents-Networking-Session-P6-21-Jan2022</a>
+          <a href="https://drive.google.com/file/d/18tlgcfxmKTa6GpDm7Jia1pzGtSnyf9YL/view?usp=share_link">P2-Parents-Networking Session_AYH_Briefing_2023_updated</a>
+					          <br>
+          <br>
+          <a href="https://drive.google.com/file/d/18tlgcfxmKTa6GpDm7Jia1pzGtSnyf9YL/view?usp=share_link">Parents-Networking-Session-P1-by-P-2023</a>
+					          <br>
+          <br>
+          <a href="https://drive.google.com/file/d/18tlgcfxmKTa6GpDm7Jia1pzGtSnyf9YL/view?usp=share_link">Parents-Networking-Session-P2-by-P-2023</a>
           <br>
         </b>
       </td>
