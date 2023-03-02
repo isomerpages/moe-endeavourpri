@@ -2,7 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Sample Page.md
       - Contact List.md
       - School Hours.md
       - Contact Us.md
