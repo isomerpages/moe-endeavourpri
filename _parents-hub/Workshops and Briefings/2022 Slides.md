@@ -32,12 +32,10 @@ third_nav_title: Workshops and Briefings
 			</a><a href="https://drive.google.com/file/d/1kowUi9OtNjZ2asyZn0ThJz58tavf9ZU6/view?usp=share_link">P1-Parents-Briefing-2022-Maths-final</a><br>  
 			<a href="https://drive.google.com/file/d/1oc6fW_OD7DhuaGy3LF5CWnrqTghcQi0O/view?usp=share_link">Parents-Networking-Session-P1-2022</a><br>  
 			<a href="https://drive.google.com/file/d/19TFqrrEaA4WlzzCCDKcWNBBgYD9hocNB/view?usp=share_link">Parents-Networking-Session-P2-2022</a><br> 
-		</p></b></td><td style="border: 1px solid black; width: 300px;"><b><p style="font-size: 14px;">Parents’ briefing slides on 10th February 2023:<br>  
-		<a href="/about-us.html">P5-P6-Slides-for-Parents-\_-EL-MT-Languages\_2023<br>  
-			</a><a href="https://drive.google.com/file/d/1M26AED5UK1d\_OswoIry0OXG6T2h70HvJ/view?usp=share\_link">Parents Briefing – Science (P5</a><br>  
-			<a href="https://drive.google.com/file/d/1am0UCpJWSqhVxqWGusMbBMatQTlB15jy/view?usp=share\_link">P5-Parents-briefing-Science-2023</a><br>  
-			<a href="https://drive.google.com/file/d/1NnimsgERdxgw9iGGtHoKg8H55Y7qPjOJ/view?usp=share\_link">Parents-Networking-Session-P5-10-Feb-2023-P</a><br>  
-			<a href="https://drive.google.com/file/d/1K5X1\_hlLzBpgRYwnaw2OF3qEPQSaI-dU/view?usp=share\_link">Parents-Networking-Session-P6-10-Feb-2023-P</a><br>  
-			<a href="https://drive.google.com/file/d/1cMStIfC5iigWUtZKyr5mAzYPlFhhXY6V/view?usp=share\_link">PRIMARY-5-Camp-Resilience</a><br>  
-	</p></b></td></tr>  
+		</p></b></td><td style="border: 1px solid black; width: 300px;"><b><strong style="color: black; font-size: 18;">Parents’ briefing slides on 20th May 2022:</strong><br> 
+		<a href="https://drive.google.com/file/d/1FP1jBqAhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">P5-P6-PSLE-2022-Parent-Engagement-20-May-2022<br>  
+		  
+			 
+			  
+	  
 </tbody></table>
