@@ -55,7 +55,7 @@ third_nav_title: Workshops and Briefings
     <tr style="background-color: #f2f2f2;">
       <td style="border: 1px solid black; width: 350px;">
         <b>
-          <strong style="color: black; font-size: 18;">Parents’ briefing slides on 25th February 2022:</strong>
+          <strong style="color: black; font-size: 18;">Parents’ briefing slides on 3rd January 2023:</strong>
           <br>
           <br>
           <a href="https://drive.google.com/file/d/1YfK17wRU-utxW_uFnouEWKQ92MsQsKsy/view?usp=share_link">25-Feb-2022-P1-English-Language-Briefing <br>
