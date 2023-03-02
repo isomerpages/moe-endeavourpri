@@ -24,9 +24,9 @@ third_nav_title: Workshops and Briefings
 	</p></b></td></tr>  
 	<tr style="background-color: #f2f2f2;">  
 		<td style="border: 1px solid black; width: 300px;"><b><strong style="color: black; font-size: 18;">Parents’ briefing slides on 25th February 2022:</strong><br> 
-			<a href="https://d09705388736542203935&amp;rtpof=true&amp;sd=true">25-Feb-2022-P1-English-Language-Briefing<br> 
+			<a href="https://drive.google.com/file/d/1YfK17wRU-utxW_uFnouEWKQ92MsQsKsy/view?usp=share_link">25-Feb-2022-P1-English-Language-Briefing<br> 
 			</a>
-			<a href="https://d09705388736542203935&amp;rtpof=true&amp;sd=true">2022-MT-P1-Parent-Briefing_final<br> 
+			<a href="https://drive.google.com/file/d/1GLS_Y-oBmt_Lw11IW94Bt9pIDyEVVfPG/view?usp=share_link">2022-MT-P1-Parent-Briefing_final<br> 
 			</a>
 			<a href="https://d09705388736542203935&amp;rtpof=true&amp;sd=true">EDP-Library-Revamp-2022-Movements-to-P3_for-Parents-Briefing.pdf<br> 
 			</a><a href="https://docs.google.com/388736542203935&amp;rtpof=true&amp;sd=true">P1-Parents-Briefing-2022-Maths-final</a><br>  
