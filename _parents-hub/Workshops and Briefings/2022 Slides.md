@@ -24,10 +24,14 @@ third_nav_title: Workshops and Briefings
 	</p></b></td></tr>  
 	<tr style="background-color: #f2f2f2;">  
 		<td style="border: 1px solid black; width: 300px;"><b><strong style="color: black; font-size: 18;">Parents’ briefing slides on 25th February 2022:</strong><br> 
-			<a href="https://docs.google.com/presentation/d/1J95LIxpj4wPQlljc5ZP1ey47U-7EvbVP/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Brarents-20-PIN.pptx<br>  
-			</a><a href="https://docs.google.com/presentation/d/1EoEBnqVao9KKTgI3gtwXBiEfiO6GzB2d/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-Parents-2023-dingement</a><br>  
-			<a href="https://docs.google.com/presentation/d/1hJbFdRwr6\_4GasdOlesIEcamvGjUFWtT/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">P1-Day1-Briefing\_SDT</a><br>  
-			<a href="https://docs.google.com/presentation/d/1gZS-vZJ7D9JIMOXW-ipt-GTZV5mJmYko/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Slides-for-P1-parents-on-3-Jan-2023</a><br> 
+			<a href="https://d09705388736542203935&amp;rtpof=true&amp;sd=true">25-Feb-2022-P1-English-Language-Briefing<br> 
+			</a>
+			<a href="https://d09705388736542203935&amp;rtpof=true&amp;sd=true">2022-MT-P1-Parent-Briefing_final<br> 
+			</a>
+			<a href="https://d09705388736542203935&amp;rtpof=true&amp;sd=true">EDP-Library-Revamp-2022-Movements-to-P3_for-Parents-Briefing.pdf<br> 
+			</a><a href="https://docs.google.com/388736542203935&amp;rtpof=true&amp;sd=true">P1-Parents-Briefing-2022-Maths-final</a><br>  
+			<a href="https://docs.google.c8736542203935&amp;rtpof=true&amp;sd=true">Parents-Networking-Session-P1-2022</a><br>  
+			<a href="httpsuid=109705388736542203935&amp;rtpof=true&amp;sd=true">Parents-Networking-Session-P2-2022</a><br> 
 		</p></b></td><td style="border: 1px solid black; width: 300px;"><b><p style="font-size: 14px;">Parents’ briefing slides on 10th February 2023:<br>  
 		<a href="/about-us.html">P5-P6-Slides-for-Parents-\_-EL-MT-Languages\_2023<br>  
 			</a><a href="https://drive.google.com/file/d/1M26AED5UK1d\_OswoIry0OXG6T2h70HvJ/view?usp=share\_link">Parents Briefing – Science (P5</a><br>  
