@@ -35,7 +35,3 @@ third_nav_title: Workshops and Briefings
 		</b></td><td style="border: 1px solid black; width: 350px;"><b><strong style="color: black; font-size: 18;">Parents’ briefing slides on 20th May 2022:</strong><br> 
 		<a href="https://drive.google.com/file/d/1FP1jBqAhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">P5-P6-PSLE-2022-Parent-Engagement-20-May-2022<br>  
 		  
-			 
-			  
-	  
-</tbody></table>
