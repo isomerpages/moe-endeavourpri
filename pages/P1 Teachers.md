@@ -6,7 +6,7 @@ description: ""
 |     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>|
 |--------------|-----------------|---------------------------------|
 | P1 Compassion     | Ms Thamayanthi d/o Chillah<br><br>thamayanthi_chillayah@moe.edu.sg | Mdm Teo Siew Hong<br><br>teo_siew_hong@moe.edu.sg               |
-| P1 Diligence      | Mdm Govindarajoo Geetha<br><br>govindarajoo_geetha@moe.edu.sg<br>  | Mdm Ai Lee Gan <br>gan_ai_lee@moe.edu.sg<br>                    |
+| P1 Diligence      | Mdm Govindarajoo Geetha<br><br>govindarajoo_geetha@moe.edu.sg<br>  | Mdm Ai Lee Gan <br><br>gan_ai_lee@moe.edu.sg<br>                    |
 | P1 Harmony        | Mr Hong King Yong<br><br>hong_king_yong@moe.edu.sg                 | Mrs Tan Hock Heng@Yee Min<br><br>tan_hock_heng@moe.edu.sg       |
 | P1 Innovation     | Mdm Pang Wan Ching<br><br>pang_wan_ching@moe.edu.sg                | Mdm Ow Chew Cheng<br><br>ow_chew_cheng@moe.edu.sg               |
 | P1 Integrity      | Mdm Hafiza Bte Hassan<br><br>hafiza_hassan@moe.edu.sg              | Mdm Yang Shiya<br><br>yang_shiya@moe.edu.sg                     |
