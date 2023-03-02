@@ -23,7 +23,7 @@ third_nav_title: Workshops and Briefings
 			<a href="https://drive.google.com/file/d/18tlgcfxmKTa6GpDm7Jia1pzGtSnyf9YL/view?usp=share_link">Parents-Networking-Session-P6-21-Jan2022</a>  
 	</p></b></td></tr>  
 	<tr style="background-color: #f2f2f2;">  
-		<td style="border: 1px solid black; width: 300px;"><b><p style="font-size: 14px;">Parents’ briefing slides on 3rd January 2023:<br>  
+		<td style="border: 1px solid black; width: 300px;"><b><strong style="color: black; font-size: 18;">Parents’ briefing slides on 25th February 2022:</strong><br> 
 			<a href="https://docs.google.com/presentation/d/1J95LIxpj4wPQlljc5ZP1ey47U-7EvbVP/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-parents-2023-Day-1\_10-Tips\_Safety-Security\_HUI-PIN.pptx<br>  
 			</a><a href="https://docs.google.com/presentation/d/1EoEBnqVao9KKTgI3gtwXBiEfiO6GzB2d/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-Parents-2023-dismissal-arrangement</a><br>  
 			<a href="https://docs.google.com/presentation/d/1hJbFdRwr6\_4GasdOlesIEcamvGjUFWtT/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">P1-Day1-Briefing\_SDT</a><br>  
