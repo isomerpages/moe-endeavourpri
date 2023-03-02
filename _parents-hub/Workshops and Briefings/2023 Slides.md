@@ -37,13 +37,13 @@ third_nav_title: Workshops and Briefings
           <a href="https://drive.google.com/file/d/1gA32gIsj9LNkAHsr3kdspRqWb8N3CuK2/view?usp=share_link">2023-P1-English-Language-Briefing-EL <br>
             <br>
           </a>
-          <a href="https://drive.google.com/file/d/1KkqgXroS-TyQRpFoG7mzWQFiBUzI0NZ8/view?usp=sharing">LOWER-PRIMARY-PARENT-NETWORKING-BRIEFING-MTL-24-FEB-2023</a>
+          <a href="https://drive.google.com/file/d/1Jx8QiLOMQ3jujalf4i5VoMCD_VoOKxO0/view?usp=share_link">LOWER-PRIMARY-PARENT-NETWORKING-BRIEFING-MTL-24-FEB-2023</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1p3wgXfVjXNmtCiJJH5LmxR_2RNCO6ZRY/view?usp=share_link">P1-Parents-Briefing-Math-2023</a>
+          <a href="https://drive.google.com/file/d/11tzEOm8_HQ30-kqQPAxTMoAcI81HovEr/view?usp=share_link">P1-Parents-Briefing-Math-2023</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/11kDOaYa5i3_A0iJ-on3GCY9L14ZN2dIu/view?usp=share_link">P1-Parents-Networking-Session_AYH_Briefing_2023</a>
+          <a href="https://drive.google.com/file/d/1NY54TTFaPfiFTKs5Gf1kSU2VXv0ZjRPU/view?usp=share_link">P1-Parents-Networking-Session_AYH_Briefing_2023</a>
           <br>
           <br>
           <a href="https://drive.google.com/file/d/18tlgcfxmKTa6GpDm7Jia1pzGtSnyf9YL/view?usp=share_link">P2-Parents-Networking Session_AYH_Briefing_2023_updated</a>
