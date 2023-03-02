@@ -63,22 +63,19 @@ third_nav_title: Workshops and Briefings
           <strong style="color: black; font-size: 18;">Parents’ briefing slides on 3rd January 2023:</strong>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1YfK17wRU-utxW_uFnouEWKQ92MsQsKsy/view?usp=share_link">25-Feb-2022-P1-English-Language-Briefing <br>
-            <br>
+          <a href="https://drive.google.com/file/d/1YfK17wRU-utxW_uFnouEWKQ92MsQsKsy/view?usp=share_link">Briefing-to-P1-parents-2023-Day-1_10-Tips_Safety-Security_HUI-PIN<br>
           </a>
-          <a href="https://drive.google.com/file/d/1GLS_Y-oBmt_Lw11IW94Bt9pIDyEVVfPG/view?usp=share_link">2022-MT-P1-Parent-Briefing_final <br>
             <br>
+          
+          <a>
           </a>
-          <a href="https://drive.google.com/file/d/1uY0oikxatxevLEx6_pNa2V1ToaUI03eJ/view?usp=share_link">EDP-Library-Revamp-2022-Movements-to-P3_for-Parents-Briefing.pdf <br>
-            <br>
-          </a>
-          <a href="https://drive.google.com/file/d/1kowUi9OtNjZ2asyZn0ThJz58tavf9ZU6/view?usp=share_link">P1-Parents-Briefing-2022-Maths-final</a>
+          <a href="https://drive.google.com/file/d/1kowUi9OtNjZ2asyZn0ThJz58tavf9ZU6/view?usp=share_link">Briefing-to-P1-Parents-2023-dismissal-arrangement</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1oc6fW_OD7DhuaGy3LF5CWnrqTghcQi0O/view?usp=share_link">Parents-Networking-Session-P1-2022</a>
+          <a href="https://drive.google.com/file/d/1oc6fW_OD7DhuaGy3LF5CWnrqTghcQi0O/view?usp=share_link">P1-Day1-Briefing_SDT</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/19TFqrrEaA4WlzzCCDKcWNBBgYD9hocNB/view?usp=share_link">Parents-Networking-Session-P2-2022</a>
+          <a href="https://drive.google.com/file/d/19TFqrrEaA4WlzzCCDKcWNBBgYD9hocNB/view?usp=share_link">Slides-for-P1-parents-on-3-Jan-2023</a>
           <br>
         </b>
       </td>
@@ -87,4 +84,4 @@ third_nav_title: Workshops and Briefings
           <strong style="color: black; font-size: 18;">Parents’ briefing slides on 10th February 2023:</strong>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1FP1jBqAhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">P5-P6-PSLE-2022-Parent-Engagement-20-May-2022 <br>
+          <a href="https://drive.google.com/file/d/1FP1jBqAhmRxhd_J00WbZSTIzeEP1ytxA/view?usp=share_link">P5-P6-PSLE-2022-Parent-Engagement-20-May-2022 <br></a></b></td></tr></tbody></table>
