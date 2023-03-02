@@ -7,7 +7,7 @@ third_nav_title: Workshops and Briefings
 <table style="border: 1px solid black; width: 840px;">  
 	<tbody><tr>  
 		<td style="border: 1px solid black; width: 350px;"><b>
-			<strong style="color: black; font-size: 18;">Parents’ briefing slides on 22nd February 2022:</strong><br>
+			<strong style="color: black; font-size: 18;">Parents’ briefing slides on 22nd February 2022:</strong><br><br>  
 			<a href="https://drive.google.com/file/d/1O8kgUUEYAHGMdq9av9VI_tM1htwy-so5/view?usp=sharing">2022_P4-parents-briefing_HMT<br><br>  
 			</a><a href="https://drive.google.com/file/d/1cILvPj_mKn2x5k_JQe4ioPJrwC1g4ero/view?usp=sharing">Briefing-for-Parents_P3-Science</a><br>  <br>  
 			<a href="https://drive.google.com/file/d/1boVfFmDMiPpvu13fCE93Tmm8pWSMCPDp/view?usp=sharing">EDP-Library-Revamp-2022_for-Parents-Briefing</a><br>  <br>  
@@ -15,7 +15,7 @@ third_nav_title: Workshops and Briefings
 			<a href="https://drive.google.com/file/d/1DxYYt6SuXsKw6ErQOv4AdQJwPaiHxwaX/view?usp=sharing">Parents-Networking-Session-P4-2022_Updated</a><br>  <br>  
 			<a href="https://drive.google.com/file/d/1yujvZrSKv0iijtscaX-Gb4iBAjRjXUCB/view?usp=sharing">Student-Development-Team-P3P4</a>  
 		</b></td>  
-		<td style="border: 1px solid black; width: 350px;"><b>	<strong style="color: black; font-size: 18;">Parents’ briefing slides on 21st January 2022:</strong><br>  
+		<td style="border: 1px solid black; width: 350px;"><b>	<strong style="color: black; font-size: 18;">Parents’ briefing slides on 21st January 2022:</strong><br>  <br>  
 			<a href="https://drive.google.com/file/d/1u3kbfpM4NxEHmGyJigm_rYLiPSmpI9GM/view?usp=sharing">EDP-2022-P5-P6-Parents-Briefing-Maths<br>  <br>  
 			</a><a href="https://drive.google.com/file/d/1KkqgXroS-TyQRpFoG7mzWQFiBUzI0NZ8/view?usp=sharing">P5-and-6-Parents-briefing-Science</a><br>  <br>  
 			<a href="https://drive.google.com/file/d/1p3wgXfVjXNmtCiJJH5LmxR_2RNCO6ZRY/view?usp=share_link">P5-P6-Slides-for-Parents-_-EL-MT-Languages_Updated</a><br>  <br>  
