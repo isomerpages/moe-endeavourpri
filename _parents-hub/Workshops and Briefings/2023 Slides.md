@@ -12,7 +12,7 @@ third_nav_title: Workshops and Briefings
           <strong style="color: black; font-size: 18;">Parents’ briefing slides on 17th February 2023</strong>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1O8kgUUEYAHGMdq9av9VI_tM1htwy-so5/view?usp=sharing">2023_P4-parents-briefing_HMT<br>
+          <a href="https://drive.google.com/file/d/1Vb9qdlRLXpcV96h8PPjZEgPzBDHya5pm/view?usp=share_link">2023_P4-parents-briefing_HMT<br>
             <br>
           </a>
           <a href="https://drive.google.com/file/d/1cILvPj_mKn2x5k_JQe4ioPJrwC1g4ero/view?usp=sharing">Parents-Networking-Session_YH_Briefing_P3_2023</a>
