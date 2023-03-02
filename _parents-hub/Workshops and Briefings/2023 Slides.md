@@ -15,16 +15,16 @@ third_nav_title: Workshops and Briefings
           <a href="https://drive.google.com/file/d/1Vb9qdlRLXpcV96h8PPjZEgPzBDHya5pm/view?usp=share_link">2023_P4-parents-briefing_HMT<br>
             <br>
           </a>
-          <a href="https://drive.google.com/file/d/1cILvPj_mKn2x5k_JQe4ioPJrwC1g4ero/view?usp=sharing">Parents-Networking-Session_YH_Briefing_P3_2023</a>
+          <a href="https://drive.google.com/file/d/1kPpKlBFCAKHQOYXNxZD2K8RGe_NQnJ2k/view?usp=share_link">Parents-Networking-Session_YH_Briefing_P3_2023</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1boVfFmDMiPpvu13fCE93Tmm8pWSMCPDp/view?usp=sharing">Parents-Networking-Session_YH_Briefing_P4_2023</a>
+          <a href="https://drive.google.com/file/d/1TuiNVTi_PFPxcjKXdTU0Y6da-URxaRej/view?usp=share_link">Parents-Networking-Session_YH_Briefing_P4_2023</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1vU5A5yxk93nsfn2Y4gZ_Xt9FIDz60Gjl/view?usp=sharing">Parents-Networking-Session-P3-Feb-2023</a>
+          <a href="Parents-Networking-Session-P3-Feb-2023">Parents-Networking-Session-P3-Feb-2023</a>
           <br>
           <br>
-          <a href="https://drive.google.com/file/d/1DxYYt6SuXsKw6ErQOv4AdQJwPaiHxwaX/view?usp=sharing">Parents-Networking-Session-P4-Feb-2023</a>
+          <a href="https://drive.google.com/file/d/1LR3JfrIRBk0awSjN1bidEdg6Jk6Vz-ll/view?usp=share_link">Parents-Networking-Session-P4-Feb-2023</a>
           <br>
           <br>
         </b>
