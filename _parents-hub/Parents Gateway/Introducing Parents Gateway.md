@@ -20,4 +20,5 @@ No more forms! More features will be rolled out progressively.
 
 iOS: [https://apple.co/2s6twbX](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)
 
-Android: [http://bit.ly/2Rqnj8Y](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)
+Android: [http://bit.ly/2Rqnj8Y](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EKpiTM5axNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
