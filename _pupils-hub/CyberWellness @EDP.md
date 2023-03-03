@@ -1,6 +1,6 @@
 ---
 title: CyberWellness @EDP
-permalink: /pupils-hub/cyberwellness-at-edp
+permalink: /pupils-hub/cyberwellness-at-edp/
 description: ""
 ---
-[http://edpcw.weebly.com/](http://edpcw.weebly.com/)
+###### Begin your CyberWellness Journey by clicking [here!](https://www.freecodecamp.org/news/how-to-change-text-color-in-html/)!
