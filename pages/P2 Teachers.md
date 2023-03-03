@@ -11,5 +11,5 @@ description: ""
 | P2<br> Innovation     | Mdm Siti Nur Hajjar<br><br>siti_nur_hajjar_mohammad@moe.edu.sg    | Mdm Zheng Li<br><br>zheng_li@moe.edu.sg                            |
 | P2<br> Integrity      | Ms Kirenjit Kaur<br><br>kirenjit_kaur_gill@moe.edu.sg             | Ms Farah Adibah Binte Johari<br><br>farah_adibah_johari@moe.edu.sg |
 | P2 Perseverance   | Ms Sophia Chia<br><br>chia_mui_choo_sophia@moe.edu.sg             | Ms Teo Pauline<br><br>teo_pauline@moe.edu.sg                       |
-| P2 <br>Respect        | Mdm Indarani d/o <br><br>Kasinathanindarani_kasinathan@moe.edu.sg | Mdm Siti Patimah Binte Abd <br><br>Razaksiti_patimah@moe.edu.sg    |
+| P2 <br>Respect        | Mdm Indarani d/o <br><br>Kasinathanindarani_kasinathan@moe.edu.sg | Mdm Siti Patimah Binte Abd Razak <br><br>siti_patimah@moe.edu.sg    |
 | P2 Responsibility | Mdm Wong Lin Hui<br><br>wong_lin_hui@moe.edu.sg                   | Mr Selwyn Lim<br><br>selwyn_lim_a@moe.edu.sg                       |
