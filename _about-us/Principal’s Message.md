@@ -3,7 +3,7 @@ title: Principal’s Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-<marquee><p style="text-align:center;font-size: 26px; color: blue; font-weight: bold;">Principal’s Message</p></marquee>
+<p style="text-align:center;font-size: 26px; color: blue; font-weight: bold;">Principal’s Message</p>
 
 Dear Parents,
 
