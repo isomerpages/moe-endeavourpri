@@ -4,7 +4,6 @@ permalink: /co-curricular-activities/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 <p style=";font-size: 26px; color: blue; font-weight: bold;">Co-Curricular Activities (CCAs)</p>
 CCAs play an important role in developing our students holistically. Through CCA, students discover their interests and talents. Friendships are forged among peers from diverse backgrounds as they learn, play and grow together. At the same time, students develop values and 21st&nbsp; Century Competencies that will prepare them for a rapidly changing world. Participation in CCA fosters social integration and deepens students’ sense of belonging, commitment and sense of responsibility to school, community and nation.
 
@@ -72,6 +71,10 @@ Information for parents:
 
 [Term 3 CCA Schedule](/files/CCA-status-poster-2022-Term-3-A3.pdf)
 
-[2022 CCA Venue](/files/CCA-Teachers-2022_Term-3_School_Website-1.pdf)
+[Term 3 CCA Schedule](/files/CCA-status-poster-2022-Term-3-A3.pdf)
+
+[Term 3 CCA Schedule](/files/CCA-status-poster-2022-Term-3-A3.pdf)
+
+
 
 _Updated as of 23 June 2022_
