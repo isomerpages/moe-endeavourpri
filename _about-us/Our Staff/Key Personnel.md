@@ -26,8 +26,8 @@ third_nav_title: Our Staff
 
 | <strong style="color: blue; font-size: 24px; font-family: Arial;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Year Head                                                                                   | Mr Lim Chin Boon Matt<br><br>lim_chin_boon@moe.edu.sg                            |
-| Year Head                                                                                   | Mdm Norashinah Md Yusope<br><br>norashinah_md_yusope@moe.edu.sg                  |
+| <strong style="color: black; font-size: 18px;">Year Head</strong>                                                                                    | Mr Lim Chin Boon Matt<br><br>lim_chin_boon@moe.edu.sg                            |
+| <strong style="color: black; font-size: 18px;">Year Head</strong>                         | Mdm Norashinah Md Yusope<br><br>norashinah_md_yusope@moe.edu.sg        |
 | Assistant Year Head                                                                         | Mrs Tan Hock Heng @ Yee Min<br><br>tan_hock_heng@moe.edu.sg                      |
 | Assistant Year Head                                                                         | Mr Mohamed Sani Bin Mohamed Hafid<br><br>mohamed_sani@moe.edu.sg                 |
 | Assistant Year Head                                                                         | Ms Wong Lin Hui<br><br>wong_lin_hui@moe.edu.sg                                   |
