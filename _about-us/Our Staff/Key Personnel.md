@@ -4,7 +4,7 @@ permalink: /key-personnel/
 description: ""
 third_nav_title: Our Staff
 ---
-|  <strong style="color: blue; font-size: 24px;">SCHOOL LEADERS</strong>  |                         |
+|  <strong style="color: blue; font-size: 24px; font-family: Arial;">SCHOOL LEADERS</strong>  |                         |
 |------------------|----------------------------------------------------|
 |<strong style="color: black; font-size: 18px;">Principal</strong>| **Mr Thomas Koh**<br><br>thomas_koh@schools.gov.sg     |
 | <strong style="color: black; font-size: 18px;">Vice Principal 1 </strong>| Ms Chua Hui Pin<br><br>CHUA_Hui_Pin@schools.gov.sg |
@@ -12,7 +12,7 @@ third_nav_title: Our Staff
 
 
 
-| <strong style="color: blue; font-size: 24px;">HEADS OF DEPARTMENT (HOD) </strong>   |                                                       |
+| <strong style="color: blue; font-size: 24px; font-family: Arial;">HEADS OF DEPARTMENT (HOD)</strong>   |                                                       |
 |------------------------------------------------------------------|-----------------------------------------------------------------|
 | School Staff Developer                                                    | Mrs Theresa Lee<br><br>chu_ka_hing_theresa@moe.edu.sg           |
 | HOD (Character & Citizenship Education)                                   | Mr Lee Beng Lim<br><br>lee_beng_lim@moe.edu.sg                  |
