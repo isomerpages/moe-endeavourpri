@@ -24,7 +24,7 @@ third_nav_title: Our Staff
 | HOD (Aesthetics)                                                          | Mdm Gan Ai Lee<br><br>gan_ai_lee@moe.edu.sg                     |
 | HOD (ICT)                                                                 | Mr Zhuo Weiwen<br><br>zhuo_weiwen@moe.edu.sg                |
 
-| <strong style="color: blue; font-size: 24px;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
+| <strong style="color: blue; font-size: 24px; font-family: Arial;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Year Head                                                                                   | Mr Lim Chin Boon Matt<br><br>lim_chin_boon@moe.edu.sg                            |
 | Year Head                                                                                   | Mdm Norashinah Md Yusope<br><br>norashinah_md_yusope@moe.edu.sg                  |
