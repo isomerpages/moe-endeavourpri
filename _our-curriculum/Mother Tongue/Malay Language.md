@@ -4,7 +4,7 @@ permalink: /departments/malay-department/
 description: ""
 third_nav_title: Mother Tongue
 ---
-Click on the banner below to access the portal!![https://ujana-ilmu-edp.carrd.co/](/images/ML%20Dept.png)
+Click [here](https://ujana-ilmu-edp.carrd.co/) to access the portal!![https://ujana-ilmu-edp.carrd.co/](/images/ML%20Dept.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GGALPOO7-MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
