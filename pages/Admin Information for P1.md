@@ -3,9 +3,6 @@ title: Admin Information for P1
 permalink: /permalink/
 description: ""
 ---
-
-  
-
 <div style="background-color: #204795; color: #ffffff; font-size: 24px; padding: 10px; text-align: center;">Admin Information for P1</div><br>
 
 
