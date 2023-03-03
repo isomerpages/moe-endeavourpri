@@ -7,8 +7,8 @@ third_nav_title: Our Staff
 |  <strong style="color: blue; font-size: 24px; font-family: Arial;">SCHOOL LEADERS</strong>  |                         |
 |------------------|----------------------------------------------------|
 |<strong style="color: black; font-size: 18px;">Principal</strong>| **Mr Thomas Koh**<br><br><a href="mailto:thomas_koh@schools.gov.sg">thomas_koh@schools.gov.sg</a>     |
-| <strong style="color: black; font-size: 18px;">Vice Principal 1 </strong>| Ms Chua Hui Pin<br><br>CHUA_Hui_Pin@schools.gov.sg |
-| <strong style="color: black; font-size: 18px;">Vice Principal 2</strong> | Ms Fauziah Daud<br><br>fauziah_daud@schools.gov.sg |
+| <strong style="color: black; font-size: 18px;">Vice Principal 1 </strong>| **Chua Hui Pin**<br>CHUA_Hui_Pin@schools.gov.sg |
+| <strong style="color: black; font-size: 18px;">Vice Principal 2</strong> | **Fauziah Daud**<br>fauziah_daud@schools.gov.sg |
 
 
 
