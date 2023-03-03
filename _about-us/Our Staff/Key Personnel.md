@@ -4,7 +4,7 @@ permalink: /key-personnel/
 description: ""
 third_nav_title: Our Staff
 ---
-|  <strong style="color: blue; font-size: 24px; font-family: Arial;">SCHOOL LEADERS</strong>  |                         |
+|  <strong style="color: blue; font-size: 27px; font-family: Arial;">SCHOOL LEADERS</strong>  |                         |
 |------------------|----------------------------------------------------|
 |<strong style="color: black; font-size: 18px;">Principal</strong>| **Mr Thomas Koh**<br><br><a href="mailto:thomas_koh@schools.gov.sg">thomas_koh@schools.gov.sg</a>     |
 | <strong style="color: black; font-size: 18px;">Vice Principal 1 </strong>| **Chua Hui Pin**<br><br><a href="mailto:CHUA_Hui_Pin@schools.gov.sg">CHUA_Hui_Pin@schools.gov.sg</a> |
@@ -12,7 +12,7 @@ third_nav_title: Our Staff
 
 
 
-| <strong style="color: blue; font-size: 24px; font-family: Arial;">HEADS OF DEPARTMENT (HOD)</strong>   |                                                       |
+| <strong style="color: blue; font-size: 27px; font-family: Arial;">HEADS OF DEPARTMENT (HOD)</strong>   |                                                       |
 |------------------------------------------------------------------|-----------------------------------------------------------------|
 | <strong style="color: black; font-size: 18px;">School Staff Developer</strong>    | **Theresa Lee**<br><br><a href="mailto:chu_ka_hing_theresa@moe.edu.sg">chu_ka_hing_theresa@moe.edu.sg           |
 | <strong style="color: black; font-size: 18px;">HOD (Character & Citizenship Education) </strong>| **Lee Beng Lim**<br><br><a href="mailto:lee_beng_lim@moe.edu.sg ">lee_beng_lim@moe.edu.sg                  |
@@ -24,7 +24,7 @@ third_nav_title: Our Staff
 | <strong style="color: black; font-size: 18px;">HOD (Aesthetics)</strong>                                                           | **Mdm Gan Ai Lee**<br><br>gan_ai_lee@moe.edu.sg                     |
 | <strong style="color: black; font-size: 18px;">HOD (ICT)</strong>                                                                   | **Mr Zhuo Weiwen**<br><br>zhuo_weiwen@moe.edu.sg                |
 
-| <strong style="color: blue; font-size: 24px; font-family: Arial;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
+| <strong style="color: blue; font-size: 27px; font-family: Arial;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | <strong style="color: black; font-size: 18px;">Year Head</strong>                                                                                    | **Mr Lim Chin Boon Matt**<br><br>lim_chin_boon@moe.edu.sg                            |
 | <strong style="color: black; font-size: 18px;">Year Head</strong>                         | Mdm Norashinah Md Yusope<br><br>norashinah_md_yusope@moe.edu.sg        |
