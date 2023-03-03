@@ -43,7 +43,6 @@ description: ""
                         <br style="box-sizing:inherit">
                     </b>
                 </strong>
-                </strong>
             </td>
             <td style="box-sizing:inherit;padding:5px 10px;border:1px solid #000;width:263px;text-align:center">
                 <strong style="box-sizing:inherit;font-weight:700">
