@@ -15,8 +15,8 @@ third_nav_title: Our Staff
 | <strong style="color: blue; font-size: 24px; font-family: Arial;">HEADS OF DEPARTMENT (HOD)</strong>   |                                                       |
 |------------------------------------------------------------------|-----------------------------------------------------------------|
 | <strong style="color: black; font-size: 18px;">School Staff Developer</strong>    | Mrs Theresa Lee<br><br>chu_ka_hing_theresa@moe.edu.sg           |
-| <strong style="color: black; font-size: 18px;">HOD (Character & Citizenship Education) </strong>                                  | Mr Lee Beng Lim<br><br>lee_beng_lim@moe.edu.sg                  |
-| HOD (Co-curricular Activities [CCA]/ Physical Education [PE]/ Discipline) | Mr Yaidi Bin Mohamad<br><br>yaidi_b_mohamad@moe.edu.sg          |
+| <strong style="color: black; font-size: 18px;">HOD (Character & Citizenship Education) </strong>| Mr Lee Beng Lim<br><br>lee_beng_lim@moe.edu.sg                  |
+| <strong style="color: black; font-size: 18px;">HOD (Co-curricular Activities [CCA]/ Physical Education [PE]/ Discipline) </strong> | Mr Yaidi Bin Mohamad<br><br>yaidi_b_mohamad@moe.edu.sg          |
 | HOD (English Language)                                                    | Mdm Vijayashree d/o Retnam<br><br>vijayashree_retnam@moe.edu.sg |
 | HOD (Science)                                                             | Mr Lo Zhi Hui Jonathan<br><br>lo_zhi_hui_jonathan@moe.edu.sg    |
 | HOD (Mathematics)                                                         | Ms See Wei Lin Anny<br><br>see_wei_lin_anny@moe.edu.sg          |
