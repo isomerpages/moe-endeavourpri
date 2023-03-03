@@ -25,7 +25,7 @@ CCAs play an important role in developing our students holistically. Through CCA
 
 ![](/images/CLUBS-SOCIETIES.png)
 
-![](/images/ART-CLUB-1.png)
+![](/images/art%20club_new.png)
 
 ![](/images/ICT.png)
 
@@ -33,13 +33,13 @@ CCAs play an important role in developing our students holistically. Through CCA
 
 ![](/images/UNIFORMED-GROOUPS.png)
 
-![](/images/BROWNIES.png)
+![](/images/brownies1.png)
 
-![](/images/SCOUTS.png)
+![](/images/scouts1.png)
 
 ![](/images/PHYSICAL-SPORTS.png)
 
-![](/images/BADMINTON.png)
+![](/images/badmin.png)
 
 ![](/images/BASKETBALL.png)
 
@@ -51,7 +51,7 @@ CCAs play an important role in developing our students holistically. Through CCA
 
 ![](/images/TABLE-TENNIS.png)
 
-![](/images/VOLLEYBALL.png)
+![](/images/volley1.png)
 
 #### _**Talent Identification and Development Programme**_
 
