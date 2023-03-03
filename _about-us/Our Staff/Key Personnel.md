@@ -30,8 +30,8 @@ third_nav_title: Our Staff
 | <strong style="color: black; font-size: 18px;">Year Head</strong>                         | Mdm Norashinah Md Yusope<br><br>norashinah_md_yusope@moe.edu.sg        |
 | <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>                                                                         | Mrs Tan Hock Heng @ Yee Min<br><br>tan_hock_heng@moe.edu.sg                      |
 | <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>         | Mr Mohamed Sani Bin Mohamed Hafid<br><br>mohamed_sani@moe.edu.sg            |
-| Assistant Year Head                                                                         | Ms Wong Lin Hui<br><br>wong_lin_hui@moe.edu.sg                                   |
-| Subject Head (Chinese Language)                                                             | Ms Peh Chieh Yin<br><br>peh_chieh_yin@moe.edu.sg                                 |
+| <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>                     | Ms Wong Lin Hui<br><br>wong_lin_hui@moe.edu.sg                                   |
+| <strong style="color: black; font-size: 18px;">Subject Head (Chinese Language) </strong>                                                            | Ms Peh Chieh Yin<br><br>peh_chieh_yin@moe.edu.sg                                 |
 | Subject Head (Information and Communications Technology [ICT]/ School Cockpit Co-ordinator) | Miss Teo Pauline<br><br>teo_pauline@moe.edu.sg                                   |
 | Subject Head (Character and Citizen Education [CCE])                                        | Mr Ramadhan s/o Isaahak <br><br>Piperdyramadhan_isaahak_piperdy@moe.edu.sg       |
 | SH (Character and Citizenship Education [CME]/ Values in Action [VIA])                      | Mrs Chia-Tjen Sak Tju Cindy<br><br>chia-_tjen_sak_tju@moe.edu.sg                 |
