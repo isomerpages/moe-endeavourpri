@@ -22,7 +22,7 @@ third_nav_title: Our Staff
 | HOD (Mathematics)                                                         | Ms See Wei Lin Anny<br><br>see_wei_lin_anny@moe.edu.sg          |
 | HOD (Mother Tongue)                                                       | Mdm Tan Yian Loo<br><br>tan_yian_loo@moe.edu.sg                 |
 | HOD (Aesthetics)                                                          | Mdm Gan Ai Lee<br><br>gan_ai_lee@moe.edu.sg                     |
-| HOD (ICT)                                                                 | Mr Zhuo Weiwen<br><br>zhuo_weiwen@schools.gov.sg                |
+| HOD (ICT)                                                                 | Mr Zhuo Weiwen<br><br>zhuo_weiwen@moe.edu.sg                |
 
 | <strong style="color: blue; font-size: 24px;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
