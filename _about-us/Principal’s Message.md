@@ -4,9 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 <p style="text-align:center;font-size: 26px; color: blue; font-weight: bold;">Principal’s Message</p>
-<p><span class="blink">Your blinking text here</span></p>  <style> @keyframes blink {   0% { visibility: visible; }   50% { visibility: hidden; } }  .blink {   animation: blink 1s infinite; } </style>`
 
-This code uses CSS animations to set up a blinking effect on the `<span>` element. The `@keyframes` rule defines an animation that toggles the visibility of the element between visible and hidden at 50% intervals. The `.blink` class applies the animation to the element with a duration of 1
 Dear Parents,
 
 At Endeavour Primary, we believe in developing our students holistically and we use the CAMPS domains to plan our school programmes and activities.
