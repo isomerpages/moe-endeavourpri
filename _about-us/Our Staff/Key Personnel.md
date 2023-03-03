@@ -14,10 +14,10 @@ third_nav_title: Our Staff
 
 | <strong style="color: blue; font-size: 24px; font-family: Arial;">HEADS OF DEPARTMENT (HOD)</strong>   |                                                       |
 |------------------------------------------------------------------|-----------------------------------------------------------------|
-| <strong style="color: black; font-size: 18px;">School Staff Developer</strong>    | **Theresa Lee**<br>chu_ka_hing_theresa@moe.edu.sg           |
-| <strong style="color: black; font-size: 18px;">HOD (Character & Citizenship Education) </strong>| **Lee Beng Lim**<br>lee_beng_lim@moe.edu.sg                  |
-| <strong style="color: black; font-size: 18px;">HOD (Co-curricular Activities [CCA]/ Physical Education [PE]/ Discipline) </strong> | **Yaidi Bin Mohamad**<br>yaidi_b_mohamad@moe.edu.sg          |
-| <strong style="color: black; font-size: 18px;">HOD (English Language) </strong>                                                   | **Vijayashree d/o Retnam**<br>vijayashree_retnam@moe.edu.sg |
+| <strong style="color: black; font-size: 18px;">School Staff Developer</strong>    | **Theresa Lee**<br><br>chu_ka_hing_theresa@moe.edu.sg           |
+| <strong style="color: black; font-size: 18px;">HOD (Character & Citizenship Education) </strong>| **Lee Beng Lim**<br><br>lee_beng_lim@moe.edu.sg                  |
+| <strong style="color: black; font-size: 18px;">HOD (Co-curricular Activities [CCA]/ Physical Education [PE]/ Discipline) </strong> | **Yaidi Bin Mohamad**<br><br>yaidi_b_mohamad@moe.edu.sg          |
+| <strong style="color: black; font-size: 18px;">HOD (English Language) </strong>                                                   | **Vijayashree d/o Retnam**<br><br>vijayashree_retnam@moe.edu.sg |
 | <strong style="color: black; font-size: 18px;">HOD (Science)</strong>                                                            | **Mr Lo Zhi Hui Jonathan**<br><br>lo_zhi_hui_jonathan@moe.edu.sg    |
 | <strong style="color: black; font-size: 18px;">HOD (Mathematics)</strong>                                                         | **Ms See Wei Lin Anny**<br><br>see_wei_lin_anny@moe.edu.sg          |
 | <strong style="color: black; font-size: 18px;">HOD (Mother Tongue)</strong>                                                       | **Mdm Tan Yian Loo**<br><br>tan_yian_loo@moe.edu.sg                 |
