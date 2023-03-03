@@ -36,8 +36,8 @@ third_nav_title: Our Staff
 |  <strong style="color: black; font-size: 18px;">Subject Head (Character and Citizen Education [CCE]) </strong>                                        | Mr Ramadhan s/o Isaahak <br><br>Piperdyramadhan_isaahak_piperdy@moe.edu.sg       |
 | <strong style="color: black; font-size: 18px;">SH (Character and Citizenship Education [CME]/ Values in Action [VIA]) </strong>                      | Mrs Chia-Tjen Sak Tju Cindy<br><br>chia-_tjen_sak_tju@moe.edu.sg                 |
 | <strong style="color: black; font-size: 18px;">SH (National Education [NE] and Social Studies [SS])  </strong>                                      | Miss Lim Shao Lan<br><br>lim_shao_lan@moe.edu.sg                                 |
-| SH (Co-curricular Activities [CCA]/ Physical Education [PE])                                | Mr Suhardi Bin Marino<br><br>suhardi_marino@moe.edu.sg                           |
-| Level Head (English Language)                                                               | Mrs Goh Wong Wei Ling<br><br>wong_wei_ling_a@moe.edu.sg                          |
+| <strong style="color: black; font-size: 18px;">SH (Co-curricular Activities [CCA]/ Physical Education [PE]) </strong>                               | Mr Suhardi Bin Marino<br><br>suhardi_marino@moe.edu.sg                           |
+| <strong style="color: black; font-size: 18px;">Level Head (English Language)  </strong>                                                              | Mrs Goh Wong Wei Ling<br><br>wong_wei_ling_a@moe.edu.sg                          |
 | Level Head (Science)                                                                        | Ms Reena Shukla d/o Prempal Shukal<br><br>reena_shukla_prempal_shukal@moe.edu.sg |
 | Level Head (Mathematics)                                                                    | Mdm Nurhidayah Bte Mohamed Shatiff<br><br>nurhidayah_mohamed_shariff@moe.edu.sg  |
 | Lead Teacher (Science)                                                                      | Mdm Raveendran Pavithra<br><br>raveendran_pavithra@moe.edu.sg                    |
