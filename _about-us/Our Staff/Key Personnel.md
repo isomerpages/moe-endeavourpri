@@ -26,9 +26,9 @@ third_nav_title: Our Staff
 
 | <strong style="color: blue; font-size: 27px; font-family: Arial;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| <strong style="color: black; font-size: 18px;">Year Head</strong>                                                                                    | **Mr Lim Chin Boon Matt**<br><br>lim_chin_boon@moe.edu.sg                            |
-| <strong style="color: black; font-size: 18px;">Year Head</strong>                         | Mdm Norashinah Md Yusope<br><br>norashinah_md_yusope@moe.edu.sg        |
-| <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>                                                                         | **Mrs Tan Hock Heng @ Yee Min**<br><br>tan_hock_heng@moe.edu.sg                      |
+| <strong style="color: black; font-size: 18px;">Year Head</strong>                                                                                    | **Mr Lim Chin Boon Matt**<br><br><a href="mailto:lim_chin_boon@moe.edu.sg">lim_chin_boon@moe.edu.sg                            |
+| <strong style="color: black; font-size: 18px;">Year Head</strong>                         | Mdm Norashinah Md Yusope<br><br><a href="mailto:norashinah_md_yusope@moe.edu.sg">norashinah_md_yusope@moe.edu.sg        |
+| <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>                                                                         | **Mrs Tan Hock Heng @ Yee Min**<br><br><a href="mailto:tan_hock_heng@moe.edu.sg">tan_hock_heng@moe.edu.sg                      |
 | <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>         | Mr Mohamed Sani Bin Mohamed Hafid<br><br>mohamed_sani@moe.edu.sg            |
 | <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>                     | **Ms Wong Lin Hui**<br><br>wong_lin_hui@moe.edu.sg                                   |
 | <strong style="color: black; font-size: 18px;">Subject Head (Chinese Language) </strong>                                                            | **Ms Peh Chieh Yin**<br><br>peh_chieh_yin@moe.edu.sg                                 |
