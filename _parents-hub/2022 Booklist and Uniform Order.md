@@ -10,9 +10,9 @@ Please click on the links below for the respective levels’ booklist for 2023:
 
 
 
-| Primary 1 | Primary 2 | Primary 3 |
-| -------- | -------- | -------- |
-| **Primary 4**    | Primary 5     | Primary 6  |
+| [Primary&nbsp;1](/files/P1-2023-Booklist.pdf) | [Primary&nbsp;2](/files/P2-2023-Booklist.pdf) | [Primary&nbsp;3](/files/P3-2023-Booklist.pdf)| [Primary&nbsp;4](/files/P4-2023-Booklist.pdf)||
+| -------- | -------- | -------- | - | - |
+|[**Primary 5**](/files/P5-2023-Booklist.pdf)   | [**Primary 5 Foundation**](/files/P5-Foundation-2023-Booklist.pdf) | [**Primary 6**](/files/P6-2023-Booklist.pdf)| [**Primary 6 Foundation**](/files/P6-Foundation-2023-Booklist.pdf)
 
 
 
