@@ -69,12 +69,9 @@ CCA Experience is about providing opportunities for Primary 3 students to have a
 
 Information for parents:
 
-[Term 3 CCA Schedule](/files/CCA-status-poster-2022-Term-3-A3.pdf)
+[Term 1 CCA Schedule](/files/CCA-status-poster-2023-Term-1-A3-updated.pdf)
 
-[Term 3 CCA Schedule](/files/CCA-status-poster-2022-Term-3-A3.pdf)
-
-[Term 3 CCA Schedule](/files/CCA-status-poster-2022-Term-3-A3.pdf)
-
+[  Updated as of 3 January 2023 ](/files/CCA-status-poster-2022-Term-3-A3.pdf)
 
 
 _Updated as of 23 June 2022_
