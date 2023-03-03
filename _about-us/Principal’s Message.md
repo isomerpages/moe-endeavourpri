@@ -4,7 +4,6 @@ permalink: /about-us/principals-message/
 description: ""
 ---
 <p style="text-align:center;font-size: 26px; color: blue; font-weight: bold;">Principal’s Message</p>
-
 Dear Parents,
 
 At Endeavour Primary, we believe in developing our students holistically and we use the CAMPS domains to plan our school programmes and activities.
