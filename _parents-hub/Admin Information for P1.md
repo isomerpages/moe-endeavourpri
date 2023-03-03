@@ -5,7 +5,7 @@ description: ""
 ---
 <div style="background-color: #204795; color: #ffffff; font-size: 24px; padding: 10px; text-align: center;">Admin Information for P1</div><br>
 
-[Admin-Information-for-P1-Parents-Slides](files/Admin-Information-for-P1-Parents-Slides.pdf)<br>
+[Admin-Information-for-P1-Parents-Slides](/files/Admin-Information-for-P1-Parents-Slides.pdf)<br>
 [TEST](files/Admin-Information-for-P1-Parents-Slides.pdf)
 
 
