@@ -33,8 +33,8 @@ third_nav_title: Our Staff
 | <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>                     | Ms Wong Lin Hui<br><br>wong_lin_hui@moe.edu.sg                                   |
 | <strong style="color: black; font-size: 18px;">Subject Head (Chinese Language) </strong>                                                            | Ms Peh Chieh Yin<br><br>peh_chieh_yin@moe.edu.sg                                 |
 | <strong style="color: black; font-size: 18px;">Subject Head (Information and Communications Technology [ICT]/ School Cockpit Co-ordinator) </strong> | Miss Teo Pauline<br><br>teo_pauline@moe.edu.sg                                   |
-| Subject Head (Character and Citizen Education [CCE])                                        | Mr Ramadhan s/o Isaahak <br><br>Piperdyramadhan_isaahak_piperdy@moe.edu.sg       |
-| SH (Character and Citizenship Education [CME]/ Values in Action [VIA])                      | Mrs Chia-Tjen Sak Tju Cindy<br><br>chia-_tjen_sak_tju@moe.edu.sg                 |
+|  <strong style="color: black; font-size: 18px;">Subject Head (Character and Citizen Education [CCE]) </strong>                                        | Mr Ramadhan s/o Isaahak <br><br>Piperdyramadhan_isaahak_piperdy@moe.edu.sg       |
+| <strong style="color: black; font-size: 18px;">SH (Character and Citizenship Education [CME]/ Values in Action [VIA]) </strong>                      | Mrs Chia-Tjen Sak Tju Cindy<br><br>chia-_tjen_sak_tju@moe.edu.sg                 |
 | SH (National Education [NE] and Social Studies [SS])                                        | Miss Lim Shao Lan<br><br>lim_shao_lan@moe.edu.sg                                 |
 | SH (Co-curricular Activities [CCA]/ Physical Education [PE])                                | Mr Suhardi Bin Marino<br><br>suhardi_marino@moe.edu.sg                           |
 | Level Head (English Language)                                                               | Mrs Goh Wong Wei Ling<br><br>wong_wei_ling_a@moe.edu.sg                          |
