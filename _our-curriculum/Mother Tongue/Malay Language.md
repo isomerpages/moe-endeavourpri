@@ -4,6 +4,10 @@ permalink: /departments/malay-department/
 description: ""
 third_nav_title: Mother Tongue
 ---
+Click on the banner below to access the portal!![https://ujana-ilmu-edp.carrd.co/](/images/ML%20Dept.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GGALPOO7-MU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ![](/images/malay_vision.jpg)
 
 <strong style="color: blue;">Vision:</strong>
@@ -12,7 +16,8 @@ To lead pupils to know and understand Malay language and culture as part of mult
 
 <strong style="color: blue;">Mission:</strong>
 <br>
-To develop each child to become a person with the qualities of “Arif Budiman” – a learned person who contributes to society.
+To develop each child to become a person with the qualities of “Arif Budiman” – a learned person who contributes to society.<br>
+
 
 ![](/images/malay_programme_highlights.jpg)
 
