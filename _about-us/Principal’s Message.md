@@ -5,9 +5,6 @@ description: ""
 ---
 <div style="background-color: #204795; color: #ffffff; font-size: 24px; padding: 10px; text-align: center;">Principal’s Message</div><br>
 
-
-
-
 Dear Parents,
 
 At Endeavour Primary, we believe in developing our students holistically and we use the CAMPS domains to plan our school programmes and activities.
