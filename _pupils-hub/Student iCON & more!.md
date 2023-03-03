@@ -85,6 +85,6 @@ a) Contact the school’s General Office @ 6482 4650 and provide your child’s 
 Operating Hours:&nbsp;&nbsp;  
 Mondays to Thursdays: 7.30 a.m.to 5.30 p.m.  
 Fridays: 7 a.m. to 5 p.m.  
-\*\*Closed&nbsp;on Saturdays, Sundays and Public Holidays
+\*\*<font color="RED">Closed</font>&nbsp;on Saturdays, Sundays and Public Holidays
 
 b) Alternatively, you could fill out the Student iCON&nbsp;[**Password Reset Form here**](https://form.gov.sg/622591f0b89fad0012ff253c)
