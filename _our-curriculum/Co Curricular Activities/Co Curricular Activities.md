@@ -17,11 +17,11 @@ CCAs play an important role in developing our students holistically. Through CCA
 
 ![](/images/GUITAR.png)
 
-![](/images/GUZHENG.png)
+![](/images/guzheng1.png)
 
 ![](/images/ML-DANCE.png)
 
-![](/images/WUSHU.png)
+![](/images/wushu1.png)
 
 ![](/images/CLUBS-SOCIETIES.png)
 
