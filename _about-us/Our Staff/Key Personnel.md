@@ -28,8 +28,8 @@ third_nav_title: Our Staff
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | <strong style="color: black; font-size: 18px;">Year Head</strong>                                                                                    | Mr Lim Chin Boon Matt<br><br>lim_chin_boon@moe.edu.sg                            |
 | <strong style="color: black; font-size: 18px;">Year Head</strong>                         | Mdm Norashinah Md Yusope<br><br>norashinah_md_yusope@moe.edu.sg        |
-| Assistant Year Head                                                                         | Mrs Tan Hock Heng @ Yee Min<br><br>tan_hock_heng@moe.edu.sg                      |
-| Assistant Year Head                                                                         | Mr Mohamed Sani Bin Mohamed Hafid<br><br>mohamed_sani@moe.edu.sg                 |
+| <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>                                                                         | Mrs Tan Hock Heng @ Yee Min<br><br>tan_hock_heng@moe.edu.sg                      |
+| <strong style="color: black; font-size: 18px;">Assistant Year Head</strong>         | Mr Mohamed Sani Bin Mohamed Hafid<br><br>mohamed_sani@moe.edu.sg            |
 | Assistant Year Head                                                                         | Ms Wong Lin Hui<br><br>wong_lin_hui@moe.edu.sg                                   |
 | Subject Head (Chinese Language)                                                             | Ms Peh Chieh Yin<br><br>peh_chieh_yin@moe.edu.sg                                 |
 | Subject Head (Information and Communications Technology [ICT]/ School Cockpit Co-ordinator) | Miss Teo Pauline<br><br>teo_pauline@moe.edu.sg                                   |
