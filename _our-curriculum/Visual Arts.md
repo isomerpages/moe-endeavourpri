@@ -67,7 +67,7 @@ Our Primary Six students were introduced to a new art concept known as Notan whi
 Welcome to our online Endeavour Art Gallery! Walk virtually through the virtual art exhibition that features the Notan artworks from our Primary Six artists. Enjoy the self-guided tour!
 
 Useful Tips:  
-(1) Begin by clicking on the Virtual Art Exhibition link below!
+(1) Begin by clicking on the Virtual Art Exhibition link below!<br>
 (2) Click on the footprints to navigate around the art gallery.  
 (3) Click on each artwork to view the artist’s name and a closer look at the details.  
 (4) Click on the 4-cornered square icon on the right to view the gallery in full screen.
