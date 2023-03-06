@@ -43,7 +43,7 @@ Students have many opportunities to explore scientific concepts through hands-on
 
 ### **SCIENTIFIC LITERACY**
 
-In Programme for International Student Assessment (PISA) study, Scientific Literacy is defined as the ability to understand the characteristics of science and the significance of science in our modern world, to apply scientific knowledge, identify issues, describe scientific phenomena, draw conclusions based on evidence, and the willingness to reflect on and engage with scientific ideas and subjects. (_source from_ [_https://www.pisa.tum.de/en/domains/scientific-literacy_](https://www.pisa.tum.de/en/domains/scientific-literacy/)[_/_](https://www.pisa.tum.de/en/domains/scientific-literacy/) _)_.
+In Programme for International Student Assessment (PISA) study, Scientific Literacy is defined as the ability to understand the characteristics of science and the significance of science in our modern world, to apply scientific knowledge, identify issues, describe scientific phenomena, draw conclusions based on evidence, and the willingness to reflect on and engage with scientific ideas and subjects. 
 
 Students need to acquire the language of Science to be specific in their scientific explanations. Thus, customised packages and thinking frame (Concept- Cause and Effect) are developed for specific topics to provide students with the language to understand and explain scientific phenomena.
 
