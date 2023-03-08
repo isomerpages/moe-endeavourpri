@@ -14,7 +14,6 @@ description: ""
 
 <div style="display: flex;">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtsRHAOVxmQ-wGzsR8PRcaJLRzejdv8u-hEEiQAvJeX-I_e8epztcFFj9JRIZfDaA35Qsqqm_j_VYW/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="450" height="400" allowfullscreen="true"></iframe>
-	</a>
 	<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold; margin-top: 130px; padding: 0px; background-color: white; text-shadow: 0px 1px 2px blue; min-width: 15vw;">Outstanding School Partner Award <br> 2022</p>
 </div>
 
