@@ -4,7 +4,7 @@ permalink: /other-support-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-| <strong style="color: blue; font-size: 20px;">Other Support Staff</strong>   |   |
+| <strong style="color: blue; font-size: 20px;">Operations Support Staff</strong>   |   |
 |--------------------|--------------------------------------------------------|
 | Operations Manager | Mr Liew Pak Siang<br><br>LIEW_Pak_Siang@schools.gov.sg |
 | OSO                | Mdm Faridah Binte Yusoff                               |
