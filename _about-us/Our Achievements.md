@@ -3,24 +3,6 @@ title: Our Achievements
 permalink: /about-us/our-achievements/
 description: ""
 ---
-<div style="display: flex;">
-	<a href="https://drive.google.com/file/d/1Gs95j490-hoDHJxKKAhoLmba6n7wjEBL/view?usp=sharing">
-		<img src="https://drive.google.com/uc?id=1Gs95j490-hoDHJxKKAhoLmba6n7wjEBL" style="width: 900px; height: auto;">
-	</a>
-	<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold; margin-top: 130px; padding: 0px; background-color: white; text-shadow: 0px 1px 2px blue; min-width: 15vw;">Outstanding School Partner Award <br> 2022</p>
-</div>
-
-
-
-<div style="display: flex;">
-	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtsRHAOVxmQ-wGzsR8PRcaJLRzejdv8u-hEEiQAvJeX-I_e8epztcFFj9JRIZfDaA35Qsqqm_j_VYW/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="800" height="400" allowfullscreen="true"></iframe>
-	<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold; margin-top: 130px; padding: 0px; background-color: white; text-shadow: 0px 1px 2px blue; min-width: 15vw;">RI Liveable Cities Challenge <br>
-Science Olympiad National School Games Taekwondo Championships
- <br> 2019</p>
-</div>
-
-
-
 
 ##### **2020**
 
