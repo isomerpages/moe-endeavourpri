@@ -14,8 +14,8 @@ description: ""
 
 <div style="display: flex;">
 	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtsRHAOVxmQ-wGzsR8PRcaJLRzejdv8u-hEEiQAvJeX-I_e8epztcFFj9JRIZfDaA35Qsqqm_j_VYW/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="800" height="400" allowfullscreen="true"></iframe>
-	<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold; margin-top: 130px; padding: 0px; background-color: white; text-shadow: 0px 1px 2px blue; min-width: 15vw;">RI Liveable Cities Challenge 
-Science <br>Olympiad National School Games Taekwondo Championships
+	<p style="text-align:center;font-size: 18px; color: blue; font-weight: bold; margin-top: 130px; padding: 0px; background-color: white; text-shadow: 0px 1px 2px blue; min-width: 15vw;">RI Liveable Cities Challenge <br>
+Science Olympiad National School Games Taekwondo Championships
  <br> 2019</p>
 </div>
 
