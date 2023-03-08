@@ -4,7 +4,7 @@ permalink: /administration-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-|   <strong style="color: blue;">Administration Staff</strong>                        |                                                                            |
+|   <strong style="color: blue; font-size: 20px;">Administration Staff</strong>                        |                                                                            |
 |---------------------------|----------------------------------------------------------------------------|
 | Administration Manager    | Mr Chan Jian Xiong<br><br>CHAN_Jian_Xiong@schools.gov.sg                   |
 | Administrative Executive  | Mr Mohamad Hisham Bin Talka<br><br>Mohamad_Hisham_TALKA@schools.gov.sg     |
