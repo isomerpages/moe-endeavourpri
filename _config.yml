@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-endeavourpri-staging.netlify.app
-prod: https://moe-endeavourpri-prod.netlify.app
+staging: https://staging.d3o00syd5dnwe1.amplifyapp.com/
+prod: https://master.d3o00syd5dnwe1.amplifyapp.com/
 shareicon: /images/cropped-EDP_LoGO0.jpg
 is_government: true
 facebook-pixel: ""
