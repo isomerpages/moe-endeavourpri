@@ -22,7 +22,7 @@ third_nav_title: Our Staff
 | <strong style="color: black; font-size: 17px;">HOD (Mathematics)</strong>                                                         | **Ms See Wei Lin Anny**<br><br><a href="mailto:see_wei_lin_anny@moe.edu.sg ">see_wei_lin_anny@moe.edu.sg          |
 | <strong style="color: black; font-size: 17px;">HOD (Mother Tongue)</strong>                                                       | **Mdm Tan Yian Loo**<br><br><a href="mailto:tan_yian_loo@moe.edu.sg ">tan_yian_loo@moe.edu.sg                 |
 | <strong style="color: black; font-size: 17px;">HOD (Aesthetics)</strong>                                                           | **Mdm Gan Ai Lee**<br><br><a href="mailto:gan_ai_lee@moe.edu.sg ">gan_ai_lee@moe.edu.sg                     |
-| <strong style="color: black; font-size: 17px;">HOD (ICT)</strong>                                                                   | **Mr Zhuo Weiwen**<br><br><a href="mailto:zhuo_weiwen@moe.edu.sg ">zhuo_weiwen@moe.edu.sg                |
+| <strong style="color: black; font-size: 17px;">HOD (Information and Communication Technology)</strong>                                                                   | **Mr Zhuo Weiwen**<br><br><a href="mailto:zhuo_weiwen@moe.edu.sg ">zhuo_weiwen@moe.edu.sg                |
 
 | <strong style="color: blue; font-size: 25px; font-family: Arial;">LEVEL HEADS (LH), SUBJECT HEADS (SH) & LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
