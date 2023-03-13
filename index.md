@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: For Staff
+        - title: Our Staff
           description: ""
           url: /for-staff/
         - title: School Calendar
