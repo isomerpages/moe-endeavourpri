@@ -11,9 +11,9 @@ sections:
         - title: Our Staff
           description: ""
           url: /for-staff/
-        - title: School Calendar
+        - title: Briefing Resources
           description: ""
-          url: https://calendar.google.com/calendar/u/0/embed?title=Endeavour+Primary+School&showNav=0&showPrint=0&showTabs=0&showCalendars=0&height=600&wkst=1&bgcolor=%23FFFFFF&src=endeavourprischool@gmail.com&color=%23182C57&src=en.singapore%23holiday@group.v.calendar.google.com&color=%23856508&ctz=Asia/Singapore&pli=1
+          url: https://moe-endeavourpri-staging.netlify.app/parents-hub/workshops-and-briefings/permalink/
       background: /images/EDP homepage.gif
   - infopic:
       title: C.A.M.P.S
