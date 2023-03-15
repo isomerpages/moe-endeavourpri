@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Our Staff
+        - title: For Staff
           description: ""
           url: /for-staff/
         - title: Parent's Briefing Resources
