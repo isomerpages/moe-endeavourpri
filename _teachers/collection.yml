@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - P4 Teachers.md
       - P3 Teachers.md
       - P2 Teachers.md
       - P1 Teachers.md
