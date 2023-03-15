@@ -11,7 +11,7 @@ sections:
         - title: Our Staff
           description: ""
           url: /for-staff/
-        - title: Briefing Resources
+        - title: Parent's Briefing Resources
           description: ""
           url: https://moe-endeavourpri-staging.netlify.app/parents-hub/workshops-and-briefings/permalink/
       background: /images/EDP homepage.gif
