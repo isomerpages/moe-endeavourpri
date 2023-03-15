@@ -4,12 +4,9 @@ permalink: /p2-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-
-
-
 |     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>|
 |-------------------|-------------------------------------------------------------------|--------------------------------------------------------------------|
-| P2 Compassion     | Ms Anne Siew Thiang<br><br>tan_siew_thiang_anne@moe.edu.sg        | Ms Brintha d/o Sivabalan <br>                                      |
+| P2 Compassion     | Ms Anne Tan Siew Thiang<br><br>tan_siew_thiang_anne@moe.edu.sg        | Ms Brintha d/o Sivabalan <br>                                      |
 | P2<br> Diligence      | Mrs Dawn Yeo Meow Sim<br><br>yeo_meow_sim_dawn@moe.edu.sg         | Mdm Tan Poh Bee<br><br>tan_poh_bee@moe.edu.sg                        |
 | P2<br> Harmony        | Mdm Nadia Bte Awaluddin<br><br>nadia_awalluddin@moe.edu.sg        | Ms Ooi Guat Lan<br><br>ooi_guat_lan@moe.edu.sg                     |
 | P2<br> Innovation     | Mdm Siti Nur Hajjar<br><br>siti_nur_hajjar_mohammad@moe.edu.sg    | Mdm Zheng Li<br><br>zheng_li@moe.edu.sg                            |
