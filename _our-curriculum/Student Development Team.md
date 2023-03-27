@@ -50,7 +50,7 @@ Provisions and Support for Children with Special Educational Needs in Mainstream
 [https://www.moe.gov.sg/special-educational-needs/school-support/primary-schools](https://www.moe.gov.sg/special-educational-needs/school-support/primary-schools)
 
 Helping students with special needs in mainstream schools  
-[https://www.schoolbag.sg/story/helping-students-with-special-needs-in-mainstream-schools](https://www.schoolbag.sg/story/helping-students-with-special-needs-in-mainstream-schools)
+[https://www.schoolbag.edu.sg/story/helping-students-with-special-needs-in-mainstream-schools](https://www.schoolbag.edu.sg/story/helping-students-with-special-needs-in-mainstream-schools)
 
 Health Promotion Board  
 [http://www.hpb.gov.sg/HOPPortal/](http://www.hpb.gov.sg/HOPPortal/)
