@@ -1,0 +1,20 @@
+collections:
+  pupils-hub:
+    output: true
+    order:
+      - School Rules.md
+      - Student iCON & more!.md
+      - Home Based Learning/.keep
+      - Home Based Learning/Home Based Learning Resources.md
+      - Home Based Learning/Cyber Wellness.md
+      - Student Learning Space/.keep
+      - Student Learning Space/Singapore Student Learning Space (SLS).md
+      - Student Learning Space/Common SLS Issues.md
+      - Student Learning Space/SLS Support for HBL.md
+      - Student Learning Space/SLS Assignments (Video Help).md
+      - Homework Policy.md
+      - CyberWellness @EDP.md
+      - School Library Online System.md
+      - Knowledge Forum.md
+      - Photo & Events Gallery.md
+      - CCA Schedule and Venue.md

@@ -1,0 +1,7 @@
+collections:
+  general-information:
+    output: true
+    order:
+      - Contact List.md
+      - School Hours.md
+      - Contact Us.md

@@ -1,32 +1,43 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Endeavour Primary School
+description: A Leading School of Vibrant Learners, Rooted in Good Values.
+image: /images/cropped-EDP_LoGO0.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      key_highlights:
+        - title: For Staff
+          description: ""
+          url: /for-staff/
+        - title: Parent's Briefing Resources
+          description: ""
+          url: https://moe-endeavourpri-staging.netlify.app/parents-hub/workshops-and-briefings/permalink/
+      background: /images/EDP homepage.gif
+  - infopic:
+      title: C.A.M.P.S
+      description: 5 Student Outcomes (C.A.M.P.S) for  Value-based Holistic Education
+        ognitively Capable Achieves academic success and  […]
+      button: Find Out More
+      alt: 5 Student Outcomes (C.A.M.P.S)
+      url: /c-a-m-p-s/
+      image: /images/camps.png
+  - infopic:
+      title: Applied Learning Programme@EDP
+      description: Nurturing Thinking In Endeavour Primary, our Applied Learning
+        Programme (ALP) is on “Nurturing Thinking”. Through this ALP, we hope to
+        […]
+      button: Find Out More
+      url: /applied-learning-programme/
+      image: /images/ALP.png
+      alt: Applied Learning Programme@EDP
+  - infopic:
+      title: Every Child Holistic Programme (ECHP)
+      description: In fulfilling our school’s mission, “To provide a unique schooling
+        experience to develop in […]
+      button: Find Out More
+      url: /about-us/our-programmes/echp-every-child-holistic-programme/
+      image: /images/ECHP.png
+      alt: Image alt text
 ---
-

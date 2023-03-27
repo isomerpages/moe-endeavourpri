@@ -1,0 +1,27 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - School Profile/.keep
+      - School Profile/Our Crest.md
+      - School Profile/Our Vision & Mission.md
+      - School Profile/Our School Values.md
+      - School Profile/Our Philosophy.md
+      - School Profile/Our School Song.md
+      - EDP Virtual Tour.md
+      - Our Achievements.md
+      - Our Staff/.keep
+      - Our Staff/Key Personnel.md
+      - Our Staff/P1 Teachers.md
+      - Our Staff/P2 Teachers.md
+      - Our Staff/P3 Teachers.md
+      - Our Staff/P4 Teachers.md
+      - Our Staff/P5 Teachers.md
+      - Our Staff/P6 Teachers.md
+      - Our Staff/Other Teaching Staff.md
+      - Our Staff/Allied Educators.md
+      - Our Staff/Administration Staff.md
+      - Our Staff/ICT MRL Support Staff.md
+      - Our Staff/Operations Support Staff.md
+      - Our Staff/Other Support Staff.md
