@@ -40,14 +40,11 @@ The engaging sessions also enhance students’ psychological well-being by givin
 
 What school counselling is about:
 
-[https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/counselling](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/counselling)
+[https://www.moe.gov.sg/education-in-sg/our-programmes/counselling-and-student-welfare#:~:text=What%20is%20counselling%3F,issues%20with%20a%20trained%20counsellor.](https://www.moe.gov.sg/education-in-sg/our-programmes/counselling-and-student-welfare#:~:text=What%20is%20counselling%3F,issues%20with%20a%20trained%20counsellor.)
 
-How one school counsellor worked with the different stakeholders to support a student:
-
-[https://www.schoolbag.sg/story/touching-lives-as-a-school-counsellor](https://www.schoolbag.sg/story/touching-lives-as-a-school-counsellor)
 
 Overview of Support for Children with Special Educational Needs  
-[https://www.moe.gov.sg/education/special-education](https://www.moe.gov.sg/education/special-education)
+[https://www.moe.gov.sg/special-educational-needs](https://www.moe.gov.sg/special-educational-needs)
 
 Provisions and Support for Children with Special Educational Needs in Mainstream Schools  
 [https://www.moe.gov.sg/education/special-education/mainstream-schools](https://www.moe.gov.sg/education/special-education/mainstream-schools)
