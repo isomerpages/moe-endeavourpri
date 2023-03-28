@@ -22,6 +22,7 @@ sections:
       button: Find Out More
       alt: 5 Student Outcomes (C.A.M.P.S)
       url: /c-a-m-p-s/
+      image: /images/camps.png
   - infopic:
       title: Applied Learning Programme@EDP
       description: Nurturing Thinking In Endeavour Primary, our Applied Learning
