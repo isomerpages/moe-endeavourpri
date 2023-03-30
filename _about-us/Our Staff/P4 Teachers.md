@@ -11,8 +11,4 @@ third_nav_title: Our Staff
 | P4<br> Integrity      | Mrs Adriel Ow Yong<br><br><a href="mailto:adriel_ow_yong@moe.edu.sg">adriel_ow_yong@moe.edu.sg</a>                           | Mdm Tian Zhe<br><br><a href="mailto:tian_zhe@moe.edu.sg">tian_zhe@moe.edu.sg</a>                       |
 | P4 Perseverance   | Ms Lim Hui Qi<br><br><a href="mailto:lim_hui_qi@moe.edu.sg">lim_hui_qi@moe.edu.sg</a>                                    | Mrs Tan Lian Huay<br><br><a href="mailto:ng_lian_huay@moe.edu.sg">ng_lian_huay@moe.edu.sg</a>              |
 | P4<br> Respect        | Mdm Nur Sakinah Bte Zainal Abidin<br><br><a href="mailto:nur_sakinah_zainal_abidin@moe.edu.sg">nur_sakinah_zainal_abidin@moe.edu.sg</a> | Mrs Theresa Lee<br><br><a href="mailto:chu_ka_hing_theresa@moe.edu.sg">chu_ka_hing_theresa@moe.edu.sg</a>         |
-| P4 Responsibility | Mr Don Tay Chin Boon <br><br><a href="mailto:tay_chin_boon@moe.edu.sg">tay_chin_boon@moe.edu.sg</a>                         | Mdm Loh Cai Ying<br><br>loh_cai_ying@moe.edu.sg               |
-
-
-
-<a href="mailto:tane.sg">tandu.sg</a>
+| P4 Responsibility | Mr Don Tay Chin Boon <br><br><a href="mailto:tay_chin_boon@moe.edu.sg">tay_chin_boon@moe.edu.sg</a>                         | Mdm Loh Cai Ying<br><br><a href="mailto:loh_cai_ying@moe.edu.sg">loh_cai_ying@moe.edu.sg</a>               |
