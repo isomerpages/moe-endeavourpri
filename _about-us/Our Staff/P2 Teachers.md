@@ -16,5 +16,3 @@ third_nav_title: Our Staff
 | P2 Responsibility | Selwyn Lim<br><br><a href="mailto:selwyn_lim_a@moe.edu.sg">selwyn_lim_a@moe.edu.sg</a>                   | Ms Wong Lin Hui<br><br><a href="mailto:wong_lin_hui@moe.edu.sg">wong_lin_hui@moe.edu.sg</a>                       |
 
 
-
-<a href="mailto:tannoe.sg">tan_sge@mdu.sg</a>
