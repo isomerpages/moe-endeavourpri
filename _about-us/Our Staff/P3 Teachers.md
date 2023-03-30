@@ -11,9 +11,6 @@ third_nav_title: Our Staff
 | P3<br> Integrity      | Mr Gideon Ren Weijie<br><br><a href="mailto:ren_weijie_gideon@moe.edu.sg">ren_weijie_gideon@moe.edu.sg</a>              | Ms Subashini<br><br><a href="mailto:subashini_k_chandra@moe.edu.sg">subashini_k_chandra@moe.edu.sg</a>                         |
 | P3 Perseverance   | Mdm Norashikin Bte Mohd Noor<br><br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg">norashikin_mohd_noor_a@moe.edu.sg</a> | Mdm Nurhidayah Bte Md Shariff<br><br><a href="mailto:nurhidayah_mohamed_shariff@moe.edu.sg">nurhidayah_mohamed_shariff@moe.edu.sg</a> |
 | P3 <br>Respect        | Mdm Doreen Ho Ruo Lin<br><br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg">ho_ruo_lin_doreen@moe.edu.sg</a>             | Mr Hilary Eric Nerva<br><br><a href="mailto:hilary_eric_nerva@moe.edu.sg">hilary_eric_nerva@moe.edu.sg</a>                   |
-| P3 Responsibility | Mdm Cynthia Ong<br><br>ong_gek_lin_cynthia@moe.edu.sg                 | Mdm Ng Tay Kee<br><br>ng_tay_kee@moe.edu.sg                  |
+| P3 Responsibility | Mdm Cynthia Ong<br><br><a href="mailto:ong_gek_lin_cynthia@moe.edu.sg">ong_gek_lin_cynthia@moe.edu.sg</a>                 | Mdm Ng Tay Kee<br><br><a href="mailto:ng_tay_kee@moe.edu.sg">ng_tay_kee@moe.edu.sg</a>                  |
 
 
-
-
-<a href="mailto:tannoe.sg">tan_sge@mdu.sg</a>
