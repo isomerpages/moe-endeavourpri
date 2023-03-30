@@ -8,7 +8,7 @@ third_nav_title: Our Staff
 |-------------------|-------------------------------------------------------------------|--------------------------------------------------------------------|
 | P2 Compassion     | Ms Anne Tan Siew Thiang<br><br><a href="mailto:tan_siew_thiang_anne@moe.edu.sg">tan_siew_thiang_anne@moe.edu.sg</a>         | Ms Brintha d/o Sivabalan <br>                                      |
 | P2<br> Diligence      | Mrs Dawn Yeo Meow Sim<br><br><a href="mailto:yeo_meow_sim_dawn@moe.edu.sg">yeo_meow_sim_dawn@moe.edu.sg</a>         | Mdm Tan Poh Bee<br><br><a href="mailto:tan_poh_bee@moe.edu.sg">tan_poh_bee@moe.edu.sg</a>                        |
-| P2<br> Harmony        | Mdm Nadia Bte Awaluddin<br><br>nadia_awalluddin@moe.edu.sg        | Ms Ooi Guat Lan<br><br>ooi_guat_lan@moe.edu.sg                     |
+| P2<br> Harmony        | Mdm Nadia Bte Awaluddin<br><br><a href="mailto:nadia_awalluddin@moe.edu.sg">nadia_awalluddin@moe.edu.sg</a>        | Ms Ooi Guat Lan<br><br>ooi_guat_lan@moe.edu.sg                     |
 | P2<br> Innovation     | Mdm Siti Nur Hajjar<br><br>siti_nur_hajjar_mohammad@moe.edu.sg    | Mdm Zheng Li<br><br>zheng_li@moe.edu.sg                            |
 | P2<br> Integrity      | Ms Keline Oh<br><br>oh_hui_chan@moe.edu.sg             | Ms Farah Adibah Binte Johari<br><br>farah_adibah_johari@moe.edu.sg |
 | P2 Perseverance   | Ms Sophia Chia<br><br>chia_mui_choo_sophia@moe.edu.sg             | Ms Teo Pauline<br><br>teo_pauline@moe.edu.sg                       |
