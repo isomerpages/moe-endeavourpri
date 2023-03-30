@@ -14,5 +14,3 @@ third_nav_title: Our Staff
 | P2 Perseverance   | Ms Sophia Chia<br><br><a href="mailto:chia_mui_choo_sophia@moe.edu.sg">chia_mui_choo_sophia@moe.edu.sg</a>             | Ms Teo Pauline<br><br><a href="mailto:teo_pauline@moe.edu.sg">teo_pauline@moe.edu.sg</a>                       |
 | P2 <br>Respect        | Mdm Indarani d/o <br><br>Kasinathanindarani_kasinathan@moe.edu.sg | Mdm Siti Patimah Binte Abd Razak <br><br><a href="mailto:siti_patimah@moe.edu.sg">siti_patimah@moe.edu.sg</a>    |
 | P2 Responsibility | Selwyn Lim<br><br><a href="mailto:selwyn_lim_a@moe.edu.sg">selwyn_lim_a@moe.edu.sg</a>                   | Ms Wong Lin Hui<br><br><a href="mailto:wong_lin_hui@moe.edu.sg">wong_lin_hui@moe.edu.sg</a>                       |
-
-
