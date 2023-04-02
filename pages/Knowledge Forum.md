@@ -1,8 +1,10 @@
 ---
 title: Knowledge Forum
-permalink: /pupils-hub/knowledge-forum/
+permalink: /knowledge-forum/
 description: ""
 ---
+
+
 
 <img src="/images/img_knowledge_forum.jpg"  
 style="width:60%">
