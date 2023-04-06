@@ -19,4 +19,5 @@ description: ""
 |     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Malay Language Teachers</strong>|
 | -------------------------------- | ---------------------------------------------------- |
 | P1ML1   | Mdm Nazreen Bte Mohamed Noor (P1ML1)<br><br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg">nazreen_mohamed_noor@moe.edu.sg</a>| 
-| P1ML2  | Mr Hong King Yong<br><br><a href="mailto:hong_king_yong@moe.edu.sg">hong_king_yong@moe.edu.sg</a>| 
+| P1ML2  | Mdm Fauziah Bte Mohamed Ata (P1ML2)<br><br><a href="mailto:fauziah_mohamed_ata@moe.edu.sg">fauziah_mohamed_ata@moe.edu.sg
+</a>|
