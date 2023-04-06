@@ -23,5 +23,4 @@ description: ""
 
 |     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Tamil Language Teachers</strong>|
 | -------------------------------- | ---------------------------------------------------- |
-| P1TL1   | Mdm Indarani Kasinathan<br><br><a href="mailto:indarani_kasinathan@moe.edu.sg">indarani_kasinathan@moe.edu.sg 
-</a>|
+| P1TL1|Mdm Indarani Kasinathan<br><br><a href="mailto:indarani_kasinathan@moe.edu.sg">indarani_kasinathan@moe.edu.sg</a>|
