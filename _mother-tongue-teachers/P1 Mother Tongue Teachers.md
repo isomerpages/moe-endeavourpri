@@ -20,4 +20,10 @@ description: ""
 | -------------------------------- | ---------------------------------------------------- |
 | P1ML1   | Mdm Nazreen Bte Mohamed Noor (P1ML1)<br><br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg">nazreen_mohamed_noor@moe.edu.sg</a>| 
 | P1ML2  | Mdm Fauziah Bte Mohamed Ata (P1ML2)<br><br><a href="mailto:fauziah_mohamed_ata@moe.edu.sg">fauziah_mohamed_ata@moe.edu.sg
-</a>|
+</a><br><br>|
+
+|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Tamil Language Teachers</strong>|
+| -------------------------------- | ---------------------------------------------------- |
+| P1TL1   | Mdm Indarani Kasinathan<br><br><a href="mailto:indarani_kasinathan@moe.edu.sg">indarani_kasinathan@moe.edu.sg 
+</a>| 
+
