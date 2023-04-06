@@ -11,4 +11,12 @@ description: ""
 </a>1CL4   | Mdm Yang Shiya<br><br> <a href="mailto:yang_shiya@moe.edu.sg">yang_shiya@moe.edu.sg</a>|
 | 1CL5   | Mdm Wang Li Qin<br><br><a href="mailto:wang_liqin@moe.edu.sg">wang_liqin@moe.edu.sg</a>|
 | 1CL6  | Mdm Tian Zhe<br><br><a href="mailto:tian_zhe@moe.edu.sg">tian_zhe@moe.edu.sg</a> 
-1CL7  | Mdm Teo Siew Hong<br><br><a href="mailto:teo_siew_hong@moe.edu.sg">teo_siew_hong@moe.edu.sg </a>|
+1CL7  | Mdm Teo Siew Hong<br><br><a href="mailto:teo_siew_hong@moe.edu.sg">teo_siew_hong@moe.edu.sg </a><br><br><br>|
+
+
+
+
+|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Malay Language Teachers</strong>|
+| -------------------------------- | ---------------------------------------------------- |
+| P1ML1   | Mdm Nazreen Bte Mohamed Noor (P1ML1)<br><br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg">nazreen_mohamed_noor@moe.edu.sg</a>| 
+| P1ML2  | Mr Hong King Yong<br><br><a href="mailto:hong_king_yong@moe.edu.sg">hong_king_yong@moe.edu.sg</a>| 
