@@ -3,7 +3,7 @@ title: P2 Mother Tongue Teachers
 permalink: /p2-mother-tongue-teachers/
 description: ""
 ---
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Tamil Language Teachers</strong>|
+|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Chinese Language Teachers</strong>|
 | -------------------------------- | ---------------------------------------------------- |
 | 2 Compassion| Mdm Ow Chew Cheng<br><br><a href="mailto:ow_chew_cheng@moe.edu.sg">ow_chew_cheng@moe.edu.sg</a>|
 | 2 Diligence| Mdm Tan Poh Bee<br><br><a href="mailto:tan_poh_bee@moe.edu.sg">tan_poh_bee@moe.edu.sg</a>|
