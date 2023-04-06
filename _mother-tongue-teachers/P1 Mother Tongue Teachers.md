@@ -12,6 +12,3 @@ description: ""
 | 1CL5   | Mdm Wang Li Qin<br><br><a href="mailto:wang_liqin@moe.edu.sg">wang_liqin@moe.edu.sg</a>|
 | 1CL6  | Mdm Tian Zhe<br><br><a href="mailto:tian_zhe@moe.edu.sg">tian_zhe@moe.edu.sg</a> 
 1CL7  | Mdm Teo Siew Hong<br><br><a href="mailto:teo_siew_hong@moe.edu.sg">teo_siew_hong@moe.edu.sg </a>|
-
-
-
