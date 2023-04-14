@@ -5,9 +5,6 @@ description: ""
 third_nav_title: Principal's Letters
 ---
 **Please click on the link below for the Principal’s letters for 2023:**
-
-
-
   
 
 <table style="width: 700px; font-size: 17px; border: 1px solid black; table-layout: fixed;">
