@@ -8,7 +8,7 @@ third_nav_title: Principal's Letters
 
 
 
-<table style="width: 700px; font-size: 20; border: 1px solid black; table-layout: fixed;">
+<table style="width: 700px; font-size: 30; border: 1px solid black; table-layout: fixed;">
 <tbody><tr>
 <td style="width: 50%; border: 1px solid black;"><a href="https://drive.google.com/file/d/1FWOtPovbfwDGhO-t_ttBg4WuwD__x_B7/view?usp=sharing">P's letter to Parents - Mar 2023.pdf</a>
 </td><td style="width: 50%; border: 1px solid black; vertical-align: middle;"><a href="https://drive.google.com/file/d/1aT1D4Fd31vTKLhgXz-j_ZtA4a0OQpwEG/view?usp=sharing">P's letter to Parents - Apr 2023</a></td>
