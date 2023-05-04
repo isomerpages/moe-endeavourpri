@@ -3,9 +3,9 @@ title: Test
 permalink: /permalink/
 description: ""
 ---
-	body {
-		background-image: url('path/to/your/image.jpg');
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-position: center;
-	}
+<section style="background-image: url(cms.isomer.gov.sg/sites/moe-endeavourpri/media/images/mediaDirectory/images/editMediaSettings/ART-CLUB-1.png); background-repeat: no-repeat; background-size: cover; background-position: center;">   <!-- Content for the section goes here --> </section>`
+
+
+
+\
+\
