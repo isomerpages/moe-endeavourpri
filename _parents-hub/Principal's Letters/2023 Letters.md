@@ -10,7 +10,7 @@ third_nav_title: Principal's Letters
   <tbody>
     <tr>
       <td style="width: 50%; border: 1px solid black;">
-        <a href="https://drive.google.com/file/d/xyz123/view?usp=sharing">P's letter to Parents - May 2023.pdf</a>
+        <a href="https://drive.google.com/file/d/1yIdfzssGG-1pn-J23NTcXvGvVf2iiW2m/view?usp=sharing">P's letter to Parents - May 2023.pdf</a>
       </td>
       <td style="width: 50%; border: 1px solid black; vertical-align: middle;">
       </td>
