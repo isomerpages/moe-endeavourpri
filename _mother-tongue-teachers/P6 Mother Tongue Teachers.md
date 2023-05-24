@@ -16,4 +16,4 @@ description: ""
 
 |     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Malay Language Teachers</strong>|
 | -------------------------------- | ---------------------------------------------------- |
-| P6ML | Mdm Fauziah Bte Mohamed Ata<br><br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg">norashikin_mohd_noor_a@moe.edu.sg</a>|
+| P6ML | Mdm Fauziah Bte Mohamed Ata<br><br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg">[fauziah\_mohamed\_ata@moe.edu.sg](mailto:fauziah_mohamed_ata@moe.edu.sg)</a>|
