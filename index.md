@@ -11,9 +11,6 @@ sections:
         - title: For Staff
           description: ""
           url: /for-staff/
-        - title: Open House
-          description: "2023"
-          url: https://sites.google.com/view/edp-openhouse/home
         - title: Parent's Briefing Resources
           description: ""
           url: https://moe-endeavourpri-staging.netlify.app/parents-hub/workshops-and-briefings/permalink/
