@@ -12,3 +12,8 @@ description: ""
 | 6CL5| Mdm Wong Linhui <br><br><a href="mailto:wong_lin_hui@moe.edu.sg">wong_lin_hui@moe.edu.sg </a>|
 | 6CL6| Mdm Tan Yian Loo  <br><br><a href="mailto:tan_yian_loo@moe.edu.sg">tan_yian_loo@moe.edu.sg</a>|
 | 6FCL | Mdm Yang Ping  <br><br><a href="mailto:oth_yang_ping@moe.edu.sg">oth_yang_ping@moe.edu.sg </a>|
+
+
+|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Malay Language Teachers</strong>|
+| -------------------------------- | ---------------------------------------------------- |
+| P6ML | Mdm Fauziah Bte Mohamed Ata<br><br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg">norashikin_mohd_noor_a@moe.edu.sg</a>|
