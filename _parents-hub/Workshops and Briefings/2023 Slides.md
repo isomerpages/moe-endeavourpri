@@ -10,7 +10,7 @@ third_nav_title: Workshops and Briefings
             <b>
             <strong style="color: black; font-size: 18;">Parents’ briefing slides on 19th&nbsp;May 2023</strong>
             <br>
-            <a href="https://drive.google.com/file/d/1_ri9dFL6XCtVwXxIhNg2_8ICstuqhw57/view?usp=sharing">Parents-Networking-Session-P2-by-P-2023</a>
+            <a href="https://drive.google.com/file/d/1_ri9dFL6XCtVwXxIhNg2_8ICstuqhw57/view?usp=sharing">PSLE Scoring and S1 Posting 2023 - Parents.pdf</a>
             <br>
             </b>
          </td> 
