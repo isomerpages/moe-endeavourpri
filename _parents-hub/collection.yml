@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - School Calendar.md
       - EDP Wellness.md
       - Parents Gateway/.keep
       - Parents Gateway/Guide to booking for PTM via Parent’s Gateway.md
