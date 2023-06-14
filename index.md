@@ -11,10 +11,13 @@ sections:
         - title: For Staff
           description: ""
           url: /for-staff/
+        - title: OPEN HOUSE
+          description: "2023"
+          url: https://sites.google.com/view/edp-openhouse/home
         - title: Parent's Briefing Resources
           description: ""
           url: https://moe-endeavourpri-staging.netlify.app/parents-hub/workshops-and-briefings/permalink/
-      background: /images/EDP Carousell Edited.gif
+      background: /images/edp homepage(5).gif
   - infopic:
       title: C.A.M.P.S
       description: 5 Student Outcomes (C.A.M.P.S) for  Value-based Holistic Education
