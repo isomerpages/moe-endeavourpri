@@ -88,10 +88,29 @@ In EDP, our students are also taught the importance of caring and taking care of
 
 **Caring for those in need**
 
-EDP Cares Flag Day: SAVH Fund Raising.
+EDP Cares Flag Day is an annual event planned and organized by the Prefects EXCO in 
 
-EDP Cares Flag Day is an annual event planned and organized by the Prefects EXCO in support of Singapore Association of Visually Handicapped (SAVH). It is organised to raise funds for the Singapore Association of the Visually Handicapped (SAVH), a voluntary welfare association that seeks to integrate the visually handicapped into the community. We hope to develop compassion in our pupils for the less privileged in our society.
-![Caring for those in need](/images/caring%20for%20those%20in%20need.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 EDP’s&nbsp;**Student Leadership Programme**&nbsp;focuses on providing leadership opportunities for every child. In class, Form Teachers will assign the students with different roles and responsibilities. The role of Class Monitors will be rotated termly – so as to give as many students as possible the opportunity to lead their class. Students too may be assigned leadership roles by their Co-Curricular Activity (CCA) Teachers-In-Charge. Students who have proven to be capable leaders, may then be selected to be Prefects or CCA Leaders.
 
