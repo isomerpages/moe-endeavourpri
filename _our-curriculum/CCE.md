@@ -121,6 +121,11 @@ The school showed our appreciation towards our school non teaching staff yearly 
 
 
 
+**Upcycling activity @ Rainbow Centre (Woodlands)**
+
+Our Scouts embarked on a hands-on experiential learning in the Upcycling activity together with Rainbow Centre students using recycled materials like newspapers to design a photo frame. It serves to bring forth the awareness that everyone can make a difference by conserving resources through simple acts, contributing towards Sustainable Living.
+The upcycling activity was carried out at Rainbow Centre. Prior to this, there were many weeks of discussion between the Art Club members and Scouts. They came up with an idea of creating a photo frame that included a caricature drawing using the recycled materials. Rainbow Centre presented the photo frames to their school support staff during their Appreciation Day.
+
 
 
 
