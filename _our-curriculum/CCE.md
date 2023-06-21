@@ -5,25 +5,24 @@ description: ""
 ---
 ![](/images/pupil_welfare_vision.jpg)
 <p style="font-size: 26px; color: blue; font-weight: bold;">Department Vision:</p>
- <b>Every Child A Student of Character</b>           
-<p style="font-size: 26px; color: blue; font-weight: bold;">Department Mission: </p>
-<b>To develop the Moral & Social domains of every child</b>
+&nbsp;<b>Every Child A Student of Character</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p style="font-size: 26px; color: blue; font-weight: bold;">Department Mission:&nbsp;</p>
+<b>To develop the Moral &amp; Social domains of every child</b>
 
 ![](/images/pupil_welfare_highlights.jpg)
 
 In Endeavour (EDP), not only are we concerned with the students’ academic achievements, the inculcating of the right moral values and moulding them into good citizens is also vital to us.
 
-Under EDP’s Character & Citizenship Education (CCE), there are 4 main programmes:
+Under EDP’s Character &amp; Citizenship Education (CCE), there are 4 main programmes:
 
 *   Character Development Programme
 *   National Education
 *   Values-in Action Programme
 *   Student Leadership Programme
 
-EDP’s **Character Development Programme** focuses on inculcating the 7 school values – **Diligence; Perseverance; Integrity; Innovation; Compassion; Respect & Responsibility**; into our students. Assembly Talks on the school values are conducted termly, in which students, teachers or other EDP staff members that have exhibited the school values to a great degree will be highlighted.  Students are also encouraged to reflect on the message delivered at the Assembly Talk by completing a customised level-based Reflection Worksheet after the talk.  This message will be further reinforced during Form Teacher Guidance Period (FTGP) where Form and Co-Form Teachers will conduct school-based Values Education lessons or workshops for the students.
+EDP’s&nbsp;**Character Development Programme**&nbsp;focuses on inculcating the 7 school values –&nbsp;**Diligence; Perseverance; Integrity; Innovation; Compassion; Respect &amp; Responsibility**; into our students. Assembly Talks on the school values are conducted termly, in which students, teachers or other EDP staff members that have exhibited the school values to a great degree will be highlighted.&nbsp; Students are also encouraged to reflect on the message delivered at the Assembly Talk by completing a customised level-based Reflection Worksheet after the talk.&nbsp; This message will be further reinforced during Form Teacher Guidance Period (FTGP) where Form and Co-Form Teachers will conduct school-based Values Education lessons or workshops for the students.
 
-<img src="/images/CDP1.jpg"  
-style="width:50%">
+<img src="/images/CDP1.jpg" style="width:50%">
 **Assembly Talk on Character Values**
 
 Every Term, teachers and students will present an assembly talk on the school values.
@@ -33,11 +32,13 @@ Every Term, teachers and students will present an assembly talk on the school va
 
 After the Assembly Talk on Character Values, students are encouraged to do a self-reflection of their behaviour.
 
-![reflection activity](/images/reflection%20activity.png)
+<img src="/images/reflection_2023.jpg" style="width:45%">
 
-**Character & Citizenship Education (CCE) Lessons**
 
-During CCE lessons, our students learn to be responsible to family and community, and understanding their roles in shaping the future of our nation. The emerging trends and global developments that impact our society such as societal changes, globalisation are taken into consideration when developing CCE curriculum.
+
+**Character &amp; Citizenship Education CCE MTL&nbsp; Lessons**
+
+During CCE MTL lessons, our students learn to be responsible to family and community, and understand their roles in shaping the future of our nation. The emerging trends and global developments that impact our society such as societal changes, globalisation are taken into consideration when developing the CCE curriculum.
 
 **Form Teacher Guidance Period (FTGP) Lessons**
 
@@ -45,21 +46,19 @@ The one period per week FTGP lesson not only provides opportunity for teachers t
 
 **National Education (NE)**
 
-National Education (NE) aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation’s future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore. In EDP, we commemorate the 4 NE Events – Total Defence Day; International Friendship Day; Racial Harmony Day & National Day; by customising NE-Focussed Lessons that are integrated into the Social Studies & Character & Citizenship Education lessons.
+National Education (NE) aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation’s future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore. In EDP, we commemorate the 4 NE Events – Total Defence Day; International Friendship Day; Racial Harmony Day &amp; National Day; by customising NE-Focussed Lessons that are integrated into the Social Studies &amp; Character &amp; Citizenship Education lessons.
 
 **NE Learning Journey**
 
 The students always look forward to trips out of the school as it provides an important learning experience for them.
 
-<img src="/images/NE1.jpg"  
-style="width:50%">
+<img src="/images/NE1.jpg" style="width:50%">
 
-**Rainbow Day** **cum NE events**
+**Rainbow Day**&nbsp;**cum NE events**
 
 Our students celebrate Total Defence Day, International Friendship Day and Racial Harmony Day in conjunction with the school’s signature Rainbow Days.
 
-<img src="/images/NE2.jpg"  
-style="width:50%">
+<img src="/images/NE2.jpg" style="width:50%">
 
 **National Day Celebrations**
 
@@ -76,12 +75,12 @@ Every year, our P5 students will have the privilege to watch the National Day Pa
 Values-in Action (VIA) Programme is the key instrument in the co-curriculum to develop students to be Socially Responsible. The VIA programme adopts a progressive, age-appropriate and systematic approach across all levels to drive Values-based Holistic Education and enable them to contribute to the betterment of others and care for the environment. It is also a platform for students to reflect on what they have learnt in their VIA experiences. These efforts will make the VIA experiences more meaningful, so that students are more likely to continue their involvement in the community, even after they have left EDP. Such sustained commitment helps to build a more caring society.
 ![Values-in Action (VIA)](/images/VIA.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SA88UfOXh2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SA88UfOXh2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i4A7Fk37xX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i4A7Fk37xX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Caring for our environment**  
-EDP students are taught the importance of taking care of our environment by adopting the **3Rs – Reduce, Recycle, Reuse**. Examples of projects include working together with various stakeholders towards becoming a Zero Waste Nation by reducing our water and electricity consumption, as well as reusing and recycling all materials to give them a second lease of life. Students get hands-on experiential learning and be involved in recycling activity, showing them that everyone can make a difference by conserving resources through simple acts, thereby contributing towards sustainable living.
+EDP students are taught the importance of taking care of our environment by adopting the&nbsp;**3Rs – Reduce, Recycle, Reuse**. Examples of projects include working together with various stakeholders towards becoming a Zero Waste Nation by reducing our water and electricity consumption, as well as reusing and recycling all materials to give them a second lease of life. Students get hands-on experiential learning and be involved in recycling activity, showing them that everyone can make a difference by conserving resources through simple acts, thereby contributing towards sustainable living.
 ![Caring for our environment](/images/caring%20for%20our%20environment.png)
 
 **Caring for the elderly**
@@ -89,14 +88,81 @@ EDP students are taught the importance of taking care of our environment by adop
 In EDP, our students are also taught the importance of caring and taking care of the elderly. Once a year, our students, teachers, and parents volunteers will spend a meaningful afternoon at the elderly Homes, including making crafts with them, listening to their interesting stories/real life experiences about Singapore in the olden days. Everyone has learnt that each of us has a part to play to make a difference in the community.
 ![Caring for the elderly](/images/caring%20for%20the%20elderly.png)
 
-**Caring for those in need**
 
-EDP Cares Flag Day: SAVH Fund Raising.
 
-EDP Cares Flag Day is an annual event planned and organized by the Prefects EXCO in support of Singapore Association of Visually Handicapped (SAVH). It is organised to raise funds for the Singapore Association of the Visually Handicapped (SAVH), a voluntary welfare association that seeks to integrate the visually handicapped into the community. We hope to develop compassion in our pupils for the less privileged in our society.
-![Caring for those in need](/images/caring%20for%20those%20in%20need.png)
+**Earth Hour**
 
-EDP’s **Student Leadership Programme** focuses on providing leadership opportunities for every child. In class, Form Teachers will assign the students with different roles and responsibilities. The role of Class Monitors will be rotated termly – so as to give as many students as possible the opportunity to lead their class. Students too may be assigned leadership roles by their Co-Curricular Activity (CCA) Teachers-In-Charge. Students who have proven to be capable leaders, may then be selected to be Prefects or CCA Leaders.
+Endeavour commemorated Earth hour every year. To support this event, students participated in the ‘Upcycling’ activity where they created various useful objects such as pencil holders, flower pots and toys using recycled materials. They also did a short write-up on their creations and their parents were also encouraged to join in the fun during the March school holidays. Students then uploaded the pictures of their creations to Student Learning Space (SLS). The students’ creations were showcased during the E-Assembly talk. It was such a delight to see our students using innovative ways to give these recycled materials a second lease of life. 
+<div style="display: flex;">
+  <img src="/images/earthhour_2023.png" style="width:50%">
+  <img src="/images/earthhour2_2023.png" style="width:44%">
+</div>
+
+
+
+**The Clean Plate Campaign**
+
+In order to raise awareness of our students towards eco-friendliness, our school has partnered with “Food From The Heart” in launching the “Clean Plate Campaign 2022”. 
+An early morning pre-assembly presentation educated the students on the importance of reducing food waste and the ways that we can be eco-friendly. Our CCE Student Ambassadors handed out “Waste Less, Save More” stickers to all the students who showed them a clean plate after finishing their meals to affirm their effort in reducing food waste.
+<div style="display: flex;">
+  <img src="/images/cleanplate_2023.jpeg" style="width:50%">
+  <img src="/images/cleanplate2_2023.jpeg" style="width:50%">
+</div>
+
+**Appreciation Day for non teaching staff**
+
+The school showed our appreciation towards our school non teaching staff yearly on Appreciation Day. Our  students gave out handmade cards containing handwritten thank-you notes and a box of tea-time treats to our school non teaching staff . The school also affirmed our security guards, desktop engineers and administrators for their contribution to the school on this day. We hope that our students will consistently practise the habit of greeting and thank our unsung heroes.
+<div style="display: flex;">
+  <img src="/images/cleaner1_2023.jpg" style="width:50%">
+  <img src="/images/cleaner2_2023.jpg" style="width:50%">
+</div>
+<img src="/images/cleanertemplate_2023.jpg" style="width:50%">
+
+
+
+
+
+
+**Upcycling activity @ Rainbow Centre (Woodlands)**
+
+Our Scouts embarked on a hands-on experiential learning in the Upcycling activity together with Rainbow Centre students using recycled materials like newspapers to design a photo frame. It serves to bring forth the awareness that everyone can make a difference by conserving resources through simple acts, contributing towards Sustainable Living.
+The upcycling activity was carried out at Rainbow Centre. Prior to this, there were many weeks of discussion between the Art Club members and Scouts. They came up with an idea of creating a photo frame that included a caricature drawing using the recycled materials. Rainbow Centre presented the photo frames to their school support staff during their Appreciation Day.
+<div style="display: flex;">
+  <img src="/images/upcycling_2023.jpeg" style="width:21%">
+  <img src="/images/upcycling2_2023.jpeg" style="width:50%">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDP’s&nbsp;**Student Leadership Programme**&nbsp;focuses on providing leadership opportunities for every child. In class, Form Teachers will assign the students with different roles and responsibilities. The role of Class Monitors will be rotated termly – so as to give as many students as possible the opportunity to lead their class. Students too may be assigned leadership roles by their Co-Curricular Activity (CCA) Teachers-In-Charge. Students who have proven to be capable leaders, may then be selected to be Prefects or CCA Leaders.
 
 **Prefects’ Investiture**
 
@@ -110,10 +176,9 @@ Prefects will undergo a structured and customised leadership training programme.
 
 **Student Leaders Camp**
 
-Once a year, our student leaders will undergo a leadership camp to equip them with the necessary knowledge and skills to be an effective leader.
+Once a year, our student leaders will undergo a leadership camp to equip them with the necessary knowledge and skills to&nbsp;be an effective leader.
 
-<img src="/images/Student%20Leaders%20Camp.jpg"  
-style="width:50%">
+<img src="/images/Student%20Leaders%20Camp.jpg" style="width:50%">
 
 **P4/P3 Buddy Leaders Programme**
 
@@ -125,21 +190,21 @@ Every year, our P4 and some P3 students will buddy up with our P1 students to gu
 The NW CDC OARS Award is recognition of our students’ leadership capabilities, as well as EDP’s student leadership programme.
 ![North-West CDC Outstanding All-Rounders Award](/images/north%20west%20CDC%20outstanding%20all%20rounders%20awards.png)
 
-**School Green Awards (SGA) 2019 – Yellow Flame Award**
+**School Green Awards**
 
-In Endeavour Primary, we are committed to promote pro-environmental behaviour amongst the students, staff and other key stakeholders through school-based initiatives and community engagement. This aligns us to raising global awareness in the students for them to be able to recognise global trends and their interconnections to recent environmental trends that are happening in our country. Through the green initiatives, students perceived themselves as part of a wider community, a deeper understanding about the impact of issues affecting everyone, and that they could contribute actively to a greener school and beyond.
-
-<img src="/images/School-Green-Awards-SGA-2019-Yellow-Flame-Award-225x300.jpg"  
-style="width:50%">
+In Endeavour Primary, we are committed to promote pro-environmental behaviour amongst the students, staff and other key stakeholders through school-based initiatives and community engagement. This aligns us to raising global awareness in the students for them to be able to recognize global trends and their interconnections to recent environmental trends that are happening in our country. Through the green initiatives, students perceived themselves as part of a wider community, a deeper understanding about the impact of issues affecting everyone, and that they could contribute actively to a greener school and beyond.
+<img src="/images/20062023.jpg" style="width:45%">
 
 We are pleased to inform that Endeavour Primary School has achieved the Yellow Flame Award in the SEC-StarHub School Green Awards (SGA) 2019!
 
 **North-West CDC Outstanding School Partner Award**
 
-It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2020 (Bronze Award) for participating actively in North West Community Development Council programmes in 2019. We will like to thank all of our staff and students for their contribution.
+It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2022 (Silver Award) for participating actively in North West Community Development Council programmes in 2021. We will like to thank all of our staff and students for their contribution.
 
-<img src="/images/North-West%20CDC%20Outstanding%20School%20Partner%20Award.jpg"  
-style="width:50%">
+<img src="/images/1edp2023.jpeg" style="width:75%">
+
+
+
 
 ![](/images/pupil_welfare_links.jpg)
 
@@ -149,10 +214,10 @@ style="width:50%">
 
 [Values-in-Action (VIA)](http://2014edpcce.blogspot.sg/)
 
-[Asean Friendship Programme (AFP) Vietnam 2017 Blog](http://p5edpvietnam2017.blogspot.sg/) 
+[Asean Friendship Programme (AFP) Vietnam 2017 Blog](http://p5edpvietnam2017.blogspot.sg/)&nbsp;
 
 [Asean Friendship Programme (AFP) Malacca 2018 Photos.](https://photos.google.com/share/AF1QipMjg_pMw1OK0N3nebLWWvjjJX57RX6l2my2tUI8_eyhjUUOuk-lAgCtkotxJMjOpg?key=NWVWWW1nZlEteUFhclRHRURVNjBxTlgxaXJmdGl3)
 
-[Asean Friendship Programme (AFP) Vietnam 2018 Blog](http://edpp5vietnam2018.blogspot.com/) 
+[Asean Friendship Programme (AFP) Vietnam 2018 Blog](http://edpp5vietnam2018.blogspot.com/)&nbsp;
 
 [Asean Friendship Programme (AFP) Vietnam 2019 Photos.](https://www.instagram.com/edp_afp/)
