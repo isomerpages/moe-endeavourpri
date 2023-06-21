@@ -34,9 +34,9 @@ After the Assembly Talk on Character Values, students are encouraged to do a sel
 
 ![reflection activity](/images/reflection%20activity.png)
 
-**Character &amp; Citizenship Education (CCE) Lessons**
+**Character &amp; Citizenship Education CCE MTL&nbsp; Lessons**
 
-During CCE lessons, our students learn to be responsible to family and community, and understanding their roles in shaping the future of our nation. The emerging trends and global developments that impact our society such as societal changes, globalisation are taken into consideration when developing CCE curriculum.
+During CCE MTL lessons, our students learn to be responsible to family and community, and understand their roles in shaping the future of our nation. The emerging trends and global developments that impact our society such as societal changes, globalisation are taken into consideration when developing the CCE curriculum.
 
 **Form Teacher Guidance Period (FTGP) Lessons**
 
