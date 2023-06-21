@@ -107,6 +107,14 @@ An early morning pre-assembly presentation educated the students on the importan
   <img src="/images/cleanplate2_2023.jpeg" style="width:50%">
 </div>
 
+**Appreciation Day for non teaching staff**
+
+The school showed our appreciation towards our school non teaching staff yearly on Appreciation Day. Our  students gave out handmade cards containing handwritten thank-you notes and a box of tea-time treats to our school non teaching staff . The school also affirmed our security guards, desktop engineers and administrators for their contribution to the school on this day. We hope that our students will consistently practise the habit of greeting and thank our unsung heroes.
+<div style="display: flex;">
+  <img src="/images/cleaner1_2023.jpg" style="width:50%">
+  <img src="/images/cleaner2_2023.jpg" style="width:50%">
+</div>
+<img src="/images/cleanertemplate_2023.jpg" style="width:50%">
 
 
 
