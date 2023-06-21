@@ -86,7 +86,7 @@ EDP students are taught the importance of taking care of our environment by adop
 In EDP, our students are also taught the importance of caring and taking care of the elderly. Once a year, our students, teachers, and parents volunteers will spend a meaningful afternoon at the elderly Homes, including making crafts with them, listening to their interesting stories/real life experiences about Singapore in the olden days. Everyone has learnt that each of us has a part to play to make a difference in the community.
 ![Caring for the elderly](/images/caring%20for%20the%20elderly.png)
 
-**Caring for those in need**
+
 
 **Earth Hour**
 
@@ -95,6 +95,25 @@ Endeavour commemorated Earth hour every year. To support this event, students pa
   <img src="/images/earthhour_2023.png" style="width:50%">
   <img src="/images/earthhour2_2023.png" style="width:44%">
 </div>
+
+
+
+**The Clean Plate Campaign**
+
+In order to raise awareness of our students towards eco-friendliness, our school has partnered with “Food From The Heart” in launching the “Clean Plate Campaign 2022”. 
+An early morning pre-assembly presentation educated the students on the importance of reducing food waste and the ways that we can be eco-friendly. Our CCE Student Ambassadors handed out “Waste Less, Save More” stickers to all the students who showed them a clean plate after finishing their meals to affirm their effort in reducing food waste.
+<div style="display: flex;">
+  <img src="/images/cleanplate_2023.jpeg" style="width:50%">
+  <img src="/images/cleanplate2_2023.jpeg" style="width:50%">
+</div>
+
+
+
+
+
+
+
+
 
 
 
