@@ -143,7 +143,7 @@ The NW CDC OARS Award is recognition of our students’ leadership capabilities,
 **School Green Awards**
 
 In Endeavour Primary, we are committed to promote pro-environmental behaviour amongst the students, staff and other key stakeholders through school-based initiatives and community engagement. This aligns us to raising global awareness in the students for them to be able to recognize global trends and their interconnections to recent environmental trends that are happening in our country. Through the green initiatives, students perceived themselves as part of a wider community, a deeper understanding about the impact of issues affecting everyone, and that they could contribute actively to a greener school and beyond.
-<img src="/images/20062023.jpg" style="width:50%">
+<img src="/images/20062023.jpg" style="width:45%">
 
 We are pleased to inform that Endeavour Primary School has achieved the Yellow Flame Award in the SEC-StarHub School Green Awards (SGA) 2019!
 
@@ -151,7 +151,7 @@ We are pleased to inform that Endeavour Primary School has achieved the Yellow F
 
 It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2022 (Silver Award) for participating actively in North West Community Development Council programmes in 2021. We will like to thank all of our staff and students for their contribution.
 
-<img src="/images/1edp2023.jpeg" style="width:50%">
+<img src="/images/1edp2023.jpeg" style="width:75%">
 
 
 
