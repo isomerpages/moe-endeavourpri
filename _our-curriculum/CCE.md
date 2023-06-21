@@ -88,7 +88,20 @@ In EDP, our students are also taught the importance of caring and taking care of
 
 **Caring for those in need**
 
-EDP Cares Flag Day is an annual event planned and organized by the Prefects EXCO in 
+**Earth Hour**
+
+Endeavour commemorated Earth hour every year. To support this event, students participated in the ‘Upcycling’ activity where they created various useful objects such as pencil holders, flower pots and toys using recycled materials. They also did a short write-up on their creations and their parents were also encouraged to join in the fun during the March school holidays. Students then uploaded the pictures of their creations to Student Learning Space (SLS). The students’ creations were showcased during the E-Assembly talk. It was such a delight to see our students using innovative ways to give these recycled materials a second lease of life. 
+<div style="display: flex;">
+  <img src="/images/earthhour_2023.png" style="width:50%">
+  <img src="/images/earthhour2_2023.png" style="width:44%">
+</div>
+
+
+
+
+
+
+
 
 
 
