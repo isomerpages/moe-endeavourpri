@@ -32,7 +32,9 @@ Every Term, teachers and students will present an assembly talk on the school va
 
 After the Assembly Talk on Character Values, students are encouraged to do a self-reflection of their behaviour.
 
-![reflection activity](/images/reflection%20activity.png)
+<img src="/images/reflection_2023.jpg" style="width:45%">
+
+
 
 **Character &amp; Citizenship Education CCE MTL&nbsp; Lessons**
 
