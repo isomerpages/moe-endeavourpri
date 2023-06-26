@@ -19,6 +19,28 @@ Through this ALP, we hope to achieve the following desired 21CC and learning out
 **3\. Increase student ownership where students discover, generate ideas, think critically, make decisions, evaluate and self-reflect.**
 
 
+  
+
+<p style="text-align:left;font-size: 18px; color: blue; font-weight: bold;"> Applied Learning Programme (ALP) Nurturing Thinking</p>
+<img src="/images/alp_2023.png" style="width:100%">
+
+Through the ALP (Nurturing Thinking), we seek to develop every child’s thinking dispositions so that our children could<br>
+• Develop a sense of wonder <br>
+• Learn to appreciate and build on one another’s ideas <br>
+• Make good connections of what they learn to the real world<br>
+• Ask good questions, and<br>
+• Communicate their ideas coherently and confidently.
+
+These can be achieved through providing them thinking opportunities in their day-to-day learning and using suitable thinking tools (e.g. Harvard Project Zero Thinking Routines or Design Thinking) to guide them in their thinking.
+
+
+
+
+
+
+
+
+
 
 <img src="/images/Nurturing%20Thinking_3.jpg" style="width:80%">
 
