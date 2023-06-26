@@ -6,8 +6,6 @@ description: ""
 <p style="text-align:left;font-size: 26px; color: blue; font-weight: bold;">School Bus Advertisement</p>
 
 <p style="text-align:left;font-size: 18px; color: black;">To apply, please refer to the Service Requirements and the Application Procedure below.</p>
-
-
 <p style="text-align:left;font-size:20px; color: black; font-weight: bold;">Service Requirements</p>
 <p style="text-align:left;font-size:18px; color: black;">
 1.  [Insert PDF]<br>
@@ -28,7 +26,9 @@ description: ""
 • Email: endeavour_ps@moe.edu.sg<br>
 • Contact Person: Mr Chan Jian Xiong</p>
 
+<p style="text-align:left;font-size:20px; color: black; font-weight: bold;">How to get there?</p>
+<p style="text-align:left;font-size:18px; color: black;">Nearest MRT: Sembawang MRT (NSIO line) — 10 minutes walking distance <br>
+Bus number: 859 - 2 minutes walking distance</p>
 
-How to get there?<br>
-Nearest MRT: Sembawang MRT (NSIO line) — 10 minutes walking distance <br>
-Bus number: 859 - 2 minutes walking distanc
+
+
