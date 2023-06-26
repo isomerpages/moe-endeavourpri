@@ -26,5 +26,5 @@ description: ""
 • Contact Person: Mr Chan Jian Xiong</p>
 
 <p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">How to get there?</p>
-<p style="text-align: left; font-size: 17px; color: black; display: inline;">Nearest MRT: Sembawang MRT (NSIO line) — 10 minutes walking distance <br>
-Bus number: 859 - 2 minutes walking distance</p>
+<p style="text-align: left; font-size: 17px; color: black; display: inline;">Nearest MRT Station: Sembawang MRT<br>
+Buses: 859, 962</p>
