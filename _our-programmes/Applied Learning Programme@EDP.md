@@ -21,7 +21,7 @@ Through this ALP, we hope to achieve the following desired 21CC and learning out
 
   
 
-<p style="text-align:left;font-size: 18px; color: blue; font-weight: bold;"> Applied Learning Programme (ALP) Nurturing Thinking</p>
+<p style="text-align:left;font-size: 22px; color: blue; font-weight: bold;"> Applied Learning Programme (ALP) Nurturing Thinking</p>
 <img src="/images/alp_2023.png" style="width:100%">
 
 Through the ALP (Nurturing Thinking), we seek to develop every child’s thinking dispositions so that our children could<br>
