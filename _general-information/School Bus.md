@@ -3,7 +3,6 @@ title: School Bus
 permalink: /general-information/permalink/
 description: ""
 ---
-  
 <p style="text-align:left;font-size: 26px; color: blue; font-weight: bold;">School Bus Advertisement</p>
 
 <p style="text-align:left;font-size: 18px; color: black;">To apply, please refer to the Service Requirements and the Application Procedure below.</p>
