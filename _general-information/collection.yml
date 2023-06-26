@@ -2,6 +2,6 @@ collections:
   general-information:
     output: true
     order:
-      - Contact List.md
+      - Service Providers.md
       - School Hours.md
       - Contact Us.md
