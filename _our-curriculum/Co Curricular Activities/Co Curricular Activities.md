@@ -54,7 +54,7 @@ CCAs play an important role in developing our students holistically. Through CCA
 ![](/images/volley1.png)
 
 
-<br><br>
+<br>
 <p style=";font-size: 26px; color: blue; font-weight: bold;">P3 CCA Experience@EDP</p>
 CCA Experience is about providing opportunities for Primary 3 students to have an experience of the various CCAs. The students will experience the selected CCAs for two weeks period before making their decision in choosing a CCA for themselves.
 
