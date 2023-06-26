@@ -4,8 +4,8 @@ permalink: /general-information/permalink/
 description: ""
 ---
 <p style="text-align:left;font-size: 25px; color: blue; font-weight: bold;">School Bus Advertisement</p>
-
 <p style="text-align:left;font-size: 17px; color: black;">To apply, please refer to the Service Requirements and the Application Procedure below.</p>
+
 <p style="text-align:left;font-size:19px; color: black; font-weight: bold;">Service Requirements</p>
 <p style="text-align:left;font-size:17px; color: black;">
 1.  [Insert PDF]<br>
@@ -13,12 +13,11 @@ description: ""
 
 
 
-<p style="text-align:left;font-size:19px; color: black; font-weight: bold;">Application Procedure</p>
-
-<p style="text-align:left;font-size:17px; color: black;">
-1. Complete the [Insert PDF] <br>
+<p style="text-align: left; font-size: 19px; color: black; font-weight: bold;">Application Procedure</p>
+<p style="text-align: left; font-size: 17px; color: black; display: inline;">1. Complete the [Insert PDF] <br>
 2. Submit the completed Call for Proposal - Annex A by closing date, 10 May 2023, 
-	via email OR to the School's General Office.</p>
+    via email OR to the School's General Office.</p>
+
 
 
 <p style="text-align:left;font-size:17px; color: black;">• Address: 10 Admiralty Link, Singapore 757521<br>
@@ -26,6 +25,6 @@ description: ""
 • Email: endeavour_ps@moe.edu.sg<br>
 • Contact Person: Mr Chan Jian Xiong</p>
 
-<p style="text-align:left;font-size:19px; color: black; font-weight: bold;">How to get there?</p>
-<p style="text-align:left;font-size:17px; color: black;">Nearest MRT: Sembawang MRT (NSIO line) — 10 minutes walking distance <br>
+<p style="text-align: left; font-size: 19px; color: black; font-weight: bold;">How to get there?</p>
+<p style="text-align: left; font-size: 17px; color: black; display: inline;">Nearest MRT: Sembawang MRT (NSIO line) — 10 minutes walking distance <br>
 Bus number: 859 - 2 minutes walking distance</p>
