@@ -53,15 +53,9 @@ CCAs play an important role in developing our students holistically. Through CCA
 
 ![](/images/volley1.png)
 
-#### _**Talent Identification and Development Programme**_
 
-The Talent Identification and Development Programme in EDP is part of the school’s approach to customize our CCA programme to cater to the talents and interest of our students. A Talent Identification selection exercise is conducted for all P2 students at the end of Term 2. The aims of this programme are:
 
-*   To provide a longer runway for our talented students to pursue and excel in their area of talent and passion.
-*   To expose our students to meaningful CCA experiences to discover their strength of character.
-*   To provide a platform to develop in our students, the school values and school spirit.
-
-#### _**CCA Experience@EDP**_
+#### _** P3 CCA Experience@EDP**_
 
 CCA Experience is about providing opportunities for Primary 3 students to have an experience of the various CCAs. The students will experience the selected CCAs for two weeks period before making their decision in choosing a CCA for themselves.
 
