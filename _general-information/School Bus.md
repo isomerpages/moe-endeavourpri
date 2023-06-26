@@ -23,7 +23,12 @@ description: ""
 	via email OR to the School's General Office.</p>
 
 
-<p style="text-align:left;font-size:18px; color: black;">• Address: 110 Woodlands Crescent S737803<br>
-• Contact No: 63654490<br>
-• Email: riverside_ps@moe.edusg<br>
-• Contact Person: Mdm Aminah Saad</p>
+<p style="text-align:left;font-size:18px; color: black;">• Address: 10 Admiralty Link, Singapore 757521<br>
+• Contact No: 6482 4650<br>
+• Email: endeavour_ps@moe.edu.sg<br>
+• Contact Person: Mr Chan Jian Xiong</p>
+
+
+How to get there?<br>
+Nearest MRT: Sembawang MRT (NSIO line) — 10 minutes walking distance <br>
+Bus number: 859 - 2 minutes walking distanc
