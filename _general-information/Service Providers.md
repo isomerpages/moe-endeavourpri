@@ -1,5 +1,5 @@
 ---
-title: Contact List
+title: Service Providers
 permalink: /general-information/
 description: ""
 ---
