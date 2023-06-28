@@ -180,31 +180,31 @@ After a vigorous selection process, students who have been selected to be Endeav
 Prefects will undergo a structured and customised leadership training programme. The workshops and trainings help our young leaders to hone their leadership skills.
 ![Training for Prefects](/images/training%20for%20prefects.png)
 
-**Student Leaders Camp**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Student Leaders Camp</p>
 Once a year, our student leaders will undergo a leadership camp to equip them with the necessary knowledge and skills to&nbsp;be an effective leader.
 
 <img src="/images/Student%20Leaders%20Camp.jpg" style="width:50%">
 
-**P4/P3 Buddy Leaders Programme**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">P4/P3 Buddy Leaders Programme</p>
 Every year, our P4 and some P3 students will buddy up with our P1 students to guide and assist them with their first few days in EDP.
 ![P4/P3 Buddy Leaders Programme](/images/P4%20P3%20buddy%20leaders%20programme.png)
 
-**North-West CDC Outstanding All-Rounders Award**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">North-West CDC Outstanding All-Rounders Award</p>
 The NW CDC OARS Award is recognition of our students’ leadership capabilities, as well as EDP’s student leadership programme.
 ![North-West CDC Outstanding All-Rounders Award](/images/north%20west%20CDC%20outstanding%20all%20rounders%20awards.png)
 
-**School Green Awards**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">School Green Awards</p>
 In Endeavour Primary, we are committed to promote pro-environmental behaviour amongst the students, staff and other key stakeholders through school-based initiatives and community engagement. This aligns us to raising global awareness in the students for them to be able to recognize global trends and their interconnections to recent environmental trends that are happening in our country. Through the green initiatives, students perceived themselves as part of a wider community, a deeper understanding about the impact of issues affecting everyone, and that they could contribute actively to a greener school and beyond.
 <img src="/images/20062023.jpg" style="width:45%">
 
 We are pleased to inform that Endeavour Primary School has achieved the Yellow Flame Award in the SEC-StarHub School Green Awards (SGA) 2022!
 
-**North-West CDC Outstanding School Partner Award**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">North-West CDC Outstanding School Partner Award</p>
 It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2022 (Silver Award) for participating actively in North West Community Development Council programmes in 2021. We will like to thank all of our staff and students for their contribution.
 
 <img src="/images/1edp2023.jpeg" style="width:75%">
