@@ -39,12 +39,12 @@ After the Assembly Talk on Character Values, students are encouraged to do a sel
 </div>
 
 
-**Character &amp; Citizenship Education CCE MTL&nbsp; Lessons**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Character &amp; Citizenship Education CCE MTL&nbsp; Lessons</p>
 During CCE MTL lessons, our students learn to be responsible to family and community, and understand their roles in shaping the future of our nation. The emerging trends and global developments that impact our society such as societal changes, globalisation are taken into consideration when developing the CCE curriculum.
 
-**Form Teacher Guidance Period (FTGP) Lessons**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Form Teacher Guidance Period (FTGP) Lessons</p>
 The one period per week FTGP lesson not only provides opportunity for teachers to equip students with social and emotional competencies, but also allows for more quality teacher-student interaction.
 
 **National Education (NE)**
