@@ -23,13 +23,12 @@ Under EDP’s Character &amp; Citizenship Education (CCE), there are 4 main prog
 EDP’s&nbsp;**Character Development Programme**&nbsp;focuses on inculcating the 7 school values –&nbsp;**Diligence; Perseverance; Integrity; Innovation; Compassion; Respect &amp; Responsibility**; into our students. Assembly Talks on the school values are conducted termly, in which students, teachers or other EDP staff members that have exhibited the school values to a great degree will be highlighted.&nbsp; Students are also encouraged to reflect on the message delivered at the Assembly Talk by completing a customised level-based Reflection Worksheet after the talk.&nbsp; This message will be further reinforced during Form Teacher Guidance Period (FTGP) where Form and Co-Form Teachers will conduct school-based Values Education lessons or workshops for the students.
 
 <img src="/images/CDP1.jpg" style="width:50%">
-**Assembly Talk on Character Values**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Assembly Talk on Character Values</p>
 Every Term, teachers and students will present an assembly talk on the school values.
 
 ![assembly talk on character values](/images/assembly%20talk%20on%20character%20values.png)
-**Reflection Activity**
-
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Reflection Activity</p>
 After the Assembly Talk on Character Values, students are encouraged to do a self-reflection of their behaviour.
 
 
