@@ -84,19 +84,20 @@ Values-in Action (VIA) Programme is the key instrument in the co-curriculum to d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i4A7Fk37xX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**Caring for our environment**  
+
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Caring for our environment</p>
 EDP students are taught the importance of taking care of our environment by adopting the&nbsp;**3Rs – Reduce, Recycle, Reuse**. Examples of projects include working together with various stakeholders towards becoming a Zero Waste Nation by reducing our water and electricity consumption, as well as reusing and recycling all materials to give them a second lease of life. Students get hands-on experiential learning and be involved in recycling activity, showing them that everyone can make a difference by conserving resources through simple acts, thereby contributing towards sustainable living.
 ![Caring for our environment](/images/caring%20for%20our%20environment.png)
 
-**Caring for the elderly**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Caring for the elderly</p>
 In EDP, our students are also taught the importance of caring and taking care of the elderly. Once a year, our students, teachers, and parents volunteers will spend a meaningful afternoon at the elderly Homes, including making crafts with them, listening to their interesting stories/real life experiences about Singapore in the olden days. Everyone has learnt that each of us has a part to play to make a difference in the community.
 ![Caring for the elderly](/images/caring%20for%20the%20elderly.png)
 
 
 
-**Earth Hour**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Earth Hour</p>
 Endeavour commemorated Earth hour every year. To support this event, students participated in the ‘Upcycling’ activity where they created various useful objects such as pencil holders, flower pots and toys using recycled materials. They also did a short write-up on their creations and their parents were also encouraged to join in the fun during the March school holidays. Students then uploaded the pictures of their creations to Student Learning Space (SLS). The students’ creations were showcased during the E-Assembly talk. It was such a delight to see our students using innovative ways to give these recycled materials a second lease of life. 
 <div style="display: flex;">
   <img src="/images/earthhour_2023.png" style="width:50%">
@@ -105,8 +106,8 @@ Endeavour commemorated Earth hour every year. To support this event, students pa
 
 
 
-**The Clean Plate Campaign**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">The Clean Plate Campaign</p>
 In order to raise awareness of our students towards eco-friendliness, our school has partnered with “Food From The Heart” in launching the “Clean Plate Campaign 2022”. 
 An early morning pre-assembly presentation educated the students on the importance of reducing food waste and the ways that we can be eco-friendly. Our CCE Student Ambassadors handed out “Waste Less, Save More” stickers to all the students who showed them a clean plate after finishing their meals to affirm their effort in reducing food waste.
 <div style="display: flex;">
@@ -114,8 +115,8 @@ An early morning pre-assembly presentation educated the students on the importan
   <img src="/images/cleanplate2_2023.jpeg" style="width:50%">
 </div>
 
-**Appreciation Day for non teaching staff**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Appreciation Day for non teaching staff</p>
 The school showed our appreciation towards our school non teaching staff yearly on Appreciation Day. Our  students gave out handmade cards containing handwritten thank-you notes and a box of tea-time treats to our school non teaching staff . The school also affirmed our security guards, desktop engineers and administrators for their contribution to the school on this day. We hope that our students will consistently practise the habit of greeting and thank our unsung heroes.
 <div style="display: flex;">
   <img src="/images/cleaner1_2023.jpg" style="width:50%">
@@ -128,8 +129,8 @@ The school showed our appreciation towards our school non teaching staff yearly 
 
 
 
-**Upcycling activity @ Rainbow Centre (Woodlands)**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Upcycling activity @ Rainbow Centre (Woodlands)</p>
 Our Scouts embarked on a hands-on experiential learning in the Upcycling activity together with Rainbow Centre students using recycled materials like newspapers to design a photo frame. It serves to bring forth the awareness that everyone can make a difference by conserving resources through simple acts, contributing towards Sustainable Living.
 The upcycling activity was carried out at Rainbow Centre. Prior to this, there were many weeks of discussion between the Art Club members and Scouts. They came up with an idea of creating a photo frame that included a caricature drawing using the recycled materials. Rainbow Centre presented the photo frames to their school support staff during their Appreciation Day.
 <div style="display: flex;">
@@ -169,13 +170,13 @@ The upcycling activity was carried out at Rainbow Centre. Prior to this, there w
 
 EDP’s&nbsp;**Student Leadership Programme**&nbsp;focuses on providing leadership opportunities for every child. In class, Form Teachers will assign the students with different roles and responsibilities. The role of Class Monitors will be rotated termly – so as to give as many students as possible the opportunity to lead their class. Students too may be assigned leadership roles by their Co-Curricular Activity (CCA) Teachers-In-Charge. Students who have proven to be capable leaders, may then be selected to be Prefects or CCA Leaders.
 
-**Prefects’ Investiture**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Prefects’ Investiture</p>
 After a vigorous selection process, students who have been selected to be Endeavour’s Ambassadors will be formally unveiled to the whole school during the Prefects’ Investiture.
 ![prefects investiture](/images/prefects%20investiture.png)
 
-**Training for Prefects**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Training for Prefects</p>
 Prefects will undergo a structured and customised leadership training programme. The workshops and trainings help our young leaders to hone their leadership skills.
 ![Training for Prefects](/images/training%20for%20prefects.png)
 
