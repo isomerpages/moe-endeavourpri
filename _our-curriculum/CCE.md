@@ -68,15 +68,17 @@ Our students celebrate Total Defence Day, International Friendship Day and Racia
 To celebrate our young nation’s birthday, a formal observance ceremony is held in the school parade square, followed by a concert in the hall.
 ![National Day Celebrations](/images/national%20day%20celebrations.png)
 
-**NE Show**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">NE Show</p>
 Every year, our P5 students will have the privilege to watch the National Day Parade (NDP) full dress rehearsal.
 ![NE Show](/images/NE%20show.png)
 
-**Values-in Action (VIA)**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Values-in Action (VIA)</p>
 Values-in Action (VIA) Programme is the key instrument in the co-curriculum to develop students to be Socially Responsible. The VIA programme adopts a progressive, age-appropriate and systematic approach across all levels to drive Values-based Holistic Education and enable them to contribute to the betterment of others and care for the environment. It is also a platform for students to reflect on what they have learnt in their VIA experiences. These efforts will make the VIA experiences more meaningful, so that students are more likely to continue their involvement in the community, even after they have left EDP. Such sustained commitment helps to build a more caring society.
-![Values-in Action (VIA)](/images/VIA.png)
+<img src="/images/VIA.png" style="width:100%">
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SA88UfOXh2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
