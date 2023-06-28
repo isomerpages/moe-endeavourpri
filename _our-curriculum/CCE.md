@@ -51,20 +51,20 @@ The one period per week FTGP lesson not only provides opportunity for teachers t
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">National Education (NE)</p>
 National Education (NE) aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation’s future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore. In EDP, we commemorate the 4 NE Events – Total Defence Day; International Friendship Day; Racial Harmony Day &amp; National Day; by customising NE-Focussed Lessons that are integrated into the Social Studies &amp; Character &amp; Citizenship Education lessons.
 
-**NE Learning Journey**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">NE Learning Journey</p>
 The students always look forward to trips out of the school as it provides an important learning experience for them.
 
 <img src="/images/NE1.jpg" style="width:50%">
 
-**Rainbow Day**&nbsp;**cum NE events**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Rainbow Day cum NE events</p>
 Our students celebrate Total Defence Day, International Friendship Day and Racial Harmony Day in conjunction with the school’s signature Rainbow Days.
 
 <img src="/images/NE2.jpg" style="width:50%">
 
-**National Day Celebrations**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">National Day Celebrations</p>
 To celebrate our young nation’s birthday, a formal observance ceremony is held in the school parade square, followed by a concert in the hall.
 ![National Day Celebrations](/images/national%20day%20celebrations.png)
 
