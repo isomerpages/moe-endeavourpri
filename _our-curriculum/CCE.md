@@ -5,9 +5,9 @@ description: ""
 ---
 ![](/images/pupil_welfare_vision.jpg)
 <p style="font-size: 26px; color: blue; font-weight: bold;">Department Vision:</p>
-&nbsp;<b>Every Endeavour Student to become citizens of good characters who loves Singapore</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;<b>Every Child A Student of Character</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p style="font-size: 26px; color: blue; font-weight: bold;">Department Mission:&nbsp;</p>
-<b>To nurture every child to be a concerned and gracious citizen, a confident leader with the right values.</b>
+<b>To develop the Moral &amp; Social domains of every child</b>
 
 ![](/images/pupil_welfare_highlights.jpg)
 
@@ -32,8 +32,12 @@ Every Term, teachers and students will present an assembly talk on the school va
 
 After the Assembly Talk on Character Values, students are encouraged to do a self-reflection of their behaviour.
 
-<img src="/images/reflection_2023.jpg" style="width:45%">
 
+<div style="display: flex;">
+	<img src="/images/cce_via photo 2 2023.jpg" style="width:40%">
+  <img src="/images/reflection_2023.jpg" style="width:30%">
+  <img src="/images/cce_via photo 1 2023.jpg" style="width:40%">
+</div>
 
 
 **Character &amp; Citizenship Education CCE MTL&nbsp; Lessons**
