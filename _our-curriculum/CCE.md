@@ -5,9 +5,9 @@ description: ""
 ---
 ![](/images/pupil_welfare_vision.jpg)
 <p style="font-size: 26px; color: blue; font-weight: bold;">Department Vision:</p>
-&nbsp;<b>Every Child A Student of Character</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;<b>Every Endeavour Student to become citizens of good characters who loves Singapore</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p style="font-size: 26px; color: blue; font-weight: bold;">Department Mission:&nbsp;</p>
-<b>To develop the Moral &amp; Social domains of every child</b>
+<b>To nurture every child to be a concerned and gracious citizen, a confident leader with the right values.</b>
 
 ![](/images/pupil_welfare_highlights.jpg)
 
