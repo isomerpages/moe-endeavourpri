@@ -47,8 +47,8 @@ During CCE MTL lessons, our students learn to be responsible to family and commu
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Form Teacher Guidance Period (FTGP) Lessons</p>
 The one period per week FTGP lesson not only provides opportunity for teachers to equip students with social and emotional competencies, but also allows for more quality teacher-student interaction.
 
-**National Education (NE)**
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">National Education (NE)</p>
 National Education (NE) aims to develop national cohesion, cultivate the instinct for survival as a nation and instil in our students, confidence in our nation’s future. It also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore. In EDP, we commemorate the 4 NE Events – Total Defence Day; International Friendship Day; Racial Harmony Day &amp; National Day; by customising NE-Focussed Lessons that are integrated into the Social Studies &amp; Character &amp; Citizenship Education lessons.
 
 **NE Learning Journey**
