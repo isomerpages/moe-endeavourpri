@@ -19,8 +19,8 @@ description: ""
 
 [1. Complete the [ Call for Proposal - Annex A.pdf ] ](https://drive.google.com/file/d/1kRftjRIRewMFqonHv9ynsK7ihdtwLr0R/view?usp=sharing)
 
-2. Submit the completed Call for Proposal - Annex A by closing date, 10 May 2023, via email OR to the School's General Office.<p></p>
 
+<p style="text-align:left;font-size: 17px; color: black;">2. Submit the completed Call for Proposal - Annex A by closing date, 11 July 2023, via email OR to the School's General Office.</p>
 
 
 <p style="text-align:left;font-size:17px; color: black;">• Address: 10 Admiralty Link, Singapore 757521<br>
