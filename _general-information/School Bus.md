@@ -23,6 +23,7 @@ description: ""
 • Email: endeavour_ps@moe.edu.sg<br>
 • Contact Person: Mr Chan Jian Xiong</p>
 
-<p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">How to get there?</p>
+<p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">How to get there?
+</p>
 <p style="text-align: left; font-size: 17px; color: black; display: inline;">Nearest MRT Station: Sembawang MRT<br>
 Buses: 859, 962</p>
