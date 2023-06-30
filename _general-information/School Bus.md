@@ -9,11 +9,15 @@ description: ""
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">Service Requirements</p>
 <p style="text-align:left;font-size:17px; color: black;">
 1.  [Insert PDF]<br>
-2.  [insert PDF]</p>
+	
+
+
+[click on the link](/files/attachment%201%20call%20for%20proposals%20by%20school%20(version%20june%202023)%20(edp).pdf)
+	
 
 
 
-<p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">Application Procedure</p>
+</p><p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">Application Procedure</p>
 <p style="text-align: left; font-size: 17px; color: black; display: inline;">1. Complete the [Insert PDF] <br>
 2. Submit the completed Call for Proposal - Annex A by closing date, 10 May 2023, 
     via email OR to the School's General Office.</p>
