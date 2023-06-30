@@ -15,8 +15,6 @@ description: ""
 </p><p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">Application Procedure</p>
 
 <a href="https://drive.google.com/file/d/1kRftjRIRewMFqonHv9ynsK7ihdtwLr0R/view?usp=sharing">1. Complete the [ Call for Proposal - Annex A.pdf</a>
-
-
 <p style="text-align:left;font-size: 17px; color: black;">2.  Submit the completed Call for Proposal - Annex A by closing date, 11 July 2023, via email OR to the School's General Office.</p>
 
 
