@@ -5,12 +5,10 @@ description: ""
 ---
 <p style="text-align:left;font-size: 25px; color: blue; font-weight: bold;">School Bus Advertisement</p>
 <p style="text-align:left;font-size: 17px; color: black;">To apply, please refer to the Service Requirements and the Application Procedure below.</p>
-
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">Service Requirements</p>
 <p style="text-align:left;font-size:17px; color: black;">
 	  
-<a href="https://drive.google.com/file/d/1GoljZ_abWWZT1mD5cpqILAXK-jny1oZz/view?usp=sharing">[ Call for Proposal.pdf ]</a>
-
+<a href="https://drive.google.com/file/d/1GoljZ_abWWZT1mD5cpqILAXK-jny1oZz/view?usp=sharing">[ Call for Proposal.pdf ]</a><br>
 <a href="https://drive.google.com/file/d/1ptiUIgRfJJoeBCev0yXzYX4g3PQ4XPu2/view?usp=sharing">[ Agreement for Appointment of School Bus Operator.pdf ]</a>
 
 	
