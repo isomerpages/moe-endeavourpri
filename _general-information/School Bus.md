@@ -9,7 +9,7 @@ description: ""
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">Service Requirements</p>
 <p style="text-align:left;font-size:17px; color: black;">
 
-[Call for proposal (pdf)](/files/attachment%201%20call%20for%20proposals%20by%20school%20(version%20june%202023)%20(edp).pdf)
+[Call for proposal.pdf](/files/attachment%201%20call%20for%20proposals%20by%20school%20(version%20june%202023)%20(edp).pdf)
 	
 
 
