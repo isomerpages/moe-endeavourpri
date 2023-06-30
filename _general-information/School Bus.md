@@ -9,7 +9,10 @@ description: ""
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">Service Requirements</p>
 <p style="text-align:left;font-size:17px; color: black;">
 	
-[[ Call for Proposal.pdf ] ](https://drive.google.com/file/d/1GoljZ_abWWZT1mD5cpqILAXK-jny1oZz/view?usp=sharing)
+	
+  
+<a href="https://drive.google.com/file/d/1GoljZ_abWWZT1mD5cpqILAXK-jny1oZz/view?usp=sharing">[ Call for Proposal.pdf ]</a>
+
 	
 [[ Agreement for Appointment of School Bus Operator.pdf ]](https://drive.google.com/file/d/1ptiUIgRfJJoeBCev0yXzYX4g3PQ4XPu2/view?usp=sharing)
 	
