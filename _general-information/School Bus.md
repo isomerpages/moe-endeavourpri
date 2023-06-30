@@ -8,12 +8,8 @@ description: ""
 
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">Service Requirements</p>
 <p style="text-align:left;font-size:17px; color: black;">
-
-[Call for proposal.pdf](/files/attachment1-2023.pdf)
 	
-test 2.
-	
-[Call for proposal1.pdf](/files/attachment1-2023.pdf)&nbsp;
+[[ Call for Proposal.pdf ] ](https://drive.google.com/file/d/1GoljZ_abWWZT1mD5cpqILAXK-jny1oZz/view?usp=sharing)
 
 </p><p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">Application Procedure</p>
 <p style="text-align: left; font-size: 17px; color: black; display: inline;">1. Complete the [Insert PDF] <br>
