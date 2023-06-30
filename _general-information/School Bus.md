@@ -14,11 +14,12 @@ description: ""
 [[ Agreement for Appointment of School Bus Operator.pdf ]](https://drive.google.com/file/d/1ptiUIgRfJJoeBCev0yXzYX4g3PQ4XPu2/view?usp=sharing)
 	
 	
-
 </p><p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">Application Procedure</p>
-<p style="text-align: left; font-size: 17px; color: black; display: inline;">1. Complete the [Insert PDF] <br>
-2. Submit the completed Call for Proposal - Annex A by closing date, 10 May 2023, 
-    via email OR to the School's General Office.</p>
+
+
+[1. Complete the [ Call for Proposal - Annex A.pdf ] ](https://drive.google.com/file/d/1kRftjRIRewMFqonHv9ynsK7ihdtwLr0R/view?usp=sharing)
+
+2. Submit the completed Call for Proposal - Annex A by closing date, 10 May 2023, via email OR to the School's General Office.<p></p>
 
 
 
