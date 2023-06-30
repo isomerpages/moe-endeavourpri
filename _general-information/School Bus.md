@@ -8,22 +8,15 @@ description: ""
 
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">Service Requirements</p>
 <p style="text-align:left;font-size:17px; color: black;">
-	
-	
-  
+	  
 <a href="https://drive.google.com/file/d/1GoljZ_abWWZT1mD5cpqILAXK-jny1oZz/view?usp=sharing">[ Call for Proposal.pdf ]</a>
 
-  
-
 <a href="https://drive.google.com/file/d/1ptiUIgRfJJoeBCev0yXzYX4g3PQ4XPu2/view?usp=sharing">[ Agreement for Appointment of School Bus Operator.pdf ]</a>
-	
 
-	
 	
 </p><p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">Application Procedure</p>
 
-
-[1. Complete the [ Call for Proposal - Annex A.pdf ] ](https://drive.google.com/file/d/1kRftjRIRewMFqonHv9ynsK7ihdtwLr0R/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1kRftjRIRewMFqonHv9ynsK7ihdtwLr0R/view?usp=sharing">1. Complete the [ Call for Proposal - Annex A.pdf</a>
 
 
 <p style="text-align:left;font-size: 17px; color: black;">2. Submit the completed Call for Proposal - Annex A by closing date, 11 July 2023, via email OR to the School's General Office.</p>
