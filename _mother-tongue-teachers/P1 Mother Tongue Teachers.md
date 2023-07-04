@@ -6,7 +6,7 @@ description: ""
 |     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Chinese Language Teachers</strong>|
 | -------------------------------- | ---------------------------------------------------- |
 | 1CL1   | Mdm Eng Cuishan<br><br><a href="mailto:eng_cui_shan@moe.edu.sg">eng_cui_shan@moe.edu.sg</a>| 
-| 1CL2   | Mr Hong King Yong<br><br><a href="mailto:hong_king_yong@moe.edu.sg">hong_king_yong@moe.edu.sg</a>| 
+| 1CL2   | Miss Phang Huey Fen<br><br><a href="mailto:phang_huey_fen@moe.edu.sg">phang_huey_fen@moe.edu.sg</a>| 
 | 1CL3  | Mdm Ow Chew Cheng<br><br><a href="mailto:ow_chew_cheng@moe.edu.sg">ow_chew_cheng@moe.edu.sg</a>
 1CL4   | Mdm Yang Shiya<br><br> <a href="mailto:yang_shiya@moe.edu.sg">yang_shiya@moe.edu.sg</a>|
 | 1CL5   | Mdm Wang Li Qin<br><br><a href="mailto:wang_liqin@moe.edu.sg">wang_liqin@moe.edu.sg</a>|
