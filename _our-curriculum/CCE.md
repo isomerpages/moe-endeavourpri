@@ -185,7 +185,10 @@ Once a year, our student leaders will undergo a leadership camp to equip them wi
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">P4/P3 Buddy Leaders Programme</p>
 Every year, our P4 and some P3 students will buddy up with our P1 students to guide and assist them with their first few days in EDP.
-![P4/P3 Buddy Leaders Programme](/images/P4%20P3%20buddy%20leaders%20programme.png)
+
+
+<img src="/images/P4 P3 buddy leaders programme.png" style="width:85%">
+
 
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">North-West CDC Outstanding All-Rounders Award</p>
