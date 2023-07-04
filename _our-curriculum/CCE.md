@@ -86,9 +86,6 @@ EDP students are taught the importance of taking care of our environment by adop
 ![Caring for our environment](/images/caring%20for%20our%20environment.png)
 
 
-<p style="font-size: 18px; color: darkblue; font-weight: bold;">Caring for the elderly</p>
-In EDP, our students are also taught the importance of caring and taking care of the elderly. Once a year, our students, teachers, and parents volunteers will spend a meaningful afternoon at the elderly Homes, including making crafts with them, listening to their interesting stories/real life experiences about Singapore in the olden days. Everyone has learnt that each of us has a part to play to make a difference in the community.
-![Caring for the elderly](/images/caring%20for%20the%20elderly.png)
 
 
 
@@ -135,6 +132,9 @@ The upcycling activity was carried out at Rainbow Centre. Prior to this, there w
 </div>
 
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Caring for the elderly</p>
+In EDP, our students are also taught the importance of caring and taking care of the elderly. Once a year, our students, teachers, and parents volunteers will spend a meaningful afternoon at the elderly Homes, including making crafts with them, listening to their interesting stories/real life experiences about Singapore in the olden days. Everyone has learnt that each of us has a part to play to make a difference in the community.
+![Caring for the elderly](/images/caring%20for%20the%20elderly.png)
 
 
 
