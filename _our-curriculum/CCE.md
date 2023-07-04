@@ -57,7 +57,6 @@ The students always look forward to trips out of the school as it provides an im
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Rainbow Day cum NE events</p>
 Our students celebrate Total Defence Day, International Friendship Day and Racial Harmony Day in conjunction with the school’s signature Rainbow Days.
-
 <img src="/images/NE2.jpg" style="width:50%">
 
 
@@ -191,7 +190,9 @@ Every year, our P4 and some P3 students will buddy up with our P1 students to gu
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">North-West CDC Outstanding All-Rounders Award</p>
 The NW CDC OARS Award is recognition of our students’ leadership capabilities, as well as EDP’s student leadership programme.
-![North-West CDC Outstanding All-Rounders Award](/images/north%20west%20CDC%20outstanding%20all%20rounders%20awards.png)
+
+<img src="/images/north west CDC outstanding all rounders awards.png" style="width:85%">
+
 
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">School Green Awards</p>
@@ -205,8 +206,6 @@ We are pleased to inform that Endeavour Primary School has achieved the Yellow F
 It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2022 (Silver Award) for participating actively in North West Community Development Council programmes in 2021. We will like to thank all of our staff and students for their contribution.
 
 <img src="/images/1edp2023.jpeg" style="width:75%">
-
-
 
 
 ![](/images/pupil_welfare_links.jpg)
