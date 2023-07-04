@@ -169,12 +169,11 @@ EDP’s&nbsp;**Student Leadership Programme**&nbsp;focuses on providing leadersh
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Prefects’ Investiture</p>
 After a vigorous selection process, students who have been selected to be Endeavour’s Ambassadors will be formally unveiled to the whole school during the Prefects’ Investiture.
-![prefects investiture](/images/prefects%20investiture.png)
-
+<img src="/images/prefects%20investiture.png" style="width:80%">
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Training for Prefects</p>
 Prefects will undergo a structured and customised leadership training programme. The workshops and trainings help our young leaders to hone their leadership skills.
-![Training for Prefects](/images/training%20for%20prefects.png)
+<img src="/images/training%20for%20prefects.png" style="width:100%">
 
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Student Leaders Camp</p>
@@ -182,14 +181,10 @@ Once a year, our student leaders will undergo a leadership camp to equip them wi
 
 <img src="/images/Student%20Leaders%20Camp.jpg" style="width:50%">
 
-
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">P4/P3 Buddy Leaders Programme</p>
 Every year, our P4 and some P3 students will buddy up with our P1 students to guide and assist them with their first few days in EDP.
 
-
 <img src="/images/P4 P3 buddy leaders programme.png" style="width:85%">
-
-
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">North-West CDC Outstanding All-Rounders Award</p>
 The NW CDC OARS Award is recognition of our students’ leadership capabilities, as well as EDP’s student leadership programme.
