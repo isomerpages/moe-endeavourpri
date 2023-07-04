@@ -29,7 +29,13 @@ Every Term, teachers and students will present an assembly talk on the school va
 
 ![assembly talk on character values](/images/assembly%20talk%20on%20character%20values.png)
 
-
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Reflection Activity</p>
+After the Assembly Talk on Character Values, students are encouraged to do a self-reflection of their behaviour.
+<div style="display: flex;">
+	<img src="/images/cce_via photo 2 2023.jpg" style="width:40%">
+  <img src="/images/reflection_2023.jpg" style="width:30%">
+  <img src="/images/cce_via photo 1 2023.jpg" style="width:40%">
+</div>
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Character &amp; Citizenship Education CCE MTL&nbsp; Lessons</p>
 During CCE MTL lessons, our students learn to be responsible to family and community, and understand their roles in shaping the future of our nation. The emerging trends and global developments that impact our society such as societal changes, globalisation are taken into consideration when developing the CCE curriculum.
@@ -128,14 +134,7 @@ The upcycling activity was carried out at Rainbow Centre. Prior to this, there w
   <img src="/images/upcycling_2023.jpeg" style="width:21%">
   <img src="/images/upcycling2_2023.jpeg" style="width:50%">
 </div>
-<p style="font-size: 18px; color: darkblue; font-weight: bold;">Reflection Activity</p>
-After the Assembly Talk on Character Values, students are encouraged to do a self-reflection of their behaviour.
 
-<div style="display: flex;">
-	<img src="/images/cce_via photo 2 2023.jpg" style="width:40%">
-  <img src="/images/reflection_2023.jpg" style="width:30%">
-  <img src="/images/cce_via photo 1 2023.jpg" style="width:40%">
-</div>
 
 
 
