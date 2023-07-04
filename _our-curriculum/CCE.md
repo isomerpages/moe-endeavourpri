@@ -29,7 +29,13 @@ Every Term, teachers and students will present an assembly talk on the school va
 
 ![assembly talk on character values](/images/assembly%20talk%20on%20character%20values.png)
 
-
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Reflection Activity</p>
+After the Assembly Talk on Character Values, students are encouraged to do a self-reflection of their behaviour.
+<div style="display: flex;">
+	<img src="/images/cce_via photo 2 2023.jpg" style="width:40%">
+  <img src="/images/reflection_2023.jpg" style="width:30%">
+  <img src="/images/cce_via photo 1 2023.jpg" style="width:40%">
+</div>
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Character &amp; Citizenship Education CCE MTL&nbsp; Lessons</p>
 During CCE MTL lessons, our students learn to be responsible to family and community, and understand their roles in shaping the future of our nation. The emerging trends and global developments that impact our society such as societal changes, globalisation are taken into consideration when developing the CCE curriculum.
@@ -51,7 +57,6 @@ The students always look forward to trips out of the school as it provides an im
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Rainbow Day cum NE events</p>
 Our students celebrate Total Defence Day, International Friendship Day and Racial Harmony Day in conjunction with the school’s signature Rainbow Days.
-
 <img src="/images/NE2.jpg" style="width:50%">
 
 
@@ -81,9 +86,6 @@ EDP students are taught the importance of taking care of our environment by adop
 ![Caring for our environment](/images/caring%20for%20our%20environment.png)
 
 
-<p style="font-size: 18px; color: darkblue; font-weight: bold;">Caring for the elderly</p>
-In EDP, our students are also taught the importance of caring and taking care of the elderly. Once a year, our students, teachers, and parents volunteers will spend a meaningful afternoon at the elderly Homes, including making crafts with them, listening to their interesting stories/real life experiences about Singapore in the olden days. Everyone has learnt that each of us has a part to play to make a difference in the community.
-![Caring for the elderly](/images/caring%20for%20the%20elderly.png)
 
 
 
@@ -128,15 +130,11 @@ The upcycling activity was carried out at Rainbow Centre. Prior to this, there w
   <img src="/images/upcycling_2023.jpeg" style="width:21%">
   <img src="/images/upcycling2_2023.jpeg" style="width:50%">
 </div>
-<p style="font-size: 18px; color: darkblue; font-weight: bold;">Reflection Activity</p>
-After the Assembly Talk on Character Values, students are encouraged to do a self-reflection of their behaviour.
 
-<div style="display: flex;">
-	<img src="/images/cce_via photo 2 2023.jpg" style="width:40%">
-  <img src="/images/reflection_2023.jpg" style="width:30%">
-  <img src="/images/cce_via photo 1 2023.jpg" style="width:40%">
-</div>
 
+<p style="font-size: 18px; color: darkblue; font-weight: bold;">Caring for the elderly</p>
+In EDP, our students are also taught the importance of caring and taking care of the elderly. Once a year, our students, teachers, and parents volunteers will spend a meaningful afternoon at the elderly Homes, including making crafts with them, listening to their interesting stories/real life experiences about Singapore in the olden days. Everyone has learnt that each of us has a part to play to make a difference in the community.
+![Caring for the elderly](/images/caring%20for%20the%20elderly.png)
 
 
 
@@ -171,12 +169,11 @@ EDP’s&nbsp;**Student Leadership Programme**&nbsp;focuses on providing leadersh
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Prefects’ Investiture</p>
 After a vigorous selection process, students who have been selected to be Endeavour’s Ambassadors will be formally unveiled to the whole school during the Prefects’ Investiture.
-![prefects investiture](/images/prefects%20investiture.png)
-
+<img src="/images/prefects%20investiture.png" style="width:80%">
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Training for Prefects</p>
 Prefects will undergo a structured and customised leadership training programme. The workshops and trainings help our young leaders to hone their leadership skills.
-![Training for Prefects](/images/training%20for%20prefects.png)
+<img src="/images/training%20for%20prefects.png" style="width:100%">
 
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">Student Leaders Camp</p>
@@ -184,15 +181,16 @@ Once a year, our student leaders will undergo a leadership camp to equip them wi
 
 <img src="/images/Student%20Leaders%20Camp.jpg" style="width:50%">
 
-
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">P4/P3 Buddy Leaders Programme</p>
 Every year, our P4 and some P3 students will buddy up with our P1 students to guide and assist them with their first few days in EDP.
-![P4/P3 Buddy Leaders Programme](/images/P4%20P3%20buddy%20leaders%20programme.png)
 
+<img src="/images/P4 P3 buddy leaders programme.png" style="width:85%">
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">North-West CDC Outstanding All-Rounders Award</p>
 The NW CDC OARS Award is recognition of our students’ leadership capabilities, as well as EDP’s student leadership programme.
-![North-West CDC Outstanding All-Rounders Award](/images/north%20west%20CDC%20outstanding%20all%20rounders%20awards.png)
+
+<img src="/images/north west CDC outstanding all rounders awards.png" style="width:85%">
+
 
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">School Green Awards</p>
@@ -206,8 +204,6 @@ We are pleased to inform that Endeavour Primary School has achieved the Yellow F
 It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2022 (Silver Award) for participating actively in North West Community Development Council programmes in 2021. We will like to thank all of our staff and students for their contribution.
 
 <img src="/images/1edp2023.jpeg" style="width:75%">
-
-
 
 
 ![](/images/pupil_welfare_links.jpg)
