@@ -201,7 +201,7 @@ We are pleased to inform that Endeavour Primary School has achieved the Yellow F
 
 
 <p style="font-size: 18px; color: darkblue; font-weight: bold;">North-West CDC Outstanding School Partner Award</p>
-It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2022 (Silver Award) for participating actively in North West Community Development Council programmes in 2021. We will like to thank all of our staff and students for their contribution.
+It is with great pleasure to announce that our School has been awarded the North West Outstanding School Partner Award 2023 (Silver Award) for participating actively in North West Community Development Council programmes in 2022. We will like to thank all of our staff and students for their contribution.
 
 <img src="/images/1edp2023.jpeg" style="width:75%">
 
