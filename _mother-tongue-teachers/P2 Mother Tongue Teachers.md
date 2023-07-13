@@ -18,10 +18,9 @@ description: ""
 |     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Malay Language Teachers</strong>|
 | -------------------------------- | ---------------------------------------------------- |
 | P2ML1 | Mdm Nazreen Bte Mohamed Noor (P2ML1) <br><br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg">nazreen_mohamed_noor@moe.edu.sg</a>|
-| P2ML2 | Miss Farah Adibah Binte Johari (P2ML2)<br><br><a href="mailto:farah_adibah_johari@moe.edu.sg">farah_adibah_johari@moe.edu.sg</a><br><br><br>|
+| P2ML2 | Ms Farah Adibah Binte Johari (P2ML2)<br><br><a href="mailto:farah_adibah_johari@moe.edu.sg">farah_adibah_johari@moe.edu.sg</a><br><br><br>|
 
 
 |     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Tamil Language Teachers</strong>|
 | -------------------------------- | ---------------------------------------------------- |
 | P2TL  | Mdm Indarani Kasinathan<br><br><a href="mailto:indarani_kasinathan@moe.edu.sg">indarani_kasinathan@moe.edu.sg </a>|
-
