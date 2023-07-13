@@ -12,4 +12,4 @@ third_nav_title: Our Staff
 </a>               |
 | P5 Perseverance    | Mohamad Sani Bin Mohd Hafid<br><br><a href="mailto:mohamed_sani@moe.edu.sg">mohamed_sani@moe.edu.sg</a>                                   | Mr Mohamad Sani Bin Mohd Hafid<br><a href="mailto:mohamed_sani@moe.edu.sg">mohamed_sani@moe.edu.sg</a>    |
 | P5 <br>Respect         | Ms Teo Kai Ling<br><br><a href="mailto:teo_kai_ling@moe.edu.sg">teo_kai_ling@moe.edu.sg</a>                                       | Mrs Goh-Wei Ling<br><br><a href="mailto:wong_wei_ling_a@moe.edu.sg">wong_wei_ling_a@moe.edu.sg</a>               |
-| P5 Responsibility  | Mdm Sangeetha d/o Arumugam<br><br><a href="mailto:sangeetha_arumugam@moe.edu.sg">sangeetha_arumugam@moe.edu.sg</a>                      | Mdm Guo Ling Lan<br><br><a href="mailto:guo_linglan@moe.edu.sg">guo_linglan@moe.edu.sg</a>                   |
+| P5 Responsibility  | Mdm Sangeetha d/o Arumugam<br><br><a href="mailto:sangeetha_arumugam@moe.edu.sg">sangeetha_arumugam@moe.edu.sg</a>                      | Mdm Guo Ling Lan<br>Mr Weiwen<br><a href="mailto:guo_linglan@moe.edu.sg">guo_linglan@moe.edu.sg</a>                   |
