@@ -9,7 +9,7 @@ description: ""
 | 5CL2 | Mdm Wang Liqin  <br><br><a href="mailto:wang_liqin@moe.edu.sg">wang_liqin@moe.edu.sg </a>|
 | 5CL3| Mdm Ng Liyen  <br><br><a href="mailto:ng_li_yen@moe.edu.sg">ng_li_yen@moe.edu.sg</a>|
 |5CL4 | Mdm Eng Cuishan  <br><br><a href="mailto:eng_cui_shan@moe.edu.sg">eng_cui_shan@moe.edu.sg</a>|
-| 5CL5| Mdm Cindy Chia-Tjen Sak Tju  <br><br><a href="mailto:chia-_tjen_sak_tju@moe.edu.sg">chia-_tjen_sak_tju@moe.edu.sg</a>|
+| 5CL5| Mrs Chia-Tjen Sak Tju Cindy  <br><br><a href="mailto:chia-_tjen_sak_tju@moe.edu.sg">chia-_tjen_sak_tju@moe.edu.sg</a>|
 | 5CL6| Mdm Guo Linglan <br><br><a href="mailto:guo_linglan@moe.edu.sg">guo_linglan@moe.edu.sg </a><br><br><br>|
 
 
