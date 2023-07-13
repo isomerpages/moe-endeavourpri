@@ -14,8 +14,8 @@ third_nav_title: Our Staff
 
 | <strong style="color: blue; font-size: 25px; font-family: Arial;">HEADS OF DEPARTMENT (HOD)</strong>   |                                                       |
 |------------------------------------------------------------------|-----------------------------------------------------------------|
-| <strong style="color: black; font-size: 17px;">School Staff Developer</strong>    | **Mrs Theresa Lee**<br><br></a>chu_ka_hing_theresa@moe.edu.sg          |
-| <strong style="color: black; font-size: 17px;">HOD (Character &amp; Citizenship Education) </strong>| **Mr Lee Beng Lim**<br><br><a href="mailto:lee_beng_lim@moe.edu.sg">lee_beng_lim@moe.edu.sg</a>             |
+| <strong style="color: black; font-size: 17px;">School Staff Developer</strong>    | **Mrs Theresa Lee**<br><br>chu_ka_hing_theresa@moe.edu.sg          |
+| <strong style="color: black; font-size: 17px;">HOD (Character &amp; Citizenship Education) </strong>| **Mr Lee Beng Lim**<br><br></a><a href="mailto:lee_beng_lim@moe.edu.sg">lee_beng_lim@moe.edu.sg</a>             |
 | <strong style="color: black; font-size: 17px;">HOD (Co-curricular Activities [CCA]/ Physical Education [PE]/ Discipline) </strong> | **Mr Yaidi Bin Mohamad**<br><br><a href="mailto:yaidi_b_mohamad@moe.edu.sg"> yaidi_b_mohamad@moe.edu.sg</a>         |
 | <strong style="color: black; font-size: 17px;">HOD (English Language) </strong>                                                   | **Mdm Vijayashree d/o Retnam**<br><br><a href="mailto:vijayashree_retnam@moe.edu.sg">vijayashree_retnam@moe.edu.sg</a> |
 | <strong style="color: black; font-size: 17px;">HOD (Science)</strong>                                                            | **Mr Lo Zhi Hui Jonathan**<br><br><a href="mailto:lo_zhi_hui_jonathan@moe.edu.sg">lo_zhi_hui_jonathan@moe.edu.sg</a>    |
