@@ -12,6 +12,3 @@ third_nav_title: Our Staff
 | P6<br> Perseverance    | Mr Namdi Bin Salleh<br><br><a href="mailto:namdi_b_salleh@moe.edu.sg">namdi_b_salleh@moe.edu.sg</a>                    | Mr Kee Loi Seng<br><br><a href="mailto:kee_loi_seng@moe.edu.sg">kee_loi_seng@moe.edu.sg</a>                              |
 | P6<br> Respect         | Mrs Raihanah Hayashi<br><br><a href="mailto:raihanah_abdul_subhan@moe.edu.sg">raihanah_abdul_subhan@moe.edu.sg</a>            | Ms Lim Shao Lan<br><br><a href="mailto:lim_shao_lan@moe.edu.sg">lim_shao_lan@moe.edu.sg</a>                              |
 | P6 <br>Responsibility  | Ms Annemarie Jacob Israel<br><br><a href="mailto:annemarie_jacob_israel@moe.edu.sg">annemarie_jacob_israel@moe.edu.sg</a>      | Mdm Fauziah Bte Mohd Ata<br><br><a href="mailto:fauziah_mohamed_ata@moe.edu.sg">fauziah_mohamed_ata@moe.edu.sg</a>              |
-
-
-
