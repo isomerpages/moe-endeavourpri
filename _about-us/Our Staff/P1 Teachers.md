@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 |<strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>|  
 |--------------|-----------------|---------------------------------|  
-| P1 <br>Compassion     | Ms Thamayanthi d/o Chillah<br><br><a href="mailto:thamayanthi_chillayah@moe.edu.sg">thamayanthi_chillayah@moe.edu.sg | Mdm Eng Cui Shan<br><br></a><a href="mailto:eng_cui_shan@moe.edu.sg">eng_cui_shan@moe.edu.sg</a>       |  
+| P1 <br>Compassion     | Ms Thamayanthi d/o Chillah<br><br><a href="mailto:thamayanthi_chillayah@moe.edu.sg">thamayanthi_chillayah@moe.edu.sg | Mdm Eng Cui Shan<br><br> </a><a href="mailto:eng_cui_shan@moe.edu.sg">eng_cui_shan@moe.edu.sg</a>       |  
 | P1 <br>Diligence      | Mdm Govindarajoo Geetha<br><br><a href="mailto:govindarajoo_geetha@moe.edu.sg">govindarajoo_geetha@moe.edu.sg</a><br>  | Mdm Teo Siew Hong <br><br><a href="mailto:teo_siew_hong@moe.edu.sg">teo_siew_hong@moe.edu.sg</a> <br>                    |  
 | P1 <br>Harmony        | Ms Phang Huey Fen<br><br><a href="mailto:phang_huey_fen@moe.edu.sg">phang_huey_fen@moe.edu.sg</a>                  | Mrs Tan Hock Heng@Yee Min<br><br><a href="mailto:tan_hock_heng@moe.edu.sg">tan_hock_heng@moe.edu.sg</a>       |  
 | P1 <br>Innovation     | Ms Julia Low<br><br><a href="mailto:julia_low@moe.edu.sg">julia_low@moe.edu.sg</a>                | Mdm Ow Chew Cheng<br><br><a href="mailto:ow_chew_cheng@moe.edu.sg">ow_chew_cheng@moe.edu.sg</a>                  |  
