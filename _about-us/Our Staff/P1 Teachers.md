@@ -4,7 +4,7 @@ permalink: /p1-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-  |<strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>|  
+|<strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Form Teacher</strong>|<strong style="color: blue; font-size: 24px;">Co-Form Teacher</strong>|  
 |--------------|-----------------|---------------------------------|  
 | P1 <br>Compassion     | Ms Thamayanthi d/o Chillah<br><br><a href="mailto:thamayanthi_chillayah@moe.edu.sg">thamayanthi_chillayah@moe.edu.sg | Ms Eng Cui Shan<br><br></a><a href="mailto:eng_cui_shan@moe.edu.sg">eng_cui_shan@moe.edu.sg</a>        |  
 | P1 <br>Diligence      | Mdm Govindarajoo Geetha<br><br><a href="mailto:govindarajoo_geetha@moe.edu.sg">govindarajoo_geetha@moe.edu.sg</a><br>  | Mdm Teo Siew Hong <br><br><a href="mailto:teo_siew_hong@moe.edu.sg">teo_siew_hong@moe.edu.sg</a> <br>                    |  
