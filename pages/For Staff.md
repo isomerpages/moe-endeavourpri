@@ -37,6 +37,10 @@ description: ""
       <td style="box-sizing: inherit; padding: 5px 10px; width: 320.975px; height: 23px;">OPAL 2.0</td>
       <td style="box-sizing: inherit; padding: 5px 10px; width: 471.25px; height: 23px;"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(37, 160, 232);" rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner">https://www.opal2.moe.edu.sg/app/learner</a></td>
     </tr>
+	    <tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 23px;">
+      <td style="box-sizing: inherit; padding: 5px 10px; width: 320.975px; height: 23px;">HR &amp; Payroll Portal</td>
+      <td style="box-sizing: inherit; padding: 5px 10px; width: 471.25px; height: 23px;"><a style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: rgb(37, 160, 232);" rel="noopener noreferrer" target="_blank" href="https://www.hrp.gov.sg"><br> https://www.hrp.gov.sg</a></td>
+    </tr>
   </tbody>
 </table>
 <p style="font-size: 19px; text-align: left; font-weight: bold;">Please log in to ICON before accessing the following links:</p>
