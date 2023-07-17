@@ -8,13 +8,13 @@ third_nav_title: Our Staff
 |------------------|----------------------------------------------------|
 |<strong style="color: black; font-size: 17px;">Principal</strong>| **Mr Thomas Koh**<br><br><a href="mailto:thomas_koh@schools.gov.sg">thomas_koh@schools.gov.sg</a>     |
 | <strong style="color: black; font-size: 17px;">Vice Principal 1</strong>| **Ms Chua Hui Pin**<br><br><a href="mailto:CHUA_Hui_Pin@schools.gov.sg">chua_hui_pin@schools.gov.sg</a> |
-| <strong style="color: black; font-size: 17px;">Vice Principal 2</strong> | **Ms Fauziah Daud**<br><br><a href="mailto:fauziah_daud@schools.gov.sg">fauziah_daud@schools.gov.sg |
+| <strong style="color: black; font-size: 17px;">Vice Principal 2</strong> | **Ms Fauziah Daud**<br><br><a href="mailto:fauziah_daud@schools.gov.sg">fauziah_daud@schools.gov.sg</a> |
 
 
 
 | <strong style="color: blue; font-size: 25px; font-family: Arial;">HEADS OF DEPARTMENT (HOD)</strong>   |                                                       |
 |------------------------------------------------------------------|-----------------------------------------------------------------|
-| <strong style="color: black; font-size: 17px;">School Staff Developer</strong>    | **Mrs Theresa Lee**<br><br></a><a href="mailto:chu_ka_hing_theresa@moe.edu.sg">chu_ka_hing_theresa@moe.edu.sg </a>          |
+| <strong style="color: black; font-size: 17px;">School Staff Developer</strong>    | **Mrs Theresa Lee**<br><br><a href="mailto:chu_ka_hing_theresa@moe.edu.sg">chu_ka_hing_theresa@moe.edu.sg </a>          |
 | <strong style="color: black; font-size: 17px;">HOD (Character &amp; Citizenship Education) </strong>| **Mr Lee Beng Lim**<br><br><a href="mailto:lee_beng_lim@moe.edu.sg">lee_beng_lim@moe.edu.sg</a>             |
 | <strong style="color: black; font-size: 17px;">HOD (Co-curricular Activities [CCA]/ Physical Education [PE]/ Discipline) </strong> | **Mr Yaidi Bin Mohamad**<br><br><a href="mailto:yaidi_b_mohamad@moe.edu.sg"> yaidi_b_mohamad@moe.edu.sg</a>         |
 | <strong style="color: black; font-size: 17px;">HOD (English Language) </strong>                                                   | **Mdm Vijayashree d/o Retnam**<br><br><a href="mailto:vijayashree_retnam@moe.edu.sg">vijayashree_retnam@moe.edu.sg</a> |
