@@ -2,9 +2,9 @@ collections:
   general-information:
     output: true
     order:
-      - School Bus Advertisement 1.md
       - Service Providers.md
       - School Bus.md
+      - School Bus Advertisement 1.md
       - School Bus Advertisement.md
       - School Hours.md
       - Contact Us.md
