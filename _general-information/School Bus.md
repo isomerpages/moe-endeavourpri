@@ -11,6 +11,6 @@ description: ""
 
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">Request for School Bus Services</p>
 
-<p style="text-align:left;font-size: 17px; color: black; font-weight;">To request for school bus services in 2024, download and fill in the form below. Please submit the request form to the school bus operator directlv.</p>
+<p style="text-align:left;font-size: 17px; color: black; font-weight;">To request for school bus services in 2024, download and fill in the form below. Please submit the request form to the school bus operator directly.</p>
 
 <a href="https://drive.google.com/file/d/1Fc1FtBa4N6xd7e9J0Okd6zgzgG5waw1F/view?usp=sharing">[ Request for School Bus Services form in 2024.pdf ]</a>
