@@ -3,9 +3,10 @@ title: Test
 permalink: /permalink/
 description: ""
 ---
-<section style="background-image: url(cms.isomer.gov.sg/sites/moe-endeavourpri/media/images/mediaDirectory/images/editMediaSettings/ART-CLUB-1.png); background-repeat: no-repeat; background-size: cover; background-position: center;">   <!-- Content for the section goes here --> </section>`
-
-
-
-\
-\
+<p id="fadly123">This is a Paragraph</p>
+<style>
+    #fadly123{
+    background-color: red;
+    color:blue;
+     }
+</style>
