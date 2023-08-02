@@ -7,8 +7,8 @@ description: ""
 
 <style>
 		#fadly123 {
-				background-color: red;
-				color: blue;
+				background-color: white;
+				color: darkblue;
 				font-size: 18px;
 				font-family: Arial, sans-serif;
 				padding: 10px;
@@ -28,8 +28,8 @@ description: ""
 				overflow: hidden;
 		}
 		#fadly123:hover {
-				background-color: orange;
-				color: white;
+				background-color: gold;
+				color: blue;
 				transform: scale(1.1) rotate(3deg);
 				box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
 				z-index: 2;
@@ -58,7 +58,3 @@ description: ""
 				opacity: 1;
 		}
 </style>
-
-
-
-
