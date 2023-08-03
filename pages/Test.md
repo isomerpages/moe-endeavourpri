@@ -35,7 +35,6 @@ description: ""
 				z-index: 2;
 		}
 		#fadly123::before {
-				content: "🎉 ";
 				position: absolute;
 				top: -10px;
 				left: 50%;
@@ -43,7 +42,6 @@ description: ""
 				font-size: 24px;
 		}
 		#fadly123::after {
-				content: "";
 				position: absolute;
 				top: 0;
 				left: 0;
