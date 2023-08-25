@@ -10,7 +10,7 @@ description: ""
       <strong style="box-sizing: inherit; font-weight: 700;"><a href="https://www.youtube.com/watch?v=Dr6oX1Ih3HI" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
       <b style="box-sizing: inherit; font-weight: 700;">Prefects’ Investiture Ceremony 2023</b>
       </a> </strong></td><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
-      <strong style="box-sizing: inherit; font-weight: 700;"><a href="htqzGlo" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
+      <strong style="box-sizing: inherit; font-weight: 700;"><a href="https://drive.google.com/drive/folders/1dujtr26ibk4wjdgCZQ7lrkh2qMyLAVks?usp=sharing" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
       <b style="box-sizing: inherit; font-weight: 700;">Prefects' Investiture&nbsp;2023&nbsp;Photos</b>
 				</a> </strong></td>
     <td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
