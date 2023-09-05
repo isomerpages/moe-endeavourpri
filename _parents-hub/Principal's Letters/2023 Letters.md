@@ -13,6 +13,7 @@ third_nav_title: Principal's Letters
         <a href="https://drive.google.com/file/d/10r8fXJtXuMukCol1GKvw7P9W6BuoAH-j/view?usp=sharing">P's letter to Parents - Aug 2023.pdf</a>
       </td>
       <td style="width: 50%; border: 1px solid black; vertical-align: middle;">
+				<a href="https://drive.google.com/file/d/10r8fXJtXuMukCol1GKvw7P9W6BuoAH-j/view?usp=sharing">P's letter to Parents - Sept 2023.pdf</a>
       </td>
     </tr>
     <tr>
