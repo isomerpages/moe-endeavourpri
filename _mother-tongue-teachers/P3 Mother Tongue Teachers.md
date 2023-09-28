@@ -7,7 +7,7 @@ description: ""
 | -------------------------------- | ---------------------------------------------------- |
 | 3CL1  | Ms Dong Jing Jing <br><br><a href="mailto:dong_jingjing@moe.edu.sg">dong_jingjing@moe.edu.sg </a>|
 | 3CL2 | Mdm Zheng Li<br><br><a href="mailto:zheng_li@moe.edu.sg">zheng_li@moe.edu.sg</a>|
-| 3CL3| Ms Doreen Ho Ruo Lin <br><br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg">ho_ruo_lin_doreen@moe.edu.sg</a>|
+| 3CL3| Ms Tan Seow Fong <br><br><a href="mailto:tan_seow_fong@moe.edu.sg">tan_seow_fong@moe.edu.sg</a>|
 |3CL4 |&nbsp;Ms Phang Huey Fen<br><br><a href="mailto:phang_huey_fen@moe.edu.sg">phang_huey_fen@moe.edu.sg</a>|
 | 3CL5 | Mdm Teo Siew Hong <br><br><a href="mailto:teo_siew_hong@moe.edu.sg Teo Siew Hong">teo_siew_hong@moe.edu.sg  </a>|
 | 3CL6| Mdm Guo Linglan  <br><br><a href="mailto:guo_linglan@moe.edu.sg">guo_linglan@moe.edu.sg </a>|
