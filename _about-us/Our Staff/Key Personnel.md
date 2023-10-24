@@ -10,8 +10,6 @@ third_nav_title: Our Staff
 | <strong style="color: black; font-size: 17px;">Vice Principal 1</strong>| **Ms Chua Hui Pin**<br><br><a href="mailto:CHUA_Hui_Pin@schools.gov.sg">chua_hui_pin@schools.gov.sg</a> |
 | <strong style="color: black; font-size: 17px;">Vice Principal 2</strong> | **Ms Fauziah Daud**<br><br><a href="mailto:fauziah_daud@schools.gov.sg">fauziah_daud@schools.gov.sg</a> |
 
-
-
 | <strong style="color: blue; font-size: 25px; font-family: Arial;">HEADS OF DEPARTMENT (HOD)</strong>   |                                                       |
 |------------------------------------------------------------------|-----------------------------------------------------------------|
 | <strong style="color: black; font-size: 17px;">School Staff Developer</strong>    | **Mrs Theresa Lee**<br><br><a href="mailto:chu_ka_hing_theresa@moe.edu.sg">chu_ka_hing_theresa@moe.edu.sg</a>          |
@@ -27,16 +25,14 @@ third_nav_title: Our Staff
 |  <strong style="color: blue; font-size: 25px; font-family: Arial;">► YEAR HEADS (YH) and ASSISTANT YEAR HEADS (AYH)</strong>  |                         |
 |------------------|----------------------------------------------------|
 |<strong style="color: black; font-size: 17px;">Year Head (Upper Pri)</strong>| **Mr Lim Chin Boon Matt**<br><br><a href="mailto:lim_chin_boon@moe.edu.sg">lim_chin_boon@moe.edu.sg</a>     |
-| <strong style="color: black; font-size: 17px;">Year Head (Lower Pri)</strong>| **Mdm Norashinah Md Yusope**<br><a href="mailto:norashinah_md_yusope@moe.edu.sg">norashinah_md_yusope@moe.edu.sg</a> |
+| <strong style="color: black; font-size: 17px;">Year Head (Middle Pri)</strong>| **Mdm Norashinah Md Yusope**<br><a href="mailto:norashinah_md_yusope@moe.edu.sg">norashinah_md_yusope@moe.edu.sg</a> |
 | <strong style="color: black; font-size: 17px;">Assistant Year Head (Upper Pri)</strong> | **Mr Mohamed Sani Bin Mohamed Hafid**<br><a href="mailto:mohamed_sani@moe.edu.sg">mohamed_sani@moe.edu.sg</a> |
 | <strong style="color: black; font-size: 17px;">Assistant Year Head (Lower Pri)</strong> | **Mrs Tan Hock Heng @ Yee Min**<br><br><a href="mailto:tan_hock_heng@moe.edu.sg">tan_hock_heng@moe.edu.sg</a> |
 | <strong style="color: black; font-size: 17px;">Assistant Year Head (Lower Pri)</strong> | **Ms Wong Lin Hui**<br><br><a href="mailto:wong_lin_hui@moe.edu.sg">wong_lin_hui@moe.edu.sg</a> |
 
 
-
 | <strong style="color: blue; font-size: 25px; font-family: Arial;">LEVEL HEADS (LH), SUBJECT HEADS (SH) &amp; LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
 |------------------------------------|----------------------------------|     
-| <strong style="color: black; font-size: 18px;"></strong>                     | <br><br><a href="mailto:wong_lin_hui@moe.edu.sg"></a>                                   |
 | <strong style="color: black; font-size: 17px;">Subject Head (Chinese Language) </strong>                                                            | **Ms Peh Chieh Yin**<br><br><a href="mailto:peh_chieh_yin@moe.edu.sg">peh_chieh_yin@moe.edu.sg</a>                                |
 | <strong style="color: black; font-size: 17px;">Subject Head (Information and Communications Technology [ICT]/ School Cockpit Co-ordinator) </strong> | **Ms Teo Pauline**<br><br><a href="mailto:teo_pauline@moe.edu.sg">teo_pauline@moe.edu.sg </a>                                  |
 |  <strong style="color: black; font-size: 17px;">Subject Head (Character and Citizen Education [CCE]) </strong>                                        | **Mr Ramadhan s/o Isaahak**<br><br>  piperdyramadhan_isaahak_piperdy@moe.edu.sg       |
