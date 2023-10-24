@@ -22,7 +22,7 @@ third_nav_title: Our Staff
 | <strong style="color: black; font-size: 17px;">HOD (Aesthetics)</strong>                                                           | **Mdm Gan Ai Lee**<br><br><a href="mailto:gan_ai_lee@moe.edu.sg">gan_ai_lee@moe.edu.sg</a>                   |
 | <strong style="color: black; font-size: 17px;">HOD (Information and Communication Technology)</strong>                                                                   | **Mr Zhuo Weiwen**<br><br><a href="mailto:zhuo_weiwen@moe.edu.sg">zhuo_weiwen@moe.edu.sg</a>                |
 
-|  <strong style="color: blue; font-size: 25px; font-family: Arial;">► YEAR HEADS (YH) and ASSISTANT YEAR HEADS (AYH) </strong>  |                         |
+|  <strong style="color: blue; font-size: 25px; font-family: Arial;">YEAR HEADS (YH) and ASSISTANT YEAR HEADS (AYH) </strong>  |                         |
 |------------------|----------------------------------------------------|
 |<strong style="color: black; font-size: 17px;">Year Head (Upper Pri)</strong>| **Mr Lim Chin Boon Matt**<br><br><a href="mailto:lim_chin_boon@moe.edu.sg">lim_chin_boon@moe.edu.sg</a>     |
 | <strong style="color: black; font-size: 17px;">Year Head (Middle Pri)</strong>| **Mdm Norashinah Md Yusope**<br><a href="mailto:norashinah_md_yusope@moe.edu.sg">norashinah_md_yusope@moe.edu.sg</a> |
