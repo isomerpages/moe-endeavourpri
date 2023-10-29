@@ -10,7 +10,7 @@ description: ""
 | 3CL3| Ms Tan Seow Fong <br><br><a href="mailto:tan_seow_fong@moe.edu.sg">tan_seow_fong@moe.edu.sg</a>|
 |3CL4 |&nbsp;Ms Phang Huey Fen<br><br><a href="mailto:phang_huey_fen@moe.edu.sg">phang_huey_fen@moe.edu.sg</a>|
 | 3CL5 | Mdm Teo Siew Hong <br><br><a href="mailto:teo_siew_hong@moe.edu.sg Teo Siew Hong">teo_siew_hong@moe.edu.sg  </a>|
-| 3CL6| Mdm Guo Linglan  <br><br><a href="mailto:guo_linglan@moe.edu.sg">guo_linglan@moe.edu.sg </a>|
+| 3CL6| Mdm ng tay kee's <br><br><a href="mailto:tan_tay_kee@moe.edu.sg">tan_tay_kee@moe.edu.sg </a>|
 | 3 MTSP-CL | Mdm Brenda Goh<br><br><a href="mailto:goh_puoy_choo@moe.edu.sg">goh_puoy_choo@moe.edu.sg </a><br><br><br><br>|
 
 
