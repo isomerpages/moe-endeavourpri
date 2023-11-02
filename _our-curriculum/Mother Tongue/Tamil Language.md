@@ -48,11 +48,9 @@ A glimpse of class activities.
 
 ![joy of learning](/images/joy%20of%20learning_2.png)
 
+<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/YG9z7xbpxNw" height="500" width="800"></iframe>
 
-<video controls="" height="720" width="1080">
-	<source type="video/mp4" src="https://www.youtube.com/embed/YG9z7xbpxNw">
-	Your browser does not support the video tag.
-</video>
+
 
 
 ![](/images/tamil_links.png)
