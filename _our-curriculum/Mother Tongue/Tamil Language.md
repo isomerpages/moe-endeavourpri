@@ -48,7 +48,6 @@ A glimpse of class activities.
 
 ![joy of learning](/images/joy%20of%20learning_2.png)
 
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/YG9z7xbpxNw" height="500" width="800"></iframe>
 
 
 
