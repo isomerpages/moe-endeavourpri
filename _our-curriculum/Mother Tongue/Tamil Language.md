@@ -42,7 +42,7 @@ MTL Fortnight Activities aims to create an immersive environment for our student
 ---
 <strong style="color: blue;">Joy of learning</strong>
 <br>
-A glimpse of class activities.
+A glimpse of class activities .
 
 ![joy of learning](/images/joy%20of%20learning_1.png)
 
