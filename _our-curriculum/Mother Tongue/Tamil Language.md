@@ -59,17 +59,14 @@ A glimpse of class activities.
 		margin: 0;
 		background-color: #f0f0f0;
 	}
-
 	.video-container {
 		position: relative;
 		overflow: hidden;
 	}
-
 	.video-container video {
 		width: 100%;
 		height: auto;
 	}
-
 	.border-animation {
 		position: absolute;
 		top: 0;
@@ -80,7 +77,6 @@ A glimpse of class activities.
 		box-sizing: border-box;
 		animation: borderAnimation 2s infinite alternate;
 	}
-
 	@keyframes borderAnimation {
 		from {
 			border-width: 2px;
@@ -90,12 +86,10 @@ A glimpse of class activities.
 		}
 	}
 </style>
-
-
-	<div class="video-container">
-		<div class="border-animation"></div>
-		<video autoplay="" controls="">
-			<source type="video/mp4" src="https://www.youtube.com/embed/YG9z7xbpxNw">
-			Your browser does not support the video tag.
-		</video>
-	</div>
+<div class="video-container">
+	<div class="border-animation"></div>
+	<video autoplay="" controls="">
+		<source type="video/mp4" src="https://www.youtube.com/embed/YG9z7xbpxNw">
+		Your browser does not support the video tag.
+	</video>
+</div>
