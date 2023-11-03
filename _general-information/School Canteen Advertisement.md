@@ -28,8 +28,6 @@ description: ""
 						text-decoration: underline;
 				}
 		</style>
-
-
 		<div class="container">
 				<h1>Application Procedure</h1>
 				<p>
