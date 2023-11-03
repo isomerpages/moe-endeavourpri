@@ -19,7 +19,7 @@ description: ""
 
 <h1 style="font-size: 40px;">Application Procedure</h1>
 <p>
-		1. Download and complete the <a download="" href="application_form.pdf">application form</a>. You may also request for a hardcopy from the School’s General Office.
+		1. Download and complete the <a download="" href="https://drive.google.com/file/d/1Nlw6hR4Nwrc2wCKnKHMrvFc984_u0wE6/view?usp=sharing">application form</a>. You may also request for a hardcopy from the School’s General Office.
 </p>
 <p>
 		2. Attach the following documents together with the application form:
