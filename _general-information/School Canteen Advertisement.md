@@ -5,52 +5,48 @@ variant: markdown
 description: ""
 ---
 <style>
-				body {
-						font-family: Arial, sans-serif;
-				}
-				.container {
-						max-width: 800px;
-						margin: 0 auto;
-						padding: 20px;
-				}
-				h1, h2 {
-						color: #333;
-				}
-				ol, ul {
-						list-style: none;
-						padding: 0;
-				}
-				a {
-						color: #007bff;
-						text-decoration: none;
-				}
-				a:hover {
-						text-decoration: underline;
-				}
-		</style>
-		<div class="container">
-				<h1>Application Procedure</h1>
-				<p>
-						Download and complete the <a download="" href="application_form.pdf">application form</a>. You may also request for a hardcopy from the School’s General Office.
-				</p>
-				<p>
-						Attach the following documents together with the application form:
-						</p><ul>
-								<li>Photocopy of the NRIC (front and back)</li>
-								<li>List of proposed menu and pricing for all items</li>
-								<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc</li>
-						</ul>
-				<p></p>
-				<p>
-						Submit the completed application form and documents by closing date via email OR to the School’s General Office.
-						</p><ul>
-								<li>Address: 110 Woodlands Crescent S737803</li>
-								<li>Contact No: 63654490</li>
-								<li>Email: <a href="mailto:riverside_ps@moe.edu.sg">riverside_ps@moe.edu.sg</a></li>
-								<li>Contact Person: Mdm Aminah Saad</li>
-						</ul>
-				<p></p>
-				<h2>How to get there?</h2>
-				<p>Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
-				<p>Bus number: 904 - 3 minutes walking distance</p>
-		</div>
+			body {
+					font-family: Arial, sans-serif;
+					padding: 20px;
+			}
+			h1, h2 {
+					color: #333;
+			}
+			ol, ul {
+					list-style: none;
+					padding: 0;
+			}
+			a {
+					color: #007bff;
+					text-decoration: none;
+			}
+			a:hover {
+					text-decoration: underline;
+			}
+	</style>
+
+
+	<h1>Application Procedure</h1>
+	<p>
+			Download and complete the <a download="" href="application_form.pdf">application form</a>. You may also request for a hardcopy from the School’s General Office.
+	</p>
+	<p>
+			Attach the following documents together with the application form:
+			</p><ul>
+					<li>Photocopy of the NRIC (front and back)</li>
+					<li>List of proposed menu and pricing for all items</li>
+					<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc</li>
+			</ul>
+	<p></p>
+	<p>
+			Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+			</p><ul>
+					<li>Address: 110 Woodlands Crescent S737803</li>
+					<li>Contact No: 63654490</li>
+					<li>Email: <a href="mailto:riverside_ps@moe.edu.sg">riverside_ps@moe.edu.sg</a></li>
+					<li>Contact Person: Mdm Aminah Saad</li>
+			</ul>
+	<p></p>
+	<h2>How to get there?</h2>
+	<p>Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
+	<p>Bus number: 904 - 3 minutes walking distance</p>
