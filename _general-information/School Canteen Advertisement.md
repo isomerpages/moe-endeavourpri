@@ -41,7 +41,7 @@ description: ""
 <h2 style="font-size: 40px;">How to get there?</h2>
 <p>Nearest MRT: Sembawang MRT </p>
 <p>Bus number: 859, 962 - 3 minutes walking distance</p><br>
-<strong>Interested applicants must meet the following criteria: Test 5</strong>
+<strong>Interested applicants must meet the following criteria: </strong>
 <ul>
 		<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 		<li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
