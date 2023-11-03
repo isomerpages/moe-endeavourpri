@@ -19,15 +19,15 @@ description: ""
 <p>
 		3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 		</p><ul>
-				<li>Address: 110 Woodlands Crescent S737803</li>
-				<li>Contact No: 63654490</li>
-				<li>Email: <a href="mailto:riverside_ps@moe.edu.sg">riverside_ps@moe.edu.sg</a></li>
+				<li>Address: 10 Admiralty Link, Singapore 757521</li>
+				<li>Contact No: 6482 4650</li>
+				<li>Email: <a href="mailto:endeavour_ps@moe.edu.sg">endeavour_ps@moe.edu.sg</a></li>
 				<li>Contact Person: Mdm Aminah Saad</li>
 		</ul>
 <p></p>
 <h2 style="font-size: 40px;">How to get there?</h2>
-<p>Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
-<p>Bus number: 904 - 3 minutes walking distance</p>
+<p>Nearest MRT: Sembawang MRT </p>
+<p>Bus number: 859, 962 - 3 minutes walking distance</p>
 <strong><p>Interested applicants must meet the following criteria: Test 1</p></strong>
 	<ul>
 			<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
