@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 
-
 		<h1 style="font-size: 40px;">Application Procedure</h1>
     <p>
         Download and complete the <a download="" href="application_form.pdf">application form</a>. You may also request for a hardcopy from the School’s General Office.
@@ -30,5 +29,4 @@ description: ""
 		<h2 style="font-size: 40px;">How to get there?</h2>
     <p>Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
     <p>Bus number: 904 - 3 minutes walking distance</p>
-
 
