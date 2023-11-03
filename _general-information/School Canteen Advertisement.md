@@ -4,9 +4,10 @@ permalink: /general-information/permalink/schoolcanteenadvertisement/
 variant: markdown
 description: ""
 ---
-<h1 style="font-size: 10px;">
 
 
+
+		<h1 style="font-size: 10px;">
     </h1><h1>Application Procedure</h1>
     <p>
         Download and complete the <a download="" href="application_form.pdf">application form</a>. You may also request for a hardcopy from the School’s General Office.
