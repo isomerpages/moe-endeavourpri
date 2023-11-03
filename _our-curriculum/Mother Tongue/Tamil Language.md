@@ -22,8 +22,7 @@ third_nav_title: Mother Tongue
 <br>
 We believe in the joy of reading; we want our students to cultivate the habit of reading from young. Our ‘Let’s love reading’ programme has a wide range of reading activities both in class and beyond. It enables the students to read extensively and develop the love for Tamil Language and instil the habit of life-long reading.
 
-<img src="/images/Reading-Programme_F.jpg"  
-style="width:35%">
+<img src="/images/Reading-Programme_F.jpg" style="width:35%">
 
 ---
 
@@ -36,17 +35,21 @@ MTL Fortnight Activities aims to create an immersive environment for our student
 
 ---
 <strong style="color: blue;">Pongal and New Year Celebrations</strong>
-<br>It paves way for cultural awareness and tradition. It contributes a positive sense of identity and builds self-esteem.
+<br>It paves way for cultural awareness and tradition. It&nbsp;contributes a positive sense of identity and builds self-esteem.
 
 ![Pongal and new year celebrations](/images/Pongal%20and%20new%20year%20celebrations.png)
 
 ---
 <strong style="color: blue;">Joy of learning</strong>
 <br>
-A glimpse of class activities.
+A glimpse of class activities .
 
 ![joy of learning](/images/joy%20of%20learning_1.png)
 
 ![joy of learning](/images/joy%20of%20learning_2.png)
+
+
+
+
 
 ![](/images/tamil_links.png)
