@@ -28,17 +28,17 @@ description: ""
 <h2 style="font-size: 40px;">How to get there?</h2>
 <p>Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance</p>
 <p>Bus number: 904 - 3 minutes walking distance</p>
-<strong><p>Interested applicants must meet the following criteria:</p></strong>
-		<ul>
-				<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
-				<li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
-				<li>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (<a href="link">see link</a>).</li>
-				<li>Able to maintain high standard of food safety and personal hygiene.</li>
-				<li>Healthy and fit to operate the stall.</li>
-		</ul>
-		<strong><p>Applicants should preferably fulfill the following criteria:</p></strong>
-		<ul>
-				<li>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
-				<li>Possess catering experience or experience operating in a school environment.</li>
-				<li>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li>
-		</ul>
+<strong><p>Interested applicants must meet the following criteria: Test 1</p></strong>
+	<ul>
+			<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
+			<li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
+			<li>Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (<a href="link">see link</a>).</li>
+			<li>Able to maintain high standard of food safety and personal hygiene.</li>
+			<li>Healthy and fit to operate the stall.</li>
+	</ul>
+	<strong><p>Applicants should preferably fulfill the following criteria:</p></strong>
+	<ul>
+			<li>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
+			<li>Possess catering experience or experience operating in a school environment.</li>
+			<li>Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).</li>
+	</ul>
