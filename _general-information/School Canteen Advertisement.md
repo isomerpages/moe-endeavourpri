@@ -4,6 +4,19 @@ permalink: /general-information/permalink/schoolcanteenadvertisement/
 variant: markdown
 description: ""
 ---
+<table style="border-collapse: collapse; width: 100%;">
+    <tbody><tr>
+        <th style="border: 1px solid #ccc; padding: 8px; background-color: #E8EEF8;">Type of Stall</th>
+        <th style="border: 1px solid #ccc; padding: 8px; background-color: #E8EEF8;">Closing Date</th>
+        <th style="border: 1px solid #ccc; padding: 8px; background-color: #E8EEF8;">Requirements</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ccc; padding: 8px;">Malay Noodles Stall</td>
+        <td style="border: 1px solid #ccc; padding: 8px;">17 Nov 2023</td>
+        <td style="border: 1px solid #ccc; padding: 8px;">To provide Malay noodle dishes</td>
+    </tr>
+</tbody></table>
+
 <h1 style="font-size: 40px;">Application Procedure</h1>
 <p>
 		1. Download and complete the <a download="" href="application_form.pdf">application form</a>. You may also request for a hardcopy from the School’s General Office.
