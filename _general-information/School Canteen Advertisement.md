@@ -28,7 +28,7 @@ description: ""
 <h2 style="font-size: 40px;">How to get there?</h2>
 <p>Nearest MRT: Sembawang MRT </p>
 <p>Bus number: 859, 962 - 3 minutes walking distance</p><br>
-<p>Interested applicants must meet the following criteria: Test 3</p>
+<strong>Interested applicants must meet the following criteria: Test 5</strong>
 <ul>
 		<li>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.</li>
 		<li>Able to provide good service and quality food with prices determined in consultation with the school.</li>
@@ -36,7 +36,7 @@ description: ""
 		<li>Able to maintain high standard of food safety and personal hygiene.</li>
 		<li>Healthy and fit to operate the stall.</li>
 </ul>
-<p>Applicants should preferably fulfill the following criteria:</p>
+<strong>Applicants should preferably fulfill the following criteria:</strong>
 <ul>
 		<li>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
 		<li>Possess catering experience or experience operating in a school environment.</li>
