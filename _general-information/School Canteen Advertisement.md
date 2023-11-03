@@ -22,7 +22,7 @@ description: ""
 				<li>Address: 10 Admiralty Link, Singapore 757521</li>
 				<li>Contact No: 6482 4650</li>
 				<li>Email: <a href="mailto:endeavour_ps@moe.edu.sg">endeavour_ps@moe.edu.sg</a></li>
-				<li>Contact Person: Mdm Aminah Saad</li>
+				<li>Contact Person: Jian Xiong CHAN</li>
 		</ul>
 <p></p>
 <h2 style="font-size: 40px;">How to get there?</h2>
