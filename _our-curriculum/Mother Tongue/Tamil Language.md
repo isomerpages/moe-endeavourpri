@@ -49,9 +49,6 @@ A glimpse of class activities .
 
 ![joy of learning](/images/joy%20of%20learning_2.png)
 
-		<img width="100" alt="Embedded GIF" src="https://drive.google.com/uc?export=download&amp;id=1nADRaD-h3rtCm2VRfJSSsybOwVgYp8i9">
-
-
     <img style="width: 200px;" alt="Embedded GIF" src="https://drive.google.com/uc?export=download&amp;id=1nADRaD-h3rtCm2VRfJSSsybOwVgYp8i9">
 
 
