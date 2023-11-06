@@ -3,6 +3,7 @@ title: Tamil Language
 permalink: /departments/tamil-department/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 **Endeavour Primary School has started offering Tamil Language from 2022. We have P1 level this year.**
 
@@ -48,8 +49,6 @@ A glimpse of class activities .
 
 ![joy of learning](/images/joy%20of%20learning_2.png)
 
-
-
-
+		<img width="300" alt="Embedded GIF" src="https://drive.google.com/uc?export=download&amp;id=1nADRaD-h3rtCm2VRfJSSsybOwVgYp8i9">
 
 ![](/images/tamil_links.png)
