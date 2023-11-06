@@ -25,7 +25,7 @@ variant: markdown
             <a href="https://drive.google.com/file/d/1Vb9qdlRLXpcV96h8PPjZEgPzBDHya5pm/view?usp=share\_link">2023\_P4-parents-briefing\_HMT<br>
             <br>
             </a>
-            <a href="https://drive.google.com/file/d/1kPpKlBFCAKHQOYXNxZD2K8RGe\_NQnJ2k/view?usp=share\_link">Parents-Networking-Session\_YH\_Briefing\_P3\_2023</a>
+            <a href="https://drive.google.com/file/d/1kPpKlBFCAKHQOYXNxZD2K8RGe_NQnJ2k/view?usp=sharing">Parents-Networking-Session\_YH\_Briefing\_P3\_2023</a>
             <br>
             <br>
             <a href="https://drive.google.com/file/d/1TuiNVTi\_PFPxcjKXdTU0Y6da-URxaRej/view?usp=share\_link">Parents-Networking-Session\_YH\_Briefing\_P4\_2023</a>
