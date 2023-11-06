@@ -3,6 +3,7 @@ title: 2023 Slides
 permalink: /parents-hub/workshops-and-briefings/permalink/
 description: ""
 third_nav_title: Workshops and Briefings
+variant: markdown
 ---
 <table style="border: 1px solid black; width: 840px;">
    <tbody>
@@ -36,7 +37,6 @@ third_nav_title: Workshops and Briefings
             <a href="https://drive.google.com/file/d/1LR3JfrIRBk0awSjN1bidEdg6Jk6Vz-ll/view?usp=share\_link">Parents-Networking-Session-P4-Feb-2023</a>
             <br>
             <br>
-            
          </td>
          <td style="border: 1px solid black; width: 350px;">
             <b>
