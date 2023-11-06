@@ -9,7 +9,7 @@ variant: markdown
    <tbody>
      <tr><td style="border: 1px solid black; width: 350px;">
             <b>
-            <strong style="color: black; font-size: 18;">Parents’ briefing slides on 19th&nbsp;May 2023</strong>
+            <strong style="color: black; font-size: 18;"> Parents’ briefing slides on 19th&nbsp;May 2023</strong>
             <br>
 						<br>
             <a href="https://drive.google.com/file/d/1_ri9dFL6XCtVwXxIhNg2_8ICstuqhw57/view?usp=sharing">PSLE Scoring and S1 Posting 2023 - Parents.pdf</a>
@@ -72,7 +72,7 @@ variant: markdown
             <strong style="color: black; font-size: 18;">Parents’ briefing slides on 3rd January 2023:</strong>
             <br>
             <br>
-            <a href="https://docs.google.com/presentation/d/1w8zmILRB5EFWI-iDezex6fD5Ga\_7r4QR/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-parents-2023-Day-1\_10-Tips\_Safety-Security\_HUI-PIN<br>
+							<a href="https://docs.google.com/presentation/d/1w8zmILRB5EFWI-iDezex6fD5Ga\_7r4QR/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-parents-2023-Day-1\_10-Tips\_Safety-Security\_HUI-PIN<br>
             </a>
             <br>
             <a>
