@@ -3,6 +3,7 @@ title: 2023 Letters
 permalink: /2023-letters/
 description: ""
 third_nav_title: Principal's Letters
+variant: markdown
 ---
 **Please click on the link below for the Principal’s letters for 2023:**
   
@@ -10,6 +11,9 @@ third_nav_title: Principal's Letters
   <tbody>
 		      <tr><td style="width: 50%; border: 1px solid black;">
         <a href="https://drive.google.com/file/d/10118TKsNM8vHWMVPIeSczAmnqJGEkivs/view?usp=sharing">P's letter to Parents - Oct 2023.pdf</a>
+      </td>
+			<td style="width: 50%; border: 1px solid black;">
+        <a href="https://drive.google.com/file/d/1XtiWIbHMsKkywaeiTY1vZ8BejewF7aoV/view?usp=sharing">P's letter to Parents - Nov 2023.pdf</a>
       </td>
 		    </tr><tr>
       <td style="width: 50%; border: 1px solid black;">
