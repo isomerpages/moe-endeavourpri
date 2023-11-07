@@ -72,7 +72,7 @@ variant: markdown
             <strong style="color: black; font-size: 18;">Parents’ briefing slides on 3rd January 2023:</strong>
             <br>
             <br>
-							<a href="https://docs.google.com/presentation/d/1w8zmILRB5EFWI-iDezex6fD5Ga\_7r4QR/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-parents-2023-Day-1\_10-Tips\_Safety-Security\_HUI-PIN<br>
+							<a href="https://docs.google.com/presentation/d/1w8zmILRB5EFWI-iDezex6fD5Ga_7r4QR/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-parents-2023-Day-1\_10-Tips\_Safety-Security\_HUI-PIN<br>
             </a>
             <br>
             <a>
