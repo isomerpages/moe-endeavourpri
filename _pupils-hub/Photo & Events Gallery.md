@@ -9,7 +9,7 @@ variant: markdown
   <tr>
     <td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
       <strong style="box-sizing: inherit; font-weight: 700;"><a href="https://www.youtube.com/watch?v=5abMGr3AAfo&quot;&quot;" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
-      <b style="box-sizing: inherit; font-weight: 700;">► P6 Graduation Video </b>
+      <b style="box-sizing: inherit; font-weight: 700;">► P6 Graduation Video 2023 </b>
       </a> </strong></td><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
       <strong style="box-sizing: inherit; font-weight: 700;"><a href="https://www.youtube.com/watch?v=VCKHBtfwy_E" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
       <b style="box-sizing: inherit; font-weight: 700;">► Children's Day Video - 2023</b>
