@@ -7,14 +7,14 @@ variant: markdown
 <table border="0" style="box-sizing:inherit;border-collapse:collapse;border-spacing:0;max-width:100%;color:#222;font-family:&quot;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-transform:none;white-space:normal;widows:2;word-spacing:0;-webkit-text-stroke-width:0;background-color:#fff;text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;width:799px;height:498px">
   <tbody style="box-sizing: inherit;">
 		  <tr>
-    <td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
+    <td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; background: #e6e6e6;border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
       <strong style="box-sizing: inherit; font-weight: 700;"><a href="" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
       <b style="box-sizing: inherit; font-weight: 700;">► </b>
-      </a> </strong></td><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
+      </a> </strong></td><td valign="center" height="21" style="box-sizing: inherit; background: #e6e6e6;padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
       <strong style="box-sizing: inherit; font-weight: 700;"><a href="" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
       <b style="box-sizing: inherit; font-weight: 700;">► </b>
 				</a> </strong></td>
-    <td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
+    <td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px;background: #e6e6e6; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
       <strong style="box-sizing: inherit; font-weight: 700;"><a href="https://drive.google.com/drive/folders/1mEkoWNeBTYyzi9sY-BzahoYM1gBoM6K2?usp=sharing" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
       <b style="box-sizing: inherit; font-weight: 700;">► P6 Graduation Photos 2023 </b>
 				</a> </strong></td>
@@ -33,14 +33,14 @@ variant: markdown
 				</a> </strong></td>
   </tr>
   <tr>
-    <td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
+    <td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;background: #e6e6e6;">
       <strong style="box-sizing: inherit; font-weight: 700;"><a href="https://www.youtube.com/watch?v=Dr6oX1Ih3HI" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
       <b style="box-sizing: inherit; font-weight: 700;">Prefects’ Investiture Ceremony 2023</b>
-      </a> </strong></td><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
+      </a> </strong></td><td valign="center" height="21" style="box-sizing: inherit; background: #e6e6e6;padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
       <strong style="box-sizing: inherit; font-weight: 700;"><a href="https://drive.google.com/drive/folders/1dujtr26ibk4wjdgCZQ7lrkh2qMyLAVks?usp=sharing" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
       <b style="box-sizing: inherit; font-weight: 700;">Prefects' Investiture&nbsp;2023&nbsp;Photos</b>
 				</a> </strong></td>
-    <td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
+    <td valign="center" height="21" style="box-sizing: inherit; background: #e6e6e6;padding: 5px 10px; border: 1px solid #000; height: 21px; width: 247px; text-align: center;">
       <strong style="box-sizing: inherit; font-weight: 700;"><a href="https://www.youtube.com/watch?v=OkuA-RqzGlo" target="_blank" rel="noopener noreferrer" style="box-sizing: inherit; background-color: transparent; transition: all 0.25s ease-in-out 0s; text-decoration: underline; color: #25a0e8;">
       <b style="box-sizing: inherit; font-weight: 700;">Rainbow Day 3 - Racial Harmony Day 2023</b>
 				</a> </strong></td>
