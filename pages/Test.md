@@ -44,17 +44,15 @@ variant: markdown
 		background-color: #add;
 	}
 </style>
-
-
-	<div class="container">
-		<ul class="link-columns">
-			<li><a href="#">Test1</a></li>
-			<li><a href="#">Test2</a></li>
-			<li><a href="#">Test3</a></li>
-			<li><a href="#">Test1</a></li>
-			<li><a href="#">Test2</a></li>
-			<li><a href="#">Test3</a></li>
-			<li><a href="#">Rainbow Day 1 (Total Defence Day) 2018</a></li>
-			<li><a href="#">Test3</a></li>
-		</ul>
-	</div>
+<div class="container">
+	<ul class="link-columns">
+		<li><a href="#">Test1</a></li>
+		<li><a href="#">Test2</a></li>
+		<li><a href="#">Test3</a></li>
+		<li><a href="#">Test1</a></li>
+		<li><a href="#">Test2</a></li>
+		<li><a href="#">Test3</a></li>
+		<li><a href="#">Rainbow Day 1 (Total Defence Day) 2018</a></li>
+		<li><a href="#">Test3</a></li>
+	</ul>
+</div>
