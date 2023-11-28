@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Test 1.md
       - Principal’s Message.md
       - School Profile/.keep
       - School Profile/Our Crest.md
