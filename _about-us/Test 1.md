@@ -55,7 +55,7 @@ description: ""
             <li><a href="#">Test 2</a></li>
             <li><a href="#">Test 3</a></li>
             <li><a href="#">Test 1</a></li>
-            <li><a href="#">Rainbow Day 1 (Total Defence Day) 2018dsdsdsdsdsdsdsdsdsdsdsdsdsdsdsds</a></li>
+            <li><a href="#">Rainbow Day 1 (Total Defence Day) dasdsadsdsdsd</a></li>
 						<li><a href="#">Rainbow Day 1 (Total Defence Day) 2018</a></li>
         </ul>
     </div>
