@@ -45,18 +45,17 @@ description: ""
     }
 </style>
 
-
-    <div class="container">
-        <ul class="link-columns">
-            <li><a href="#">Test 1</a></li>
-            <li><a href="#">Test 2</a></li>
-            <li><a href="#">Test 3</a></li>
-            <li><a href="#">Test 1</a></li>
-            <li><a href="#">Test 2</a></li>
-            <li><a href="#">Test 3</a></li>
-            <li><a href="#">Test 1</a></li>
-            <li><a href="#">Rainbow Day 1 (Total Defence Day) dasdsadsdsdsd</a></li>
-						<li><a href="#">Rainbow Day 1 (Total Defence Day) 2018</a></li>
-        </ul>
-    </div>
+<div class="container">
+		<ul class="link-columns">
+				<li><a href="#">Test 1</a></li>
+				<li><a href="#">Test 2</a></li>
+				<li><a href="#">Test 3</a></li>
+				<li><a href="#">Test 1</a></li>
+				<li><a href="#">Test 2</a></li>
+				<li><a href="#">Test 3</a></li>
+				<li><a href="#">Test 1</a></li>
+				<li><a href="#">Rainbow Day 1 (Total Defence Day) TEST 2</a></li>
+				<li><a href="#">Rainbow Day 1 (Total Defence Day) 2018</a></li>
+		</ul>
+</div>
 
