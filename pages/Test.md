@@ -14,7 +14,7 @@ variant: markdown
 	}
 	.container {
 		width: 100%;
-		margin: 2px auto;
+		margin: 0px auto;
 	}
 	.link-columns {
 		padding: 0;
@@ -24,9 +24,10 @@ variant: markdown
 	}
 	.link-columns li {
 		list-style: none; /* Remove list item marker */
-		margin-bottom: 8px;
+		margin-bottom: 4px;
 		width: calc(50% - 10px);
 		box-sizing: border-box;
+	  font-size: 13px;
 	}
 	.link-columns a {
 		text-decoration: none;
@@ -53,11 +54,7 @@ variant: markdown
 			<li><a href="#">Test1</a></li>
 			<li><a href="#">Test2</a></li>
 			<li><a href="#">Test3</a></li>
-			<li><a href="#">Test1</a></li>
-			<li><a href="#">Test2</a></li>
-			<li><a href="#">Test3</a></li>
-			<li><a href="#">Test1</a></li>
-			<li><a href="#">Test2</a></li>
+			<li><a href="#">Rainbow Day 1 (Total Defence Day) 2018</a></li>
 			<li><a href="#">Test3</a></li>
 		</ul>
 	</div>
