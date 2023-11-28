@@ -52,8 +52,8 @@ description: ""
 				<li><a href="#">Test 3</a></li>
 				<li><a href="#">Test 1</a></li>
 				<li><a href="#">Test 2</a></li>
-				<li><a href="#">Test 3</a></li>
-				<li><a href="#">Test 1</a></li>
+				<li><a href="https://drive.google.com/drive/folders/1dujtr26ibk4wjdgCZQ7lrkh2qMyLAVks?usp=sharing">Prefects' Investiture 2023 Photos </a></li>
+				<li><a href="https://www.youtube.com/watch?v=OkuA-RqzGlo">Rainbow Day 3 - Racial Harmony Day 2023 </a></li>
 				<li><a href="https://photos.app.goo.gl/1FFc2siZjE4WwA289">Rainbow Day 1 - Total Defence Day 2023 </a></li>
 				<li><a href="https://youtu.be/4brASnTUud8">Rainbow Day 2 - International Friendship Day 2023 </a></li>
 				<li><a href="https://photos.app.goo.gl/HHocnvTuf5Rb8kZy6">Chinese New Year 2023 </a></li>
