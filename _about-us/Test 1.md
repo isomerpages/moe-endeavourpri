@@ -48,13 +48,13 @@ description: ""
 
     <div class="container">
         <ul class="link-columns">
-            <li><a href="#">Tesajdkas</a></li>
-            <li><a href="#">Tessadsd2</a></li>
-            <li><a href="#">Tedsdsst3</a></li>
-            <li><a href="#">Tessdsdst1</a></li>
-					   <li><a href="#">Tesdkas</a></li>
-            <li><a href="#">Tesdsd2</a></li>
-            <li><a href="#">Tedst3</a></li>
+            <li><a href="#">Test 1</a></li>
+            <li><a href="#">Test 2</a></li>
+            <li><a href="#">Test 3</a></li>
+            <li><a href="#">Test 1</a></li>
+            <li><a href="#">Test 2</a></li>
+            <li><a href="#">Test 3</a></li>
+            <li><a href="#">Test 1</a></li>
             <li><a href="#">Rainbow Day 1 (Total Defence Day) 2018dsdsdsdsdsdsdsdsdsdsdsdsdsdsdsds</a></li>
 						<li><a href="#">Rainbow Day 1 (Total Defence Day) 2018</a></li>
         </ul>
