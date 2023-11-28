@@ -63,8 +63,8 @@ description: ""
 				<li><a href="#">Test 2</a></li>
 				<li><a href="#">Test 3</a></li>
 				<li><a href="#">Test 1</a></li>
-				<li><a href="#">Test 2</a></li>
-				<li><a href="#">Test 3</a></li>
+				<li><a href="#">Rainbow Day 1 (Total Defence Day) 2020 </a></li>
+				<li><a href="https://photos.app.goo.gl/eSLXhm4cwf4iaZUcA">Chinese New Year Celebration 2020</a></li>
 				<li><a href="https://photos.app.goo.gl/GSR9ejt5soopDyhz9">Primary 1 Orientation 2019 </a></li>
 				<li><a href="https://photos.app.goo.gl/tEzBDjTJU1nKFfRD8">Prize Giving Day 2019 </a></li>
 				<li><a href="https://photos.app.goo.gl/4aRaKLekAuRc6WkZ8">Primary 6 Graduation Day 2019</a></li>
