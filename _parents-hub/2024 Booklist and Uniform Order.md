@@ -4,30 +4,4 @@ permalink: /2024-booklist-and-uniform/
 description: ""
 variant: tiptap
 ---
-**Booklist**
-------------
-
-Please click on the links below for the respective levels’ booklist for 2023:
-
-
-
-| [Primary&nbsp;1](/files/P1-2023-Booklist.pdf) | [Primary&nbsp;2](/files/P2-2023-Booklist.pdf) | [Primary&nbsp;3](/files/P3-2023-Booklist.pdf)| [Primary&nbsp;4](/files/P4-2023-Booklist.pdf)||
-| -------- | -------- | -------- | - | - |
-|[**Primary 5**](/files/P5-2023-Booklist.pdf)   | [**Primary 5 Foundation**](/files/P5-Foundation-2023-Booklist.pdf) | [**Primary 6**](/files/P6-2023-Booklist.pdf)| [**Primary 6 Foundation**](/files/P6-Foundation-2023-Booklist.pdf)
-
-
-
-* * *
-
-**Uniform Supplier**
---------------------
-
-Finest Fashion Centre  
-Contact Person: Mr Ethan Koh  
-144 Upper Bukit Timah Road  
-Beauty World Centre  
-#B1-03 Singapore 588177
-
-Tel: 64665697 / 9029 5135
-
-(Uniform sales will be available in school every Thursday, from 11.30am to 2.30pm. Safe management measures must be followed at all times.)
+<h2><strong>Booklist</strong></h2><p>Please click on the links below for the respective levels’ booklist for 2024:</p><table><tbody><tr><th rowspan="1" colspan="1"><p><a href="/files/P1-2023-Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary&nbsp;1</a></p></th><th rowspan="1" colspan="1"><p><a href="/files/P2-2023-Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary&nbsp;2</a></p></th><th rowspan="1" colspan="1"><p><a href="/files/P3-2023-Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary&nbsp;3</a></p></th><th rowspan="1" colspan="1"><p><a href="/files/P4-2023-Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary&nbsp;4</a></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="/files/P5-2023-Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="/files/P5-Foundation-2023-Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Foundation</a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="/files/P6-2023-Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a></strong></p></td><td rowspan="1" colspan="1"><p><strong><a href="/files/P6-Foundation-2023-Booklist.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a></strong></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><hr><h2><strong>Uniform Supplier</strong></h2><p>Finest Fashion Centre<br>Contact Person: Mr Ethan Koh<br>144 Upper Bukit Timah Road<br>Beauty World Centre<br>#B1-03 Singapore 588177</p><p>Tel: 64665697 / 9029 5135</p><p>(Uniform sales will be available in school every Thursday, from 11.30am to 2.30pm. Safe management measures must be followed at all times.)</p>
