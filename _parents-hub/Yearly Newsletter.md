@@ -4,7 +4,7 @@ permalink: /yearly-newsletter/
 description: ""
 variant: markdown
 ---
-<a target="_blank" href="https://drive.google.com/file/d/1av3MVf-mHUstT9DgcLBp_-PjS6jrkKC2/view?usp=sharing">2024</a>
+<a target="_blank" href="https://drive.google.com/file/d/1av3MVf-mHUstT9DgcLBp_-PjS6jrkKC2/view?usp=sharing">2023</a>
 
 <a href="https://drive.google.com/file/d/15rABb8p7t7cuOHBXCmowlmHW3xO_183i/view?usp=sharing">2022</a>
 
