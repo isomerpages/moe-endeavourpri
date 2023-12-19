@@ -12,7 +12,7 @@ sections:
           description: ""
           url: /for-staff/
         - title: P1 Orientation Briefing
-          description: "2023"
+          description: ""
           url: https://sites.google.com/view/endeavourprimaryp12024?usp=sharing
         - title: Parent's Briefing Resources
           description: ""
