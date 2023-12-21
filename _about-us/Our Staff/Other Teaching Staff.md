@@ -3,10 +3,6 @@ title: Other Teaching Staff
 permalink: /other-teaching-staff/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-|  | <strong style="color: blue; font-size: 24px;">Teacher</strong>               |
-|-------------|------------------------------------------------------------------|
-|             | Mdm Claire Tan E Peng<br><br><a href="mailto:claire_tan_e_peng@moe.edu.sg">claire_tan_e_peng@moe.edu.sg</a>                |
-|             | Miss Tan Seow Fong<br><br><a href="mailto:tan_seow_fong@moe.edu.sg">tan_seow_fong@moe.edu.sg</a>
-|             | Mdm Tan Cheen Sze (Math)<br><br> <a href="mailto:tan_cheen_sze_a@moe.edu.sg">tan_cheen_sze_a@moe.edu.sg</a>      |
-|             | Mdm Yang Ping (Chinese Language)<br><br><a href="mailto:oth_yang_ping@moe.edu.sg">oth_yang_ping@moe.edu.sg</a> |
+<table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p><strong>Teacher</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Claire Tan E Peng<br><br><a href="mailto:claire_tan_e_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">claire_tan_e_peng@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mr Lin Chee Keong<br><br></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Tan Cheen Sze (Math)<br><br><a href="mailto:tan_cheen_sze_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cheen_sze_a@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Teo Siew Hong</p><p><a href="mailto:teo_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siew_hong@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Li Huiling</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Oon Yuan Lin</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Mdm Yang Ping (Chinese Language)<br><br><a href="mailto:oth_yang_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oth_yang_ping@moe.edu.sg</a></p></td></tr></tbody></table><p></p>
