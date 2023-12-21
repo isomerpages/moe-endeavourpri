@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /key-personnel/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 |  <strong style="color: blue; font-size: 25px; font-family: Arial;">SCHOOL LEADERS</strong>  |                         |
 |------------------|----------------------------------------------------|
@@ -26,7 +27,7 @@ third_nav_title: Our Staff
 |------------------|----------------------------------------------------|
 |<strong style="color: black; font-size: 17px;">Year Head (Upper Pri)</strong>| **Mr Lim Chin Boon Matt**<br><br><a href="mailto:lim_chin_boon@moe.edu.sg">lim_chin_boon@moe.edu.sg</a>     |
 | <strong style="color: black; font-size: 17px;">Year Head (Middle Pri)</strong>| **Mdm Norashinah Md Yusope**<br><a href="mailto:norashinah_md_yusope@moe.edu.sg">norashinah_md_yusope@moe.edu.sg</a> |
-| <strong style="color: black; font-size: 17px;">Assistant Year Head (Internal)</strong>| **Mdm Valliamma d/o Nagappan**<br><a href="mailto:valliammai_nagappan_sekar@moe.edu.sg">valliammai_nagappan_sekar@moe.edu.sg</a> |
+| <strong style="color: black; font-size: 17px;">Assistant Year Head (P4)</strong>| **Mdm Valliamma d/o Nagappan**<br><a href="mailto:valliammai_nagappan_sekar@moe.edu.sg">valliammai_nagappan_sekar@moe.edu.sg</a> |
 | <strong style="color: black; font-size: 17px;">Assistant Year Head (Upper Pri)</strong> | **Mr Mohamed Sani Bin Mohamed Hafid**<br><a href="mailto:mohamed_sani@moe.edu.sg">mohamed_sani@moe.edu.sg</a> |
 | <strong style="color: black; font-size: 17px;">Assistant Year Head (Lower Pri)</strong> | **Mrs Tan Hock Heng @ Yee Min**<br><br><a href="mailto:tan_hock_heng@moe.edu.sg">tan_hock_heng@moe.edu.sg</a> |
 | <strong style="color: black; font-size: 17px;">Assistant Year Head (Lower Pri)</strong> | **Ms Wong Lin Hui**<br><br><a href="mailto:wong_lin_hui@moe.edu.sg">wong_lin_hui@moe.edu.sg</a> |
@@ -34,12 +35,13 @@ third_nav_title: Our Staff
 
 | <strong style="color: blue; font-size: 25px; font-family: Arial;">LEVEL HEADS (LH), SUBJECT HEADS (SH) &amp; LEAD TEACHER (LT)</strong>                                                  |                                                                                  |
 |------------------------------------|----------------------------------|     
+| <strong style="color: black; font-size: 17px;">Subject Head (Malay Language) </strong>                                                            | **Mdm Nazreen Bte Mohamed Noor**<br><br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg">nazreen_mohamed_noor@moe.edu.sg</a>  
 | <strong style="color: black; font-size: 17px;">Subject Head (Chinese Language) </strong>                                                            | **Ms Peh Chieh Yin**<br><br><a href="mailto:peh_chieh_yin@moe.edu.sg">peh_chieh_yin@moe.edu.sg</a>                                |
 | <strong style="color: black; font-size: 17px;">Subject Head (Information and Communications Technology [ICT]/ School Cockpit Co-ordinator) </strong> | **Ms Teo Pauline**<br><br><a href="mailto:teo_pauline@moe.edu.sg">teo_pauline@moe.edu.sg </a>                                  |
 |  <strong style="color: black; font-size: 17px;">Subject Head (Character and Citizen Education [CCE]) </strong>                                        | **Mr Ramadhan s/o Isaahak**<br><br>  piperdyramadhan_isaahak_piperdy@moe.edu.sg       |
-| <strong style="color: black; font-size: 17px;">SH (Character and Citizenship Education [CME]/ Values in Action [VIA]) </strong>                      | **Mrs Chia-Tjen Sak Tju Cindy**<br><br><a href="mailto:chia-_tjen_sak_tju@moe.edu.sg">chia-_tjen_sak_tju@moe.edu.sg</a>                 |
+| <strong style="color: black; font-size: 17px;">Subect Head (Character and Citizenship Education [CME]/ Values in Action [VIA]) </strong>                      | **Mrs Chia-Tjen Sak Tju Cindy**<br><br><a href="mailto:chia-_tjen_sak_tju@moe.edu.sg">chia-_tjen_sak_tju@moe.edu.sg</a>                 |
 | <strong style="color: black; font-size: 17px;">SH (National Education [NE] and Social Studies [SS])  </strong>                                      | **Ms Lim Shao Lan**<br><br><a href="mailto:lim_shao_lan@moe.edu.sg">lim_shao_lan@moe.edu.sg</a>                                 |
-| <strong style="color: black; font-size: 17px;">SH (Co-curricular Activities [CCA]/ Physical Education [PE]) </strong>                               | **Mr Suhardi Bin Marino**<br><br><a href="mailto:suhardi_marino@moe.edu.sg">suhardi_marino@moe.edu.sg</a>                           |
+| <strong style="color: black; font-size: 17px;">Subject Head (Co-curricular Activities [CCA]/ Physical Education [PE]) </strong>                               | **Mr Suhardi Bin Marino**<br><br><a href="mailto:suhardi_marino@moe.edu.sg">suhardi_marino@moe.edu.sg</a>                           |
 | <strong style="color: black; font-size: 17px;">Level Head (English Language)  </strong>                                                              | **Mrs Goh Wong Wei Ling**<br><br><a href="mailto:wong_wei_ling_a@moe.edu.sg">wong_wei_ling_a@moe.edu.sg</a>                          |
 | <strong style="color: black; font-size: 17px;">Level Head (Science)  </strong>                                                                       | **Mdm Reena Shukla d/o Prempal Shukal**<br><br><a href="mailto:reena_shukla_prempal_shukal@moe.edu.sg">reena_shukla_prempal_shukal@moe.edu.sg</a> |
 | <strong style="color: black; font-size: 18px;">Level Head (Mathematics)  </strong>                                                                    | **Mdm Nurhidayah Bte Mohamed Shatiff**<br><br><a href="mailto:nurhidayah_mohamed_shariff@moe.edu.sg">nurhidayah_mohamed_shariff@moe.edu.sg</a>  |
