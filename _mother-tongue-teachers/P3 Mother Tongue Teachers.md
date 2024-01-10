@@ -2,19 +2,6 @@
 title: P3 Mother Tongue Teachers
 permalink: /p3-mother-tongue-teachers/
 description: ""
+variant: tiptap
 ---
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Chinese Language Teachers</strong>|
-| -------------------------------- | ---------------------------------------------------- |
-| 3CL1  | Ms Dong Jing Jing <br><br><a href="mailto:dong_jingjing@moe.edu.sg">dong_jingjing@moe.edu.sg </a>|
-| 3CL2 | Mdm Zheng Li<br><br><a href="mailto:zheng_li@moe.edu.sg">zheng_li@moe.edu.sg</a>|
-| 3CL3| Ms Tan Seow Fong <br><br><a href="mailto:tan_seow_fong@moe.edu.sg">tan_seow_fong@moe.edu.sg</a>|
-|3CL4 |&nbsp;Ms Phang Huey Fen<br><br><a href="mailto:phang_huey_fen@moe.edu.sg">phang_huey_fen@moe.edu.sg</a>|
-| 3CL5 | Mdm Teo Siew Hong <br><br><a href="mailto:teo_siew_hong@moe.edu.sg Teo Siew Hong">teo_siew_hong@moe.edu.sg  </a>|
-| 3CL6| Mdm ng tay kee's <br><br><a href="mailto:tan_tay_kee@moe.edu.sg">tan_tay_kee@moe.edu.sg </a>|
-| 3 MTSP-CL | Mdm Brenda Goh<br><br><a href="mailto:goh_puoy_choo@moe.edu.sg">goh_puoy_choo@moe.edu.sg </a><br><br><br><br>|
-
-
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Malay Language Teachers</strong>|
-| -------------------------------- | ---------------------------------------------------- |
-| P3ML | Mdm Norashikin Bte Mohd Noor  (P3)<br><br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg">norashikin_mohd_noor_a@moe.edu.sg </a>|
-| P3ML (MTSP) | Ms Farah Adibah Binte Johari (P3-MTSP) <br><br><a href="mailto:farah_adibah_johari@moe.edu.sg">farah_adibah_johari@moe.edu.sg</a>|
+<table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Class</strong></p></th><th rowspan="1" colspan="1"><p><strong>Chinese Language Teachers</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>3CL1</p></td><td rowspan="1" colspan="1"><p>Ms Dong Jing Jing <br><br><a href="mailto:dong_jingjing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dong_jingjing_a@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3CL2</p></td><td rowspan="1" colspan="1"><p>Mdm Zheng Li<br><br><a href="mailto:zheng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_li@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3CL3</p></td><td rowspan="1" colspan="1"><p>Ms Tan Seow Fong <br><br><a href="mailto:tan_seow_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_seow_fong@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3CL4</p></td><td rowspan="1" colspan="1"><p>&nbsp;Ms Phang Huey Fen<br><br><a href="mailto:phang_huey_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phang_huey_fen@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3CL5</p></td><td rowspan="1" colspan="1"><p>Mdm Teo Siew Hong <br><br><a href="mailto:teo_siew_hong@moe.edu.sg Teo Siew Hong" rel="noopener noreferrer nofollow" target="_blank">teo_siew_hong@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3CL6</p></td><td rowspan="1" colspan="1"><p>Mdm ng tay kee's <br><br><a href="mailto:tan_tay_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tay_kee@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>3 MTSP-CL</p></td><td rowspan="1" colspan="1"><p>Mdm Brenda Goh<br><br><a href="mailto:goh_puoy_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_puoy_choo@moe.edu.sg </a><br><br><br><br></p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Class</strong></p></th><th rowspan="1" colspan="1"><p><strong>Malay Language Teachers</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>P3ML</p></td><td rowspan="1" colspan="1"><p>Mdm Norashikin Bte Mohd Noor (P3)<br><br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohd_noor_a@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>P3ML (MTSP)</p></td><td rowspan="1" colspan="1"><p>Ms Farah Adibah Binte Johari (P3-MTSP) <br><br><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a></p></td></tr></tbody></table><p></p>
