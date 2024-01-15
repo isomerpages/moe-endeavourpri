@@ -2,25 +2,6 @@
 title: P2 Mother Tongue Teachers
 permalink: /p2-mother-tongue-teachers/
 description: ""
+variant: tiptap
 ---
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Chinese Language Teachers</strong>|
-| -------------------------------- | ---------------------------------------------------- |
-| 2 Compassion| Mdm Ow Chew Cheng<br><br><a href="mailto:ow_chew_cheng@moe.edu.sg">ow_chew_cheng@moe.edu.sg</a>|
-| 2 Diligence| Mdm Tan Poh Bee<br><br><a href="mailto:tan_poh_bee@moe.edu.sg">tan_poh_bee@moe.edu.sg</a>|
-| 2 Harmony | Mdm Yang Ping <br><br><a href="mailto:oth_yang_ping@moe.edu.sg">oth_yang_ping@moe.edu.sg</a>|
-| 2 Innovation| Mdm Zheng Li<br><br><a href="mailto:zheng_li@moe.edu.sg">zheng_li@moe.edu.sg</a>|
-| 2 Integrity| Mdm ng tay kee's<br><br><a href="mailto:tan_tay_kee@moe.edu.sg">tan_tay_kee@moe.edu.sg</a>|
-| 2 Perseverance| Ms Pauline Teo <br><br><a href="mailto:teo_pauline@moe.edu.sg">teo_pauline@moe.edu.sg</a>|
-| 2 Respect  | Ms Peh Chieh Yin<br><br><a href="mailto:peh_chieh_yin@moe.edu.sg">peh_chieh_yin@moe.edu.sg </a>|
-| 2 Responsibility | Mdm Wong Linhui<br><br><a href="mailto:wong_lin_hui@moe.edu.sg">wong_lin_hui@moe.edu.sg</a><br><br>|
-
-
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Malay Language Teachers</strong>|
-| -------------------------------- | ---------------------------------------------------- |
-| P2ML1 | Mdm Nazreen Bte Mohamed Noor (P2ML1) <br><br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg">nazreen_mohamed_noor@moe.edu.sg</a>|
-| P2ML2 | Ms Farah Adibah Binte Johari (P2ML2)<br><br><a href="mailto:farah_adibah_johari@moe.edu.sg">farah_adibah_johari@moe.edu.sg</a><br><br><br>|
-
-
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Tamil Language Teachers</strong>|
-| -------------------------------- | ---------------------------------------------------- |
-| P2TL  | Mdm Indarani Kasinathan<br><br><a href="mailto:indarani_kasinathan@moe.edu.sg">indarani_kasinathan@moe.edu.sg </a>|
+<table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Class</strong></p></th><th rowspan="1" colspan="1"><p><strong>Chinese Language Teachers</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>2CL1</p></td><td rowspan="1" colspan="1"><p>Mdm Cindy Tjen<br><br><a href="mailto:ow_chia-_tjen_sak_tju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>2CL2</p></td><td rowspan="1" colspan="1"><p>Mdm Phang Huey Fen<br><br><a href="mailto:phang_huey_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phang_huey_fen@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>2CL3</p></td><td rowspan="1" colspan="1"><p>Miss Pauline Teo<br><br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>2CL4</p></td><td rowspan="1" colspan="1"><p>Mdm Yang Shiya<br><br><a href="mailto:yang_shiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_shiya@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>2CL5</p></td><td rowspan="1" colspan="1"><p>Mdm Wang Liqin<br><br><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>2CL6</p></td><td rowspan="1" colspan="1"><p>Mdm Teo Siew Hong<br><br><a href="mailto:teo_siew_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siew_hong@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>2CL7</p></td><td rowspan="1" colspan="1"><p>Mdm Ng Liyen<br><br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg</a></p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Class</strong></p></th><th rowspan="1" colspan="1"><p><strong>Malay Language Teachers</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>P2ML1</p></td><td rowspan="1" colspan="1"><p>Mdm Nazreen Bte Mohamed Noor (P2ML1) <br><br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazreen_mohamed_noor@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>P2ML2</p></td><td rowspan="1" colspan="1"><p>Ms Farah Adibah Binte Johari (P2ML2)<br><br><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a><br><br><br></p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Class</strong></p></th><th rowspan="1" colspan="1"><p><strong>Tamil Language Teachers</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>P2TL</p></td><td rowspan="1" colspan="1"><p>Mdm Indarani Kasinathan<br><br><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a></p></td></tr></tbody></table><p></p>
