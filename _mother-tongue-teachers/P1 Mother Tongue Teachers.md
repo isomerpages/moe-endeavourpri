@@ -2,25 +2,6 @@
 title: P1 Mother Tongue Teachers
 permalink: /p1-mother-tongue-teachers/
 description: ""
+variant: tiptap
 ---
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Chinese Language Teachers</strong>|
-| -------------------------------- | ---------------------------------------------------- |
-| 1CL1   | Mdm Eng Cuishan<br><br><a href="mailto:eng_cui_shan@moe.edu.sg">eng_cui_shan@moe.edu.sg</a>| 
-| 1CL2   | Ms Phang Huey Fen<br><br><a href="mailto:phang_huey_fen@moe.edu.sg">phang_huey_fen@moe.edu.sg</a>| 
-| 1CL3  | Mdm Ow Chew Cheng<br><br><a href="mailto:ow_chew_cheng@moe.edu.sg">ow_chew_cheng@moe.edu.sg</a>
-1CL4   | Mdm Yang Shiya<br><br> <a href="mailto:yang_shiya@moe.edu.sg">yang_shiya@moe.edu.sg</a>|
-| 1CL5   | Mdm Wang Liqin<br><br><a href="mailto:wang_liqin@moe.edu.sg">wang_liqin@moe.edu.sg</a>|
-| 1CL6  | Mdm Tian Zhe<br><br><a href="mailto:tian_zhe@moe.edu.sg">tian_zhe@moe.edu.sg</a> 
-1CL7  | Mdm Teo Siew Hong<br><br><a href="mailto:teo_siew_hong@moe.edu.sg">teo_siew_hong@moe.edu.sg </a><br><br><br>|
-
-
-
-
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Malay Language Teachers</strong>|
-| -------------------------------- | ---------------------------------------------------- |
-| P1ML1   | Mdm Nazreen Bte Mohamed Noor (P1ML1)<br><br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg">nazreen_mohamed_noor@moe.edu.sg</a>| 
-| P1ML2  | Mdm Fauziah Bte Mohamed Ata (P1ML2)<br><br><a href="mailto:fauziah_mohamed_ata@moe.edu.sg">fauziah_mohamed_ata@moe.edu.sg</a><br><br>|
-
-|     <strong style="color: blue; font-size: 24px;">Class</strong>|<strong style="color: blue; font-size: 24px;">Tamil Language Teachers</strong>|
-| -------------------------------- | ---------------------------------------------------- |
-| P1TL1|Mdm Indarani Kasinathan<br><br><a href="mailto:indarani_kasinathan@moe.edu.sg">indarani_kasinathan@moe.edu.sg</a>|
+<table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Class</strong></p></th><th rowspan="1" colspan="1"><p><strong>Chinese Language Teachers</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>1CL1</p></td><td rowspan="1" colspan="1"><p>Mdm Wong Lin Hui<br><br><a href="mailto:wong_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lin_hui@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>1CL2</p></td><td rowspan="1" colspan="1"><p>Mdm Koh Ee-Ee<br><br><a href="mailto:koh_ee_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_ee_ee@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>1CL3</p></td><td rowspan="1" colspan="1"><p>Miss Fiona Ho Kok Luei<br><br><a href="mailto:ho_kok_luei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kok_luei@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>1CL4</p></td><td rowspan="1" colspan="1"><p>Mdm Tan Tay Kee (Mdm Ng)<br><br><a href="mailto:tan_tay_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tay_kee@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>1CL5</p></td><td rowspan="1" colspan="1"><p>Mdm Tan Poh Bee<br><br><a href="mailto:tan_poh_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_bee@moe.edu.sg</a></p></td></tr><tr><td rowspan="1" colspan="1"><p>1CL6</p></td><td rowspan="1" colspan="1"><p>Mdm Zheng Li<br><br><a href="mailto:zheng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_li@moe.edu.sg</a></p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Class</strong></p></th><th rowspan="1" colspan="1"><p><strong>Malay Language Teachers</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>P1ML1</p></td><td rowspan="1" colspan="1"><p>Mdm Nazreen Bte Mohamed Noor<br><br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazreen_mohamed_noor@moe.edu.sg</a></p></td></tr></tbody></table><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Class</strong></p></th><th rowspan="1" colspan="1"><p><strong>Tamil Language Teachers</strong></p></th></tr><tr><td rowspan="1" colspan="1"><p>P1TL1</p></td><td rowspan="1" colspan="1"><p>Mdm Indarani Kasinathan<br><br><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a></p></td></tr></tbody></table><p></p>
