@@ -10,12 +10,12 @@ variant: markdown
             <th style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <h4>School Bookshop</h4>
             </th>
-            <th rowspan="1" colspan="1">
+            <th style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <h4>Uniform Supplier / Shoe Supplier</h4>
             </th>
         </tr>
         <tr>
-            <td rowspan="1" colspan="1">
+            <td style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <p><strong>Contact Person:</strong> Ms Doreen Goh
                     <br>
                     <br>Pacific Bookstore Pte Ltd (Main Office)
@@ -26,7 +26,7 @@ variant: markdown
                     <br><strong>Tel:</strong> 6464 0111
                     <br><strong>Fax:</strong> 6464 0110</p>
             </td>
-            <td rowspan="1" colspan="1">
+            <td style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <p>Finest Fashion Centre
                     <br><strong>Contact Person:</strong> Mr Ethan Koh
                     <br>
@@ -47,15 +47,15 @@ variant: markdown
 <table>
     <tbody>
         <tr>
-            <th rowspan="1" colspan="1">
+            <th style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <h4>School Bus</h4>
             </th>
-            <th rowspan="1" colspan="1">
+            <th style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <h4>Dental Clinic</h4>
             </th>
         </tr>
         <tr>
-            <td rowspan="1" colspan="1">
+            <td style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <p>Heng Bus Transport
                     <br><strong>Contact Person:</strong> Ms Sharon Ong
                     <br>
@@ -65,7 +65,7 @@ variant: markdown
                     <br><strong>Tel:</strong> 6755 3038
                     <br><strong>Fax:</strong> 6758 9697</p>
             </td>
-            <td rowspan="1" colspan="1">
+            <td style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <p><strong>Contact Person:</strong> Ms Tan Wei Wei
                     <br>For FEB 2024 Dental Schedule, please click <a href="https://drive.google.com/file/d/1hTIISBheCdxSb6fx58BcJ6QmUV-V3yim/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.
                     <br>
@@ -80,23 +80,3 @@ variant: markdown
         </tr>
     </tbody>
 </table>
-<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>`</p>
-<p></p>
