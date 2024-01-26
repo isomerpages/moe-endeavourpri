@@ -146,27 +146,27 @@ variant: markdown
 <h3>Primary 6</h3>
 <table>
     <tbody>
-        <tr>
-            <th rowspan="1" colspan="1">
+        <tr style="border: 1px solid #ccc; padding: 8px; background-color: #E8EEF8;">
+            <th style="border:1px solid black;" rowspan="1" colspan="1">
                 <p><strong>CCE(FTGP) THEME</strong>
                 </p>
             </th>
-            <th rowspan="1" colspan="1">
+            <th style="border:1px solid black;" rowspan="1" colspan="1">
                 <p><strong>LESSONS TITLE / DURATION</strong>
                 </p>
             </th>
-            <th rowspan="1" colspan="1">
+            <th style="border:1px solid black;" rowspan="1" colspan="1">
                 <p><strong>LESSON OVERVIEW</strong>
                 </p>
             </th>
-            <th rowspan="1" colspan="1">
+            <th style="border:1px solid black;" rowspan="1" colspan="1">
                 <p><strong>TIME PERIOD</strong>
                     <br><strong>(e.g. Term 1 Week 2)</strong>
                 </p>
             </th>
         </tr>
         <tr>
-            <td rowspan="2" colspan="1">
+            <td style="border:1px solid black;" rowspan="2" colspan="1">
                 <p>Growing Years
                     <br>
                     <br>
@@ -192,39 +192,29 @@ variant: markdown
                     <br>
                 </p>
             </td>
-            <td rowspan="1" colspan="1">
+            <td style="border:1px solid black;" rowspan="1" colspan="1">
                 <p>Are We More than Friends?Lesson 1 (60 min)</p>
             </td>
-            <td rowspan="1" colspan="1">
-                <p>In this lesson, students will learn to distinguish between the characteristics
-                    of love and infatuation, and identify the strong emotions that may arise
-                    from experiencing the feelings of infatuation. They will recognise that
-                    experiencing feelings of infatuation is part of growing up and becoming
-                    infatuated with someone does not mean that they should be involved in a
-                    romantic relationship. Instead, they should focus on building strong and
-                    healthy friendships with their circles of friends.</p>
+            <td style="border:1px solid black;" rowspan="1" colspan="1">
+                <p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p>
             </td>
-            <td rowspan="1" colspan="1">
+            <td style="border:1px solid black;" rowspan="1" colspan="1">
                 <p>Term 1 Week 9
                     <br>
                 </p>
             </td>
         </tr>
         <tr>
-            <td rowspan="1" colspan="1">
+            <td style="border:1px solid black;" rowspan="1" colspan="1">
                 <p>Are We More than Friends? Lesson 2 (60 min)
                     <br>
                     <br>
                 </p>
             </td>
-            <td rowspan="1" colspan="1">
-                <p>In this lesson, students will learn healthy ways to manage the emotions
-                    arising from infatuation and recognise the importance of respecting the
-                    boundaries of any relationship. They will also recognise the negative impact
-                    of teasing their peers who may be experiencing the feelings of infatuation
-                    and learn to behave maturely towards each other.</p>
+            <td style="border:1px solid black;" rowspan="1" colspan="1">
+                <p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p>
             </td>
-            <td rowspan="1" colspan="1">
+            <td style="border:1px solid black;" rowspan="1" colspan="1">
                 <p>Term 2 Week 3
                     <br>
                     <br>
@@ -236,18 +226,13 @@ variant: markdown
 <h3><strong>Information for Parents</strong></h3>
 <ol start="8">
     <li>
-        <p>Parents may opt their children out of Sexuality Education lessons, and/or
-            supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+        <p>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p>
     </li>
     <li>
-        <p>Parents who wish to opt their children out of the Sexuality Education
-            lessons need to complete an opt-out form. Parents may request the opt out
-            form from their child’s form teacher.</p>
+        <p>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. Parents may request the opt out form from their child’s form teacher.</p>
     </li>
     <li>
-        <p>Parents can contact the school through email or phone: 6482 4650 / 6482
-            4835 for discussion or to seek clarification about the school’s Sexuality
-            Education programme.</p>
+        <p>Parents can contact the school through email or phone: 6482 4650 / 6482 4835 for discussion or to seek clarification about the school’s Sexuality Education programme.</p>
     </li>
 </ol>
 <p></p>
