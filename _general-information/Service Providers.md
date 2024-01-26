@@ -19,7 +19,7 @@ variant: markdown
                 <p><strong>Contact Person:</strong> Ms Doreen Goh
                     <br>
                     <br>Pacific Bookstore Pte Ltd (Main Office)
-                    <br>14, Arumugam Road, #08-01, Lion Building C, Singapore 409959
+                    <br>14, Arumugam Road, #08-01<br> Lion Building C<br> Singapore 409959
                     <br>
                     <br><strong>Tel:</strong> 6464 0111
                     <br><strong>Fax:</strong> 6464 0110</p>
@@ -55,7 +55,7 @@ variant: markdown
                 <p>Heng Bus Transport
                     <br><strong>Contact Person:</strong> Ms Sharon Ong
                     <br>
-                    <br>Blk 335 Sembawang Close #04-459
+                    <br>Blk 335 Sembawang Close<br> #04-459
                     <br>Singapore 750335
                     <br><strong>Tel:</strong> 6755 3038
                     <br><strong>Fax:</strong> 6758 9697</p>
