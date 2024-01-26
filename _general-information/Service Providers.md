@@ -18,10 +18,8 @@ variant: tiptap
             <td rowspan="1" colspan="1">
                 <p><strong>Contact Person:</strong> Ms Doreen Goh
                     <br>
-                    <br>Pacific Bookstore Pte Ltd (Main Office)
-                    <br>14, Arumugam Road
-                    <br>#08-01
-                    <br>Lion Building C, Singapore 409959
+                    <br>Pacific Bookstore Pte Ltd (Main Office), 14, Arumugam Road, #08-01, Lion
+                    Building C, Singapore 409959
                     <br>
                     <br><strong>Tel:</strong> 6464 0111
                     <br><strong>Fax:</strong> 6464 0110</p>
