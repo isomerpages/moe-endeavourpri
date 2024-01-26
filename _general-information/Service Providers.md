@@ -4,18 +4,13 @@ permalink: /general-information/
 description: ""
 variant: markdown
 ---
-<table>
-    <tbody>
-        <tr></tr>
-    </tbody>
-</table>
 <div class="isomer-image-wrapper">
     <img style="width: 100%" height="auto" width="100%" alt="" src="/images/service_provider.jpg">
-</div>
+</div><br>
 <table>
     <tbody>
         <tr>
-            <th rowspan="1" colspan="1">
+            <th style="width:50%" rowspan="1" colspan="1">
                 <h4>School Bookshop</h4>
             </th>
             <th rowspan="1" colspan="1">
