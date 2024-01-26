@@ -36,7 +36,7 @@ variant: markdown
                     <br>Blk 144 Upper Bukit Timah Road
                     <br>Beauty World Centre
                     <br>#B1-03 Singapore 588177
-                    <br>Tel: 6466 5697 / 9029 5135
+									<br><b>Tel:</b> 6466 5697 / 9029 5135
                     <br>
                     <br>(Uniform sales will be available in school every Thursday, from 11.30am
                     to 2.30pm. Safe management measures must be followed at all times.)</p>
