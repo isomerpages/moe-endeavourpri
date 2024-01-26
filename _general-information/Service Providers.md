@@ -43,15 +43,15 @@ variant: markdown
 <table>
     <tbody>
         <tr>
-            <th rowspan="1" colspan="1">
+            <th style="width:50%" rowspan="1" colspan="1">
                 <h4>School Bus</h4>
             </th>
-            <th rowspan="1" colspan="1">
+            <th style="width:50%" rowspan="1" colspan="1">
                 <h4>Dental Clinic</h4>
             </th>
         </tr>
         <tr>
-            <td rowspan="1" colspan="1">
+            <td style="width:50%" rowspan="1" colspan="1">
                 <p>Heng Bus Transport
                     <br><strong>Contact Person:</strong> Ms Sharon Ong
                     <br>
@@ -60,7 +60,7 @@ variant: markdown
                     <br><strong>Tel:</strong> 6755 3038
                     <br><strong>Fax:</strong> 6758 9697</p>
             </td>
-            <td rowspan="1" colspan="1">
+            <td style="width:50%" rowspan="1" colspan="1">
                 <p><strong>Contact Person:</strong> Ms Tan Wei Wei
                     <br>For FEB 2024 Dental Schedule, please click HERE.
                     <br>
