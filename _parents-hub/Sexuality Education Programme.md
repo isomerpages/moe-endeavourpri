@@ -82,15 +82,13 @@ variant: markdown
             <td rowspan="3" colspan="1">
                 <p>Growing Years
                     <br>
-                    <br>
-                    <br>
                 </p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>The Changes in Me (60 min)</p>
             </td>
             <td rowspan="1" colspan="1">
-                This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+                <p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Term 1 Week 9</p>
@@ -104,8 +102,8 @@ variant: markdown
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>.
-                <br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+                <p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>.
+                <br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Term 2 Week 3
@@ -121,12 +119,7 @@ variant: markdown
                 </p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>In this lesson, students will learn about sexual abuse, how it can happen
-                    during online and offline interactions and the impact of such abuse on
-                    victims. They also learn how to take precautionary measures to be safe
-                    and how to seek help for themselves and their friends.</p>
-                <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-                </p>
+                <p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p>
                 <p>
                     <br>
                 </p>
