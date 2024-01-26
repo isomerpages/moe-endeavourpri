@@ -10,12 +10,12 @@ variant: markdown
             <th style="width:50%" rowspan="1" colspan="1">
                 <h4>School Bookshop</h4>
             </th>
-            <th rowspan="1" colspan="1">
+            <th style="width:50%" rowspan="1" colspan="1">
                 <h4>Uniform Supplier / Shoe Supplier</h4>
             </th>
         </tr>
         <tr>
-            <td rowspan="1" colspan="1">
+            <td style="width:50%" rowspan="1" colspan="1">
                 <p><strong>Contact Person:</strong> Ms Doreen Goh
                     <br>
                     <br>Pacific Bookstore Pte Ltd (Main Office)
@@ -24,7 +24,7 @@ variant: markdown
                     <br><strong>Tel:</strong> 6464 0111
                     <br><strong>Fax:</strong> 6464 0110</p>
             </td>
-            <td rowspan="1" colspan="1">
+            <td style="width:50%" rowspan="1" colspan="1">
                 <p>Finest Fashion Centre
                     <br><strong>Contact Person:</strong> Mr Ethan Koh
                     <br>
