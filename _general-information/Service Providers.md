@@ -39,7 +39,7 @@ variant: markdown
         </tr>
     </tbody>
 </table>
-<br><br>
+<br>
 <table>
     <tbody>
         <tr>
