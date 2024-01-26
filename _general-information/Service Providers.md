@@ -10,7 +10,7 @@ variant: markdown
             <th style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <h4>School Bookshop</h4>
             </th>
-            <th style="width:&quot;50%&quot;" rowspan="1" colspan="1">
+            <th style="width:50%" rowspan="1" colspan="1">
                 <h4>Uniform Supplier / Shoe Supplier</h4>
             </th>
         </tr>
