@@ -4,7 +4,7 @@ permalink: /parents-hub/sexuality-education-programme/
 description: ""
 variant: markdown
 ---
-<h4><strong>MOE Sexuality Education in Schools</strong></h4>
+<h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <ol>
     <li>
         <p>Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</p>
@@ -24,7 +24,7 @@ variant: markdown
     </li>
 </ol>
 <hr>
-<h4><strong>Overview of Endeavour Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2024</strong></h4>
+<h3><strong>Overview of Endeavour Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2024</strong></h3>
 <ol start="4">
     <li>
         <p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
@@ -44,7 +44,7 @@ variant: markdown
     </li>
 </ol>
 <hr>
-<h4>At Endeavour Primary School, the following <strong>Sexuality</strong> Education lessons will be taught in&nbsp;2024:</h4>
+<h3>At Endeavour Primary School, the following <strong>Sexuality</strong> Education lessons will be taught in&nbsp;2024:</h3>
 <table>
     <tbody>
         <tr>
