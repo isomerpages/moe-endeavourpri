@@ -7,7 +7,7 @@ variant: markdown
 <table>
     <tbody>
         <tr>
-            <th rowspan="1" colspan="1">
+            <th style="width:&quot;50%&quot;" rowspan="1" colspan="1">
                 <h4>School Bookshop</h4>
             </th>
             <th rowspan="1" colspan="1">
