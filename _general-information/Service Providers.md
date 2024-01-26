@@ -67,7 +67,7 @@ variant: tiptap
                     <br>
                     <br><strong>Tel:</strong> 8518 8307
                     <br>For more information on Baby tooth extraction, click here.
-                    <br><strong>Opening hours:</strong>
+                    <br><strong>Opening hours:</strong> 
                     <br>8.00am to 5.00pm*
                     <br>(unless otherwise stated)
                     <br><em>*Closed on Public Holidays &amp; School Holidays</em>
