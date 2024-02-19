@@ -23,7 +23,7 @@ third_nav_title: Workshops and Briefings
 <br>
 <br><a href="https://drive.google.com/file/d/1QP6pbgIhTdEj63yxLapjjtcNX0AtoEQM/view?usp=drive_link">P5 Parents' briefing Science 2024</a> 
 <br><br>
-		<a>P6 Parents' briefing Science 2024</a>
+		<a href="https://drive.google.com/file/d/1aER5h1GyrAgJLAr2vmM_7H5jwq1vP_18/view?usp=drive_link">P6 Parents' briefing Science 2024</a>
 <br><br>
 			<a>Parents Networking Session (P5) 16 Feb 2024 - P's slides</a>
 	<br>
