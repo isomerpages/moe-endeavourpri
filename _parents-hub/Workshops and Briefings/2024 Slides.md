@@ -5,19 +5,34 @@ variant: markdown
 description: ""
 third_nav_title: Workshops and Briefings
 ---
-<table>
+<table style="border:1px solid black;width:840px;">
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Parents’ briefing slides on 19th&nbsp;May 2023</strong> 
+<tr><td style="border:1px solid black; width:350px;">
+<b>
+	<strong style="color:black;font-size:18;">Parents' briefing slides on 18th&nbsp;February 2024</strong>
+	<br>
+	<br>
+	<a href="https://drive.google.com/file/d/12E5AVZz97UVehcs8fB8pXTyp96X17jPw/view?usp=sharing">EDP 2024 P5 &amp; P6 Parents Math Briefing</a>
 <br>
-<br><a href="https://drive.google.com/file/d/1_ri9dFL6XCtVwXxIhNg2_8ICstuqhw57/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">PSLE Scoring and S1 Posting 2023 - Parents.pdf</a> 
+	
 <br>
-</p>
-</td>
+	</b></td>
+	</tr><tr>
+<td style="border:1px solid black; width:350px;">
+<strong style="color:black;font-size:18;">Parents’ briefing slides on 16th&nbsp;Ferbruary 2024</strong> 
+<br>
+<br><a href="https://drive.google.com/file/d/1QP6pbgIhTdEj63yxLapjjtcNX0AtoEQM/view?usp=drive_link">P5 Parents' briefing Science 2024</a> 
+<br><br>
+		<a>P6 Parents' briefing Science 2024</a>
+<br><br>
+			<a>Parents Networking Session (P5) 16 Feb 2024 - P's slides</a>
+	<br>
+	<br>
+		<a>Parents Networking Session (P6) 16 Feb 2024 - P's slides</a>
+	<br><br>
+		<a>Parents' Networking Session_YH_Sharing_Upper Pri_2024</a>
+	<br><br>
+	</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
