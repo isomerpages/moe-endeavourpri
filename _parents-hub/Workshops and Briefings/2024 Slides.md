@@ -12,7 +12,7 @@ third_nav_title: Workshops and Briefings
 	<strong style="color:black;font-size:18;">Parents' briefing slides on 18th&nbsp;February 2024</strong>
 	<br>
 	<br>
-	<a href="https://drive.google.com/file/d/12E5AVZz97UVehcs8fB8pXTyp96X17jPw/view?usp=sharing">EDP 2024 P5 &amp; P6 Parents Math Briefing</a>
+	<a target="https://drive.google.com/file/d/12E5AVZz97UVehcs8fB8pXTyp96X17jPw/view?usp=sharing">EDP 2024 P5 &amp; P6 Parents Math Briefing</a>
 <br>
 	
 <br>
@@ -36,8 +36,8 @@ third_nav_title: Workshops and Briefings
 <td style="border:1px solid black; width:350px;">
 <b><strong>Parents’ briefing slides on 8th February 2024</strong> 
 <br>
-<br><a href="https://drive.google.com/file/d/1DSvQQHsnbeDXYwR5vKaKeK_1odHypJmH/view?usp=drive_link">P5 Slides for Parents _ EL MT Languages 2024<br><br></a> 
-<a href="https://drive.google.com/file/d/1J8XoD8ztX1P4LO0aZK_EAcCh9uG7Hux_/view?usp=drive_link">P6 Slides for Parents _ EL MT Languages 2024</a>
+<br><a target="https://drive.google.com/file/d/1DSvQQHsnbeDXYwR5vKaKeK_1odHypJmH/view?usp=drive_link">P5 Slides for Parents _ EL MT Languages 2024<br><br></a> 
+<a target="https://drive.google.com/file/d/1J8XoD8ztX1P4LO0aZK_EAcCh9uG7Hux_/view?usp=drive_link">P6 Slides for Parents _ EL MT Languages 2024</a>
 <br>
 </b></td></tr></tbody>
 </table>
