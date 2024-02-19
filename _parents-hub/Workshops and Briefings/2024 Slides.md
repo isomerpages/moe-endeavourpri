@@ -28,7 +28,7 @@ third_nav_title: Workshops and Briefings
 			<a target="https://drive.google.com/file/d/1R8vwxMtHhamdoxP04VVxv39IGbFFVqJ8/view?usp=drive_link">Parents Networking Session (P5) 16 Feb 2024 - P's slides</a>
 	<br>
 	<br>
-		<a target="https://drive.google.com/file/d/1l3DIvXGGlmUCiqGG_kkAi9gRAizYtaBN/view?usp=drive_link"> Networking Session (P6) 16 Feb 2024 - P's slides</a>
+		<a target="https://drive.google.com/file/d/1l3DIvXGGlmUCiqGG_kkAi9gRAizYtaBN/view?usp=drive_link">Parents Networking Session (P6) 16 Feb 2024 - P's slides</a>
 	<br><br>
 		<a target="https://drive.google.com/file/d/16LFGQRMgLRqXZSgRzQduX-cscMcb20g_/view?usp=drive_link">Parents' Networking Session_YH_Sharing_Upper Pri_2024</a>
 	<br><br>
