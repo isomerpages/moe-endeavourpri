@@ -1,6 +1,6 @@
 ---
 title: 2023 Slides
-permalink: /parents-hub/workshops-and-briefings/permalink/
+permalink: /2023-slides/
 description: ""
 third_nav_title: Workshops and Briefings
 variant: markdown
