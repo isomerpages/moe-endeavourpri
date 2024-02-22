@@ -16,7 +16,7 @@ sections:
           url: https://sites.google.com/view/endeavourprimaryp12024?usp=sharing
         - title: Parent's Briefing Resources
           description: ""
-          url: https://moe-endeavourpri-staging.netlify.app/parents-hub/workshops-and-briefings/permalink/
+          url: /parents-hub/workshops-and-briefings/permalink/
       background: /images/EDP homepage (3).gif
   - infopic:
       title: C.A.M.P.S
