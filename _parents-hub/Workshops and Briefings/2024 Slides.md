@@ -25,6 +25,10 @@ third_nav_title: Workshops and Briefings
 	<br><br>
 		<a href="https://drive.google.com/file/d/16LFGQRMgLRqXZSgRzQduX-cscMcb20g_/view?usp=drive_link">Parents' Networking Session_YH_Sharing_Upper Pri_2024</a>
 	<br><br>
+	<a href="https://drive.google.com/file/d/1xTTbJcQ7N3d4_CnjEFA6j8Pjf36BC8p3/view?usp=drive_link">PRIMARY 5 Camp Resilience 2024</a>
+<br>
+<br>
+
 	</td>
 <td style="border:1px solid black; width:350px;">
 <b><strong style="color:black;font-size:18;">Parents’ briefing slides on 8th February 2024</strong> 
@@ -32,5 +36,6 @@ third_nav_title: Workshops and Briefings
 <br><a href="https://drive.google.com/file/d/1DSvQQHsnbeDXYwR5vKaKeK_1odHypJmH/view?usp=drive_link">P5 Slides for Parents _ EL MT Languages 2024<br><br></a> 
 <a href="https://drive.google.com/file/d/1J8XoD8ztX1P4LO0aZK_EAcCh9uG7Hux_/view?usp=drive_link">P6 Slides for Parents _ EL MT Languages 2024</a>
 <br>
-</b></td></tr></tbody>
+</b>
+	</td></tr></tbody>
 </table>
