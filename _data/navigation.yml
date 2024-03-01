@@ -1,0 +1,14 @@
+logo: /images/cropped-EDP_LoGO0.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Our Programmes
+    collection: our-programmes
+  - title: Our Curriculum
+    collection: our-curriculum
+  - title: Parents Hub
+    collection: parents-hub
+  - title: Pupils Hub
+    collection: pupils-hub
+  - title: General Information
+    collection: general-information

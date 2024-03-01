@@ -1,0 +1,29 @@
+collections:
+  parents-hub:
+    output: true
+    order:
+      - School Calendar.md
+      - EDP Wellness.md
+      - Parents Gateway/.keep
+      - Parents Gateway/Guide to booking for PTM via Parent’s Gateway.md
+      - Parents Gateway/Introducing Parents Gateway.md
+      - Parents Gateway/Making Travel Declarations and Amendments on Parents
+        Gateway.md
+      - Sexuality Education Programme.md
+      - Cyber Wellness.md
+      - MOE FAS application.md
+      - Workshops and Briefings/2024 Slides.md
+      - Workshops and Briefings/2023 Slides.md
+      - Workshops and Briefings/.keep
+      - Workshops and Briefings/2022 Slides.md
+      - Workshops and Briefings/2021 Slides.md
+      - Workshops and Briefings/2020 Slides.md
+      - Parents In Education.md
+      - Principal's Letters/2024 Letters.md
+      - Principal's Letters/2023 Letters.md
+      - Principal's Letters/.keep
+      - Principal's Letters/2022 Letters.md
+      - Principal's Letters/2021 Letters.md
+      - NLB discoverReads.md
+      - 2024 Booklist and Uniform Order.md
+      - Yearly Newsletter.md

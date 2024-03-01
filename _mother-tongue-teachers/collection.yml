@@ -1,0 +1,11 @@
+collections:
+  mother-tongue-teachers:
+    output: true
+    order:
+      - Mother Tongue Teachers.md
+      - P1 Mother Tongue Teachers.md
+      - P2 Mother Tongue Teachers.md
+      - P3 Mother Tongue Teachers.md
+      - P4 Mother Tongue Teachers.md
+      - P5 Mother Tongue Teachers.md
+      - P6 Mother Tongue Teachers.md
