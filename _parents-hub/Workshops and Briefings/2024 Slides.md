@@ -12,7 +12,10 @@ third_nav_title: Workshops and Briefings
              <strong style="color: black; font-size: 18;"> Parents’ briefing slides on 23rd&nbsp;February 2024</strong>
              <br>
                          <br>
-             <a href="https://drive.google.com/file/d/1prqBap6Pslx0noNOwFK-KAfSfD8uqAMA/view?usp=drive_link">2024_P4 PARENTS BRIEFING_HMT_23 FEB 2024</a>
+            <a href="https://drive.google.com/file/d/1kIfS-Na13C-suEx4Cw8BTwn9T23Ir0OX/view?usp=drive_link">P3 CCA Briefing for P3 Parents 23 Feb 2024</a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1prqBap6Pslx0noNOwFK-KAfSfD8uqAMA/view?usp=drive_link">2024_P4 PARENTS BRIEFING_HMT_23 FEB 2024</a>
              <br>
                          <br>
 							 <a href="https://drive.google.com/file/d/1aGymPtokgeOE9m0bezn1I7VfFnKwfy-m/view?usp=drive_link">Parents Networking Session (P3) 23 Feb 2024 - P's slides</a>
