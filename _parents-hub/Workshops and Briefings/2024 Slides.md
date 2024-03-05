@@ -31,7 +31,23 @@ third_nav_title: Workshops and Briefings
              <br>
                          <br>
              </b>
-          </td> 
+          </td> <td style="border:1px solid black; width:350px;">
+<strong style="color:black;font-size:18;">Parents’ briefing slides on 1st&nbsp;March 2024</strong> 
+<br>
+<br>	<a href="https://drive.google.com/file/d/1MMQnMskGQhzsXG0rcOcDLMyBGIYn33xZ/view?usp=drive_link">P1_MTL_NETWORKING_SLIDES_2024</a>
+	<br>
+	<br>
+	<a href="https://drive.google.com/file/d/1ByhKRY9sTXjBIa71FpGxWeA8IyKFMgIo/view?usp=drive_link">P1 English Language Briefing</a> 
+<br><br>
+		<a href="https://drive.google.com/file/d/179mzfEVUsCqq4MynWm11ehJALzF86n3K/view?usp=drive_link">P2_YH Briefing</a>
+<br><br>
+			<a href="https://drive.google.com/file/d/1xaTd_GRTQEQb0ApujU4zTEpju5EbCUB5/view?usp=drive_link">Parents Networking Session (P1) 1 March - P's slides</a>
+	<br>
+	<br>
+		<a href="https://drive.google.com/file/d/1erVeMbPwXbXq6c202rgT5qIVPir9sm9a/view?usp=drive_link">Parents Networking Session (P2) 1 March - P's slides</a>
+	<br><br>
+<br>
+	</td>
           </tr><tr>
 <td style="border:1px solid black; width:350px;">
 <strong style="color:black;font-size:18;">Parents’ briefing slides on 16th&nbsp;February 2024</strong> 
@@ -53,7 +69,6 @@ third_nav_title: Workshops and Briefings
 	<a href="https://drive.google.com/file/d/1xTTbJcQ7N3d4_CnjEFA6j8Pjf36BC8p3/view?usp=drive_link">PRIMARY 5 Camp Resilience 2024</a>
 <br>
 <br>
-
 	</td>
 <td style="border:1px solid black; width:350px;">
 <b><strong style="color:black;font-size:18;">Parents’ briefing slides on 8th February 2024</strong> 
