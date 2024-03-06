@@ -11,7 +11,7 @@ third_nav_title: Principal's Letters
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="995202" rel="noopener noreferrer nofollow" target="_blank">P's letter to Parents - Mar 2024</a>
+<p><a target="https://drive.google.com/file/d/1Wl5HploAEd7OjR_biTbzd7JAdG7M-5bt/view?usp=drive_link">P's letter to Parents - Mar 2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
