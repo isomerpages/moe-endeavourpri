@@ -72,7 +72,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Guo Linglan
 <br>
-<br>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
 </p>
