@@ -125,7 +125,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Farah Adibah Binte Johari
 <br>
-<br><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
+<br><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a> 
 <br>
 <br>
 <br>
