@@ -35,7 +35,7 @@ variant: tiptap
 <p>Mdm Guo Linglan
 <br>
 </p>
-<p><a href="guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
+<p><a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
