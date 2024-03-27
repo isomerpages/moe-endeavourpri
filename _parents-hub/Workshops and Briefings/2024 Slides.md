@@ -33,6 +33,9 @@ third_nav_title: Workshops and Briefings
              </b>
           </td> <td style="border:1px solid black; width:350px;">
 <strong style="color:black;font-size:18;">Parents’ briefing slides on 1st&nbsp;March 2024</strong> 
+<br><br>
+	 <a href="https://drive.google.com/file/d/1b9A35L7YEe45eZ271jBLQhFmmQ34XPJ3/view?usp=sharing">P1 Parents' Briefing (Math) 2024</a>
+	 
 <br>
 <br>	<a href="https://drive.google.com/file/d/1MMQnMskGQhzsXG0rcOcDLMyBGIYn33xZ/view?usp=drive_link">P1_MTL_NETWORKING_SLIDES_2024</a>
 	<br>
