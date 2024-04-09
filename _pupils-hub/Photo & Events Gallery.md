@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+				<li><a href="https://youtu.be/4t3leb43Vxwg">► Rainbow Day 2024 </a></li>
 				<li><a href="https://drive.google.com/drive/folders/1mEkoWNeBTYyzi9sY-BzahoYM1gBoM6K2?usp=sharing">► P6 Graduation Photos 2023 </a></li>
 				<li><a href="https://www.youtube.com/watch?v=5abMGr3AAfo%22%22">► P6 Graduation Video 2023 </a></li>
 				<li><a href="https://www.youtube.com/watch?v=VCKHBtfwy_E">► Children's Day Video - 2023 </a></li>
