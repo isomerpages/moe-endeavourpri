@@ -23,7 +23,7 @@ variant: tiptap
 <hr>
 </li>
 <li>
-<p><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">Student&nbsp;</a><strong><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">MIMs</a></strong>
+<p><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">Student&nbsp;</a><strong><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">MIMs</a></strong> 
 <a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">Password Reset</a>
 </p>
 <hr>
@@ -37,7 +37,7 @@ variant: tiptap
 <h3>FAQs:</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>What is the naming convention for Student iCON email address?</strong>
+<p><strong>What is the naming convention for Student iCON email address?</strong> 
 <br>a. The student’s email address will be based on <u>Full Name</u>@students.edu.sg.
 <br>b. Any space in the full name will be replaced with an underscore.
 <br>c. Should the student’s full name have words such as “Bte” and “s/o”,
@@ -49,13 +49,13 @@ numerical number (e.g. Jon_Tan_1, Jon_Tan_2) to differentiate their email
 addresses.</p>
 </li>
 <li>
-<p><strong>How can my child log in to Student iCON?</strong>
+<p><strong>How can my child log in to Student iCON?</strong> 
 <br>Student iCON is web-based. Students can use their web browser in their
 internet-enabled computing or mobile devices to visit&nbsp;<a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>&nbsp;to
 access Student iCON.</p>
 </li>
 <li>
-<p><strong>Which Operating System or browser should my child use?</strong>
+<p><strong>Which Operating System or browser should my child use?</strong> 
 <br>You can refer to the following table for guidance on the Operating System/browser
 which students can use to log in.&nbsp;</p>
 </li>
