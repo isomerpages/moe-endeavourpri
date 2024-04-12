@@ -11,9 +11,9 @@ sections:
         - title: For Staff
           description: ""
           url: /for-staff/
-        - title: P1 Orientation Briefing
+        - title: MIMs Password Reset
           description: ""
-          url: https://sites.google.com/view/endeavourprimaryp12024?usp=sharing
+          url: https://form.gov.sg/622591f0b89fad0012ff253c
         - title: Parent's Briefing Resources
           description: ""
           url: /parents-hub/workshops-and-briefings/permalink/
