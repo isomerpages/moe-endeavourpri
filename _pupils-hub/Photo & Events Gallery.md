@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+				<li><a href="https://photos.app.goo.gl/sr6bdHHPsnv3GTo39">► Hari Raya Celebration  - 2024 Photos </a></li>	
 			<li><a href="https://photos.app.goo.gl/VfjeWD2kVfZDiWha7">► Rainbow Day 2 - International Friendship Day Photos </a></li>	
 				<li><a href="https://photos.app.goo.gl/XTrWbUPZS6LJiin37">► Rainbow Day 1 - Total Defence Day Photos </a></li>	
 			<li><a href="https://photos.app.goo.gl/TT2x35pa3HfCRomv5">► Chinese New Year - 2024 Photos </a></li>	
