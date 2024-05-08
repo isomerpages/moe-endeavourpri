@@ -7,7 +7,19 @@ third_nav_title: Workshops and Briefings
 ---
 <table style="border:1px solid black;width:840px;">
 <tbody>
- <tr><td style="border: 1px solid black; width: 350px;">
+	 <tr><td style="border: 1px solid black; width: 350px;">
+             <b>
+             <strong style="color: black; font-size: 18;"> Parents’ briefing slides on 3rd&nbsp;May 2024</strong>
+             <br>
+                         <br>
+            <a href="https://drive.google.com/file/d/128K1Zj3uFMTR7-Wg3uKCBuKP0dQkMwE9/view?usp=drive_link">PSLE 2024 briefing for P5 &amp; P6 Parents (3 May)</a>
+             <br>
+        </b></td> <td style="border:1px solid black; width:350px;">
+<strong style="color:black;font-size:18;"></strong> 
+<br><br>
+	
+         
+ </td></tr><tr><td style="border: 1px solid black; width: 350px;">
              <b>
              <strong style="color: black; font-size: 18;"> Parents’ briefing slides on 23rd&nbsp;February 2024</strong>
              <br>
