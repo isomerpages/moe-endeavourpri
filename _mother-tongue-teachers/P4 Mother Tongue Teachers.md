@@ -4,7 +4,11 @@ permalink: /p4-mother-tongue-teachers/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -68,9 +72,9 @@ variant: tiptap
 <p>4CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Brenda Goh
+<p>Mdm Ho Ruolin Doreen
 <br>
-<br><a href="mailto:goh_puoy_choo_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_puoy_choo_brenda@moe.edu.sg</a>
+<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -98,7 +102,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
