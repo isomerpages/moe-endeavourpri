@@ -17,7 +17,7 @@ sections:
         - title: Parent's Briefing Resources
           description: ""
           url: /parents-hub/workshops-and-briefings/permalink/
-      background: /images/EDP homepage (3).gif
+      background: /images/EDP_Homepage__4_.gif
   - infopic:
       title: C.A.M.P.S
       description: 5 Student Outcomes (C.A.M.P.S) for  Value-based Holistic Education
