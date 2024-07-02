@@ -17,7 +17,10 @@ sections:
         - title: Parent's Briefing Resources
           description: ""
           url: /parents-hub/workshops-and-briefings/permalink/
-      background: /images/EDP_Homepage__4_.gif
+        - title: EDP Open House
+          description: ""
+          url: https://go.gov.sg/edpopenhouse
+      background: /images/EDP_Homepage.gif
   - infopic:
       title: C.A.M.P.S
       description: 5 Student Outcomes (C.A.M.P.S) for  Value-based Holistic Education

@@ -2,26 +2,8 @@
 title: Our Achievements
 permalink: /about-us/our-achievements/
 description: ""
+variant: markdown
 ---
-<!-- This is a comment 
-##### **2020**
-
-![Endeavour Primary School Bronze Award](/images/Endeavour-Primary-SchoolLong.jpg)
-
-##### **2019**
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQtsRHAOVxmQ-wGzsR8PRcaJLRzejdv8u-hEEiQAvJeX-I_e8epztcFFj9JRIZfDaA35Qsqqm_j_VYW/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-##### **2018**
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ2XRittTGj2fus9kTlUp5mJFH8ofam3fnzD5xD8fzlJNwGFKULePaXHYzyyShhoGkCLCkzNwvVGoHY/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-##### **2017**
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR9LOIsY0YIoXML70B9VWhHeaWYymZni1waDvxQTMDGwqabY54bwaL8CdkDzlm6n0QIhdsfja0jZnR9/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
--->
-
-
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRCdy-rP-phqsmhobmyprqYnlGXqtuOYAMBKP0FWpiSOsfVvE5O6W2cwFTTEd4Vs0m2juLBKsfuWLHJ/pub?embedded=true" width="1200" height="6000"></iframe>
 
 

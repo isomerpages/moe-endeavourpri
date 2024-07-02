@@ -32,10 +32,7 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kirenjit Kaur
-<br>
-<br><a href="mailto:kirenjit_kaur_gill@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kirenjit_kaur_gill@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MrSuhardi Bin Marino</p>
