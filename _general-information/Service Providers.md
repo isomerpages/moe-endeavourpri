@@ -36,6 +36,7 @@ variant: markdown
 									<br>
 									<br><b>Email Address:</b> uniforms@asencio.com.sg
 									<br><b> Text Message Only: </b> 80310502 
+										<br><b> Office Hotline (Weekdays 9am-6pm only):</b> 67643102
                     <br>(Uniform sales will be available in school every Thursday, from 11.30am
                     to 2.30pm.)</p>
             </td>
