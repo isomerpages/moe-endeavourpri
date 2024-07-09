@@ -27,16 +27,17 @@ variant: markdown
                     <br><strong>Fax:</strong> 6464 0110</p>
             </td>
             <td style="width:50%" rowspan="1" colspan="1">
-                <p>Finest Fashion Centre
-                    <br><strong>Contact Person:</strong> Mr Ethan Koh
+                <p>Asencio Pte Ltd
+                    <br><strong>Contact Person:</strong> Mdm Yeo
                     <br>
-                    <br>Blk 144 Upper Bukit Timah Road
-                    <br>Beauty World Centre
-                    <br>#B1-03 Singapore 588177
-									<br><b>Tel:</b> 6466 5697 / 9029 5135
+                    <br>120 Hillview Avenue
+                    <br>Kewalram Hillview
+                    <br>#05-02 Singapore 669594
+									<br>
+									<br><b>Email Address:</b> uniforms@asencio.com.sg
                     <br>
                     <br>(Uniform sales will be available in school every Thursday, from 11.30am
-                    to 2.30pm. Safe management measures must be followed at all times.)</p>
+                    to 2.30pm.)</p>
             </td>
         </tr>
     </tbody>
