@@ -35,7 +35,7 @@ variant: markdown
                     <br>#05-02 Singapore 669594
 									<br>
 									<br><b>Email Address:</b> uniforms@asencio.com.sg
-                    <br>
+									<br><b> Text Message Only: </b> 80310502 
                     <br>(Uniform sales will be available in school every Thursday, from 11.30am
                     to 2.30pm.)</p>
             </td>
