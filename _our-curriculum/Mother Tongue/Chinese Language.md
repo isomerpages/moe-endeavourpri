@@ -3,6 +3,7 @@ title: Chinese Language
 permalink: /departments/chinese-department/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ![chinese vision](/images/chinese_vision.jpg)
 
@@ -28,15 +29,15 @@ The Mother Tongue Department (Chinese Language) seeks to realise the key goals o
 
 ---
 
-<strong style="color: blue;">课堂教学活动  Classroom Activities</strong>
+<strong style="color: blue;">课堂教学活动 &nbsp;Classroom Activities</strong>
 <br>
 ![CL classroom activities](/images/CL%20classroom%20activities.png)
 
-低年级学生通过游戏进行口语互动。  Lower Primary pupils interacting with their peers through games. (Photos were taken during Pre-Covid times.)
+低年级学生通过游戏进行口语互动。&nbsp; Lower Primary pupils interacting with their peers through games. 
 
 ![CL classroom activities](/images/CL%20classroom%20activities_2.png)
 
-一年级学生课堂学习活动     A glimpse into a Lower Primary Chinese lesson. (Photos were taken during Pre-Covid times.)
+一年级学生课堂学习活动&nbsp; &nbsp; &nbsp;A glimpse into a Lower Primary Chinese lesson.
 
 ![CL classroom activities](/images/CL%20classroom%20activities_3.jpg)
 
@@ -87,50 +88,50 @@ Traditional festivals form an important part of Chinese culture, the main festiv
 
 **1.2021年 第四届中小学课文朗诵比赛 (** **4th National Recital Competition)**
 
-**Ng Joy Ee (2 Integrity)** participated in the 4th National Recital Competition and won the Silver award.
+**Ng Joy Ee (2 Integrity)**&nbsp;participated in the 4th National Recital Competition and won the Silver award.
 
 二年级的**黄昕宇**同学代表学校参加了第四届中小学课文朗诵比赛，为校争光，赢得了银奖。 恭喜黄昕宇同学！
 
-**2\. 2020 – 第12届GoodTalk （地球村）国际青少年双语演讲比赛 (** **12th “Global Village” Children & Youths Bilingual Speech Competition)**
+**2\. 2020 – 第12届GoodTalk&nbsp;（地球村）国际青少年双语演讲比赛 (** **12th&nbsp;“Global Village”&nbsp;Children &amp; Youths Bilingual Speech Competition)**
 
-**Weng Linxu (2 Innovation)** represented the school in the 12th “Global Village” Children & Youths Bilingual Speech Competition” and won the Bronze award. Well Done, Linxu! 
+**Weng Linxu (2 Innovation)**&nbsp;represented the school in the 12th “Global Village” Children &amp; Youths Bilingual Speech Competition” and won the Bronze award. Well Done, Linxu!&nbsp;
 
-二年级的**翁林旭**同学代表我校参加”第12届GoodTalk （地球村）国际青少年双语演讲比赛“，赢得铜奖。林旭同学，再接再厉！
+二年级的**翁林旭**同学代表我校参加”第12届GoodTalk&nbsp;（地球村）国际青少年双语演讲比赛“，赢得铜奖。林旭同学，再接再厉！
 
-**3\. 2020 – Speak Mandarin Campaign Family Talent Competition** 
+**3\. 2020 – Speak Mandarin Campaign Family Talent Competition**&nbsp;
 
-**Hu Xuanming (2 Respect)** and her mother, Mdm Liu Kejing participated in the ‘Speak Mandarin Campaign Family Talent Competition 2020’. They did a skit based on the theme, ‘Our Singapore in 2030’ and submitted the video recording for competition. Their submission was awarded: **Category B – Finalist**. Congratulations to Xuanming and Mdm Liu!
+**Hu Xuanming (2 Respect)**&nbsp;and her mother, Mdm Liu Kejing participated in the ‘Speak Mandarin Campaign Family Talent Competition 2020’. They did a skit based on the theme, ‘Our Singapore in 2030’ and submitted the video recording for competition. Their submission was awarded:&nbsp;**Category B – Finalist**. Congratulations to Xuanming and Mdm Liu!
 
 二年级学生，**胡烜铭**和她母亲，刘可菁女士参加了“2020年讲华语运动亲子才艺比赛”。烜铭和妈妈一起表演了一出短剧，并把表演录像寄去参赛。她们的创作在的总决赛获得：“B组-决赛入围者”奖项。恭喜烜铭与刘女士！我们一起来欣赏她们的精彩演出吧！
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fdduMd_vTuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fdduMd_vTuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ---
 
 **4\. 2020** **第六届全国小学生绘本创作大赛**
 
-**2020 – 6th National Primary School “Picture Book Creation” Competition**
+**2020 – 6th&nbsp;National Primary School “Picture Book Creation” Competition**
 
 2020年，我校学生在第六届全国小学生绘本创作大赛中夺得两个奖项。五年级学生的参赛作品《云树之约》赢得佳作奖。
 
-Our Primary 5 students participated in the 6th National Primary School “Picture Book Creation” Competition and won the Merit award.
+Our Primary 5 students participated in the 6th&nbsp;National Primary School “Picture Book Creation” Competition and won the Merit award.
 
 ![6th National Primary School “Picture Book Creation” Competition](/images/6th%20National%20Primary%20School%20“Picture%20Book%20Creation”%20Competition.jpg)
 
 ###### Lower Primary Parent's Engagement Video (Chinese Language) 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ILJrC5z0-fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ILJrC5z0-fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 ---
 
 ![](/images/chinese_links.jpg)
 
 **List of Chinese learning resources**
 
-*   小学华文课外读物参考书目 (Recommended reading materials for P1- P6) [https](https://tinyurl.com/y92348xp)[://](https://tinyurl.com/y92348xp)[tinyurl.com/y92348xp](https://tinyurl.com/y92348xp)
+*   小学华文课外读物参考书目 (Recommended reading materials for P1- P6)&nbsp;[https](https://tinyurl.com/y92348xp)[://](https://tinyurl.com/y92348xp)[tinyurl.com/y92348xp](https://tinyurl.com/y92348xp)
 
-*   List of Approved Dictionaries for use in PSLE [https://](https://www.seab.gov.sg/home/examinations/approved-dictionaries)[www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
+*   List of Approved Dictionaries for use in PSLE&nbsp;[https://](https://www.seab.gov.sg/home/examinations/approved-dictionaries)[www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
 
-*   《知识网》线上学习平台 Ezhishi learning portal  [https://www.ezhishi.net](https://www.ezhishi.net/)
+*   《知识网》线上学习平台 Ezhishi learning portal &nbsp;[https://www.ezhishi.net](https://www.ezhishi.net/)
 
-*   国家图书馆线上平台：您可到以下平台为孩子借阅中文书籍 [https://libbyapp.com/search/nlb](https://libbyapp.com/search/nlb) [https://nlbsg.ebook.hyread.com.tw/index.jsp](https://nlbsg.ebook.hyread.com.tw/index.jsp)
+*   国家图书馆线上平台：您可到以下平台为孩子借阅中文书籍&nbsp;[https://libbyapp.com/search/nlb](https://libbyapp.com/search/nlb)&nbsp;[https://nlbsg.ebook.hyread.com.tw/index.jsp](https://nlbsg.ebook.hyread.com.tw/index.jsp)
 
 （Updated on 14 Jun 2021）
