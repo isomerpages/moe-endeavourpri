@@ -19,7 +19,7 @@ sections:
           url: /parents-hub/workshops-and-briefings/permalink/
         - title: EDP Open House
           description: ""
-          url: https://go.gov.sg/edpopenhouse
+          url: https://sites.google.com/view/edp-openhouse/
       background: /images/EDP_Homepage.gif
   - infopic:
       title: C.A.M.P.S
