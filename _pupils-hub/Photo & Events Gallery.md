@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://photos.app.goo.gl/JvV7BS1isZyNTpe57">► Racial Harmony Day   - 2024 Photos </a></li>	
 				<li><a href="https://photos.app.goo.gl/QpJSrg49DYo2y27r5">► Sports Day  - 2024 Photos </a></li>	
 				<li><a href="https://photos.app.goo.gl/sr6bdHHPsnv3GTo39">► Hari Raya Celebration  - 2024 Photos </a></li>	
 			<li><a href="https://photos.app.goo.gl/VfjeWD2kVfZDiWha7">► Rainbow Day 2 - International Friendship Day Photos </a></li>	
