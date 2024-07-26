@@ -5,7 +5,7 @@ variant: markdown
 ---
 **PRIVACY STATEMENT**
 
-																ENDEAVOUR PRIMARY SCHOOL PRIVACY STATEMENT
+**ENDEAVOUR PRIMARY SCHOOL PRIVACY STATEMENT **
 
 1.  This is the Endeavour Primary School website. Thank you for examining our privacy statement
 2.  If you are only browsing this website, we do not capture data that allows us to identify you individually.
