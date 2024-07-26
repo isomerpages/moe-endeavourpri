@@ -29,7 +29,7 @@ Thank you for visiting https://www.endeavourpri.moe.edu.sg/. By accessing and us
 
 **Right of Access**
 
-8\****. Endeavour Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
+8\. Endeavour Primary School reserves all rights to deny or restrict access to this Web Site to any particular person, or to block access from a particular external address to this Web Site, at any time, without ascribing any reasons whatsoever.
 
 **Disclaimer of Warranties and Liability**
 
