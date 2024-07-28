@@ -1,7 +1,12 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
+**PRIVACY STATEMENT**
+
+**ENDEAVOUR PRIMARY SCHOOL PRIVACY STATEMENT**
+
 1.  This is the Endeavour Primary School website. Thank you for examining our privacy statement
 2.  If you are only browsing this website, we do not capture data that allows us to identify you individually.
 3.  If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
