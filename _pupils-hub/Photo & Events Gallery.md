@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+				<li><a href="https://youtu.be/XlzQWnuJEF0">► Student Leader Investiture - 2024 </a></li>	
 			<li><a href="https://photos.app.goo.gl/zrz3Wo62i4JPMPme6">► Open House - 2024 Photos </a></li>	
 			<li><a href="https://photos.app.goo.gl/JvV7BS1isZyNTpe57">► Racial Harmony Day   - 2024 Photos </a></li>	
 				<li><a href="https://photos.app.goo.gl/QpJSrg49DYo2y27r5">► Sports Day  - 2024 Photos </a></li>	
