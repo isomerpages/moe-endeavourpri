@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://photos.app.goo.gl/uTHhc7h6TrnKxbN29">► Teachers' Day Concert - 2024 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/M43f6VEGMhEeHtEC6">► Games Day - 2024 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/gascZR1Rpjm4CU3F6">► National Day Celebration - 2024 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/ENqxed3d2HzcV9tP6">► Rainbow Day 2 - 2024 Photos</a></li>	
