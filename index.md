@@ -17,9 +17,6 @@ sections:
         - title: Parent's Briefing Resources
           description: ""
           url: /parents-hub/workshops-and-briefings/permalink/
-        - title: EDP Open House
-          description: ""
-          url: https://sites.google.com/view/edp-openhouse/
       background: /images/EDP_Homepage.gif
   - infopic:
       title: C.A.M.P.S
