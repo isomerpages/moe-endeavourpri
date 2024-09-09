@@ -7,7 +7,7 @@ variant: markdown
 <p style="font-size: 24px; color: black; font-weight: bold;">CCA Schedule for 2024</p>
 
 
-[Term 3 CCA Schedule](https://drive.google.com/file/d/1POHoGqeUngiHM1TVy5mVLHY4sjhp2v17/view?usp=drive_link)
+[Term 4 CCA Schedule](https://drive.google.com/file/d/1xO5gNJ-BTFWsjoYAJqeX4_8JEA6RcLMa/view?usp=drive_link)
 
 
 
