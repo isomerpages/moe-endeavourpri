@@ -12,8 +12,8 @@ description: ""
     </tr>
     <tr>
         <td style="border: 1px solid #ccc; padding: 8px;">Malay Noodles Stall</td>
-        <td style="border: 1px solid #ccc; padding: 8px;">17 Nov 2023</td>
-        <td style="border: 1px solid #ccc; padding: 8px;">To provide Malay noodle dishes</td>
+        <td style="border: 1px solid #ccc; padding: 8px;">29 Nov 2024</td>
+        <td style="border: 1px solid #ccc; padding: 8px;">To provide Malay rice dishes</td>
     </tr>
 </tbody></table>
 
