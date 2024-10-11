@@ -11,7 +11,7 @@ description: ""
         <th style="border: 1px solid #ccc; padding: 8px; background-color: #E8EEF8;">Requirements</th>
     </tr>
     <tr>
-        <td style="border: 1px solid #ccc; padding: 8px;">Malay Noodles Stall</td>
+        <td style="border: 1px solid #ccc; padding: 8px;">Malay Rice Stall</td>
         <td style="border: 1px solid #ccc; padding: 8px;">29 Nov 2024</td>
         <td style="border: 1px solid #ccc; padding: 8px;">To provide Malay rice dishes</td>
     </tr>
