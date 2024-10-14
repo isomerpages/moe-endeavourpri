@@ -24,7 +24,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">Student&nbsp;</a><strong><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">MIMs</a></strong> 
-<a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">Password Reset</a>
+<a href="https://form.gov.sg/670c913c595272bb07f01aba" rel="noopener noreferrer nofollow" target="_blank">Password Reset</a>
 </p>
 <hr>
 </li>
@@ -60,7 +60,17 @@ access Student iCON.</p>
 which students can use to log in.&nbsp;</p>
 </li>
 </ol>
-<table>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -260,5 +270,5 @@ full name and class.&nbsp;</p>
 <br>Mondays to Thursdays: 7.30 a.m.to 5.30 p.m.
 <br>Fridays: 7 a.m. to 5 p.m.
 <br>**Closed&nbsp;on Saturdays, Sundays and Public Holidays</p>
-<p>b) Alternatively, you could fill out the Student iCON&nbsp;<strong><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">Password Reset Form here</a></strong>
+<p>b) Alternatively, you could fill out the Student iCON&nbsp;<strong><a href="https://form.gov.sg/670c913c595272bb07f01aba" rel="noopener noreferrer nofollow" target="_blank">Password Reset Form here</a></strong>
 </p>
