@@ -23,7 +23,7 @@ variant: tiptap
 <hr>
 </li>
 <li>
-<p><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">Student&nbsp;</a><strong><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">MIMs</a></strong> 
+<p><a href="https://form.gov.sg/670c913c595272bb07f01aba" rel="noopener noreferrer nofollow" target="_blank">Student&nbsp;</a><strong><a href="https://form.gov.sg/670c913c595272bb07f01aba" rel="noopener noreferrer nofollow" target="_blank">MIMs</a></strong> 
 <a href="https://form.gov.sg/670c913c595272bb07f01aba" rel="noopener noreferrer nofollow" target="_blank">Password Reset</a>
 </p>
 <hr>
