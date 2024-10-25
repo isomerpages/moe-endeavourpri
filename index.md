@@ -13,7 +13,7 @@ sections:
           url: /for-staff/
         - title: MIMs Password Reset
           description: ""
-          url: https://form.gov.sg/622591f0b89fad0012ff253c
+          url: https://form.gov.sg/670c913c595272bb07f01aba
         - title: Parent's Briefing Resources
           description: ""
           url: /parents-hub/workshops-and-briefings/permalink/
