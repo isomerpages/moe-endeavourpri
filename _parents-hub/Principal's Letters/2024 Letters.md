@@ -14,7 +14,6 @@ third_nav_title: Principal's Letters
       </td>
 			<td style="width: 50%; border: 1px solid black;">  <a href="https://drive.google.com/file/d/1UrpOkzX7Ih9ArCutK2oaRbYHz6mdxeY6/view?usp=drive_link">P's letter to Parents - Oct 2024.pdf</a>
       </td>
-      
 		    </tr>
 		 <tr><td style="width: 50%; border: 1px solid black;">
         <a href="https://drive.google.com/file/d/1c4gYbuHfQjgI7yc8xEsgamB9usdN8YQn/view?usp=drive_link">P's letter to Parents - Sep 2024.pdf</a>
