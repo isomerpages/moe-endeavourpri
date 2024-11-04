@@ -10,10 +10,11 @@ third_nav_title: Principal's Letters
 <table style="width: 700px; font-size: 17px; border: 1px solid black; table-layout: fixed;">
   <tbody>
 		 <tr><td style="width: 50%; border: 1px solid black;">
-        <a href="https://drive.google.com/file/d/1UrpOkzX7Ih9ArCutK2oaRbYHz6mdxeY6/view?usp=drive_link">P's letter to Parents - Oct 2024.pdf</a>
+        <a href="https://drive.google.com/file/d/109dPePhwh5xqdd4IByjYaCfqXjG5Ely5/view?usp=sharing">P's letter to Parents - Nov 2024.pdf</a>
       </td>
-			<td style="width: 50%; border: 1px solid black;">
+			<td style="width: 50%; border: 1px solid black;">  <a href="https://drive.google.com/file/d/1UrpOkzX7Ih9ArCutK2oaRbYHz6mdxeY6/view?usp=drive_link">P's letter to Parents - Oct 2024.pdf</a>
       </td>
+      
 		    </tr>
 		 <tr><td style="width: 50%; border: 1px solid black;">
         <a href="https://drive.google.com/file/d/1c4gYbuHfQjgI7yc8xEsgamB9usdN8YQn/view?usp=drive_link">P's letter to Parents - Sep 2024.pdf</a>
