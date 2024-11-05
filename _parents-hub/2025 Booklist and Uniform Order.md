@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2><strong>Booklist</strong></h2>
 <p>Please click on the links below for the respective levels’ booklist for
-2024:</p>
+2025:</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -17,37 +17,37 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1JOHNaaLEIPjJzakCZIxGfnvIBiRlQGxP/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+<p><a href="https://drive.google.com/file/d/1YEdPuSWataUKMgFiNb2TLvc3h2Ze52wE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1VPSRLm0rsnRiJiuTIMTdtHHOYhP2kO1P/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
+<p><a href="https://drive.google.com/file/d/11ih2KuISL4MBFOmOTmf743cckJj5egxG/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1rwFqi1mDES9BDi7DCzS30i1fnSOhvoXA/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
+<p><a href="https://drive.google.com/file/d/1ixd-gficB2pGPM6Y8Iy8VXaM2Dxxj2xs/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/10wusTlBUzbaccxVHuz1I9MqrSWiNH3wX/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
+<p><a href="https://drive.google.com/file/d/1paCJRsX2-LtDQCO6Rd4FiDRdkPDzRSuN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/file/d/1y1HkG72as8nXMziFAcovLnEfLaLyHMdz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a></strong>
+<p><strong><a href="https://drive.google.com/file/d/1YTqQT4gR5pH2TPsgPNn66DJcprJjo9IJ/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 5</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/file/d/1_Qc8S09An2Gl8gfWjF2xty0DoS-8o3Wi/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Foundation</a></strong>
+<p><strong><a href="https://drive.google.com/file/d/1E4slCsP4Q5_E14L-o4urrEvGO-cX942o/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Foundation</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/file/d/104XCSQ2rhQbR8LRgzpxTnZwVWDlNPpSr/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a></strong>
+<p><strong><a href="https://drive.google.com/file/d/1m6LmTZlfstQukMq3HegNBQqNvd3LblwL/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://drive.google.com/file/d/1fwDm8ieWkoKwJqBKr53o5a4KbiQm9G7L/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a></strong>
+<p><strong><a href="https://drive.google.com/file/d/1iHbUTADvADp6SmAdhJH4d_o8UzJOE0aB/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Foundation</a></strong>
 </p>
 </td>
 </tr>
