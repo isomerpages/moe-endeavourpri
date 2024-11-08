@@ -77,13 +77,13 @@ variant: markdown
              <br>
              <a>
              </a>
-             <a href="https://docs.google.com/presentation/d/1QAZtlY7bFeXwZEIVpcgAr83TkUjulFTb/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-Parents-2023-dismissal-arrangement</a>
+             <a href="https://docs.google.com/presentation/d/1QAZtlY7bFeXwZEIVpcgAr83TkUjulFTb/edit?usp=sharing&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-Parents-2023-dismissal-arrangement</a>
              <br>
              <br>
-             <a href="https://docs.google.com/presentation/d/1VYD9PjfofhGR1B6nrfymOdy3QKLKr_gh/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">P1-Day1-Briefing\_SDT</a>
+             <a href="https://docs.google.com/presentation/d/1VYD9PjfofhGR1B6nrfymOdy3QKLKr_gh/edit?usp=sharing&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">P1-Day1-Briefing\_SDT</a>
              <br>
              <br>
-             <a href="https://docs.google.com/presentation/d/1cZF-SxAHxX5MSWzZZZpfRp-xO0KXt8qD/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Slides-for-P1-parents-on-3-Jan-2023</a>
+             <a href="https://docs.google.com/presentation/d/1cZF-SxAHxX5MSWzZZZpfRp-xO0KXt8qD/edit?usp=sharing&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Slides-for-P1-parents-on-3-Jan-2023</a>
              <br>
              </b>
           </td>
