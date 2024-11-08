@@ -52,7 +52,7 @@ variant: markdown
              <a href="https://drive.google.com/file/d/11tzEOm8_HQ30-kqQPAxTMoAcI81HovEr/view?usp=sharing">P1-Parents-Briefing-Math-2023</a>
              <br>
              <br>
-             <a href="https://drive.google.com/file/d/1NY54TTFaPfiFTKs5Gf1kSU2VXv0ZjRPU/view?usp=share\_link">P1-Parents-Networking-Session\_AYH\_Briefing\_2023</a>
+             <a href="https://drive.google.com/file/d/1NY54TTFaPfiFTKs5Gf1kSU2VXv0ZjRPU/view?usp=sharing">P1-Parents-Networking-Session\_AYH\_Briefing\_2023</a>
              <br>
              <br>
              <a href="https://drive.google.com/file/d/1kxfbBZafbAK7lrFSQrz-HleiDlpwt77t/view?usp=sharing">P2-Parents-Networking Session\_AYH\_Briefing\_2023\_updated</a>
