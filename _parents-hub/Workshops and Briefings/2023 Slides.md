@@ -49,7 +49,7 @@ variant: markdown
              <a href="https://drive.google.com/file/d/1Jx8QiLOMQ3jujalf4i5VoMCD_VoOKxO0/view?usp=share\_link">LOWER-PRIMARY-PARENT-NETWORKING-BRIEFING-MTL-24-FEB-2023</a>
              <br>
              <br>
-             <a href="https://drive.google.com/file/d/11tzEOm8_HQ30-kqQPAxTMoAcI81HovEr/view?usp=share\_link">P1-Parents-Briefing-Math-2023</a>
+             <a href="https://drive.google.com/file/d/11tzEOm8_HQ30-kqQPAxTMoAcI81HovEr/view?usp=sharing">P1-Parents-Briefing-Math-2023</a>
              <br>
              <br>
              <a href="https://drive.google.com/file/d/1NY54TTFaPfiFTKs5Gf1kSU2VXv0ZjRPU/view?usp=share\_link">P1-Parents-Networking-Session\_AYH\_Briefing\_2023</a>
