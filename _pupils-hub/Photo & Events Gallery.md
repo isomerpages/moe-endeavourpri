@@ -47,6 +47,9 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://photos.app.goo.gl/oKkcUEfAe24o1BxG6">► P1 Orientation - 2024 Photos</a></li>	
+			<li><a href="https://photos.app.goo.gl/e7r8vhNxrD6PVvtVA">► P6 Graduation - 2024 Photos</a></li>	
+			<li><a href="https://photos.app.goo.gl/JR12nYcShgbRtszF6">► Deepavali Celebration - 2024 Photos</a></li>	
 			<li><a href="https://www.youtube.com/playlist?list=PL7eIsoEkqcCDauG2q3L3fwoJmC58-_HmF">► Rainbow Day 3</a></li>	     <li><a href="https://photos.app.goo.gl/rEeGDcbZvA99FWV7A">► Rainbow Day 3 - 2024 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/sobfpdCC5nUNZUCv9">► Children's Day Celebration - 2024 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/uTHhc7h6TrnKxbN29">► Teachers' Day Concert - 2024 Photos</a></li>	
