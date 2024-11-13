@@ -34,7 +34,7 @@ variant: markdown
              <a href="https://drive.google.com/file/d/1QOfq6_prghJ6YiE2bxhU8ihlk7-2FVLP/view?usp=sharing">Parents-Networking-Session-P3-Feb-2023</a>
              <br>
              <br>
-             <a href="https://drive.google.com/file/d/1LR3JfrIRBk0awSjN1bidEdg6Jk6Vz-ll/view?usp=share\_link">Parents-Networking-Session-P4-Feb-2023</a>
+             <a href="https://drive.google.com/file/d/1LR3JfrIRBk0awSjN1bidEdg6Jk6Vz-ll/view?usp=sharing">Parents-Networking-Session-P4-Feb-2023</a>
              <br>
              <br>
           </td>
@@ -46,19 +46,19 @@ variant: markdown
              <a href="https://drive.google.com/file/d/1gA32gIsj9LNkAHsr3kdspRqWb8N3CuK2/view?usp=share\_link">2023-P1-English-Language-Briefing-EL <br>
              <br>
              </a>
-             <a href="https://drive.google.com/file/d/1Jx8QiLOMQ3jujalf4i5VoMCD_VoOKxO0/view?usp=share\_link">LOWER-PRIMARY-PARENT-NETWORKING-BRIEFING-MTL-24-FEB-2023</a>
+             <a href="https://drive.google.com/file/d/1Jx8QiLOMQ3jujalf4i5VoMCD_VoOKxO0/view?usp=sharing">LOWER-PRIMARY-PARENT-NETWORKING-BRIEFING-MTL-24-FEB-2023</a>
              <br>
              <br>
-             <a href="https://drive.google.com/file/d/11tzEOm8_HQ30-kqQPAxTMoAcI81HovEr/view?usp=share\_link">P1-Parents-Briefing-Math-2023</a>
+             <a href="https://drive.google.com/file/d/11tzEOm8_HQ30-kqQPAxTMoAcI81HovEr/view?usp=sharing">P1-Parents-Briefing-Math-2023</a>
              <br>
              <br>
-             <a href="https://drive.google.com/file/d/1NY54TTFaPfiFTKs5Gf1kSU2VXv0ZjRPU/view?usp=share\_link">P1-Parents-Networking-Session\_AYH\_Briefing\_2023</a>
+             <a href="https://drive.google.com/file/d/1NY54TTFaPfiFTKs5Gf1kSU2VXv0ZjRPU/view?usp=sharing">P1-Parents-Networking-Session\_AYH\_Briefing\_2023</a>
              <br>
              <br>
-             <a href="https://drive.google.com/file/d/1kxfbBZafbAK7lrFSQrz-HleiDlpwt77t/view?usp=share\_link">P2-Parents-Networking Session\_AYH\_Briefing\_2023\_updated</a>
+             <a href="https://drive.google.com/file/d/1kxfbBZafbAK7lrFSQrz-HleiDlpwt77t/view?usp=sharing">P2-Parents-Networking Session\_AYH\_Briefing\_2023\_updated</a>
              <br>
              <br>
-             <a href="https://drive.google.com/file/d/1wcCSXbIKBjsTIVekE1aVypwbNLbqAWh7/view?usp=share\_link">Parents-Networking-Session-P1-by-P-2023</a>
+             <a href="https://drive.google.com/file/d/1wcCSXbIKBjsTIVekE1aVypwbNLbqAWh7/view?usp=sharing">Parents-Networking-Session-P1-by-P-2023</a>
              <br>
              <br>
              <a href="https://drive.google.com/file/d/1iYsxL_lOoLvlfr7Qq7aV0fOHHq8DBqds/view?usp=sharing">Parents-Networking-Session-P2-by-P-2023</a>
@@ -77,13 +77,13 @@ variant: markdown
              <br>
              <a>
              </a>
-             <a href="https://docs.google.com/presentation/d/1QAZtlY7bFeXwZEIVpcgAr83TkUjulFTb/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-Parents-2023-dismissal-arrangement</a>
+             <a href="https://docs.google.com/presentation/d/1QAZtlY7bFeXwZEIVpcgAr83TkUjulFTb/edit?usp=sharing&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Briefing-to-P1-Parents-2023-dismissal-arrangement</a>
              <br>
              <br>
-             <a href="https://docs.google.com/presentation/d/1VYD9PjfofhGR1B6nrfymOdy3QKLKr_gh/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">P1-Day1-Briefing\_SDT</a>
+             <a href="https://docs.google.com/presentation/d/1VYD9PjfofhGR1B6nrfymOdy3QKLKr_gh/edit?usp=sharing&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">P1-Day1-Briefing\_SDT</a>
              <br>
              <br>
-             <a href="https://docs.google.com/presentation/d/1cZF-SxAHxX5MSWzZZZpfRp-xO0KXt8qD/edit?usp=share\_link&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Slides-for-P1-parents-on-3-Jan-2023</a>
+             <a href="https://docs.google.com/presentation/d/1cZF-SxAHxX5MSWzZZZpfRp-xO0KXt8qD/edit?usp=sharing&amp;ouid=109705388736542203935&amp;rtpof=true&amp;sd=true">Slides-for-P1-parents-on-3-Jan-2023</a>
              <br>
              </b>
           </td>
