@@ -9,15 +9,21 @@ third_nav_title: Workshops and Briefings
 <tbody>
 	 <tr><td style="border: 1px solid black; width: 350px;">
              <b>
-             <strong style="color: black; font-size: 18;"> Parents’ briefing slides on 3rd&nbsp;May 2024</strong>
+             <strong style="color: black; font-size: 18;"> P1 Orientation 2024 13 November</strong>
              <br>
                          <br>
-            <a href="https://drive.google.com/file/d/128K1Zj3uFMTR7-Wg3uKCBuKP0dQkMwE9/view?usp=drive_link">PSLE 2024 briefing for P5 &amp; P6 Parents (3 May)</a>
+            <a href="https://drive.google.com/file/d/1xMaNvxac2_UC4G4Q1dgQ_Ym6TWl-eASe/view?usp=drive_link">P1 Orientation - Admin Briefing to Parents</a>
+             <br><br> 
+							 <a href="https://drive.google.com/file/d/1OZJcFH5OXqo1c1m9D9wl7Buacqvia_rz/view?usp=drive_link">P1 Orientation - Principal's Address</a>
+             <br>
+							 <br> <a href="https://drive.google.com/file/d/14jNJBzH8I0eTkDHs1vZo3hUZnfsSIbxK/view?usp=drive_link">P1 Orientation - Briefing by Year Head</a>
+             <br><br>
+							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">P1 Orientation - Briefing by School Counsellor</a>
              <br>
         </b></td> <td style="border:1px solid black; width:350px;">
-<strong style="color:black;font-size:18;"></strong> 
+<strong style="color:black;font-size:18;">Parents’ briefing slides on 3rd&nbsp;May 2024</strong> 
 <br><br>
-	
+	 <a href="https://drive.google.com/file/d/128K1Zj3uFMTR7-Wg3uKCBuKP0dQkMwE9/view?usp=drive_link">PSLE 2024 briefing for P5 &amp; P6 Parents (3 May)</a>
          
  </td></tr><tr><td style="border: 1px solid black; width: 350px;">
              <b>
