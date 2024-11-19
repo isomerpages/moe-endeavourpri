@@ -2,9 +2,9 @@ collections:
   parents-hub:
     output: true
     order:
-      - MOE’s Engagement Charter.md
       - School Calendar.md
       - MOE’s Guidelines for School Partnership.md
+      - MOE’s Engagement Charter.md
       - EDP Wellness.md
       - Parents Gateway/.keep
       - Parents Gateway/Guide to booking for PTM via Parent’s Gateway.md
