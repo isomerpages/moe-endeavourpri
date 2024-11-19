@@ -4,4 +4,4 @@ permalink: /moe-s-engagement-charter/
 variant: markdown
 description: ""
 ---
-###### Please click  [here](https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf) to view the Guidelines for School-Home Partnership.
+###### Please click  [here](https://drive.google.com/file/d/1UZ0hlO-FNAa0xY7WVSo-TSlB8YY4zS_H/view?usp=drive_link) to view the Engagement Charter.
