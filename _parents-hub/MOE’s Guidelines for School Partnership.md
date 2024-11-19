@@ -4,4 +4,4 @@ permalink: /moe-s-guidelines-for-school-partnership/
 variant: markdown
 description: ""
 ---
-###### Please click  [here](https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf) to view the Guidelines for School-Home Partnership.
+###### Please click  [here](https://drive.google.com/file/d/1OGDYPkepwBGMTf_nUS8wQ6NcEtWnn010/view?usp=sharing) to view the Guidelines for School-Home Partnership.
