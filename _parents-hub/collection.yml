@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - MOE’s Guidelines for School Partnership.md
       - School Calendar.md
       - EDP Wellness.md
       - Parents Gateway/.keep
