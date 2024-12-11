@@ -332,7 +332,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ramadhan s/o Isaahak</strong>
 <br>
-<br><a href="ramadhan_isaahak_piperdy@moe.edu.sg" rel="noopener nofollow" target="_blank">ramadhan_isaahak_piperdy@moe.edu.sg </a>
+<br><a href="ramadhan_isaahak_piperdy@moe.edu.sg" rel="noopener nofollow" target="_blank">ramadhan_isaahak_piperdy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -417,7 +417,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Raveendran Pavithra</strong>
 <br>
-<br><a href="mailto:raveendran_pavithra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raveendran_pavithra@moe.edu.sg</a>
+<br><a href="ramadhan_isaahak_piperdy@moe.edu.sg" rel="noopener nofollow" target="_blank">ramadhan_isaahak_piperdy@moe.edu.sg </a>
 </p>
 </td>
 </tr>
