@@ -332,7 +332,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ramadhan s/o Isaahak</strong>
 <br>
-<br>piperdyramadhan_isaahak_piperdy@moe.edu.sg</p>
+<br><a href="piperdyramadhan_isaahak_piperdy@moe.edu.sg" rel="noopener nofollow" target="_blank">piperdyramadhan_isaahak_piperdy@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
