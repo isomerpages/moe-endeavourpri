@@ -88,13 +88,13 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadia Bte Awaluddin
+<p>Mdm Shahana Mol
 <br>
-<br><a href="mailto:nadia_awalluddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_awalluddin@moe.edu.sg</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Brintha
+<p>Miss Tian Zhe
 <br>
 <br><a href="mailto:tian_zhe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tian_zhe@moe.edu.sg</a>
 </p>
@@ -106,9 +106,9 @@ variant: tiptap
 <br>Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sophia Chia
+<p>Mdm Jessie Lee Peng Peng
 <br>
-<br><a href="mailto:chia_mui_choo_sophia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_mui_choo_sophia@moe.edu.sg</a>
+<br><a href="mailto:lee_peng_peng_jessie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_peng_peng_jessie@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
