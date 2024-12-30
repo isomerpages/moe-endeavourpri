@@ -32,9 +32,8 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Thamayanthi d/o Chillayah
+<p>Mdm Jolene Tan Yi-Lin
 <br>
-<br><a href="mailto:thamayanthi_chillayah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thamayanthi_chillayah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,9 +73,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Pauline Teo
+<p>Mdm Ian Han Cheng
 <br>
-<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>
