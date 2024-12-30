@@ -68,15 +68,15 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Reena Shukla d/o Prempal Shukal
+<p>Mdm Loo Lai Yin
 <br>
-<br><a href="mailto:reena_shukla_prempal_shukal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">reena_shukla_prempal_shukal@moe.edu.sg</a>
+<br><a href="mailto:loo_lai_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_lai_yin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Azemi Bin Manap
-<br>
-<br><a href="mailto:azemi_manap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azemi_manap@moe.edu.sg</a>
+<p>Mr Mohd Sani Bin Mohd Hafid</p>
+<p></p>
+<p><a href="mailto:mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_sani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -86,9 +86,9 @@ variant: tiptap
 <br>Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Raihanah Hayashi
+<p>Mdm Norashikin Bte Mohd Noor
 <br>
-<br><a href="mailto:raihanah_abdul_subhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raihanah_abdul_subhan@moe.edu.sg</a>
+<br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohd_noor_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
