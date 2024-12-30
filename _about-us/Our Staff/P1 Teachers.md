@@ -124,15 +124,15 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Shao Lan
-<br>
-<br><a href="mailto:lim_shao_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shao_lan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Thamayanthi d/o Chillayah
 <br>
 <br><a href="mailto:thamayanthi_chillayah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thamayanthi_chillayah@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hafiza Bte Hassan
+<br>
+<br><a href="mailto:hafiza_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hafiza_hassan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
