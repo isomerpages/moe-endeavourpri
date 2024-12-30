@@ -73,9 +73,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ian Han Cheng
+<p>Mdm Ian Hang Cheng
 <br>
-<br>
+<br><a href="mailto:ian_hang_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_hang_cheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
