@@ -38,10 +38,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Patimah Bte Abd Razak
-<br>
-<br><a href="mailto:siti_patimah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_patimah@moe.edu.sg</a>
-</p>
+<p>Mr Lin Chee Keong</p>
 </td>
 </tr>
 <tr>
@@ -92,12 +89,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Boss Rejini
-<br>
-</p>
-<p>
-<br><a href="mailto:boss_rejini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">boss_rejini@moe.edu.sg</a>
-</p>
+<p>Miss Juliana Woo Xueyi</p>
 </td>
 </tr>
 <tr>
@@ -106,9 +98,9 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ali Bin Abd Rahman
+<p>Mrs Jayapriya d/o Kanagasundram
 <br>
-<br><a href="mailto:mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ali@moe.edu.sg</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
