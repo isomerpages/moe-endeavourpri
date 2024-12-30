@@ -96,7 +96,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Miss Brintha
 <br>
-<br><a href="mailto:brintha_do_sivabalan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brintha_do_sivabalan@moe.edu.sg</a>
+<br><a href="mailto:tian_zhe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tian_zhe@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Pang Wan Ching
 <br>
-<br><a href="mailto:pang_wan_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_wan_ching@moe.edu.sg</a> 
+<br><a href="mailto:pang_wan_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_wan_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
