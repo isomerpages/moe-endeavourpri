@@ -32,9 +32,9 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Ridzal Bin Md Ajis
+<p>Mdm Jennifer Poh Siew Hua
 <br>
-<br><a href="mailto:mohammad_ridzal_mohd_ajis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_ridzal_mohd_ajis@moe.edu.sg</a>
+<br><a href="mailto:poh_siew_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_siew_hua@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,15 +50,15 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Amirul Hakim Bin Zailanee
+<p>Ms Rebecca Francis
 <br>
-<br><a href="mailto:amirul_hakim_zailanee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amirul_hakim_zailanee@moe.edu.sg</a>
+<br><a href="mailto:rebecca_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_francis@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Cai Ying
+<p>Miss Dong Jing Jing
 <br>
-<br><a href="mailto:loh_cai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_cai_ying@moe.edu.sg</a>
+<br><a href="mailto:dong_jingjing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dong_jingjing_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -112,10 +112,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Shiya
+<p>Mr Ramadhan s/o Isahaak Piperdy
 <br>
-</p>
-<p><a href="mailto:yang_shiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_shiya@moe.edu.sg</a>
+<br><a href="mailto:ramadhan_isaahak_piperdy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramadhan_isaahak_piperdy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -125,16 +124,13 @@ variant: tiptap
 <br>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Selwyn Lim
-<br>
-</p>
-<p><a href="mailto:selwyn_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selwyn_lim@moe.edu.sg</a>
+<p>Mr Suhardi Bin Marino</p>
+<p><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhardi_marino@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Peiyu
-<br>
-<br><a href="mailto:chen_peiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_peiyu@moe.edu.sg</a>
+<p>Ms Farah Adibah Bte Johari</p>
+<p><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
