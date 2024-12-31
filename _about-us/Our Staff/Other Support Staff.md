@@ -25,7 +25,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Siti Hajar Binti Saharon</p>
+<p>Ms Nuraini Binte Mohammed Kannu Ashrafshaw</p>
 </td>
 </tr>
 <tr>
