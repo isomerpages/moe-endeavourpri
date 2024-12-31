@@ -64,6 +64,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Celeste Loh Shi Min</strong>
 </p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
