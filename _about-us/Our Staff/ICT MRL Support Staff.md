@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -45,7 +49,7 @@ variant: tiptap
 <p>ICT Desktop Engineer 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Sufi</p>
+<p>Mr Muhammad Sufi Syahmi</p>
 </td>
 </tr>
 <tr>
