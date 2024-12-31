@@ -111,9 +111,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Namdi Bin Salleh
+<p>Mdm Nazreen Bte Mohd Noor
 <br>
-<br><a href="mailto:namdi_b_salleh@edu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">namdi_b_salleh@edu.edu.sg</a>
+<br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazreen_mohamed_noor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
