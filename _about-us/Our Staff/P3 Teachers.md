@@ -98,9 +98,9 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jayapriya d/o Kanagasundram
-<br>
-<br>
+<p>Mrs Jayapriya Kanagasundram</p>
+<p></p>
+<p><a href="mailto:jayapriya_kanagasundram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayapriya_kanagasundram@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
