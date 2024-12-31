@@ -287,19 +287,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Chinese Language) </strong>
-<br><strong><em>Covering HOD MT</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Peh Chieh Yin</strong>
-<br>
-<br><a href="mailto:peh_chieh_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_chieh_yin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Subject Head (Information and Communication Technology/ School Cockpit Co-ordinator)</strong>
 </p>
 </td>
@@ -360,18 +347,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head (English Language)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Goh Wong Wei Ling</strong>
-<br>
-<br><a href="mailto:wong_wei_ling_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ling_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Level Head (Science)</strong>
 </p>
 </td>
@@ -384,14 +359,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head (Mathematics) </strong>
-<br><strong><em>Internal</em></strong>
+<p><strong>Level Teacher (Mathematics) </strong>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Kai Ling</strong>
+<p><strong>Mr Jahangeer B Mohamed Jahabar</strong>
 <br>
-<br><a href="mailto:teo_kai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kai_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
