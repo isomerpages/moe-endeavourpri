@@ -287,7 +287,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Information and Communication Technology/ School Cockpit Co-ordinator)</strong>
+<p><strong>Subject Head (Information and Communication Technology [Internal HOD ICT])</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,7 +311,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Character and Citizenship Education [CME]/ Values in Action [VIA])</strong>
+<p><strong>Subject Head (Values in Action [VIA])</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
