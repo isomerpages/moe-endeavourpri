@@ -56,6 +56,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Celeste Loh Shi Min</strong>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -99,13 +109,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD (Co-curricular Activities [CCA]/ Physical Education [PE]/ Discipline)</strong>
+<p><strong>HOD (Physical Education [PE]/ Discipline &amp; Student Leadership)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Yaidi Bin Mohamad</strong>
 <br>
-<br><a href="mailto:yaidi_b_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"> yaidi_b_mohamad@moe.edu.sg</a>
+<br><a href="mailto:yaidi_b_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yaidi_b_mohamad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -151,33 +161,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Yian Loo</strong>
+<p><strong>Ms Peh Chieh Yin</strong>
 <br>
-<br><a href="mailto:tan_yian_loo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yian_loo@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD (Aesthetics)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Gan Ai Lee</strong>
-<br>
-<br><a href="mailto:gan_ai_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_ai_lee@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>HOD (Information and Communication Technology)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Zhuo Weiwen</strong>
-<br>
-<br><a href="mailto:zhuo_weiwen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_weiwen@moe.edu.sg</a>
+<br><a href="mailto:peh_chieh_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>peh_chieh_yin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -224,7 +210,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Pri 1 and 2)</strong>
+<p><strong>Year Head (Pri 1 and 2)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
