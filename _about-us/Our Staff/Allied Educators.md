@@ -3,11 +3,67 @@ title: Allied Educators
 permalink: /allied-educators/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-|   |               |
-|-----------------------------------------|----------------------------------------------------------------------|
-| <strong style="color: blue;">AED (Learning &<br>Behavioural Support)</strong>  | Mr Muhammad Bin Dahlan<br><br><a href="mailto:muhammad_dahlan@moe.edu.sg">muhammad_dahlan@moe.edu.sg</a>             |
-| <strong style="color: blue;">AED (Learning &<br>Behavioural Support)</strong> | Mdm Siti Nadia Bte Zainol<br><br><a href="mailto:siti_nadia_zainol_abidin@moe.edu.sg">siti_nadia_zainol_abidin@moe.edu.sg</a> |
-| <strong style="color: blue;">AED (Counselling)  </strong>                     | Miss Lim Hui Xuan Clara<br><br><a href="mailto:lim_hui_xuan_clara@moe.edu.sg">lim_hui_xuan_clara@moe.edu.sg</a>         |
-
-
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AED (Learning &amp;<br>Behavioural Support)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Bin Dahlan
+<br>
+<br><a href="mailto:muhammad_dahlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_dahlan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AED (Learning &amp;<br>Behavioural Support)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nadia Bte Zainol
+<br>
+<br><a href="mailto:siti_nadia_zainol_abidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nadia_zainol_abidin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AED (Learning &amp;<br>Behavioural Support)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Harith 'Ifwat Bin Zulkefli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AED (Counselling)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Lim Hui Xuan Clara
+<br>
+<br><a href="mailto:lim_hui_xuan_clara@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_xuan_clara@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
