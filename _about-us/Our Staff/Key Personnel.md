@@ -361,7 +361,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Teacher (Mathematics) </strong>
+<p><strong>Lead Teacher (Mathematics) </strong>
 <br>
 </p>
 </td>
