@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://photos.app.goo.gl/uGUnsrXTHg72Qnut6">► P1 First Day in School - 2025 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/oKkcUEfAe24o1BxG6">► P1 Orientation - 2024 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/e7r8vhNxrD6PVvtVA">► P6 Graduation - 2024 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/JR12nYcShgbRtszF6">► Deepavali Celebration - 2024 Photos</a></li>	
