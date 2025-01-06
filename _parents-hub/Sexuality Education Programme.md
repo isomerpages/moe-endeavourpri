@@ -324,17 +324,13 @@ and learn to behave maturely towards each other.</p>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 </li>
-<li>
 <p></p>
-</li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. Parents may request the opt out
 form from their child’s form teacher.</p>
 </li>
-<li>
 <p></p>
-</li>
 <li>
 <p>Parents can contact the school through email or phone: 6482 4650 / 6482
 4835 for discussion or to seek clarification about the school’s Sexuality
