@@ -22,7 +22,7 @@ variant: markdown
     </li>
 </ol>
 <hr>
-<h3><strong>Overview of Endeavour Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2024</strong></h3>
+<h3><strong>Overview of Endeavour Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2025</strong></h3>
 <ol start="4">
     <li>
         <p>Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p><p></p></li><li>The subjects that incorporate topics on sexuality include:
@@ -37,7 +37,7 @@ variant: markdown
     </li>
 </ol>
 <hr>
-<h3>At Endeavour Primary School, the following <strong>Sexuality</strong> Education lessons will be taught in&nbsp;2024:</h3>
+<h3>At Endeavour Primary School, the following <strong>Sexuality</strong> Education lessons will be taught in&nbsp;2025:</h3>
 <table>
     <tbody>
         <tr>
@@ -84,7 +84,7 @@ variant: markdown
                 <p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</p><p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p>
             </td>
             <td style="border:1px solid black;" rowspan="1" colspan="1">
-                <p>Term 1 Week 9</p>
+                <p>Term 1 Week 2</p>
             </td>
         </tr>
         <tr>
@@ -98,7 +98,7 @@ variant: markdown
                 <p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>.</p><p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p>
             </td>
             <td style="border:1px solid black;" rowspan="1" colspan="1">
-                <p>Term 2 Week 3
+                <p>Term 2 Week 5
                     <br>
                 </p>
             </td>
@@ -191,7 +191,7 @@ variant: markdown
                 <p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p>
             </td>
             <td style="border:1px solid black;" rowspan="1" colspan="1">
-                <p>Term 1 Week 9
+                <p>Term 1 Week 2
                     <br>
                 </p>
             </td>
@@ -207,7 +207,7 @@ variant: markdown
                 <p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p>
             </td>
             <td style="border:1px solid black;" rowspan="1" colspan="1">
-                <p>Term 2 Week 3
+                <p>Term 2 Week 5
                     <br>
                     <br>
                 </p>
