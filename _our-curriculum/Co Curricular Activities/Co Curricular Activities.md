@@ -64,7 +64,7 @@ CCA Experience is about providing opportunities for Primary 3 students to have a
 Information for parents:
 
 
-[Term 4 CCA Schedule](https://drive.google.com/file/d/1xO5gNJ-BTFWsjoYAJqeX4_8JEA6RcLMa/view?usp=drive_link)
+[Term 1 CCA Schedule](https://drive.google.com/file/d/11zBRPr49NVwFnp9hygTYh32xB0opwEyi/view?usp=sharing)
 
 
 
