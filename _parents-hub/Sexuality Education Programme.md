@@ -129,6 +129,15 @@ own responses when they encounter pornography by applying the strategy <strong>â
 <br><p>Term 2 Week 5
 <br>
 </p></td></tr>	
+<tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td colspan="1><p>Growing Years</td><td style=" valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;"><p>Keeping Myself Safe (60 min)</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;"><p>In this lesson, students will learn about sexual abuse, how it can happen
+during online and offline interactions and the impact of such abuse on
+victims. They also learn how to take precautionary measures to be safe
+and how to seek help for themselves and their friends.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;">TIME PERIOD 
+<br><p>Term 3 Week 3
+<br>
+</p></td></tr>
 </tbody></table>
 	
 <table style="minWidth: 100px">
@@ -223,11 +232,6 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
