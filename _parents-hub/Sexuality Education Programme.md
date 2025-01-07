@@ -132,97 +132,6 @@ and how to seek help for themselves and their friends.</p>
 </p></td></tr>
 </tbody></table>
 	
-<table style="minWidth: 100px">
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>CCE(FTGP) THEME</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>LESSONS TITLE / DURATION</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>LESSON OVERVIEW</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong> 
-<br><strong>(e.g. Term 1 Week 2)</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>Growing Years
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Changes in Me (60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students identify the emotions and stress
-caused by physical changes during puberty. Students will learn to describe
-the healthy ways to manage their negative feelings during this time. They
-will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Did You Know? (60 min)</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 5
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Keeping Myself Safe (60 min)</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In this lesson, students will learn about sexual abuse, how it can happen
-during online and offline interactions and the impact of such abuse on
-victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
-</p>
-<p>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 3 Week 3
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <table style="minWidth: 75px">
 <tbody>
 <tr>
@@ -236,79 +145,26 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <h3>Primary 6</h3>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>CCE(FTGP) THEME</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>LESSONS TITLE / DURATION</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>LESSON OVERVIEW</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong> 
-<br><strong>(e.g. Term 1 Week 2)</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Growing Years
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Are We More than Friends?Lesson 1 (60 min)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In this lesson, students will learn to distinguish between the characteristics
+
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; min-width: 600px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;"><strong>CCE(FTGP) THEME</strong></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><strong>LESSONS TITLE / DURATION</strong></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;"><strong>LESSON OVERVIEW</strong></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><strong>TIME PERIOD</strong> 
+<br><strong>(e.g. Term 1 Week 2)</strong></td></tr>
+
+<tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td rowspan="3" colspan="1" valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;"><p>Growing Years</p></td><td rowspan="1" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;colspan="><p>Are We More than Friends?Lesson 1 (60 min)</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;"><p>In this lesson, students will learn to distinguish between the characteristics
 of love and infatuation, and identify the strong emotions that may arise
 from experiencing the feelings of infatuation. They will recognise that
 experiencing feelings of infatuation is part of growing up and becoming
 infatuated with someone does not mean that they should be involved in a
 romantic relationship. Instead, they should focus on building strong and
-healthy friendships with their circles of friends.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 1 Week 2
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Are We More than Friends? Lesson 2 (60 min)
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>In this lesson, students will learn healthy ways to manage the emotions
+healthy friendships with their circles of friends.</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><p>Term 1 Week 2
+</p></td></tr>	
+<tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td colspan="1><p>Growing Years</td><td style=" valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;"><p>Are We More than Friends? Lesson 2 (60 min</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;"><p>In this lesson, students will learn healthy ways to manage the emotions
 arising from infatuation and recognise the importance of respecting the
 boundaries of any relationship. They will also recognise the negative impact
 of teasing their peers who may be experiencing the feelings of infatuation
-and learn to behave maturely towards each other.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2 Week 5
+and learn to behave maturely towards each other.</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><p>Term 2 Week 5
 <br>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+</p></td></tr>	
+</tbody></table>
 <h3><strong>Information for Parents</strong></h3>
 <ol start="8">
 <li>
