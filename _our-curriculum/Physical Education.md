@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /departments/ccas-pe-dept/
 description: ""
+variant: markdown
 ---
 ![](/images/cca_vision.jpg)
 <p style="font-size: 26px; color: blue; font-weight: bold;">Vision</p>
@@ -24,22 +25,19 @@ Teachers adopt Experiential Learning pedagogy in the teaching of PE. Teachers al
 
 Stuednts’ physical abilities are further developed through play in modified games settings. The Games Concept Approach (GCA) pedagogy is used to teach performance skills and tactics in modified games. As students play and experience authentic problem-solving situations, they get to be fully engaged in physical, cognitive and social challenges that promote their holistic learning.
 
-##### **_Goals of Physical Education_** 
+##### **_Goals of Physical Education_**&nbsp;
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 600px; height: 241px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 1</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Acquire a range of movement skills to participate in a variety of physical activities.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 2</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Understand and apply movement concepts, principles and strategies in a range of physical activities.</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 3</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Demonstrate safe practices during physical and daily activities with respect to themselves, others and the environment.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 4</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Display positive personal and social behaviour across different experiences.</td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 5</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Acquire and maintain health-enhancing fitness through regular participation in physical activities.</td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;">Goal 6</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;">Enjoy and value the benefits of living a physically active and healthy life.</td></tr></tbody></table>
 
 ##### _**Sports Day**_
 
-In EDP, we have two separate Sports Days to provide greater opportunity for more students to participate actively in the various sporting events.  The events and games are also customized to the meet to the different abilities and needs of the Lower Primary and Upper Primary students.
+In EDP, we have two separate Sports Days to provide greater opportunity for more students to participate actively in the various sporting events.&nbsp; The events and games are also customized to the meet to the different abilities and needs of the Lower Primary and Upper Primary students.
 
-<img src="/images/Cloud-2.jpeg"  
-style="width:70%">
+<img src="/images/Cloud-2.jpeg" style="width:70%">
 
-<img src="/images/Miguel-22.jpeg"  
-style="width:70%">
+<img src="/images/Miguel-22.jpeg" style="width:70%">
 
-<img src="/images/Carousel_4.jpeg"  
-style="width:70%">
+<img src="/images/Carousel_4.jpeg" style="width:70%">
 
 
 ##### _**SwimSafer 2.0 Programme**_
@@ -58,14 +56,11 @@ Upper primary years are important years to increase the confidence and self-beli
 
 <table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 600px; height: 241px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 116px; text-align: left;">Objectives of Programme</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 579px; text-align: left;">The camp programme must achieve the following objectives:<p style="box-sizing: inherit; font-size: 1em;"></p><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">To build teacher- student relationship (TSR).</li><li style="box-sizing: inherit;">To foster teamwork within the classes and amongst the students.</li><li style="box-sizing: inherit;">To expose the students in challenging but controlled situations.</li></ol></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 116px; text-align: left;">Outcome of Programme</td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 579px; text-align: left;">Students should be able to:<p style="box-sizing: inherit; font-size: 1em;"></p><ol style="box-sizing: inherit;"><li style="box-sizing: inherit;">&nbsp;Acknowledge their individual strengths and weaknesses.</li><li style="box-sizing: inherit;">Work and function together as a team.</li><li style="box-sizing: inherit;">Foster closer friendship amongst their peers.</li><li style="box-sizing: inherit;">Display traits of values as highlighted in the school values.</li></ol></td></tr></tbody></table>
 
-<img src="/images/DSC_7158-scaled.jpeg"  
-style="width:70%">
+<img src="/images/DSC_7158-scaled.jpeg" style="width:70%">
 
-<img src="/images/DSC_7314-scaled.jpeg"  
-style="width:70%">
+<img src="/images/DSC_7314-scaled.jpeg" style="width:70%">
 
-<img src="/images/DSC_7614-scaled.jpeg"  
-style="width:70%">
+<img src="/images/DSC_7614-scaled.jpeg" style="width:70%">
 
 ##### _**Health Education**_
 
@@ -79,13 +74,13 @@ In promoting holistic health, our students are provided with a wide variety of i
 
 – Our students are allowed to bring a blood pressure monitoring kit home to help take the blood pressure of their family members.
 
-– Dental Talk by our school Dental Therapist on good oral hygiene for P1,P3 & P5 students.
+– Dental Talk by our school Dental Therapist on good oral hygiene for P1,P3 &amp; P5 students.
 
 – Temperature-taking exercises to remind on safeguarding individual health and social responsibility.
 
 ##### _**Play@Recess**_
 
-During the respective recesses, sports equipment are made available for our students to play in a supervised environment as part of the Play@Recess programme. Students are encouraged to make new friends from other classes, share the equipment and play together. Play@ Recess allows our students to further enhance their SEL competencies.
+During the respective recesses, sports equipment are made available for our students to play in a supervised environment as part of the Play@Recess programme.&nbsp;Students are encouraged to make new friends from other classes, share the equipment and play together. Play@ Recess allows our students to further enhance their SEL competencies.
 
 ![](/images/cca_links.jpg)
 
