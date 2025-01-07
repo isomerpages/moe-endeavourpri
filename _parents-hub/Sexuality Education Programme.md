@@ -108,13 +108,30 @@ from sexuality-related risks.</p>
 </tbody>
 </table>
 <h3>Primary 5</h3>
+
+<table border="0" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 600px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;"><strong>CCE(FTGP) THEME</strong></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><strong>LESSONS TITLE / DURATION</strong></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;"><strong>LESSON OVERVIEW</strong></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><strong>TIME PERIOD</strong> 
+<br><strong>(e.g. Term 1 Week 2)</strong></td></tr>
+
+<tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td rowspan="3" colspan="1" valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;"><p>Growing Years</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><p>The Changes in Me (60 min)</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;"><p>This lesson focuses on helping students identify the emotions and stress
+caused by physical changes during puberty. Students will learn to describe
+the healthy ways to manage their negative feelings during this time. They
+will also learn to recognise that one’s identity need not be negatively
+affected, even when one’s body is experiencing changes due to puberty.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;">TIME PERIOD 
+<br><p>Term 1 Week 2</p></td></tr>	
+<tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td colspan="1><p>Growing Years</td><td style=" valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;"><p>Did You Know? (60 min)</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;"><p>This lesson focuses on helping students know what pornography is and how
+it can affect themselves and others. Students will learn about the dangers
+of being exposed to sexually explicit materials and reject the viewing
+and/or reading of pornographic materials. They will learn to evaluate their
+own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;">TIME PERIOD 
+<br><p>Term 2 Week 5
+<br>
+</p></td></tr>	
+</tbody></table>
+	
 <table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -253,28 +270,6 @@ and how to seek help for themselves and their friends.</p>
 <tr>
 <td rowspan="2" colspan="1">
 <p>Growing Years
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
