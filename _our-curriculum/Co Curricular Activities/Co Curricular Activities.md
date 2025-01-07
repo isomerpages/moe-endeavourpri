@@ -84,9 +84,6 @@ and sense of responsibility to school, community and nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball.png">
 </div>
 <p></p>
-<p>
-<br>
-</p>
 <p>P3 CCA Experience@EDP</p>
 <p>CCA Experience is about providing opportunities for Primary 3 students
 to have an experience of the various CCAs. The students will experience
