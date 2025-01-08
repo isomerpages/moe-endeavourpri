@@ -25,9 +25,9 @@ variant: tiptap
 <p>3HCL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dong Jing Jing
-<br>
-<br><a href="mailto:dong_jingjing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dong_jingjing_a@moe.edu.sg</a>
+<p>Mdm Zheng Li</p>
+<p></p>
+<p><a href="mailto:zheng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -36,9 +36,9 @@ variant: tiptap
 <p>3CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Pei Yu
+<p>Mdm Wang Liqin
 <br>
-<br><a href="mailto:chen_peiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_peiyu@moe.edu.sg</a>
+<br><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -47,9 +47,9 @@ variant: tiptap
 <p>3CL3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Ruolin Doreen
+<p>Ms Dong Jing Jing
 <br>
-<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
+<br><a href="mailto:dong_jingjing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dong_jingjing_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -58,9 +58,9 @@ variant: tiptap
 <p>3CL4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Tay Kee (Mdm Ng)
+<p>Miss Pauline Teo
 <br>
-<br><a href="mailto:tan_tay_kee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tay_kee@moe.edu.sg</a>
+<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -69,9 +69,9 @@ variant: tiptap
 <p>3CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kee Loi Seng
+<p>Mdm Doreen Ho
 <br>
-<br><a href="mailto:kee_loi_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kee_loi_seng@moe.edu.sg</a>
+<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -80,9 +80,9 @@ variant: tiptap
 <p>3CL6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Shiya
+<p>Mdm Wang Jia Jia
 <br>
-<br><a href="mailto:yang_shiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_shiya@moe.edu.sg</a>
+<br><a href="mailto:wang_jiajia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jiajia_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -91,9 +91,9 @@ variant: tiptap
 <p>3 MTSP-CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Peh Chieh Yin
+<p>Ms Eng Cui Shan
 <br>
-<br><a href="mailto:peh_chieh_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_chieh_yin@moe.edu.sg </a>
+<br><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg </a>
 <br>
 <br>
 <br>
