@@ -124,9 +124,9 @@ variant: tiptap
 <p>P3ML</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Farah Adibah Binte Johari</p>
+<p>Mdm Norashikin Bte Mohd Noor</p>
 <p></p>
-<p><a href="farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
+<p><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohd_noor_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -135,10 +135,10 @@ variant: tiptap
 <p>P3ML (MTSP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Bte Mohamed Ata
+<p>Miss Farah Adibah Bte Johari
 <br>
 </p>
-<p><a href="fauziah_mohamed_ata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ata@moe.edu.sg</a>
+<p><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -163,9 +163,9 @@ variant: tiptap
 <p>P3TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Indarani Kasinathan</p>
-<p></p>
-<p><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a>
+<p>Miss E. Vidtheya
+<br>
+<br><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
 </p>
 </td>
 </tr>
