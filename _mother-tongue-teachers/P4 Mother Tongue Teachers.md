@@ -144,3 +144,46 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Malay Language Teachers</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4ML</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fauziah Bte Mohamed Ata
+<br>
+</p>
+<p><a href="mailto:fauziah_mohamed_ata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ata@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4ML (MTSP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nazreen Bte Mohamed Noor
+<br>
+</p>
+<p><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nazreen_mohamed_noor@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
