@@ -2,7 +2,7 @@
 title: P4 Mother Tongue Teachers
 permalink: /p4-mother-tongue-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -156,31 +156,17 @@ variant: markdown
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Malay Language Teachers</strong>
-</p>
+<p>Tamil Language Teachers</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4ML</p>
+<p>P4TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Bte Mohamed Ata
+<p>Mdm Indarani Kasinathan
 <br>
-</p>
-<p><a href="mailto:fauziah_mohamed_ata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ata@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4ML (MTSP)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Nazreen Bte Mohamed Noor
-<br>
-</p>
-<p><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nazreen_mohamed_noor@moe.edu.sg</u></a>
+<br><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
