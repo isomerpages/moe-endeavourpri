@@ -36,10 +36,10 @@ variant: tiptap
 <p>4CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Guo Linglan
+<p>Mdm Zhang Yin
 <br>
 </p>
-<p><a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
+<p><a href="mailto:zhang_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -48,10 +48,9 @@ variant: tiptap
 <p>P4CL3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Pei Yu
+<p>Mdm Doreen Ho
 <br>
-</p>
-<p><a href="mailto:chen_peiyu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_peiyu@moe.edu.sg</a>
+<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -72,9 +71,9 @@ variant: tiptap
 <p>4CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Ruolin Doreen
+<p>Mr Kee Loi Seng
 <br>
-<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
+<br><a href="mailto:kee_loi_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kee_loi_seng@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -83,9 +82,9 @@ variant: tiptap
 <p>4CL6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Jia Jia</p>
+<p>Mdm Yang Shiya</p>
 <p>
-<br><a href="mailto:wang_jiajia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jiajia_a@moe.edu.sg</a>
+<br><a href="mailto:yang_shiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yang_shiya@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -94,9 +93,9 @@ variant: tiptap
 <p>4 MTSP-CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eng Cui Shan</p>
+<p>Ms Peh Chieh Yin</p>
 <p></p>
-<p><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg</a>
+<p><a href="mailto:peh_chieh_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>peh_chieh_yin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -135,10 +134,10 @@ variant: tiptap
 <p>P4ML (MTSP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Farah Adibah Binte Johari
+<p>Mdm Nazreen Bte Mohamed Noor
 <br>
 </p>
-<p><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
+<p><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nazreen_mohamed_noor@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
