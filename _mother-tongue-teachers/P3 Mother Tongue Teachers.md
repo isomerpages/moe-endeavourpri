@@ -93,7 +93,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Eng Cui Shan
 <br>
-<br><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg </a>
+<br><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg</a>
 <br>
 <br>
 <br>
