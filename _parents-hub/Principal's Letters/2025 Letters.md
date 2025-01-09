@@ -5,3 +5,15 @@ variant: markdown
 description: ""
 third_nav_title: Principal's Letters
 ---
+<p><strong>Please click on the link below for the Principal’s letters for 2025:</strong>
+</p>
+<table style="width: 700px; font-size: 17px; border: 1px solid black; table-layout: fixed;">
+  <tbody>
+		 <tr><td style="width: 50%; border: 1px solid black;">
+        <a href="https://drive.google.com/file/d/13HYI8RF6XFVDYD3JIWYpDIaUs2T56vSx/view?usp=sharing">P's letter to Parents - Jan 2025.pdf</a>
+      </td>
+			<td style="width: 50%; border: 1px solid black;">  <a href="https://drive.google.com/file/d/1UrpOkzX7Ih9ArCutK2oaRbYHz6mdxeY6/view?usp=drive_link"></a>
+      </td>
+		    </tr>
+
+  </tbody></table>
