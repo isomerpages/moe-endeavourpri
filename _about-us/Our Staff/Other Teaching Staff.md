@@ -26,6 +26,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mah Quee Jin</p>
+<p></p>
+<p><a href="mailto:mah_quee_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mah_quee_jin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -34,6 +37,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Teck Hui Agnes</p>
+<p></p>
+<p><a href="mailto:goh_teck_hui_agnes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_teck_hui_agnes@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -42,6 +48,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhang Yin</p>
+<p></p>
+<p><a href="mailto:zhang_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -73,6 +82,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Kong Kit Wan</p>
 <p></p>
+<p><a href="mailto:kong_kit_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_kit_wan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,6 +114,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Jia Ern Cheryl</p>
+<p></p>
+<p><a href="mailto:wong_jia_en_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jia_en_cheryl@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

@@ -50,6 +50,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Harith 'Ifwat Bin Zulkefli</p>
+<p></p>
+<p><a href="mailto:harith_ifwat_zulkefli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">harith_ifwat_zulkefli@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
