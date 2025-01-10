@@ -35,6 +35,8 @@ variant: tiptap
 <p>Mdm Jolene Tan Yi-Lin
 <br>
 </p>
+<p><a href="mailto:tan_yi-lin_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi-lin_jolene@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Lin Hui
