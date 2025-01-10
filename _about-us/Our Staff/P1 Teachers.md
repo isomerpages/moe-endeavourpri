@@ -34,7 +34,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Sindhu Rathakrishnan
 <br>
-<br>
+<br><a href="mailto:sindhu_rathakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sindhu_rathakrishnan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +90,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Shahana Mol
 <br>
-<br>
+<br><a href="mailto:shahana_mol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahana_mol@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,6 +149,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Miss E Vidtheya
 <br>
+</p>
+<p><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
 </p>
 </td>
 </tr>
