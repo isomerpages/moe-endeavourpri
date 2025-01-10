@@ -65,7 +65,8 @@ variant: tiptap
 <p><strong>Ms Celeste Loh Shi Min</strong>
 </p>
 <p></p>
-<p></p>
+<p><a href="mailto:celeste_loh_shi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">celeste_loh_shi_min@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -368,6 +369,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Jahangeer B Mohamed Jahabar</strong>
 <br>
+</p>
+<p><a href="mailto:jahangeer_b_mohamed_jahabar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jahangeer_b_mohamed_jahabar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
