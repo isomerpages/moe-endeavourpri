@@ -50,6 +50,8 @@ variant: tiptap
 <p>Mdm Roslinda Bte Ismail
 <br>
 </p>
+<p><a href="mailto:roslinda_Ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">roslinda_Ismail@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
