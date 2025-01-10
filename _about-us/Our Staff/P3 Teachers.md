@@ -93,6 +93,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Juliana Woo Xueyi</p>
+<p></p>
+<p><a href="mailto:juliana_woo_xueyi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_woo_xueyi_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
