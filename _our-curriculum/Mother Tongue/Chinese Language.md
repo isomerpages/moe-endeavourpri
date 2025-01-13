@@ -120,11 +120,12 @@ Our Primary 5 students participated in the 6th&nbsp;National Primary School “P
 
 ###### Lower Primary Parent's Engagement Video (Chinese Language) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3ejWwBnHNCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=3ejWwBnHNCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=I9NEI6yPsXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=I9NEI6yPsXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ILJrC5z0-fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
 ---
 
 ![](/images/chinese_links.jpg)
