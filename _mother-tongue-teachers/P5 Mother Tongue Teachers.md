@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5HCL2</p>
+<p>5CL2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Li Yen
