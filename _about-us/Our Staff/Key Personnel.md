@@ -65,7 +65,7 @@ variant: tiptap
 <p><strong>Ms Celeste Loh Shi Min</strong>
 </p>
 <p></p>
-<p><a href="mailto:celeste_loh_shi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">celeste_loh_shi_min@moe.edu.sg</a>
+<p><a href="mailto:celeste_loh_shi_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">celeste_loh_shi_min@schools.gov.sg</a>
 </p>
 </td>
 </tr>

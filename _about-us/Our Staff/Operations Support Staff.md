@@ -44,14 +44,6 @@ variant: tiptap
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Noor Hasekin Binte Jahroni</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Petchi Muthu Maradan</p>
 </td>
 </tr>

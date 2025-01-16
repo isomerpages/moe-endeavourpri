@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AED (Learning &amp;<br>Behavioural Support)</strong>
+<p><strong>Senior SENO (Special Educational Needs Officer)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AED (Learning &amp;<br>Behavioural Support)</strong>
+<p><strong>SENO (Special Educational Needs Officer)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AED (Learning &amp;<br>Behavioural Support)</strong>
+<p><strong>SENO (Special Educational Needs Officer)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>AED (Counselling)</strong>
+<p><strong>School Counsellor</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
