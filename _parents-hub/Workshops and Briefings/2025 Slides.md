@@ -12,7 +12,7 @@ third_nav_title: Workshops and Briefings
              <strong style="color: black; font-size: 18;"> Parents' briefing slides on 24th January 2025</strong>
              <br>
                          <br>
-            <a href="https://drive.google.com/file/d/1xMaNvxac2_UC4G4Q1dgQ_Ym6TWl-eASe/view?usp=drive_link">2025 P5 Briefing and Networking Slides for Parents _ EL MT Languages </a>
+            <a href="https://drive.google.com/file/d/1_YmTf_KSnMFHH6XOZ50uUdcfLjdjYVQ6/view?usp=drive_link">2025 P5 Briefing and Networking Slides for Parents _ EL MT Languages </a>
              <br><br> 
 							 <a href="https://drive.google.com/file/d/1OZJcFH5OXqo1c1m9D9wl7Buacqvia_rz/view?usp=drive_link">EDP 2025 P5 &amp; P6 Parents Math Briefing</a>
              <br>
