@@ -16,7 +16,7 @@ third_nav_title: Workshops and Briefings
              <br><br> 
 							 <a href="https://drive.google.com/file/d/1EEvU1m_LxURS4r4nZ7YEedLUb_DoWuze/view?usp=drive_link">EDP 2025 P5 &amp; P6 Parents Math Briefing</a>
              <br>
-							 <br> <a href="https://drive.google.com/file/d/14jNJBzH8I0eTkDHs1vZo3hUZnfsSIbxK/view?usp=drive_link">P5 Parents' briefing Science 2025</a>
+							 <br> <a href="https://drive.google.com/file/d/1TBm5OC2G-uGYsSvn-Qpqwrkyz0_xkDI3/view?usp=drive_link">P5 Parents' briefing Science 2025</a>
              <br><br>
 							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">P6 Parents' briefing Science 2025</a>
              <br><br>
