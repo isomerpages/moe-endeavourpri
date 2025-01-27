@@ -5,3 +5,30 @@ variant: markdown
 description: ""
 third_nav_title: Workshops and Briefings
 ---
+<table style="border:1px solid black;width:840px;">
+<tbody>
+	 <tr><td style="border: 1px solid black; width: 350px;">
+             <b>
+             <strong style="color: black; font-size: 18;"> Parents' briefing slides on 24th January 2025</strong>
+             <br>
+                         <br>
+            <a href="https://drive.google.com/file/d/1xMaNvxac2_UC4G4Q1dgQ_Ym6TWl-eASe/view?usp=drive_link">2025 P5 Briefing and Networking Slides for Parents _ EL MT Languages </a>
+             <br><br> 
+							 <a href="https://drive.google.com/file/d/1OZJcFH5OXqo1c1m9D9wl7Buacqvia_rz/view?usp=drive_link">EDP 2025 P5 &amp; P6 Parents Math Briefing</a>
+             <br>
+							 <br> <a href="https://drive.google.com/file/d/14jNJBzH8I0eTkDHs1vZo3hUZnfsSIbxK/view?usp=drive_link">P5 Parents' briefing Science 2025</a>
+             <br><br>
+							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">P6 Parents' briefing Science 2025</a>
+             <br><br>
+							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">P6 Slides for Parents _ EL MT Languages 2025</a>
+             <br><br>
+							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">Parenting for Wellness Deck 2025</a>
+             <br><br>
+							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">Parents Networking Session (P5) 24 Jan 2025 - P's slides</a>
+             <br><br>
+							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">Parents Networking Session (P6) 24 Jan 2025 - P's slides</a>
+             <br><br>
+							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">Student Development Team</a>
+             <br>
+        </b></td> </tr></tbody>
+</table>
