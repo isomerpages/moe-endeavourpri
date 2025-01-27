@@ -22,7 +22,7 @@ third_nav_title: Workshops and Briefings
              <br><br>
 							  <a href="https://drive.google.com/file/d/1qJaHD_IACRY4pO-z6XCV7sGOVqIPvAZA/view?usp=drive_link">P6 Slides for Parents _ EL MT Languages 2025</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">Parenting for Wellness Deck 2025</a>
+							  <a href="https://drive.google.com/file/d/1TXD3U6zrdtl7kxKzUvw0jOwFzXTW-Hmr/view?usp=drive_link">Parenting for Wellness Deck 2025</a>
              <br><br>
 							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">Parents Networking Session (P5) 24 Jan 2025 - P's slides</a>
              <br><br>
