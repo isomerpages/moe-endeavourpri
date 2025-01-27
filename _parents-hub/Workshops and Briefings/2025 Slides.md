@@ -28,7 +28,7 @@ third_nav_title: Workshops and Briefings
              <br><br>
 							  <a href="https://drive.google.com/file/d/12Ub-uR4oiLPDxcPFmV6tbBTK2EjQra31/view?usp=drive_link">Parents Networking Session (P6) 24 Jan 2025 - P's slides</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">Student Development Team</a>
+							  <a href="https://drive.google.com/file/d/1rQj5EKqUPgfqDeFnTbiklFksglZtp_Wh/view?usp=drive_link">Student Development Team</a>
              <br>
         </b></td> </tr></tbody>
 </table>
