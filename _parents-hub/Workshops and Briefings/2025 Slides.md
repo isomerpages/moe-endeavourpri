@@ -20,7 +20,7 @@ third_nav_title: Workshops and Briefings
              <br><br>
 							  <a href="https://drive.google.com/file/d/1W2GXw7RuI577iWnG_2I0mCOkkSaYCR7W/view?usp=drive_link">P6 Parents' briefing Science 2025</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">P6 Slides for Parents _ EL MT Languages 2025</a>
+							  <a href="https://drive.google.com/file/d/1qJaHD_IACRY4pO-z6XCV7sGOVqIPvAZA/view?usp=drive_link">P6 Slides for Parents _ EL MT Languages 2025</a>
              <br><br>
 							  <a href="https://drive.google.com/file/d/1Vwp9tLWQtCbP_uBRYs4_CQJ3TU_-Qdb8/view?usp=drive_link">Parenting for Wellness Deck 2025</a>
              <br><br>
