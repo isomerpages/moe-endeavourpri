@@ -31,7 +31,7 @@ third_nav_title: Workshops and Briefings
 							  <a href="https://drive.google.com/file/d/1rQj5EKqUPgfqDeFnTbiklFksglZtp_Wh/view?usp=drive_link">Student Development Team</a>
              <br>
         </b></td><td style="border:1px solid black; width:350px;">
-<strong style="color:black;font-size:18;">Parents’ briefing slides on 3rd&nbsp;May 2024</strong> 
+<strong style="color:black;font-size:18;">Parents’ briefing slides on 7th&nbsp;February 2025</strong> 
 <br><br>
 	 <a href="https://drive.google.com/file/d/1uKe6JT18bR409iqAtiWTPFwyYK-5hSKe/view?usp=drive_link">Parenting for Wellness Deck 2025_MP</a>
 <br><br>
