@@ -30,5 +30,19 @@ third_nav_title: Workshops and Briefings
              <br><br>
 							  <a href="https://drive.google.com/file/d/1rQj5EKqUPgfqDeFnTbiklFksglZtp_Wh/view?usp=drive_link">Student Development Team</a>
              <br>
-        </b></td> </tr></tbody>
+        </b></td><td style="border:1px solid black; width:350px;">
+<strong style="color:black;font-size:18;">Parents’ briefing slides on 3rd&nbsp;May 2024</strong> 
+<br><br>
+	 <a href="https://drive.google.com/file/d/1uKe6JT18bR409iqAtiWTPFwyYK-5hSKe/view?usp=drive_link">Parenting for Wellness Deck 2025_MP</a>
+<br><br>
+		 <a href="https://drive.google.com/file/d/1l4kSXRdMbHvskN9DBAOfOUONh5b96aAS/view?usp=drive_link">Parents Networking Session (P3) 7 Feb 2025 - P's slides</a>
+<br><br>
+		 <a href="https://drive.google.com/file/d/1me7Mga2_er8lrtOy0P5xFdndAW1Abnir/view?usp=drive_link">Parents Networking Session (P4) 7 Feb 2025 - P's slides</a>
+		 <br><br>
+		 <a href="https://drive.google.com/file/d/1lV3a2xbfs56E3425b9g6J67gkWCtWI3d/view?usp=drive_link">Parents' Networking Session (P3) 7 Feb 2025 - YH_Briefing</a>
+		 <br><br>
+		 <a href="https://drive.google.com/file/d/1uWwBuE-oLhOAvFZdqpXGwDL5_AH4r5Nc/view?usp=drive_link">Parents' Networking Session (P4) 7 Feb 2025 - YH_Briefing</a>
+ </td>
+ 
+	</tr> </tbody>
 </table>
