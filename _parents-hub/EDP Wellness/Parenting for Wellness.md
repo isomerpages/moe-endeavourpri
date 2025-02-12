@@ -1,10 +1,13 @@
 ---
 title: Parenting for Wellness
-permalink: /edpwellness/
+permalink: /parenting-for-wellness/
+variant: tiptap
 description: ""
 third_nav_title: EDP Wellness
-variant: markdown
 ---
-###### Please click on the link [here](https://sites.google.com/moe.edu.sg/edpwellness/emotions-management) to explore the #edpwellness blog!
-
-![](/images/edpwellness.png)
+<p><a href="" rel="noopener nofollow" target="_blank">Primary 1 &amp; 2</a>
+</p>
+<p><a href="" rel="noopener nofollow" target="_blank">Primary 3 &amp; 4</a>
+</p>
+<p><a href="" rel="noopener nofollow" target="_blank">Primary 5 &amp; 6</a>
+</p>
