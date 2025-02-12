@@ -2,8 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Parenting for Wellness/EDP Wellness.md
-      - Parenting for Wellness/.keep
       - School Calendar.md
       - MOE’s Guidelines for School Partnership.md
       - MOE’s Engagement Charter.md
