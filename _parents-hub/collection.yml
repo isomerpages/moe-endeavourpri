@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - EDP Wellness.md
       - School Calendar.md
       - MOE’s Guidelines for School Partnership.md
       - MOE’s Engagement Charter.md
@@ -11,8 +10,9 @@ collections:
       - Parents Gateway/Introducing Parents Gateway.md
       - Parents Gateway/Making Travel Declarations and Amendments on Parents
         Gateway.md
-      - EDP Wellness/EDP Wellness Blog.md
+      - EDP Wellness.md
       - EDP Wellness/.keep
+      - EDP Wellness/EDP Wellness Blog.md
       - EDP Wellness/Parenting for Wellness.md
       - Sexuality Education Programme.md
       - Cyber Wellness.md
