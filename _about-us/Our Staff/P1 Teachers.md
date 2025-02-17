@@ -112,7 +112,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Pang Wan Ching
+<p>Mrs Tong Wan Ching
 <br>
 <br><a href="mailto:pang_wan_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_wan_ching@moe.edu.sg</a>
 </p>
