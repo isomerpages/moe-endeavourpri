@@ -42,7 +42,44 @@ third_nav_title: Workshops and Briefings
 		 <a href="https://drive.google.com/file/d/1lV3a2xbfs56E3425b9g6J67gkWCtWI3d/view?usp=drive_link">Parents' Networking Session (P3) 7 Feb 2025 - YH_Briefing</a>
 		 <br><br>
 		 <a href="https://drive.google.com/file/d/1uWwBuE-oLhOAvFZdqpXGwDL5_AH4r5Nc/view?usp=drive_link">Parents' Networking Session (P4) 7 Feb 2025 - YH_Briefing</a>
- </td>
+		 <br><br>
+		 <a href="https://drive.google.com/file/d/1X8XocvwxGrmQd_Lr2VDJ7Xwk_a-yGL9c/view?usp=drive_link">2025_P4 PARENTS NETWORKING BRIEFING_HMT</a>
+ </td></tr><tr><td style="border: 1px solid black; width: 350px;">
+             <b>
+             <strong style="color: black; font-size: 18;"> Parents’ briefing slides on 14th&nbsp;February 2025</strong>
+             <br>   <br>
+							 <a href="https://drive.google.com/file/d/1EqaWnxeMHHkiDxoINXCLgOkOMQL1lEaP/view?usp=drive_link">Parents Networking Session (P1) 14 Feb - P's slides</a>
+             <br>
+                         <br>
+            <a href="https://drive.google.com/file/d/1rk6oAnX3hHFbPXGaScQZXliU7YUpyije/view?usp=drive_link">Parents Networking Session (P2) 14 Feb - P's slides</a>
+             <br>           
+                         <br>
+							 <a href="https://drive.google.com/file/d/178o5_rT0L40gqfH29tGUrys-UA2Yg7k0/view?usp=drive_link">Parenting for Wellness Deck_P2 Slides</a>
+             <br>
+							 <br>
+							 <a href="https://drive.google.com/file/d/1eOXMhqtHkfFMjRr3rwF3F9hYJaMkxlwK/view?usp=drive_link">P1 English Language Briefing 2025 </a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1NJnE0qeevrPdlDtSjtZIuEvXgBENVMbf/view?usp=drive_link">P1 Parents' Briefing 2025 (Maths) </a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1IxNgA7ce6W4OH_GC1vqOdy_ZRS_q50Gq/view?usp=drive_link">P1_MTL_NETWORKING_SLIDES_2025_14Feb</a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1Aiv-5mlKPGy4TdxuVvZ8p-1nmWHNHICl/view?usp=drive_link">P2_MTL_NETWORKING_SLIDES_2025_14Feb</a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1KfZbEIJNAKKAOlNxSW9ZlQ93ELgXdyyX/view?usp=drive_link">MIMs and SLS Onboarding for P1</a>
+             <br>
+                         <br>
+             </b>
+          </td> <td style="border:1px solid black; width:350px;">
+<strong style="color:black;font-size:18;"></strong> 
+<br><br>
+	 
+<br>
+	</td>
+          </tr>
  
-	</tr> </tbody>
+	 </tbody>
 </table>
