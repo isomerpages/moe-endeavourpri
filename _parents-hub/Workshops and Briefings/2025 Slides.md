@@ -45,13 +45,12 @@ third_nav_title: Workshops and Briefings
  </td></tr><tr><td style="border: 1px solid black; width: 350px;">
              <b>
              <strong style="color: black; font-size: 18;"> Parents’ briefing slides on 14th&nbsp;February 2025</strong>
+             <br>   <br>
+							 <a href="https://drive.google.com/file/d/1EqaWnxeMHHkiDxoINXCLgOkOMQL1lEaP/view?usp=drive_link">Parents Networking Session (P1) 14 Feb - P's slides</a>
              <br>
                          <br>
             <a href="https://drive.google.com/file/d/1rk6oAnX3hHFbPXGaScQZXliU7YUpyije/view?usp=drive_link">Parents Networking Session (P2) 14 Feb - P's slides</a>
-             <br>
-                         <br>
-							 <a href="https://drive.google.com/file/d/1prqBap6Pslx0noNOwFK-KAfSfD8uqAMA/view?usp=drive_link">2024_P4 PARENTS BRIEFING_HMT_23 FEB 2024</a>
-             <br>
+             <br>           
                          <br>
 							 <a href="https://drive.google.com/file/d/1aGymPtokgeOE9m0bezn1I7VfFnKwfy-m/view?usp=drive_link">Parents Networking Session (P3) 23 Feb 2024 - P's slides</a>
              <br>
