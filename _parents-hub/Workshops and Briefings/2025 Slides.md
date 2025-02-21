@@ -42,7 +42,37 @@ third_nav_title: Workshops and Briefings
 		 <a href="https://drive.google.com/file/d/1lV3a2xbfs56E3425b9g6J67gkWCtWI3d/view?usp=drive_link">Parents' Networking Session (P3) 7 Feb 2025 - YH_Briefing</a>
 		 <br><br>
 		 <a href="https://drive.google.com/file/d/1uWwBuE-oLhOAvFZdqpXGwDL5_AH4r5Nc/view?usp=drive_link">Parents' Networking Session (P4) 7 Feb 2025 - YH_Briefing</a>
- </td>
+ </td></tr><tr><td style="border: 1px solid black; width: 350px;">
+             <b>
+             <strong style="color: black; font-size: 18;"> Parents’ briefing slides on 14th&nbsp;February 2025</strong>
+             <br>
+                         <br>
+            <a href="https://drive.google.com/file/d/1rk6oAnX3hHFbPXGaScQZXliU7YUpyije/view?usp=drive_link">Parents Networking Session (P2) 14 Feb - P's slides</a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1prqBap6Pslx0noNOwFK-KAfSfD8uqAMA/view?usp=drive_link">2024_P4 PARENTS BRIEFING_HMT_23 FEB 2024</a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1aGymPtokgeOE9m0bezn1I7VfFnKwfy-m/view?usp=drive_link">Parents Networking Session (P3) 23 Feb 2024 - P's slides</a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1SLRUPIV7Ll6Ve3bsINy3SSciPBTYTAQY/view?usp=drive_link">Parents' Networking Session (P3) 23 Feb 2024 - YH_Briefing</a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1NdPtADQHZ59rp3vMHCJWEkrJQS8_trmi/view?usp=drive_link">Parents Networking Session (P4) 23 Feb 2024 - P's slides</a>
+             <br>
+                         <br>
+							 <a href="https://drive.google.com/file/d/1aAaCQSlMjzycCCTIB2QJJFPqPSFcmP7j/view?usp=drive_link">Parents' Networking Session (P4) 23 Feb 2024_YH_Briefing</a>
+             <br>
+                         <br>
+             </b>
+          </td> <td style="border:1px solid black; width:350px;">
+<strong style="color:black;font-size:18;"></strong> 
+<br><br>
+	 
+<br>
+	</td>
+          </tr>
  
-	</tr> </tbody>
+	 </tbody>
 </table>
