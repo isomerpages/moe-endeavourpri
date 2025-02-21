@@ -61,7 +61,7 @@ third_nav_title: Workshops and Briefings
 							 <a href="https://drive.google.com/file/d/1Aiv-5mlKPGy4TdxuVvZ8p-1nmWHNHICl/view?usp=drive_link">P2_MTL_NETWORKING_SLIDES_2025_14Feb</a>
              <br>
                          <br>
-							 <a href="https://drive.google.com/file/d/1aAaCQSlMjzycCCTIB2QJJFPqPSFcmP7j/view?usp=drive_link">Parents' Networking Session (P4) 23 Feb 2024_YH_Briefing</a>
+							 <a href="https://drive.google.com/file/d/1KfZbEIJNAKKAOlNxSW9ZlQ93ELgXdyyX/view?usp=drive_link">MIMs and SLS Onboarding for P1</a>
              <br>
                          <br>
              </b>
