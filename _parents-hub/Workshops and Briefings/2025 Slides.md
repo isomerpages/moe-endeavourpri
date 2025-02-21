@@ -52,7 +52,7 @@ third_nav_title: Workshops and Briefings
             <a href="https://drive.google.com/file/d/1rk6oAnX3hHFbPXGaScQZXliU7YUpyije/view?usp=drive_link">Parents Networking Session (P2) 14 Feb - P's slides</a>
              <br>           
                          <br>
-							 <a href="https://drive.google.com/file/d/1aGymPtokgeOE9m0bezn1I7VfFnKwfy-m/view?usp=drive_link">Parents Networking Session (P3) 23 Feb 2024 - P's slides</a>
+							 <a href="https://drive.google.com/file/d/178o5_rT0L40gqfH29tGUrys-UA2Yg7k0/view?usp=drive_link">Parenting for Wellness Deck_P2 Slides</a>
              <br>
                          <br>
 							 <a href="https://drive.google.com/file/d/1SLRUPIV7Ll6Ve3bsINy3SSciPBTYTAQY/view?usp=drive_link">Parents' Networking Session (P3) 23 Feb 2024 - YH_Briefing</a>
