@@ -2,7 +2,9 @@
 title: School Bus Advertisement
 permalink: /schoolbusadvertisement/
 description: ""
+variant: markdown
 ---
+<div hidden="">
 <p style="text-align:left;font-size: 25px; color: blue; font-weight: bold;">School Bus Advertisement</p>
 <p style="text-align:left;font-size: 17px; color: black;">To apply, please refer to the Service Requirements and the Application Procedure below.</p>
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">Service Requirements</p>
@@ -26,4 +28,4 @@ description: ""
 <p style="text-align: left; font-size: 19px; color: darkblue; font-weight: bold;">How to get there?
 </p>
 <p style="text-align: left; font-size: 17px; color: black; display: inline;">Nearest MRT Station: Sembawang MRT<br>
-Buses: 859, 962</p>
+Buses: 859, 962</p></div>
