@@ -2,6 +2,7 @@
 title: Every Child Holistic Programme (ECHP)
 permalink: /about-us/our-programmes/echp-every-child-holistic-programme/
 description: ""
+variant: markdown
 ---
 <p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Every Child Holistic Programme (ECHP)</p>
 
@@ -53,7 +54,7 @@ Our ALP is “Nurturing Thinking”. Through this ALP, we hope to achieve the fo
 <p style="text-align:center;font-size: 18px; color: blue; font-weight: bold;">Every Child a Responsible Citizen</p>
 
 
-We involve every child actively in the Community Involvement Programme (CIP) and National Education (NE) Programme. We believe our students should do their part for the nation and community.
+We involve every child actively in the Values In Action Programme (VIA),&nbsp;Character and Citizenship Education (CCE) Programme and National Education (NE) Programme. We believe our students should do their part for the nation and community.
 
 <img style="width:40%" src="/images/Every%20Child%20an%20Artist.jpg">
 
