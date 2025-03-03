@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - School Calendar.md
       - MOE’s Guidelines for School Partnership.md
       - MOE’s Engagement Charter.md
       - Parents Gateway/.keep
