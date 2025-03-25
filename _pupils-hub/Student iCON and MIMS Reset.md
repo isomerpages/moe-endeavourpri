@@ -24,7 +24,7 @@ variant: tiptap
 </li>
 <li>
 <p><a href="https://form.gov.sg/670c913c595272bb07f01aba" rel="noopener noreferrer nofollow" target="_blank">Student&nbsp;</a><strong><a href="https://form.gov.sg/670c913c595272bb07f01aba" rel="noopener noreferrer nofollow" target="_blank">MIMs</a></strong> 
-<a href="https://form.gov.sg/670c913c595272bb07f01aba" rel="noopener noreferrer nofollow" target="_blank">Password Reset</a>
+<a href="go.gov.sg/edpmimspasswordreset" rel="noopener noreferrer nofollow" target="_blank">Password Reset</a>
 </p>
 <hr>
 </li>
@@ -270,5 +270,5 @@ full name and class.&nbsp;</p>
 <br>Mondays to Thursdays: 7.30 a.m.to 5.30 p.m.
 <br>Fridays: 7 a.m. to 5 p.m.
 <br>**Closed&nbsp;on Saturdays, Sundays and Public Holidays</p>
-<p>b) Alternatively, you could fill out the Student iCON&nbsp;<strong><a href="https://form.gov.sg/670c913c595272bb07f01aba" rel="noopener noreferrer nofollow" target="_blank">Password Reset Form here</a></strong>
+<p>b) Alternatively, you could fill out the Student iCON&nbsp;<strong><a href="go.gov.sg/edpmimspasswordreset" rel="noopener noreferrer nofollow" target="_blank">Password Reset Form here</a></strong>
 </p>
