@@ -69,7 +69,7 @@ variant: tiptap
 <p>Leave Early/Time-off Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/edpleaveearly" rel="noopener noreferrer" target="_blank"><u>https://go.gov.sg/leaveearly</u></a>
+<p><a href="https://go.gov.sg/edpleaveearly" rel="noopener noreferrer" target="_blank"><u>https://go.gov.sg/edpleaveearly</u></a>
 </p>
 </td>
 </tr>
