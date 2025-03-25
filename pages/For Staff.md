@@ -115,7 +115,7 @@ variant: tiptap
 <p>ICT Fault Reporting Form</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fault-reporting-form" rel="noopener noreferrer" target="_blank"><u>https://go.gov.sg/fault-reporting-form</u></a>
+<p><a href="http://go.gov.sg/edpictfaultreporting" rel="noopener noreferrer" target="_blank"><u>https://go.gov.sg/edpfaultreporting</u></a>
 </p>
 </td>
 </tr>
