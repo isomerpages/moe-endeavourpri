@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Co-Form Teacher</strong>
+<p><strong>Form Teacher</strong>
 </p>
 </th>
 </tr>
