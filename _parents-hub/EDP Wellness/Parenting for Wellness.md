@@ -84,28 +84,31 @@ third_nav_title: EDP Wellness
              <b>
              <strong style="color: black; font-size: 18;"> Supporting Your Child's Mental Health</strong>
              <br>   <br>
-							 <a href="https://drive.google.com/file/d/1EqaWnxeMHHkiDxoINXCLgOkOMQL1lEaP/view?usp=drive_link">Parents Networking Session (P1) 14 Feb - P's slides</a>
+							 <a href="https://drive.google.com/file/d/1EqaWnxeMHHkiDxoINXCLgOkOMQL1lEaP/view?usp=drive_link">1. Supporting Your Child When They Are Feeling Anxious</a>
              <br>
                          <br>
-            <a href="https://drive.google.com/file/d/1rk6oAnX3hHFbPXGaScQZXliU7YUpyije/view?usp=drive_link">Parents Networking Session (P2) 14 Feb - P's slides</a>
+            <a href="https://drive.google.com/file/d/1rk6oAnX3hHFbPXGaScQZXliU7YUpyije/view?usp=drive_link">2. Supporting Your Child When They Are Feeling Sad</a>
              <br>           
                          <br>
-							 <a href="https://drive.google.com/file/d/178o5_rT0L40gqfH29tGUrys-UA2Yg7k0/view?usp=drive_link">Parenting for Wellness Deck_P2 Slides</a>
+							 <a href="https://drive.google.com/file/d/178o5_rT0L40gqfH29tGUrys-UA2Yg7k0/view?usp=drive_link">3. Addressing Barriers to Reaching Out For Support</a>
              <br>
 							 <br>
-							 <a href="https://drive.google.com/file/d/1eOXMhqtHkfFMjRr3rwF3F9hYJaMkxlwK/view?usp=drive_link">P1 English Language Briefing 2025 </a>
+							 <a href="https://drive.google.com/file/d/1eOXMhqtHkfFMjRr3rwF3F9hYJaMkxlwK/view?usp=drive_link">4. Mental Health Support and Services in Singapore</a>
              <br>
                          <br>
-							 <a href="https://drive.google.com/file/d/1NJnE0qeevrPdlDtSjtZIuEvXgBENVMbf/view?usp=drive_link">P1 Parents' Briefing 2025 (Maths) </a>
+							 <a href="https://drive.google.com/file/d/1NJnE0qeevrPdlDtSjtZIuEvXgBENVMbf/view?usp=drive_link">5. Understanding Barriers to Reaching Out For Support </a>
              <br>
                          <br>
-							 <a href="https://drive.google.com/file/d/1IxNgA7ce6W4OH_GC1vqOdy_ZRS_q50Gq/view?usp=drive_link">P1_MTL_NETWORKING_SLIDES_2025_14Feb</a>
+							 <a href="https://drive.google.com/file/d/1IxNgA7ce6W4OH_GC1vqOdy_ZRS_q50Gq/view?usp=drive_link">6. Caring For Yourself</a>
              <br>
                          <br>
-							 <a href="https://drive.google.com/file/d/1Aiv-5mlKPGy4TdxuVvZ8p-1nmWHNHICl/view?usp=drive_link">P2_MTL_NETWORKING_SLIDES_2025_14Feb</a>
+							 <a href="https://drive.google.com/file/d/1Aiv-5mlKPGy4TdxuVvZ8p-1nmWHNHICl/view?usp=drive_link">7. Understanding Mental Health and Well-being</a>
+             <br>
+							 <br>
+							 <a href="https://drive.google.com/file/d/1Aiv-5mlKPGy4TdxuVvZ8p-1nmWHNHICl/view?usp=drive_link">7. Understanding Mental Health and Well-being</a>
              <br>
                          <br>
-							 <a href="https://drive.google.com/file/d/1KfZbEIJNAKKAOlNxSW9ZlQ93ELgXdyyX/view?usp=drive_link">MIMs and SLS Onboarding for P1</a>
+							 <a href="https://drive.google.com/file/d/1KfZbEIJNAKKAOlNxSW9ZlQ93ELgXdyyX/view?usp=drive_link">8. When to be Concerned About Stress and Distress</a>
              <br>
                          <br>
              </b>
