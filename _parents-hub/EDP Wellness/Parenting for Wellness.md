@@ -12,7 +12,7 @@ third_nav_title: EDP Wellness
              <strong style="color: black; font-size: 18;"> Building Relationships</strong>
              <br>
                          <br>
-            <a href="https://drive.google.com/file/d/1_YmTf_KSnMFHH6XOZ50uUdcfLjdjYVQ6/view?usp=drive_link">1. Expressing Your Love and Acceptance</a>
+            <a href="https://drive.google.com/file/d/1zfOeaQV4vVJtet9cNupzO7E8jnUOwFg_/view?usp=sharing">1. Expressing Your Love and Acceptance</a>
              <br><br> 
 							 <a href="https://drive.google.com/file/d/1EEvU1m_LxURS4r4nZ7YEedLUb_DoWuze/view?usp=drive_link">2. Being Present and Showing Positive Attention</a>
              <br>
