@@ -14,46 +14,46 @@ third_nav_title: EDP Wellness
                          <br>
             <a href="https://drive.google.com/file/d/1zfOeaQV4vVJtet9cNupzO7E8jnUOwFg_/view?usp=sharing">1. Expressing Your Love and Acceptance</a>
              <br><br> 
-							 <a href="https://drive.google.com/file/d/1EEvU1m_LxURS4r4nZ7YEedLUb_DoWuze/view?usp=drive_link">2. Being Present and Showing Positive Attention</a>
+							 <a href="https://drive.google.com/file/d/1kMcvSvL6xWerrLSfVZRU_ubIxXuhKd4_/view?usp=drive_link">2. Being Present and Showing Positive Attention</a>
              <br>
-							 <br> <a href="https://drive.google.com/file/d/1TBm5OC2G-uGYsSvn-Qpqwrkyz0_xkDI3/view?usp=drive_link">3. Setting Goals With Your Child</a>
+							 <br> <a href="https://drive.google.com/file/d/1oVEdRiBIbmXZL6T3F-G7MOCWnMnrnyu8/view?usp=drive_link">3. Setting Goals With Your Child</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1W2GXw7RuI577iWnG_2I0mCOkkSaYCR7W/view?usp=drive_link">4. Being Aware of Your Own and Your Child's Feelings</a>
+							  <a href="https://drive.google.com/file/d/1RmMh4JZN2oePquydzDMoVHeTHF1xMhl2/view?usp=drive_link">4. Being Aware of Your Own and Your Child's Feelings</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1qJaHD_IACRY4pO-z6XCV7sGOVqIPvAZA/view?usp=drive_link">5. Providing a Safe Space for Conversations</a>
+							  <a href="https://drive.google.com/file/d/1xrvU-c3X8YgIsm3QXmuCBVKCW64oEADG/view?usp=drive_link">5. Providing a Safe Space for Conversations</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1TXD3U6zrdtl7kxKzUvw0jOwFzXTW-Hmr/view?usp=drive_link">6. Helping Your Child Manage Their Thoughts</a>
+							  <a href="https://drive.google.com/file/d/1jggClAp2mV6y1FEzrhspijhtH2gku4cw/view?usp=drive_link">6. Helping Your Child Manage Their Thoughts</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1COpp1mlaR5xcZPIdAyS59lw1oKDNeGi2/view?usp=drive_link">7. Helping Your Child Manage Feelings</a>
+							  <a href="https://drive.google.com/file/d/1Z9ldUIKfGT8kqpy7vI9gWYBP04R7Ej8C/view?usp=drive_link">7. Helping Your Child Manage Feelings</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/12Ub-uR4oiLPDxcPFmV6tbBTK2EjQra31/view?usp=drive_link">8. How You Parent vs How You Were Parented</a>
+							  <a href="https://drive.google.com/file/d/1jhvomInj36wpDC76qAesxak7JPzEzbGq/view?usp=drive_link">8. How You Parent vs How You Were Parented</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1rQj5EKqUPgfqDeFnTbiklFksglZtp_Wh/view?usp=drive_link">9. Establishing Family Rules and Decisions Together</a>
+							  <a href="https://drive.google.com/file/d/1zxfdUhM0WG4wTSY1bdnFzcYI6Yh13Y2b/view?usp=drive_link">9. Establishing Family Rules and Decisions Together</a>
              <br>
 							 <br>
-            <a href="https://drive.google.com/file/d/1_YmTf_KSnMFHH6XOZ50uUdcfLjdjYVQ6/view?usp=drive_link">10. Letting Your Child Experience Natural and Logical Consequences</a>
+            <a href="https://drive.google.com/file/d/1o63l-KsOyCWLkn7W_Vwt4Spfx8PisuH0/view?usp=drive_link">10. Letting Your Child Experience Natural and Logical Consequences</a>
              <br><br> 
-							 <a href="https://drive.google.com/file/d/1EEvU1m_LxURS4r4nZ7YEedLUb_DoWuze/view?usp=drive_link">11. Celebrate Your Child's Efforts and Successes</a>
+							 <a href="https://drive.google.com/file/d/1BSc15Goi0Ay25Ga_HmtuDRYuqeQ9j7vT/view?usp=drive_link">11. Celebrate Your Child's Efforts and Successes</a>
              <br>
-							 <br> <a href="https://drive.google.com/file/d/1TBm5OC2G-uGYsSvn-Qpqwrkyz0_xkDI3/view?usp=drive_link">12. Helping Your Child Develop Daily Good Habits</a>
+							 <br> <a href="https://drive.google.com/file/d/1cdrBbDuWHhpZzevQkv6URfO7BWuTo_0I/view?usp=drive_link">12. Helping Your Child Develop Daily Good Habits</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1W2GXw7RuI577iWnG_2I0mCOkkSaYCR7W/view?usp=drive_link">13. Supporting Your Child in Performing Age-Appropriate Tasks</a>
+							  <a href="https://drive.google.com/file/d/1b461Vjt-EjsSw0AWvM-i3x0fHQCGr3em/view?usp=drive_link">13. Supporting Your Child in Performing Age-Appropriate Tasks</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1qJaHD_IACRY4pO-z6XCV7sGOVqIPvAZA/view?usp=drive_link">14. Role Modelling Respectful Conversations and Relationships</a>
+							  <a href="https://drive.google.com/file/d/1ATk8W2-klLdi2eW9HmWiGE6l76vMMw20/view?usp=drive_link">14. Role Modelling Respectful Conversations and Relationships</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1TXD3U6zrdtl7kxKzUvw0jOwFzXTW-Hmr/view?usp=drive_link">15. Helping Your Child Build Healthy Relationships</a>
+							  <a href="https://drive.google.com/file/d/1n1ZB_QNxW31aQrn96cvfEsr4jmO-WXKp/view?usp=drive_link">15. Helping Your Child Build Healthy Relationships</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1COpp1mlaR5xcZPIdAyS59lw1oKDNeGi2/view?usp=drive_link">16. Giving Your Child S.P.A.C.E to Build Resilience</a>
+							  <a href="https://drive.google.com/file/d/1LGnoIEsJQLuB69wskBZbpmFDAZb3js4a/view?usp=drive_link">16. Giving Your Child S.P.A.C.E to Build Resilience</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/12Ub-uR4oiLPDxcPFmV6tbBTK2EjQra31/view?usp=drive_link">17. Supporting Your Child in Overcoming Challenges</a>
+							  <a href="https://drive.google.com/file/d/1DW0lHATgdTURdNjaV_YF0GP9ZvMD3jsu/view?usp=drive_link">17. Supporting Your Child in Overcoming Challenges</a>
              <br><br>
-							  <a href="https://drive.google.com/file/d/1rQj5EKqUPgfqDeFnTbiklFksglZtp_Wh/view?usp=drive_link">18. Solving Problems Using S.O.D.A.S</a>
-             <br>
-							 <br>
-							  <a href="https://drive.google.com/file/d/1rQj5EKqUPgfqDeFnTbiklFksglZtp_Wh/view?usp=drive_link">19. Managing Conflicts at Home</a>
+							  <a href="https://drive.google.com/file/d/1yZv-ierwimJx8BWFwDHOWF79yXItT4pk/view?usp=drive_link">18. Solving Problems Using S.O.D.A.S</a>
              <br>
 							 <br>
-							  <a href="https://drive.google.com/file/d/1rQj5EKqUPgfqDeFnTbiklFksglZtp_Wh/view?usp=drive_link">20. Encouraging your Child to Seek Help</a>
+							  <a href="https://drive.google.com/file/d/1HhigdoYWHqUb4xSzDBTPs9DhoFYIaHUU/view?usp=drive_link">19. Managing Conflicts at Home</a>
+             <br>
+							 <br>
+							  <a href="https://drive.google.com/file/d/1tuPadEUo4LM9U3ipvcKvnCx6xaGSzvGS/view?usp=drive_link">20. Encouraging your Child to Seek Help</a>
              <br>
         </b></td><td style="border:1px solid black; width:350px;">
 <strong style="color:black;font-size:18;">Navigating the Digital Age</strong> 
