@@ -58,27 +58,27 @@ third_nav_title: EDP Wellness
         </b></td><td style="border:1px solid black; width:350px;">
 <strong style="color:black;font-size:18;">Navigating the Digital Age</strong> 
 <br><br>
-	 <a href="https://drive.google.com/file/d/1uKe6JT18bR409iqAtiWTPFwyYK-5hSKe/view?usp=drive_link">1. Helping Your Child Manage Device Use and Stay Safe Online</a>
+	 <a href="https://drive.google.com/file/d/1Q4qjjug1y01in9HX5hjSfpovfnGoT-Gw/view?usp=drive_link">1. Helping Your Child Manage Device Use and Stay Safe Online</a>
 <br><br>
-		 <a href="https://drive.google.com/file/d/1l4kSXRdMbHvskN9DBAOfOUONh5b96aAS/view?usp=drive_link">2. Social Media- Is Your Child Ready For It</a>
+		 <a href="https://drive.google.com/file/d/1GJqfH3lHqra1uOxoINpP9xjOmD_gvJqQ/view?usp=drive_link">2. Social Media- Is Your Child Ready For It</a>
 <br><br>
-		 <a href="https://drive.google.com/file/d/1me7Mga2_er8lrtOy0P5xFdndAW1Abnir/view?usp=drive_link">3. Social Media- Positive and Negative Impacts on Youth's Well-being</a>
+		 <a href="https://drive.google.com/file/d/1Fp5DuTO0VTK4hpvnvjmnM9xT6sjYDH_E/view?usp=drive_link">3. Social Media- Positive and Negative Impacts on Youth's Well-being</a>
 		 <br><br>
-		 <a href="https://drive.google.com/file/d/1lV3a2xbfs56E3425b9g6J67gkWCtWI3d/view?usp=drive_link">4. Creating a Positive Presence Online Using T.H.I.N.K and S.U.R.E</a>
+		 <a href="https://drive.google.com/file/d/1jQ0YseAQ5CkTR1Y6gxXJVGjnJYMHf1RT/view?usp=drive_link">4. Creating a Positive Presence Online Using T.H.I.N.K and S.U.R.E</a>
 		 <br><br>
-		 <a href="https://drive.google.com/file/d/1uWwBuE-oLhOAvFZdqpXGwDL5_AH4r5Nc/view?usp=drive_link">5. Online Risk- Exposure to Inappropriate Content</a>
+		 <a href="https://drive.google.com/file/d/1C_gvdhSUHMVKnGVCkD8NXhUHLeu-jn6c/view?usp=drive_link">5. Online Risk- Exposure to Inappropriate Content</a>
 		 <br><br>
-		 <a href="https://drive.google.com/file/d/1X8XocvwxGrmQd_Lr2VDJ7Xwk_a-yGL9c/view?usp=drive_link">6. Online Risk- Unwanted Attention</a>
+		 <a href="https://drive.google.com/file/d/1j19DQe1rI2NIREmsZNnZJ1xgnL9KbElq/view?usp=drive_link">6. Online Risk- Unwanted Attention</a>
 		 <br><br>
-		 <a href="https://drive.google.com/file/d/1X8XocvwxGrmQd_Lr2VDJ7Xwk_a-yGL9c/view?usp=drive_link">7. Cyberbullying- When Your Child is a Victim</a><br>
+		 <a href="https://drive.google.com/file/d/1mzkwh5rkOO4lbuFlVEf8uFHVFhW0eK21/view?usp=drive_link">7. Cyberbullying- When Your Child is a Victim</a><br>
 		 <br>
-		 <a href="https://drive.google.com/file/d/1X8XocvwxGrmQd_Lr2VDJ7Xwk_a-yGL9c/view?usp=drive_link">8. Cyberbullying- When Your Child is the Bully</a><br>
+		 <a href="https://drive.google.com/file/d/1vL3qUuWBdxUBzJ7J7Yefr14OaUO3R3Uy/view?usp=drive_link">8. Cyberbullying- When Your Child is the Bully</a><br>
 		 <br>
-		 <a href="https://drive.google.com/file/d/1X8XocvwxGrmQd_Lr2VDJ7Xwk_a-yGL9c/view?usp=drive_link">9. Device Use- Too Much or Just Right</a><br>
+		 <a href="https://drive.google.com/file/d/1S8MI2qTAneOYEjdG4JpC373bLQr8gde-/view?usp=drive_link">9. Device Use- Too Much or Just Right</a><br>
 		 <br>
-		 <a href="https://drive.google.com/file/d/1X8XocvwxGrmQd_Lr2VDJ7Xwk_a-yGL9c/view?usp=drive_link">10. Entering Your Child's Gaming World</a><br>
+		 <a href="https://drive.google.com/file/d/16Ud52ca5UOjeuvNSjheYsP0xBXS0m4wf/view?usp=drive_link">10. Entering Your Child's Gaming World</a><br>
 		 <br>
-		 <a href="https://drive.google.com/file/d/1X8XocvwxGrmQd_Lr2VDJ7Xwk_a-yGL9c/view?usp=drive_link">11. Helping Your Child Thrive In the Online Space</a><br>
+		 <a href="https://drive.google.com/file/d/1-xMOlCN20JeJEr2xtNmNRTqPlHNi6xOS/view?usp=drive_link">11. Helping Your Child Thrive In the Online Space</a><br>
 		 
  </td></tr><tr><td style="border: 1px solid black; width: 350px;">
              <b>
