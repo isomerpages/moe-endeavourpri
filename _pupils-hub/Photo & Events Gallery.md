@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://photos.app.goo.gl/HkrW61ik1HWZELxT9">► Hari Raya Celebration - 2025 Photos</a></li>	
 				<li><a href="https://photos.app.goo.gl/12wLryHWrkMwXVEB8">► Total Defence Day Recess Activities - 2025 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/SjpTWGL7Hw372Dpw9">► Chinese New Year - 2025 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/uGUnsrXTHg72Qnut6">► P1 First Day in School - 2025 Photos</a></li>	
