@@ -37,10 +37,8 @@ description: ""
 </table>
 <p>We are a single session school and have an estimated school enrolment
 of 1317 students and 120 staff.</p>
-<p></p>
 <h3>Application Procedure</h3>
-<p>
-<br>1. Download and complete the <a href="https://drive.google.com/file/d/1GyOVFBmSm1IHnkzYjfzriaYBH1y2JJUO/view?usp=drive_link" rel="noopener nofollow" target="_blank">application form</a>.
+<p>1. Download and complete the <a href="https://drive.google.com/file/d/1GyOVFBmSm1IHnkzYjfzriaYBH1y2JJUO/view?usp=drive_link" rel="noopener nofollow" target="_blank">application form</a>.
 You may also request for a hardcopy from the School’s General Office.</p>
 <p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
@@ -63,8 +61,7 @@ documents by closing date via email OR to the School's General Office.</p>
 <p>Email: <a href="mailto:endeavour_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">endeavour_ps@moe.edu.sg</a>
 </p>
 <p>Contact Person: Mr Chan Jian Xiong</p>
-<p></p>
-<p>How to get there?</p>
+<h3>How to get there?</h3>
 <p>Nearest MRT: Sembawang MRT – 10 minutes walking distance</p>
 <p>Bus number: 859 - 2 minutes walking distance</p>
 <p></p>
@@ -99,8 +96,7 @@ Programme (HMSP)" guidelines (see <strong><a href="https://www.hpb.gov.sg/school
 <p>Prior experience in running a school canteen stall will be an added advantage.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>Applicants should preferably fulfil the following criteria:</p>
+<p>&nbsp;Applicants should preferably fulfil the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Basic
@@ -114,7 +110,6 @@ Food Hygiene Certificate.</p>
 Singapore Food Agency (SFA).</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>Shortlisted applicants will be notified for an interview and will be required
-to provide food sampling for the School Canteen Selection Committee at
-the applicant's own expense.</p>
+<p>&nbsp;Shortlisted applicants will be notified for an interview and will
+be required to provide food sampling for the School Canteen Selection Committee
+at the applicant's own expense.</p>
