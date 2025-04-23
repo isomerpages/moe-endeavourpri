@@ -56,16 +56,14 @@ etc</p>
 <p></p>
 <p>3. Submit the completed <strong><a href="https://drive.google.com/file/d/1tOjuOko2T08tQ47kwhOtnLpdxTVM2Nja/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">application form</a></strong> and
 documents by closing date via email OR to the School's General Office.</p>
-<p>Address: 10 Admiralty Link, Singapore 757521</p>
-<p>Contact No: 64824650</p>
-<p>Email: <a href="mailto:endeavour_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">endeavour_ps@moe.edu.sg</a>
-</p>
-<p>Contact Person: Mr Chan Jian Xiong</p>
+<p>Address: 10 Admiralty Link, Singapore 757521
+<br>Contact No: 64824650
+<br>Email: <a href="mailto:endeavour_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">endeavour_ps@moe.edu.sg</a>
+<br>Contact Person: Mr Chan Jian Xiong</p>
 <h3>How to get there?</h3>
-<p>Nearest MRT: Sembawang MRT – 10 minutes walking distance</p>
-<p>Bus number: 859 - 2 minutes walking distance</p>
-<p></p>
-<p>Interest applicants must meet the following criteria:</p>
+<p>Nearest MRT: Sembawang MRT – 10 minutes walking distance
+<br>Bus number: 859 - 2 minutes walking distance
+<br>Interest applicants must meet the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
