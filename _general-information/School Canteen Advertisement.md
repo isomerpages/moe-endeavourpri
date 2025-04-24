@@ -6,12 +6,12 @@ description: ""
 ---
 <table style="minwidth: 75px; font-size: 17px; border: 1px solid black; table-layout: fixed;">
   <tbody>
-		 <tr><td style="width: 50%; border: 1px solid black;">
+		 <tr><td style="width: 50%; border: 1px solid black; background-color: #f1f1f1;">
         <p><b>Type of Stall</b></p><b>
       </b></td>
-			<td style="width: 50%; border: 1px solid black;"> <p><b>Closing Date</b></p><b>
+			<td style="width: 50%; border: 1px solid black;background-color: #f1f1f1;"> <p><b>Closing Date</b></p><b>
       </b></td>
-			 <td style="width: 50%; border: 1px solid black;">  <p><b>Requirements</b></p><b>
+			 <td style="width: 50%; border: 1px solid black;background-color: #f1f1f1;">  <p><b>Requirements</b></p><b>
       </b></td>
 		    </tr>
 <tr><td style="width: 50%; border: 1px solid black;">
