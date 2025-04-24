@@ -43,7 +43,7 @@ etc</p>
 </li>
 </ul>
 <p></p>
-<p>3. Submit the completed <strong><a href="https://drive.google.com/file/d/1tOjuOko2T08tQ47kwhOtnLpdxTVM2Nja/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">application form</a></strong> and
+<p>3. Submit the completed <strong><a href="https://drive.google.com/file/d/1LFkHQPgvzIz_8i-4Jw_LrWXfii2RJHKu/view?usp=sharing&quot;">application form</a></strong> and
 documents by closing date via email OR to the School's General Office.</p>
 <p>Address: 10 Admiralty Link, Singapore 757521
 <br>Contact No: 64824650
