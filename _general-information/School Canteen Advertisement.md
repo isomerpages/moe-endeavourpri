@@ -4,37 +4,26 @@ permalink: /general-information/permalink/schoolcanteenadvertisement/
 variant: markdown
 description: ""
 ---
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Type of Stall</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Closing Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Requirements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Malay Noodles Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 May 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To provide Malay rice dishes</p>
-</td>
-</tr>
-</tbody>
-</table>
+<table style="minwidth: 75px; font-size: 17px; border: 1px solid black; table-layout: fixed;">
+  <tbody>
+		 <tr><td style="width: 50%; border: 1px solid black;">
+        <p><b>Type of Stall</b></p><b>
+      </b></td>
+			<td style="width: 50%; border: 1px solid black;"> <p><b>Closing Date</b></p><b>
+      </b></td>
+			 <td style="width: 50%; border: 1px solid black;">  <p><b>Requirements</b></p><b>
+      </b></td>
+		    </tr>
+<tr><td style="width: 50%; border: 1px solid black;">
+       <p>Malay Noodles Stall</p>
+      </td>
+			<td style="width: 50%; border: 1px solid black;">  <p>9 May 2025</p>
+      </td>
+		<td style="width: 50%; border: 1px solid black;">  <p>To provide Malay rice dishes</p>
+      </td>
+		    </tr>
+  </tbody></table>
+
 <p>We are a single session school and have an estimated school enrolment
 of 1317 students and 120 staff.</p>
 <h3>Application Procedure</h3>
