@@ -27,7 +27,7 @@ description: ""
 <p>We are a single session school and have an estimated school enrolment
 of 1317 students and 120 staff.</p>
 <h3>Application Procedure</h3>
-<p>1. Download and complete the <a href="https://drive.google.com/file/d/1GyOVFBmSm1IHnkzYjfzriaYBH1y2JJUO/view?usp=drive_link" rel="noopener nofollow" target="_blank">application form</a>.
+<p>1. Download and complete the application form.
 You may also request for a hardcopy from the School’s General Office.</p>
 <p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
