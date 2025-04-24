@@ -27,7 +27,7 @@ description: ""
 <p>We are a single session school and have an estimated school enrolment
 of 1317 students and 120 staff.</p>
 <h3>Application Procedure</h3>
-<p>1. Download and complete the <a href="https://drive.google.com/file/d/1GyOVFBmSm1IHnkzYjfzriaYBH1y2JJUO/view?usp=drive_link" rel="noopener nofollow" target="_blank">application form</a>.
+<p>1. Download and complete the application form.
 You may also request for a hardcopy from the School’s General Office.</p>
 <p>2. Attached the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
@@ -43,7 +43,7 @@ etc</p>
 </li>
 </ul>
 <p></p>
-<p>3. Submit the completed <strong><a href="https://drive.google.com/file/d/1tOjuOko2T08tQ47kwhOtnLpdxTVM2Nja/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">application form</a></strong> and
+<p>3. Submit the completed <strong><a href="https://drive.google.com/file/d/1LFkHQPgvzIz_8i-4Jw_LrWXfii2RJHKu/view?usp=sharing&quot;">application form</a></strong> and
 documents by closing date via email OR to the School's General Office.</p>
 <p>Address: 10 Admiralty Link, Singapore 757521
 <br>Contact No: 64824650
