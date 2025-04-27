@@ -19,7 +19,7 @@ description: ""
       </td>
 			<td style="width: 50%; border: 1px solid black;">  <p>9 May 2025</p>
       </td>
-		<td style="width: 50%; border: 1px solid black;">  <p>To provide Malay rice dishes</p>
+		<td style="width: 50%; border: 1px solid black;">  <p>To provide Malay noodle</p>
       </td>
 		    </tr>
   </tbody></table>
