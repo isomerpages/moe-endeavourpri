@@ -9,7 +9,13 @@ third_nav_title: Workshops and Briefings
 <tbody>
 	 <tr><td style="border: 1px solid black; width: 350px;">
              <b>
-             <strong style="color: black; font-size: 18;"> Parents' briefing slides on 24th January 2025</strong>
+             <strong style="color: black; font-size: 18;"> Parents' briefing slides on 16th May 2025</strong>
+             <br>
+                         <br>
+            <a href="https://drive.google.com/file/d/1ryoBB_rpa2Z5WrkBDbgrkwQN61iF27ba/view?usp=drive_link">PSLE 2025 briefing for P5 &amp; P6 Parents</a>
+             <br><br> 
+							</b></td><td style="border:1px solid black; width:350px;">
+ <strong style="color: black; font-size: 18;"> Parents' briefing slides on 24th January 2025</strong>
              <br>
                          <br>
             <a href="https://drive.google.com/file/d/1_YmTf_KSnMFHH6XOZ50uUdcfLjdjYVQ6/view?usp=drive_link">2025 P5 Briefing and Networking Slides for Parents _ EL MT Languages </a>
@@ -30,8 +36,10 @@ third_nav_title: Workshops and Briefings
              <br><br>
 							  <a href="https://drive.google.com/file/d/1rQj5EKqUPgfqDeFnTbiklFksglZtp_Wh/view?usp=drive_link">Student Development Team</a>
              <br>
-        </b></td><td style="border:1px solid black; width:350px;">
-<strong style="color:black;font-size:18;">Parents’ briefing slides on 7th&nbsp;February 2025</strong> 
+        
+ </td></tr><tr><td style="border: 1px solid black; width: 350px;">
+             <b>
+             <strong style="color:black;font-size:18;">Parents’ briefing slides on 7th&nbsp;February 2025</strong> 
 <br><br>
 	 <a href="https://drive.google.com/file/d/1uKe6JT18bR409iqAtiWTPFwyYK-5hSKe/view?usp=drive_link">Parenting for Wellness Deck 2025_MP</a>
 <br><br>
@@ -44,10 +52,10 @@ third_nav_title: Workshops and Briefings
 		 <a href="https://drive.google.com/file/d/1uWwBuE-oLhOAvFZdqpXGwDL5_AH4r5Nc/view?usp=drive_link">Parents' Networking Session (P4) 7 Feb 2025 - YH_Briefing</a>
 		 <br><br>
 		 <a href="https://drive.google.com/file/d/1X8XocvwxGrmQd_Lr2VDJ7Xwk_a-yGL9c/view?usp=drive_link">2025_P4 PARENTS NETWORKING BRIEFING_HMT</a>
- </td></tr><tr><td style="border: 1px solid black; width: 350px;">
-             <b>
-             <strong style="color: black; font-size: 18;"> Parents’ briefing slides on 14th&nbsp;February 2025</strong>
-             <br>   <br>
+          </b></td> <td style="border:1px solid black; width:350px;">
+<strong style="color:black;font-size:18;"></strong> 
+<strong style="color: black; font-size: 18;"> Parents’ briefing slides on 14th&nbsp;February 2025</strong>
+             <br><br>
 							 <a href="https://drive.google.com/file/d/1EqaWnxeMHHkiDxoINXCLgOkOMQL1lEaP/view?usp=drive_link">Parents Networking Session (P1) 14 Feb - P's slides</a>
              <br>
                          <br>
@@ -70,12 +78,7 @@ third_nav_title: Workshops and Briefings
              <br>
                          <br>
 							 <a href="https://drive.google.com/file/d/1KfZbEIJNAKKAOlNxSW9ZlQ93ELgXdyyX/view?usp=drive_link">MIMs and SLS Onboarding for P1</a>
-             <br>
-                         <br>
-             </b>
-          </td> <td style="border:1px solid black; width:350px;">
-<strong style="color:black;font-size:18;"></strong> 
-<br><br>
+             <br><br>
 	 
 <br>
 	</td>
