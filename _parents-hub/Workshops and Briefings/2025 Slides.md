@@ -83,6 +83,5 @@ third_nav_title: Workshops and Briefings
 <br>
 	</td>
           </tr>
- 
-	 </tbody>
-</table>
+
+</tbody></table>
