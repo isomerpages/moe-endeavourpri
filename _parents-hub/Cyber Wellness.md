@@ -6,5 +6,4 @@ variant: markdown
 ---
 Please click on the link here to explore the Endeavour Cyberwellness site!:
 
-*   [Is your child a responsible Digital Learner?](/files/FOR-PARENTS-Is-your-child-a-responsible-digital-learner.pdf)
-*   [Helping your child manage online scams.](/files/Tip-sheet-for-Parents.pdf)
+[Cyber Wellness](https://sites.google.com/moe.edu.sg/cyberwellness-edp/home)
