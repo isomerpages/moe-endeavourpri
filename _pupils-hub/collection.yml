@@ -2,7 +2,6 @@ collections:
   pupils-hub:
     output: true
     order:
-      - Students Details Form Portal.md
       - School Rules.md
       - Student iCON and MIMS Reset.md
       - Home Based Learning/.keep
@@ -15,6 +14,7 @@ collections:
       - Student Learning Space/SLS Assignments (Video Help).md
       - Homework Policy.md
       - CyberWellness @EDP.md
+      - Students Details Form Portal.md
       - School Library Online System.md
       - Photo & Events Gallery.md
       - CCA Schedule and Venue.md
