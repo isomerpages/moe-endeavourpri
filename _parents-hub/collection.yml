@@ -2,7 +2,6 @@ collections:
   parents-hub:
     output: true
     order:
-      - Students Details Form Portal.md
       - MOE’s Guidelines for School Partnership.md
       - MOE’s Engagement Charter.md
       - Parents Gateway/.keep
@@ -15,6 +14,7 @@ collections:
       - EDP Wellness/Parenting for Wellness.md
       - Sexuality Education Programme.md
       - Cyber Wellness.md
+      - Students Details Form Portal.md
       - MOE FAS application.md
       - Workshops and Briefings/.keep
       - Workshops and Briefings/2025 Slides.md
