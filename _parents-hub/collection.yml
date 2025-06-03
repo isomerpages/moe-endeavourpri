@@ -2,6 +2,7 @@ collections:
   parents-hub:
     output: true
     order:
+      - Students Details Form Portal.md
       - MOE’s Guidelines for School Partnership.md
       - MOE’s Engagement Charter.md
       - Parents Gateway/.keep
