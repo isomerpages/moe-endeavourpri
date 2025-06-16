@@ -63,6 +63,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Miss Stephanie Malar d/o Abu Bakar</p>
 <p></p>
+<p><a href="mailto:Stephanie_malar_alakesan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie_malar_alakesan</a>
+<a href="mailto:stephanie_malar_alakesan@moe.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +74,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khairunnisah d/o Abu Bakar
+<p>Ms Khairunnisah d/o Abu Bakar
 <br>
 </p>
 </td>
