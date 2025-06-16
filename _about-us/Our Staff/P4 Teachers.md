@@ -74,9 +74,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Reena Shukla d/o Prempal Shukal
+<p>Mdm Kong Kit Wan
 <br>
-<br><a href="mailto:reena_shukla_prempal_shukal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">reena_shukla_prempal_shukal@moe.edu.sg</a>
+<br><a href="mailto:kong_kit_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_kit_wan</u>@moe.edu.sg</a>
 </p>
 </td>
 </tr>
