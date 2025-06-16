@@ -86,8 +86,8 @@ variant: tiptap
 <br>Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Jia Ern Cheryl</p>
-<p>
+<p>Mdm Wong Jia En Cheryl
+<br>
 <br><a href="mailto:wong_jia_en_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jia_en_cheryl@moe.edu.sg</a>
 </p>
 </td>
