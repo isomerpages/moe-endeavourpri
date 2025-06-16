@@ -56,9 +56,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Dong Jing Jing
+<p>Miss Meera Devi
 <br>
-<br><a href="mailto:dong_jingjing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dong_jingjing_a@moe.edu.sg</a>
+<br>
 </p>
 </td>
 </tr>

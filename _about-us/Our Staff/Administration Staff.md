@@ -36,17 +36,6 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Hisham Bin Talka
-<br>
-<br><a href="mailto:Mohamad_Hisham_TALKA@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_hisham_talka@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Roslinda Bte Ismail
 <br>
 </p>

@@ -2,148 +2,422 @@
 title: Science
 permalink: /departments/science-department/
 description: ""
+variant: tiptap
 ---
-![science vision](/images/science_vision.jpg)
-
-
-<p style="font-size: 26px; color: blue; font-weight: bold;">Vision</p>
-Every Child A Scientist
-<p style="font-size: 26px; color: blue; font-weight: bold;">Mission</p>
-To nurture curious and active learners through inquiry-based learning and develop their scientific skills for life-long learning.
-
-![science_programme_highlights](/images/science_programme_highlights.jpg)
-
-## Our Scientific Endeavours
-
-![Our Scientific Endeavours](/images/Our-scientific-endeavours.png)
-
-### **TECHNOLOGY**
-
-**Student Learning Space and other ICT tools**
-
-**SLS Website: [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)**
-
-To nurture confident and active user of technology, SLS is used to complement classroom teaching and further enrich students’ learning experience.
-
-In addition, teachers may also use other ICT tools or Google apps such as google slides and spreadsheets to conduct the lessons at the computer laboratories or use of iPads.
-
-### **HANDS-ON ACTIVITIES**
-
-**Performance-based assessment**
-
-There are performance-based assignments for different levels which provide opportunities for students to reinforce what they have learnt collaboratively. Below is a summary of the assignments for various levels.
-
-![Performance-based assessment](/images/Performance-based-assessment-chart.jpg)
-
-**Hands-on activities during lessons**
-
-Students have many opportunities to explore scientific concepts through hands-on activities. The practical sessions which are conducted mostly at the Science laboratories are safe for all students to carry out. Teachers generally use the 5E approach (Engage – Explore – Explain- Elaborate – evaluate ) to conduct inquiry-based learning. Sometimes, the teacher will carry out a class demonstration for selected activities.
-
-![Hands-on activities during lessons](/images/class-activity.jpg)
-
-### **SCIENTIFIC LITERACY**
-
-In Programme for International Student Assessment (PISA) study, Scientific Literacy is defined as the ability to understand the characteristics of science and the significance of science in our modern world, to apply scientific knowledge, identify issues, describe scientific phenomena, draw conclusions based on evidence, and the willingness to reflect on and engage with scientific ideas and subjects. 
-
-Students need to acquire the language of Science to be specific in their scientific explanations. Thus, customised packages and thinking frame (Concept- Cause and Effect) are developed for specific topics to provide students with the language to understand and explain scientific phenomena.
-
-### **ENRICHMENT AND LEARNING JOURNEY**
-
-The learning of Science takes place beyond the classrooms and school where students’ curiosity about our world of living things is stimulated through experiential learning journeys. Science Learning Journeys reinforce or extend students’ learning of Science in school. More details will be finalised by the respective Science teachers.
-
-![Table Learning Journey and Enrichment](/images/Table_Learning-Journey-and-Enrichment.jpg)
-Do note that the above Learning Journeys/enrichment programmes are subjected to changes every year. Unless stated otherwise, the programmes are conducted after curriculum hours
-
-**OH! At Endeavour (Orchid Hybridisation! @ Endeavour)**
-
-P5 students learn about the pollination, the genetics of hybridisation and techniques of aseptic tissue culture through hands-on lessons. The creation of new hybrids will be a testament to how our students improve and innovate on existing breeds of orchids. In addition, students will learn the proper ways to take care of orchids and have the opportunity to monitor the growth of orchids in our school.
-
-In line with the P5 Science topic on the Reproduction of Flowering Plants, students go through one session of Orchid Hybridisation Enrichment Lesson conducted by Orchidville. The objective of the workshop is to impart students higher order skills (HOTS) through involving them in the growing, selection and creation of hybrids and registration of Orchid hybrids.
-
-At the end of the lessons, students would have learnt to:
-
-*   Understand life cycle and reproduction of flowering plant in general.
-*   Identify the male and female parts of an orchid flower.
-*   Recognise pollination and fertilization in flowering plants using orchids as learning subject.
-*   State the conditions necessary for germination of orchids.
-*   Learn interesting facts and craft activity involving orchids
-
-Through our P5 Orchid Hybridisation programme, we have been able to successfully create and our very own orchid hybrid: _Guarvolclia_ Miss Endeavour. This orchid was registered in year 2018 and launched during the EDP10 Homecoming Carnival.
-
-<img src="/images/Miss-Endeavour-flower-300x210.jpg"  
-style="width:40%">
-
-### **ENVIRONMENT EDUCATION**
-
-**Eco-guardians**
-
-Endeavour’s Eco-guardians are the green ambassadors from the P4 to P6 classes who are committed in motivating others in moving towards a more sustainable environment. They undergo training sessions and workshops to better understand their roles, assigned duties and how to go about carrying out their responsibilities.
-
-Our Eco-guardians will have their first meeting and training session in January every year. During this training session, they will be briefed on their duties for the year, and also a familiarisation section on our gardens
-
-![Eco-guardians workshop and activities](/images/eco-guardians-768x446.jpg)
-Eco-guardians workshop and activities
-
-For the subsequent meet-up sessions with the eco-guardians, there will be interesting and relevant workshops conducted for them. They will continue to learn how to grow different crops using different mediums and the importance of reducing food waste. In addition, they are also creating online resources for the school to impact more students.
-
-In April 2022, the eco-guardians harvested and donated about 4kg of vegetables to Sembawang GRC for the Gardens Give Back programme. Also, the eco-guardians also have the opportunities to participate in other programmes organized by Northwest CDC, such as Reduce@Northwest programme in 2022.
-
-**Green wave**
-
-In Endeavour, we believe in educating our students the importance of protecting our natural environment and biodiversity. Thus, we participate in the Green Wave to educate our students the need to keep Singapore green and vibrant.
-
-![Green wave](/images/greenwave-1024x576.png)
-
-### **OUTDOOR LEARNING**
-
-**Eco-garden**
-
-The following learning stations can be found at the eco-garden:
-
-1.  Aquarium
-2.  Orchid Shed
-3.  Insect enclosure
-4.  The Eco-Pond and the aquatic plants
-5.  The Fern Paradise
-6.  The Leaf Litter and Rotting log
-7.  The Spice and Herbs (for volunteers only)
-8.  The Wormery
-9.  The flowering plants
-10.  Grow your own plant corner (Eco-guardians only)
-11.  Fruit Tree trail
-
-![Eco-garden](/images/eco-garden-768x432.png)
-
-The eco-garden stimulates the curiosity of students and provides a space and opportunity for Science exploration while creating an awareness of our need to conserve.
-
-The spice and herbs are grown in planters by some of the upper block students. They are students who volunteer to adopt and take care of the plants in the planters. In addition, some students will have the opportunities to germinate different seeds and grow them in the garden as well. Eco-guardians also get the opportunity to adopt and grow their own plant at a designated area.
-
-Beside the eco-guardians on duty, some students will also have the opportunities to feed the aquatic animals during their recess.
-
-**Aquatic Learning Corner (ALeZ)**
-
-ALeZ was constructed at the last quarter of the year 2016. It is an experiential area for the learning of Life Sciences, in particular, aquatic living organisms and their habitats. There are two tanks, namely, Terrarium tank and Aquatic Fishes and Plant Tank. Both tanks will provide a platform to enable students to appreciate the diversity of living organisms through observation of the freshwater plants and animals in the aquariums.
-
-In addition, Science lessons will be conducted at ALeZ to deepen class discussions in the relevant topics in the Science Syllabus from P3 to P6.
-
-![Students can also participate in the termly quiz found at the Notice Board found beside ALeZ.](/images/alez-and-garden.jpg)
-Students can also participate in the termly quiz found at the Notice Board found beside ALeZ.
-
-**Greenhouse**
-
-The P3 students have the opportunity to learn and grow vegetables using the Dynamic Root Floating (DRF) technique in the greenhouse for their performance-based assessment. The students will also investigate if the growth of a plant is affected by different mediums. They will also learn how to harvest the vegetables and enjoy their produce at home!
-
-The Eco-guardians will also be using the greenhouse to grow different crops using the different systems in it.
-
-![Greenhouse](/images/harvest.jpg)
-
-### **COMPETITIONS & ACHIEVEMENTS**
-
-Students love competitions so they enjoy participating in various Science competitions organized by other schools. The Singapore Science Centre or other agencies provide our students with an opportunity to transfer their learning into action, given each competitive situation.
-
-![COMPETITIONS & ACHIEVEMENTS](/images/Competition-updates-240519-768x432.png)
-
-![science links](/images/science_links.jpg)
-
-Refer to the QR codes provided at the back of each activity book. <br> 
-Follow us on Instagram #**edpscience** for more pictures and updates.
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science vision" src="/images/science_vision.jpg">
+</div>
+<p><strong>Vision</strong>
+</p>
+<p>Every Child A Scientist</p>
+<p>Mission</p>
+<p>To nurture curious and active learners through inquiry-based learning
+and develop their scientific skills for life-long learning.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science_programme_highlights" src="/images/science_programme_highlights.jpg">
+</div>
+<h2>OUR PRIMARY SCIENCE FOCUS AREAS</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pictures_2025_2_002.jpg">
+</div>
+<p><strong>Our goals:&nbsp;</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Develop scientifically literate students who think critically and apply
+knowledge effectively</p>
+</li>
+<li>
+<p>Nurture environmental stewardship through student leadership and community
+engagement</p>
+</li>
+<li>
+<p>Provide authentic learning experiences through hands-on activities and
+outdoor education</p>
+</li>
+<li>
+<p>Foster scientific curiosity and inquiry skills through structured programmes
+and competitions</p>
+</li>
+<li>
+<p>Develop 21st Century Competencies through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Communication and collaboration in environmental outreach</p>
+</li>
+<li>
+<p>Critical and inventive thinking in scientific investigations</p>
+</li>
+<li>
+<p>Civic literacy through sustainability initiatives</p>
+</li>
+</ul>
+</li>
+</ol>
+<h3><strong>TECHNOLOGY</strong></h3>
+<p><strong>Student Learning Space and other ICT tools</strong>
+</p>
+<p><strong>SLS Website:&nbsp;<a href="https://learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://learning.moe.edu.sg</a></strong>
+</p>
+<p>To nurture confident and active user of technology, SLS is used to complement
+classroom teaching and further enrich students’ learning experience.</p>
+<p>In addition, teachers may also use other ICT tools or Google apps such
+as google slides and spreadsheets to conduct the lessons at the computer
+laboratories or use of iPads.</p>
+<h3><strong>HANDS-ON ACTIVITIES</strong></h3>
+<p><strong>Hands-on Activities During Lessons</strong>
+</p>
+<p>Students engage in meaningful hands-on activities to explore and understand
+scientific concepts through the Science Inquiry Approach. Our well-equipped
+Science laboratories provide a safe environment for practical sessions,
+where students develop critical thinking and process skills through systematic
+investigation.</p>
+<p>We utilise SPARKLE (Science Pack Activity Resource Kits for Learning)
+kits, which are developed by the Ministry of Education (MOE) and Science
+Centre Singapore. These kits encourage students to explore and test their
+scientific ideas through "hands-on, minds-on" activities. Through guided
+questions and discussion alongside practical investigations, students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pose investigative questions about scientific phenomena</p>
+</li>
+<li>
+<p>Plan and conduct investigations using appropriate methods and tools</p>
+</li>
+<li>
+<p>Collect and analyse data to form logical conclusions</p>
+</li>
+<li>
+<p>Communicate their findings and reflect on their learning</p>
+</li>
+</ul>
+<p>Through a blend of guided practical work with SPARKLE kits and teacher
+demonstrations, students develop both conceptual understanding and scientific
+skills. These experiential learning opportunities help nurture students'
+curiosity about the natural and physical world while building their confidence
+in scientific investigation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pictures_2025_2_005.jpg">
+</div>
+<h3><strong>SCIENTIFIC LITERACY</strong></h3>
+<p>We believe in nurturing our students to become scientifically literate
+individuals who can thrive in today's world. Scientific literacy goes beyond
+just understanding facts – it empowers our students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Think critically about the world around them</p>
+</li>
+<li>
+<p>Make informed decisions based on evidence</p>
+</li>
+<li>
+<p>Communicate scientific ideas effectively</p>
+</li>
+<li>
+<p>Appreciate how science impacts our daily lives</p>
+</li>
+</ul>
+<p>Our approach to developing scientific literacy aligns with international
+standards, including those measured by the Programme for International
+Student Assessment (PISA). We achieve this through:</p>
+<p><strong>Structured Learning Support</strong>&nbsp;</p>
+<p>We've developed customised learning packages that help students master
+scientific vocabulary and concepts in an age-appropriate way. Our students
+learn to explain scientific phenomena clearly and confidently using proper
+scientific language.</p>
+<p><strong>Thinking Frameworks</strong>&nbsp;</p>
+<p>Using specially designed thinking frameworks like Concept-Cause and Effect,
+we guide students to analyse scientific phenomena systematically. This
+helps them understand the relationships between different scientific concepts
+and their real-world applications.</p>
+<p>Through these approaches, our students develop strong foundations in scientific
+thinking and communication, preparing them for future learning and real-world
+challenges.</p>
+<h3><strong>ENRICHMENT AND LEARNING JOURNEY</strong></h3>
+<p>We integrate environmental sustainability across our science learning
+journeys, helping students understand their role in creating a greener
+future. Our signature programmes include:</p>
+<p><strong>Orchid Hybridisation Programme (OH! At Endeavour)</strong> Our
+P5 programme combines hands-on learning with environmental stewardship.
+Students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn advanced pollination and hybridisation techniques</p>
+</li>
+<li>
+<p>Practice aseptic tissue culture methods</p>
+</li>
+<li>
+<p>Understand orchid care and conservation</p>
+</li>
+<li>
+<p>Contribute to Singapore's orchid heritage</p>
+</li>
+</ul>
+<p>This programme has successfully produced two registered hybrids:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guarvolclia Miss Endeavour (2018)</p>
+</li>
+<li>
+<p>Dendrobium Miss Endeavour II (2023), created to commemorate the school's
+15th anniversary. This hybrid symbolises our values of diligence and perseverance.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pictures_2025_2_006.jpg">
+</div>
+<p><strong>Excellence 2000 (E2K) Science Programme</strong>&nbsp;</p>
+<p>This enrichment programme caters to students who demonstrate strong interest
+and ability in Science. Through engaging hands-on activities, students:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop scientific inquiry process skills</p>
+</li>
+<li>
+<p>Engage in higher-order thinking and problem-solving</p>
+</li>
+<li>
+<p>Work collaboratively on challenging scientific tasks</p>
+</li>
+<li>
+<p>Learn through discovery and exploration</p>
+</li>
+</ul>
+<p>Our learning journeys and enrichment programmes are carefully curated
+each year to complement the curriculum and deepen students' understanding
+of sustainability and scientific concepts through real-world applications.</p>
+<p></p>
+<p><strong>COMPETITIONS &amp; ACHIEVEMENTS</strong>
+</p>
+<p>We provide opportunities for students to showcase their scientific knowledge
+and skills through various competitions:</p>
+<p><strong>Science Olympiad</strong> Selected students participate in this
+competition to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Challenge themselves with advanced scientific concepts</p>
+</li>
+<li>
+<p>Develop critical thinking skills</p>
+</li>
+<li>
+<p>Apply their scientific knowledge in competitive settings</p>
+</li>
+</ul>
+<p><strong>Science Elementz</strong> Students participate in this investigative
+research competition to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Conduct scientific investigations</p>
+</li>
+<li>
+<p>Develop research skills</p>
+</li>
+<li>
+<p>Present their findings</p>
+</li>
+</ul>
+<p><strong>External Competitions</strong> Students also participate in competitions
+organized by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science Centre Singapore</p>
+</li>
+<li>
+<p>Other educational institutions</p>
+</li>
+</ul>
+<p>These platforms allow our students to extend their learning beyond the
+classroom while building confidence in their scientific capabilities.</p>
+<h3><strong>ENVIRONMENT EDUCATION</strong></h3>
+<p><strong>Eco-guardians: Nurturing Environmental Leaders</strong>
+</p>
+<p>Our Eco-guardians programme develops passionate environmental leaders
+from P4 to P6 who champion sustainability within and beyond our school
+community. The programme features a tiered leadership structure, with outstanding
+students advancing to the Executive Committee (EXCO) in P6.</p>
+<p>Leadership Development Eco-guardians develop essential skills through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Content curation on environmental topics</p>
+</li>
+<li>
+<p>Workshop facilitation and public speaking</p>
+</li>
+<li>
+<p>Project management and team collaboration</p>
+</li>
+<li>
+<p>Community outreach and partnerships</p>
+</li>
+</ul>
+<p>Key Initiatives Our Eco-guardians lead various environmental projects:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sustainability workshops for preschoolers</p>
+</li>
+<li>
+<p>Upcycling and recycling campaigns</p>
+</li>
+<li>
+<p>Water conservation awareness</p>
+</li>
+<li>
+<p>Dengue prevention education</p>
+</li>
+<li>
+<p>Urban farming and food sustainability</p>
+</li>
+</ul>
+<p>Community Impact We believe in nurturing environmental consciousness from
+young. Our Eco-guardians:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Partner with preschools for environmental education</p>
+</li>
+<li>
+<p>Create and deliver engaging workshops</p>
+</li>
+<li>
+<p>Lead by example in sustainable practices</p>
+</li>
+<li>
+<p>Share knowledge through student-created resources</p>
+</li>
+</ul>
+<p>Training and Development The programme begins each January with comprehensive
+training sessions covering:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Environmental leadership skills</p>
+</li>
+<li>
+<p>Garden management and urban farming</p>
+</li>
+<li>
+<p>Project planning and execution</p>
+</li>
+<li>
+<p>Public speaking and presentation skills</p>
+</li>
+</ul>
+<p>Through these experiences, our Eco-guardians develop into confident, articulate,
+and environmentally conscious leaders who can effectively inspire positive
+change in their community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pictures_2025_2_003.jpg">
+</div>
+<h3><strong>OUTDOOR LEARNING</strong></h3>
+<p>Our diverse outdoor learning spaces provide students with hands-on experiences
+in environmental education and sustainable living practices.</p>
+<p><strong>Eco-Garden</strong>&nbsp;</p>
+<p>A dynamic outdoor classroom featuring diverse learning zones:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aquarium for studying aquatic life</p>
+</li>
+<li>
+<p>Eco-Pond: A thriving aquatic ecosystem with diverse plants and animals
+for hands-on learning about water conservation, pond life, and biodiversity</p>
+</li>
+<li>
+<p>Fern Paradise showcasing different fern species</p>
+</li>
+<li>
+<p>Leaf Litter and Rotting Log area for decomposition studies</p>
+</li>
+<li>
+<p>Wormery for composting education</p>
+</li>
+<li>
+<p>Flowering Plants section for biodiversity studies</p>
+</li>
+</ul>
+<p><strong>Aquatic Learning Experience Zone (ALeZ)</strong>&nbsp;</p>
+<p>Features two specialized tanks:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Terrarium tank showcasing semi-aquatic ecosystems</p>
+</li>
+<li>
+<p>Aquatic Fishes and Plant Tank demonstrating freshwater habitats</p>
+</li>
+<li>
+<p>Supports hands-on learning for P3-P6 Science topics</p>
+</li>
+<li>
+<p>Enables close observation of aquatic biodiversity</p>
+</li>
+</ul>
+<p><strong>Hydroponics System</strong>
+</p>
+<p>&nbsp;A modern farming facility that:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates soil-less growing techniques</p>
+</li>
+<li>
+<p>Produces leafy vegetables sustainably</p>
+</li>
+<li>
+<p>Teaches students about food security</p>
+</li>
+<li>
+<p>Showcases agricultural technology</p>
+</li>
+</ul>
+<p><strong>Rooftop Garden</strong>
+</p>
+<p>Adjacent to our hydroponics system, this flowering garden:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Creates a natural habitat attracting pollinators like butterflies and
+birds</p>
+</li>
+<li>
+<p>Provides opportunities for observing plant-animal interactions</p>
+</li>
+<li>
+<p>Serves as an outdoor classroom for biodiversity studies</p>
+</li>
+<li>
+<p>Offers a peaceful space for students to connect with nature</p>
+</li>
+</ul>
+<p><strong>Fruit Tree Trail</strong>&nbsp;</p>
+<p>A collection of fruit-bearing trees including:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Citrus varieties like lemon and kaffir lime</p>
+</li>
+<li>
+<p>Tropical fruits such as mango and chiku</p>
+</li>
+<li>
+<p>Other edible plants like tomatoes</p>
+</li>
+<li>
+<p>Demonstrates food-producing plants in an urban setting</p>
+</li>
+</ul>
+<p>These integrated outdoor spaces create immersive learning environments
+where students can develop deep appreciation for nature and understand
+the importance of environmental conservation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pictures_2025_2_004.jpg">
+</div>
+<h3><strong>COMPETITIONS &amp; ACHIEVEMENTS</strong></h3>
+<p>Students love competitions so they enjoy participating in various Science
+competitions organized by other schools. The Singapore Science Centre or
+other agencies provide our students with an opportunity to transfer their
+learning into action, given each competitive situation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="COMPETITIONS  ACHIEVEMENTS" src="/images/Competition-updates-240519-768x432.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="science links" src="/images/science_links.jpg">
+</div>
+<p>Refer to the QR codes provided at the back of each activity book.
+<br>Follow us on Instagram #<strong>edpscience</strong>&nbsp;for more pictures
+and updates.</p>
