@@ -407,14 +407,7 @@ the importance of environmental conservation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pictures_2025_2_004.jpg">
 </div>
-<h3><strong>COMPETITIONS &amp; ACHIEVEMENTS</strong></h3>
-<p>Students love competitions so they enjoy participating in various Science
-competitions organized by other schools. The Singapore Science Centre or
-other agencies provide our students with an opportunity to transfer their
-learning into action, given each competitive situation.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="COMPETITIONS  ACHIEVEMENTS" src="/images/Competition-updates-240519-768x432.png">
-</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="science links" src="/images/science_links.jpg">
 </div>
