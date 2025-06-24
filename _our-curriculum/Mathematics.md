@@ -112,11 +112,11 @@ the best through Math Olympiad and inter-school Mathematics competitions.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/guidelines_calculators.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary Maths Syllabus (2013)</a>
+<p><a href="https://www.mathplayground.com/thinkingblocks.html" rel="noopener noreferrer nofollow" target="_blank">SEAB: List of Approved Calculators for PSLE Maths &amp; Foundation Maths</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.mathplayground.com/thinkingblocks.html" rel="noopener noreferrer nofollow" target="_blank">SEAB: List of Approved Calculators for PSLE Maths &amp; Foundation Maths</a>
+<p><a href="https://file.go.gov.sg/seab-approvedcalculators.pdf" rel="noopener nofollow" target="_blank">SEAB: List of Approved Calculators for PSLE Maths &amp; Foundation Maths</a>
 </p>
 </li>
 <li>
