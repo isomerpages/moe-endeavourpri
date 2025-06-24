@@ -18,10 +18,31 @@ environment that provides rich and meaningful Mathematics learning experiences</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="math programme highlights" src="/images/math_programme_highlights.jpg">
 </div>
-<h2>Mathematics @ Endeavour</h2>
+<h3><strong>Mathematics @ Endeavour</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mathematics @ Endeavour" src="/images/Mathematics%20@%20Endeavour.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__Mathematics___Endeavour.png">
 </div>
+<h3><strong>Mathematical Growth Mindset @ EDP</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Mathematical_Growth_Mindset___EDP.png">
+</div>
+<p>Our school fosters a mathematical growth mindset in students by shifting
+the focus from rote memorization of mathematical concepts to deep conceptual
+understanding and problem-solving. This approach involves creating a safe
+environment where mistakes are viewed as valuable learning opportunities,
+encouraging students to persevere on when managing challenging tasks.&nbsp;</p>
+<p>Teachers employ strategies such as praising effort over innate ability.
+“Yet" statements are used to reinforce the belief that everyone can learn
+Mathematics and that abilities can be developed over time. Students also
+receive constructive feedback aimed at enhancing their learning progress
+in Mathematics.</p>
+<p>During Mathematics lessons, students are encouraged to talk about, explain
+and reflect on their thinking processes through meaningful, open-ended
+activities. This emphasis on metacognition helps build their awareness
+of their own learning and strengthens their problem-solving skills. Opportunities
+are provided to explore alternative problem-solving methods too.</p>
+<p>Through these conscious efforts, students are empowered to embrace challenges,
+learn from setbacks and believe in their potential to excel in Mathematics.</p>
 <h3><strong>SUPER AUSTRA</strong></h3>
 <p>Research has shown that only a small percentage of children are confident
 in solving word problems. At EDP, we believe that every child is a problem
@@ -33,7 +54,7 @@ also learn how to assess the reasonableness and accuracy of their answers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SUPER AUSTRA" src="/images/Super-Austra-1-724x1024.png">
 </div>
-<p><strong>Hands-on Learning Experiences</strong>
+<p><strong>Hands-on Learning Experiences (EDPlay)</strong>
 </p>
 <p>To enhance the understanding and mastery of Mathematics concepts, our
 students have many opportunities to work with concrete manipulatives. Students
@@ -47,28 +68,41 @@ mathematical problems.</p>
 </div>
 <p><strong>Factual Fluency Champions</strong>
 </p>
-<p>We believe that a strong foundation in basic Mathematics facts is crucial
-in the development of conceptual understanding, skills and attitudes in
-our students.&nbsp; The Number Bonds Champion badge and the Multiplication
-Champion badge are examples of badges designed to motivate our young learners
-in mastering the facts.&nbsp; Our teachers help our students gain this
-fluency through interesting games, practices and iPad apps during their
-Mathematics lessons.</p>
+<p>A strong foundation in basic Mathematics facts is crucial in the development
+of conceptual understanding, skills and attitudes in students. The Number
+Bonds Champion badge and the Multiplication Champion badge are examples
+of badges designed to motivate young learners in mastering the facts.&nbsp;
+Our teachers help students gain this factual fluency through interesting
+games, practices and iPad apps during Mathematics lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Factual Fluency Champions" src="/images/Factual%20Fluency%20Champions.png">
 </div>
-<p><strong>Interactive Math Exchange Zone (IMEZ) @ EDP</strong>
+<p><strong>Learning Support for Mathematics (LSM) Programme</strong>
 </p>
-<p>IMEZ @ EDP was created to provide students with a space to hone their
-problem-solving skills through various interactive games. Students get
-to play Mathematics games on the iPads provided as well as challenge themselves
-and their schoolmates via puzzles in a fun manner. These games are carefully
-chosen to enhance higher-order thinking skills such as logical thinking,
-sequential thinking and spatial visualisation. Through playing these games,
-our students also learn to develop turn-taking skills and values such as
-perseverance.</p>
+<p>Learning support is provided for students who need additional support
+in developing basic numeracy skills. The programme is conducted by trained
+teachers in small groups during curriculum time, ensuring that each student
+receives individual attention.</p>
+<p>Students are identified at the start of Primary 1 to join the programme
+and the support may continue up to Primary 4 if needed to help them lay
+a strong foundation in Mathematics.</p>
+<h3><strong>Maths Excellence 2000 (E2K)</strong></h3>
+<p>Primary 4 and 5 students who demonstrate a strong aptitude and interest
+in Mathematics are invited to participate in the school’s Mathematics Excellence
+2000 (Maths E2K) programme.&nbsp;</p>
+<p>This inquiry-based enrichment programme aims to nurture in students 21<sup>st</sup> century
+competencies such as critical and inventive thinking skills.&nbsp;</p>
+<p>Through engaging activities such as stories, games and puzzles, students
+get to explore different mathematical concepts and sharpen their problem-solving
+abilities. The collaborative nature of the programme also encourages them
+to learn to express their thinking clearly and work effectively with their
+peers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Interactive Math Exchange Zone (IMEZ) @ EDP" src="/images/Interactive%20Math%20Exchange%20Zone%20(IMEZ)%20@%20EDP.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Maths_E2K_Photo_1.jpg">
+</div>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Maths_E2K_Photo_2.jpg">
 </div>
 <h3><strong>Math Olympiad Enrichment Programme</strong></h3>
 <p>Primary 4 and 5 students who display an aptitude for and an interest in
