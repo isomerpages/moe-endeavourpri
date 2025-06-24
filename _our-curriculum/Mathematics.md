@@ -116,10 +116,6 @@ the best through Math Olympiad and inter-school Mathematics competitions.</p>
 </p>
 </li>
 <li>
-<p><a href="http://www.sheppardsoftware.com/math.htm" rel="noopener noreferrer nofollow" target="_blank">MOE's Schoolbag Q&amp;A: Teaching, Learning &amp; Assessment of Mathematics</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.schoolbag.edu.sg/story/does-maths-have-to-be-so-difficult/" rel="noopener nofollow" target="_blank">MOE's Schoolbag Q&amp;A: Teaching, Learning &amp; Assessment of Mathematics</a>
 </p>
 </li>
