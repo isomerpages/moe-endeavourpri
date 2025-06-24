@@ -108,6 +108,10 @@ the best through Math Olympiad and inter-school Mathematics competitions.</p>
 </p>
 </li>
 <li>
+<p><a href="https://www.moe.gov.sg/-/media/files/primary/2021-primary-mathematics-syllabus-p1-to-p6-updated-dec-2024.pdf" rel="noopener nofollow" target="_blank">Primary Maths Syllabus (2021)</a>
+</p>
+</li>
+<li>
 <p><a href="/files/guidelines_calculators.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary Maths Syllabus (2013)</a>
 </p>
 </li>
