@@ -77,9 +77,22 @@ programme. &nbsp;Through this programme, students are challenged to develop
 higher-order thinking skills via a wider repertoire of problem-solving
 tools.&nbsp; Students are also given opportunities to pit their wits against
 the best through Math Olympiad and inter-school Mathematics competitions.</p>
+<p><strong>Maths Competitions Achievements (2023-2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_4.png">
+</div>
 <p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png">
 </div>
@@ -99,6 +112,7 @@ the best through Math Olympiad and inter-school Mathematics competitions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="ACS Mathlympics 2017 Awardees" src="/images/ACS-Mathlympics-2017-1-768x573.png">
 </div>
 <p>ACS Mathlympics 2017 Awardees</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="math reference links" src="/images/math_reference_links.jpg">
 </div>
