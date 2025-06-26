@@ -100,10 +100,6 @@ peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Maths_E2K_Photo_1.jpg">
 </div>
-<h3></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Maths_E2K_Photo_2.jpg">
-</div>
 <h3><strong>Math Olympiad Enrichment Programme</strong></h3>
 <p>Primary 4 and 5 students who display an aptitude for and an interest in
 Mathematics are invited to participate in the school’s Math Olympiad enrichment
@@ -114,9 +110,6 @@ the best through Math Olympiad and inter-school Mathematics competitions.</p>
 <p><strong>Maths Competitions Achievements (2023-2025)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_1.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_2.png">
 </div>
 <div class="isomer-image-wrapper">
@@ -125,27 +118,9 @@ the best through Math Olympiad and inter-school Mathematics competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_4.png">
 </div>
-<p><strong>National Mathematical Olympiad of Singapore (NMOS)</strong>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_1.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="National Mathematical Olympiad of Singapore (NMOS)" src="/images/Congratulations-NMOS-ACS-768x614.png">
-</div>
-<p><strong>ACS Annual Mathlympics</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ACS Annual Mathlympics" src="/images/Congratulations-NMOS-ACS-1-768x614.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ACS Mathlympics 2017 Awardees" src="/images/ACS-Mathlympics-2017-1-768x573.png">
-</div>
-<p>ACS Mathlympics 2017 Awardees</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="math reference links" src="/images/math_reference_links.jpg">
