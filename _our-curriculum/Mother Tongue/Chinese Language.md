@@ -21,7 +21,8 @@ variant: markdown
 ![](/images/Screenshot_2025_07_02_at_2_55_10_PM.png)
 **List of Chinese learning resources**
 
-*   小学华文课外读物参考书目 [(Recommended reading materials for P1- P6)](https://drive.google.com/file/d/1p6zAzCwzyhS4rzlkwd2bcdwEkXnJ1Ilp/view?usp=drive_link)
+*   小学华文课外读物参考书目 (Recommended reading materials for P1- P6) [Click here](https://drive.google.com/file/d/1p6zAzCwzyhS4rzlkwd2bcdwEkXnJ1Ilp/view?usp=drive_link)
+*   (https://drive.google.com/file/d/1p6zAzCwzyhS4rzlkwd2bcdwEkXnJ1Ilp/view?usp=drive_link)
 *   List of Approved Dictionaries for use in PSLE: [seab-approveddictionaries.pdf](https://file.go.gov.sg/seab-approveddictionaries.pdf)
 *   《知识网》线上学习平台 Ezhishi learning portal [https://www.ezhishi.net](https://www.ezhishi.net)
 *   国家图书馆线上平台：您可到以下平台为孩子借阅中文书籍 [https://libbyapp.com/search/nlb](https://libbyapp.com/search/nlb) [https://nlbsg.ebook.hyread.com.tw/index.jsp](https://nlbsg.ebook.hyread.com.tw/index.jsp)
