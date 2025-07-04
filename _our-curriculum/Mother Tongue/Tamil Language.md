@@ -9,12 +9,7 @@ variant: markdown
 
 ![](/images/tamil_vision.png)
 
-<strong style="color: blue;">Vision</strong>
-<br> We aim to build a strong foundation in our students in the mastering of Tamil Language and inculcate moral values.
-
-
-<strong style="color: blue;">Mission:</strong>
-<br> We provide a linguistically rich and vibrant cultural environment for students to master listening, speaking, reading, writing and communication skills in Tamil Language.
+![](/images/tl1.png)
 
 ![](/images/tamil_programme_highlights.png)
 
@@ -52,3 +47,4 @@ A glimpse of class activities .
 
 <div style="text-align: center;">     <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/K018WuC1dd4" height="315" width="560"></iframe> </div>
 ![](/images/tamil_links.png)
+![](/images/tl8.png)
