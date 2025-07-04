@@ -2,6 +2,7 @@
 title: English
 permalink: /departments/english-department/
 description: ""
+variant: markdown
 ---
 ![english vision](/images/english_vision.jpg)
 
@@ -16,17 +17,12 @@ To promote a positive attitude towards English learning in students while streng
 ![english programme highlights](/images/english_programme_highlights.jpg)
 
 <p style="font-size: 26px; color: blue; font-weight: bold;">Stellar Programme</p>
-Endeavour Primary School has implemented the national English language curriculum known as STELLAR (Strategies for English Language Learning and Reading). This initiative by the Ministry of Education  
-has been running well in the school since 2008.
+Endeavour Primary School has implemented the national English language curriculum known as STELLAR (Strategies for English Language Learning and Reading). This initiative by the Ministry of Education has been running well in the school since 2008.
 
-STELLAR places an emphasis on reading and enjoyment of the language. Thus, in place of English textbooks,  
-prescribed thematic story books are used to teach students the skills of reading, writing, listening and speaking.  
-The use of engaging stories helps to maintain the students’ interest in the language. The STELLAR Pedagogic Model  
-is made up of a few major teaching strategies.
+STELLAR places an emphasis on reading and enjoyment of the language. Thus, in place of English textbooks, prescribed thematic story books are used to teach students the skills of reading, writing, listening and speaking.  
+The use of engaging stories helps to maintain the students’ interest in the language. The STELLAR Pedagogic Model is made up of a few major teaching strategies.
 
-For each of these strategies, there will be a range of activities that will approach language both  
-‘holistically’ as well as in parts. This is where phonics, grammar, vocabulary, spelling and punctuation  
-can be taught explicitly. In this model, there is a weaving between ‘whole’ and ‘parts’ in the teaching and learning  
+For each of these strategies, there will be a range of activities that will approach language both ‘holistically’ as well as in parts. This is where phonics, grammar, vocabulary, spelling and punctuation can be taught explicitly. In this model, there is a weaving between ‘whole’ and ‘parts’ in the teaching and learning  
 of English.
 
 ![Stellar Programme](/images/Stellar%20Programme.jpg)
@@ -47,15 +43,13 @@ The Reading Remediation Programme (RRP) aims to provide support for P3 and P4 st
 <p style="font-size: 26px; color: blue; font-weight: bold;">Library Programme</p>
 Our Endeavour Media Resource Library has a full-time Library Assistant who sees to the day-to-day operation of the school library. English teachers take their students to the library and teach them about library etiquette and how to use the library effectively. Termly thematic activities are conducted in the library to improve readership. Every month, the top reader and the class with the highest readership from each level will be acknowledged.
 
-<p style="font-size: 26px; color: blue; font-weight: bold;">ALP – Nurturing Thinkers through Knowledge Building &amp; Thinking Routines</p>
-The Knowledge Building pedagogy is used in the teaching of Stimulus-Based Conversation. Students collaborate with one another to build on and expand their knowledge on a given theme through the Knowledge Forum. This platform encourages self-directed learning where pupils can post their views online and read their peers’ comments using specially designed Conversational Scaffolds. Through Knowledge Building pedagogy, our students have deepened their knowledge about the theme and are able to express their ideas coherently.
-
+<p style="font-size: 26px; color: blue; font-weight: bold;">Nurturing Thinkers through Thinking Routines</p>
 The English Department has incorporated Thinking Routines (TR) in various components in the teaching and learning of English. Some thinking routines such as See-Think-Wonder (STW), Think-Puzzle-Explore (TPE) and Zoom-In (ZI) enrich our students’ learning and enhances their learning processes. STW is widely used in the teaching of oral and compositions via the visual stimulus. TPE is used for grammar and vocabulary lessons and&nbsp; ZI is commonly used during the Big Book reading to promote rich discussions using visual clues to trigger thoughts. We believe strongly that these thinking routines help to develop thinking dispositions, interpretation and inference skills while exploring ideas. TRs also activate prior knowledge and uncover current understandings and correct misconceptions.
 
 ![ALP – Nurturing Thinkers through Knowledge Building &amp; Thinking Routines](/images/ALP%20–%20Nurturing%20Thinkers%20through%20Knowledge%20Building%20&amp;%20Thinking%20Routines.jpg)
 
 
-<p style="font-size: 26px; color: blue; font-weight: bold;">Every Child A Writer (ECAW) Programme</p>In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a platform in which all our students’ works are recognised. The Class Publication, in which we publish every pupil’s writing, is published online in our school’s website and Our Budding Writer’s Publication (booklet) seeks to celebrate the works of the outstanding writers in each class and level.
+<p style="font-size: 26px; color: blue; font-weight: bold;">Every Child A Writer (ECAW) Programme</p>In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a platform in which all our students’ works are recognised. Our Budding Writer’s Publication (booklet) seeks to celebrate the works of the outstanding writers in each class and level.
 
 <img style="width: 40%;" alt="Image" src="/images/Every%20Child%20A%20Writer%20(ECAW)%20Programme.jpg">
 
@@ -73,10 +67,6 @@ Positive attitude towards reading is achieved through a range of interesting act
 Our community partner, the National Library Board updates teachers and students on the current reading trends through our termly assembly sessions. To keep students informed of activities in the school library, our teachers introduce the planned reading activities and affirm students who have participated in these ongoing activities.
 
 ![Endeavour Reading Programme](/images/Endeavour%20Reading%20Programme_2.jpg)
-
-To fuel interest in reading, recess activities such as word games with creative craft work are organised. An annual parent workshop is conducted for P1 parents to equip them with strategies to engage their children in reading. Participants were highly engaged and the element of fun in these activities generated much curiosity and a deeper appreciation for reading.
-
-![Endeavour Reading Programme](/images/Endeavour%20Reading%20Programme.jpg)
 
 ![english links](/images/english_links.jpg)
 
