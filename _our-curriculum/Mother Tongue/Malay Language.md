@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
-![](/images/01.png)
+
+![](/images/malay_vision.jpg)![](/images/01.png)
+![](/images/malay_programme_highlights.jpg)
 ![](/images/2.png)
 ![](/images/3.png)
 ![](/images/04.png)
@@ -27,4 +29,5 @@ variant: markdown
 ![](/images/10.png)
 ![](/images/11.png)
 ![](/images/12.png)
+![](/images/malay_links.jpg)
 ![](/images/13.png)
