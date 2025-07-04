@@ -33,4 +33,4 @@ variant: markdown
 *   《知识网》线上学习平台 Ezhishi learning portal [https://www.ezhishi.net](https://www.ezhishi.net)
 *   国家图书馆线上平台：您可到以下平台为孩子借阅中文书籍 [https://libbyapp.com/search/nlb](https://libbyapp.com/search/nlb) [https://nlbsg.ebook.hyread.com.tw/index.jsp](https://nlbsg.ebook.hyread.com.tw/index.jsp)
 
-（Updated on 2 Jul 2025）
+（Updated on 4 Jul 2025）
