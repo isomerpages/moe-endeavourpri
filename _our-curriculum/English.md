@@ -19,8 +19,7 @@ To promote a positive attitude towards English learning in students while streng
 <p style="font-size: 26px; color: blue; font-weight: bold;">Stellar Programme</p>
 Endeavour Primary School has implemented the national English language curriculum known as STELLAR (Strategies for English Language Learning and Reading). This initiative by the Ministry of Education has been running well in the school since 2008.
 
-STELLAR places an emphasis on reading and enjoyment of the language. Thus, in place of English textbooks,  
-prescribed thematic story books are used to teach students the skills of reading, writing, listening and speaking.  
+STELLAR places an emphasis on reading and enjoyment of the language. Thus, in place of English textbooks, prescribed thematic story books are used to teach students the skills of reading, writing, listening and speaking.  
 The use of engaging stories helps to maintain the students’ interest in the language. The STELLAR Pedagogic Model  
 is made up of a few major teaching strategies.
 
