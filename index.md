@@ -14,6 +14,9 @@ sections:
         - title: MIMs Password Reset
           description: ""
           url: https://form.gov.sg/67e218f408dc2522e9d8555c
+        - title: Open House 2025
+          description: ""
+          url: https://sites.google.com/view/edp-openhouse/home
         - title: Parent's Briefing Resources
           description: ""
           url: /parents-hub/workshops-and-briefings/permalink/
