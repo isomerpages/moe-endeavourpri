@@ -68,10 +68,6 @@ Our community partner, the National Library Board updates teachers and students 
 
 ![Endeavour Reading Programme](/images/Endeavour%20Reading%20Programme_2.jpg)
 
-To fuel interest in reading, recess activities such as word games with creative craft work are organised. An annual parent workshop is conducted for P1 parents to equip them with strategies to engage their children in reading. Participants were highly engaged and the element of fun in these activities generated much curiosity and a deeper appreciation for reading.
-
-![Endeavour Reading Programme](/images/Endeavour%20Reading%20Programme.jpg)
-
 ![english links](/images/english_links.jpg)
 
 Dolch List –&nbsp;[www.sightwords.com/sight-words/dolch/](http://www.sightwords.com/sight-words/dolch/)
