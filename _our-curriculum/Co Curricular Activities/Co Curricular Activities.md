@@ -95,7 +95,7 @@ choosing a CCA for themselves.</p>
 <p>Information for parents:</p>
 <p><a href="https://drive.google.com/file/d/1ocXAzwePyulfigIClPQSHSNm7ltUi4Aq/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 3 CCA Schedule</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1vA2U-QX_b3XXMNsho3oQNVKVT2TJWxbE/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">CCA Teachers, Days &amp; Venue 2025</a>
+<p><a href="https://drive.google.com/file/d/1Imh8EOc0CF6eQdK8QFyiArdkPrwvQ4qq/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">CCA Teachers, Days &amp; Venue 2025</a>
 </p>
-<p><em>Updated as of 8 January 2025</em>
+<p><em>Updated as of 4 July 2025</em>
 </p>
