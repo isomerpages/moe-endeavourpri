@@ -19,7 +19,12 @@ variant: markdown
 ![](/images/CL_School_Website__2025__zip___10.png)
 ![](/images/CL_School_Website__2025__zip___11.png)
 ![](/images/CL_School_Website__2025__zip___12.png)
-![](/images/CL_School_Website__2025__zip___13.png)
+
+##### ![](/images/CL_School_Website__2025__zip___13.png)
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ILJrC5z0-fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 ![](/images/chinese_links.jpg)
 ![](/images/Screenshot_2025_07_02_at_2_55_10_PM.png)
 
