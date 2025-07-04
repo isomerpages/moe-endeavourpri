@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
+![](/images/chinese_vision.jpg)
 ![](/images/CL_School_Website__2025__zip___1.png)
+![](/images/chinese_programme_highlights.jpg)
 ![](/images/CL_School_Website__2025__zip___2.png)
 ![](/images/CL_School_Website__2025__zip___3.png)
 ![](/images/CL_School_Website__2025__zip___4.png)
@@ -18,8 +20,8 @@ variant: markdown
 ![](/images/CL_School_Website__2025__zip___11.png)
 ![](/images/CL_School_Website__2025__zip___12.png)
 ![](/images/CL_School_Website__2025__zip___13.png)
+![](/images/chinese_links.jpg)
 ![](/images/Screenshot_2025_07_02_at_2_55_10_PM.png)
-
 
 *   小学华文课外读物参考书目 (Recommended reading materials for P1- P6) [Click here](https://drive.google.com/file/d/1p6zAzCwzyhS4rzlkwd2bcdwEkXnJ1Ilp/view?usp=drive_link)
 *   List of Approved Dictionaries for use in PSLE: [seab-approveddictionaries.pdf](https://file.go.gov.sg/seab-approveddictionaries.pdf)
