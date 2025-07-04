@@ -23,7 +23,7 @@ variant: markdown
 ##### ![](/images/CL_School_Website__2025__zip___13.png)
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ILJrC5z0-fA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center;">     <iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/ILJrC5z0-fA" height="315" width="560"></iframe> </div>
 
 ![](/images/chinese_links.jpg)
 ![](/images/Screenshot_2025_07_02_at_2_55_10_PM.png)
