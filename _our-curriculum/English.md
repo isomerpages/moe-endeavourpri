@@ -2,6 +2,7 @@
 title: English
 permalink: /departments/english-department/
 description: ""
+variant: markdown
 ---
 ![english vision](/images/english_vision.jpg)
 
@@ -16,8 +17,7 @@ To promote a positive attitude towards English learning in students while streng
 ![english programme highlights](/images/english_programme_highlights.jpg)
 
 <p style="font-size: 26px; color: blue; font-weight: bold;">Stellar Programme</p>
-Endeavour Primary School has implemented the national English language curriculum known as STELLAR (Strategies for English Language Learning and Reading). This initiative by the Ministry of Education  
-has been running well in the school since 2008.
+Endeavour Primary School has implemented the national English language curriculum known as STELLAR (Strategies for English Language Learning and Reading). This initiative by the Ministry of Education has been running well in the school since 2008.
 
 STELLAR places an emphasis on reading and enjoyment of the language. Thus, in place of English textbooks,  
 prescribed thematic story books are used to teach students the skills of reading, writing, listening and speaking.  
