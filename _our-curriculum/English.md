@@ -49,7 +49,7 @@ The English Department has incorporated Thinking Routines (TR) in various compon
 ![ALP – Nurturing Thinkers through Knowledge Building &amp; Thinking Routines](/images/ALP%20–%20Nurturing%20Thinkers%20through%20Knowledge%20Building%20&amp;%20Thinking%20Routines.jpg)
 
 
-<p style="font-size: 26px; color: blue; font-weight: bold;">Every Child A Writer (ECAW) Programme</p>In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a platform in which all our students’ works are recognised. The Class Publication, in which we publish every pupil’s writing, is published online in our school’s website and Our Budding Writer’s Publication (booklet) seeks to celebrate the works of the outstanding writers in each class and level.
+<p style="font-size: 26px; color: blue; font-weight: bold;">Every Child A Writer (ECAW) Programme</p>In Endeavour Primary, we value all our students’ writing pieces. Our ECAW is a platform in which all our students’ works are recognised. Our Budding Writer’s Publication (booklet) seeks to celebrate the works of the outstanding writers in each class and level.
 
 <img style="width: 40%;" alt="Image" src="/images/Every%20Child%20A%20Writer%20(ECAW)%20Programme.jpg">
 
