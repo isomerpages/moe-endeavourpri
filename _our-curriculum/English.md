@@ -54,10 +54,22 @@ The English Department has incorporated Thinking Routines (TR) in various compon
 <img style="width: 40%;" alt="Image" src="/images/Every%20Child%20A%20Writer%20(ECAW)%20Programme.jpg">
 
 
-<p style="font-size: 26px; color: blue; font-weight: bold;">Harnessing Technology – Podcasting</p>
-We want our students to become self-directed and collaborative in their learning by harnessing technology to become confident users of the language. Our belief is that the move towards virtual learning will assist students in developing the 3Cs (Confidence, Curiosity &amp; Cooperation). Our lower primary students are introduced to the software Audacity. Our students do their own podcasting to improve oracy. This initiative serves as an alternative assessment to oral. This approach allows for self-directed learning and brings about improvement in students’ reading skills through peer and teacher assessment. Students are involved in reviewing their own performance through self-checklists as well. This increases their confidence to communicate better.
+<p style="font-size: 26px; color: blue; font-weight: bold;">Harnessing Technology</p>
+We want our students to become self-directed and collaborative in their learning by harnessing technology to become confident users of the language. Our belief is that the move towards virtual learning will assist students in developing the 3Cs (Confidence, Curiosity &amp; Cooperation). Pupils are encouraged to do podcasting, share their opinions, complete brainstorming for writing via Padlet including Sandbox, SLS Lesson packages, Mentimeter and School AI. Students are also introduced to Digital stories, grammar and vocabulary online games and quizzes. This approach allows for self-directed learning and brings about improvement in students’ language skills through peer and teacher assessment. Students are also involved in reviewing their own performance through self-checklists as well. This increases their confidence to communicate and learn from one another better.
 
 ![Harnessing Technology – Podcasting](/images/Harnessing%20Technology%20–%20Podcasting.jpg)
+
+<p style="font-size: 26px; color: blue; font-weight: bold;">Learning Journeys</p>
+Learning journeys to the Zoo, Bird Paradise and SEA Aquarium are organised. Students learn about animals’ unique adaptations to thrive in their habitat. The learning objectives are in line with the Stellar syllabus for our Primary 1 to Primary 3 lower primary students. They provide students with personal and meaningful experience before they work on describing factual or sensory details, applying rich vocabulary in their writing under Stellar Modified Learning Experiential Approach. They learn new knowledge in context by reflecting, gathering and selecting information presented to them during the guided tours. They will also organise the ideas learnt coherently and present using appropriate language features and structure for succinct presentations. These experiential learning journeys enhance the joy of learning the language.
+
+![](/images/Screenshot_2025_07_06_at_3_07_22_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_07_33_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_07_45_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_07_55_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_08_04_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_08_11_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_08_32_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_08_22_PM.png)
 
 <p style="font-size: 26px; color: blue; font-weight: bold;">Endeavour Reading Programme</p>
 Positive attitude towards reading is achieved through a range of interesting activities. Students visit the school library weekly during curriculum time and our teachers conduct reading sessions using guided readers to expand their reading diet. Thematic book displays and activities in the school are held to introduce students to books of different genres and themes. Students were highly engaged and the element of fun in these activities generated much curiosity
@@ -68,10 +80,18 @@ Our community partner, the National Library Board updates teachers and students 
 
 ![Endeavour Reading Programme](/images/Endeavour%20Reading%20Programme_2.jpg)
 
+<p style="font-size: 26px; color: blue; font-weight: bold;">English Competitions</p>
+Students are given the opportunities to display their oratorical skills and creative writing skills via competitions. Our students participate in the annual Wits &amp; Words Challenge and the Creative Writing Programme; both of which are organised by the Gifted Education Branch.
+
 ![english links](/images/english_links.jpg)
 
+
+Primary School Syallbus - [www.moe.gov.sg/primary/curriculum/syllabus](http://www.moe.gov.sg/primary/curriculum/syllabus)
+<br>
+British Council Kids - [https://learnenglishkids.britishcouncil.org/](https://learnenglishkids.britishcouncil.org/)
+<br>
 Dolch List –&nbsp;[www.sightwords.com/sight-words/dolch/](http://www.sightwords.com/sight-words/dolch/)
-
+<br>
 Starfall –&nbsp;[www.starfall.com](http://www.starfall.com/)&nbsp;
-
+<br>
 Cambridge Dictionary –&nbsp;[www.dictionary.cambridge.org/](https://dictionary.cambridge.org/)
