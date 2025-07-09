@@ -73,6 +73,9 @@ Our community partner, the National Library Board updates teachers and students 
 
 ![Endeavour Reading Programme](/images/Endeavour%20Reading%20Programme_2.jpg)
 
+<p style="font-size: 26px; color: blue; font-weight: bold;">English Competitions</p>
+Students are given the opportunities to display their oratorical skills and creative writing skills via competitions. Our students participate in the annual Wits &amp; Words Challenge and the Creative Writing Programme; both of which are organised by the Gifted Education Branch.
+
 ![english links](/images/english_links.jpg)
 
 Dolch List –&nbsp;[www.sightwords.com/sight-words/dolch/](http://www.sightwords.com/sight-words/dolch/)
