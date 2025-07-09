@@ -78,7 +78,7 @@ Students are given the opportunities to display their oratorical skills and crea
 
 ![english links](/images/english_links.jpg)
 
-Primary School Syallbus - [www.moe.gov.sg/primary/curriculum/syllabus](www.moe.gov.sg/primary/curriculum/syllabus)
+Primary School Syallbus - [www.moe.gov.sg/primary/curriculum/syllabus](http://www.moe.gov.sg/primary/curriculum/syllabus)
 <br>
 Dolch List –&nbsp;[www.sightwords.com/sight-words/dolch/](http://www.sightwords.com/sight-words/dolch/)
 <br>
