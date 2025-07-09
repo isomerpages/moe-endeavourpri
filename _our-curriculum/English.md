@@ -63,6 +63,13 @@ We want our students to become self-directed and collaborative in their learning
 Learning journeys to the Zoo, Bird Paradise and SEA Aquarium are organised. Students learn about animals’ unique adaptations to thrive in their habitat. The learning objectives are in line with the Stellar syllabus for our Primary 1 to Primary 3 lower primary students. They provide students with personal and meaningful experience before they work on describing factual or sensory details, applying rich vocabulary in their writing under Stellar Modified Learning Experiential Approach. They learn new knowledge in context by reflecting, gathering and selecting information presented to them during the guided tours. They will also organise the ideas learnt coherently and present using appropriate language features and structure for succinct presentations. These experiential learning journeys enhance the joy of learning the language.
 
 ![](/images/Screenshot_2025_07_06_at_3_07_22_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_07_33_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_07_45_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_07_55_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_08_04_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_08_11_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_08_32_PM.png)
+![](/images/Screenshot_2025_07_06_at_3_08_22_PM.png)
 
 <p style="font-size: 26px; color: blue; font-weight: bold;">Endeavour Reading Programme</p>
 Positive attitude towards reading is achieved through a range of interesting activities. Students visit the school library weekly during curriculum time and our teachers conduct reading sessions using guided readers to expand their reading diet. Thematic book displays and activities in the school are held to introduce students to books of different genres and themes. Students were highly engaged and the element of fun in these activities generated much curiosity
@@ -77,6 +84,7 @@ Our community partner, the National Library Board updates teachers and students 
 Students are given the opportunities to display their oratorical skills and creative writing skills via competitions. Our students participate in the annual Wits &amp; Words Challenge and the Creative Writing Programme; both of which are organised by the Gifted Education Branch.
 
 ![english links](/images/english_links.jpg)
+
 
 Primary School Syallbus - [www.moe.gov.sg/primary/curriculum/syllabus](http://www.moe.gov.sg/primary/curriculum/syllabus)
 <br>
