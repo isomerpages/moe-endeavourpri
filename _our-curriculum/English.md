@@ -59,6 +59,11 @@ We want our students to become self-directed and collaborative in their learning
 
 ![Harnessing Technology – Podcasting](/images/Harnessing%20Technology%20–%20Podcasting.jpg)
 
+<p style="font-size: 26px; color: blue; font-weight: bold;">Learning Journeys</p>
+We want our students to become self-directed and collaborative in their learning by harnessing technology to become confident users of the language. Our belief is that the move towards virtual learning will assist students in developing the 3Cs (Confidence, Curiosity &amp; Cooperation). Pupils are encouraged to do podcasting, share their opinions, complete brainstorming for writing via Padlet including Sandbox, SLS Lesson packages, Mentimeter and School AI. Students are also introduced to Digital stories, grammar and vocabulary online games and quizzes. This approach allows for self-directed learning and brings about improvement in students’ language skills through peer and teacher assessment. Students are also involved in reviewing their own performance through self-checklists as well. This increases their confidence to communicate and learn from one another better.
+
+![Harnessing Technology – Podcasting](/images/Harnessing%20Technology%20–%20Podcasting.jpg)
+
 <p style="font-size: 26px; color: blue; font-weight: bold;">Endeavour Reading Programme</p>
 Positive attitude towards reading is achieved through a range of interesting activities. Students visit the school library weekly during curriculum time and our teachers conduct reading sessions using guided readers to expand their reading diet. Thematic book displays and activities in the school are held to introduce students to books of different genres and themes. Students were highly engaged and the element of fun in these activities generated much curiosity
 
