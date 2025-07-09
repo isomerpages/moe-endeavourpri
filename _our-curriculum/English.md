@@ -78,8 +78,10 @@ Students are given the opportunities to display their oratorical skills and crea
 
 ![english links](/images/english_links.jpg)
 
+Primary School Syallbus - [www.moe.gov.sg/primary/curriculum/syllabus](www.moe.gov.sg/primary/curriculum/syllabus)
+<br>
 Dolch List –&nbsp;[www.sightwords.com/sight-words/dolch/](http://www.sightwords.com/sight-words/dolch/)
-
+<br>
 Starfall –&nbsp;[www.starfall.com](http://www.starfall.com/)&nbsp;
-
+<br>
 Cambridge Dictionary –&nbsp;[www.dictionary.cambridge.org/](https://dictionary.cambridge.org/)
