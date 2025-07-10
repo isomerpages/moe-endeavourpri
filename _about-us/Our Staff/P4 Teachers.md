@@ -38,10 +38,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Patimah Bte Abd Razak
-<br>
-<br><a href="mailto:siti_patimah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_patimah@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
