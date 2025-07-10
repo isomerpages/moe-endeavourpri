@@ -34,7 +34,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Ayuni Bte Aidil
 <br>
-<br>
+<br><a href="mailto: siti_ayuni_aidil@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_ayuni_aidil@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

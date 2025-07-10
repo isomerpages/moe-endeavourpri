@@ -58,7 +58,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Miss Meera Devi
 <br>
-<br>
+<br><a href="mailto:meera_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meera_devi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
