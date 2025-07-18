@@ -20,6 +20,8 @@ Students from primary 1 to 3 go through various activities to explore the design
 Animal enclosure prototype and roof top garden prototype
 
 ![](/images/Screenshot_2025_07_16_at_9_08_58_AM.png)
+![](/images/WhatsApp_Image_2025_07_18_at_11_17_23_AM__1_.jpg)
+![](/images/WhatsApp_Image_2025_07_18_at_11_17_23_AM.jpg)
 Nest prototype for birds
 
 Students in the primary 4 to 6 levels will apply the design thinking process to solve real world challenges related to sustainability and/or the community. These include our PlayMakers programme where students design and create objects using Strawbees and recycled items and also our music and animation programme where students apply skills acquired from different subjects (e.g. EL, Science, Music and Art) to create their own digital music and stop-motion animation to promote sustainability or address a sustainability related issue.
