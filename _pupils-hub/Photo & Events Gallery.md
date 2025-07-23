@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://youtu.be/hUC18ZsTzdQ">► Rainbow Day 2 - 2025</a></li>
 			<li><a href="https://photos.app.goo.gl/sTC5x8RQbHzieBwr6">► Sports Day - 2025 Photos</a></li>
 			<li><a href="https://photos.app.goo.gl/Bekcxnpa1wNBf12P9">► International Friendship Day and Rainbow Day - 2025 Photos</a></li>
 			<li><a href="https://photos.app.goo.gl/HkrW61ik1HWZELxT9">► Hari Raya Celebration - 2025 Photos</a></li>	
