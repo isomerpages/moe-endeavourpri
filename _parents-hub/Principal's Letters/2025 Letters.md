@@ -31,6 +31,5 @@ third_nav_title: Principal's Letters
 		<tr><td style="width: 50%; border: 1px solid black;">
     	<a href="https://drive.google.com/file/d/13HYI8RF6XFVDYD3JIWYpDIaUs2T56vSx/view?usp=sharing">P's letter to Parents - Jan 2025.pdf</a>
       </td>
-      
 		    </tr>
   </tbody></table>
