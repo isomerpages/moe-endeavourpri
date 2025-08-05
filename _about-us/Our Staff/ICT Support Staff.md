@@ -1,6 +1,6 @@
 ---
-title: ICT MRL Support Staff
-permalink: /ict-mrl-support-staff/
+title: ICT Support Staff
+permalink: /ict-support-staff/
 description: ""
 third_nav_title: Our Staff
 variant: tiptap
