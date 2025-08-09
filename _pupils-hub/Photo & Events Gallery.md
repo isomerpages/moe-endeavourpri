@@ -49,6 +49,7 @@ variant: markdown
 		<ul class="link-columns">
 			<li><a href="https://youtu.be/Vsspv0VOJ18">► Rainbow Day and National Day Concert - 2025</a></li>
 			<li><a href="https://youtu.be/5kytl4mI89I">► Prefects Investiture - 2025</a></li>
+					<li><a href="https://photos.app.goo.gl/zzRsA8kS3NfcMuKZ7">► NE Show - 2025 Photos</a></li>
 			<li><a href="https://youtu.be/hUC18ZsTzdQ">► Rainbow Day 2 - 2025</a></li>
 			<li><a href="https://photos.app.goo.gl/sTC5x8RQbHzieBwr6">► Sports Day - 2025 Photos</a></li>
 			<li><a href="https://photos.app.goo.gl/Bekcxnpa1wNBf12P9">► International Friendship Day and Rainbow Day - 2025 Photos</a></li>
