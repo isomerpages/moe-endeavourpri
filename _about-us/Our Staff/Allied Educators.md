@@ -57,19 +57,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SENO (Special Educational Needs Officer)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Stephanie Malar d/o Abu Bakar</p>
-<p></p>
-<p><a href="mailto:Stephanie_malar_alakesan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stephanie_malar_alakesan</a>
-<a href="mailto:stephanie_malar_alakesan@moe.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>School Counsellor</strong>
 </p>
 </td>
