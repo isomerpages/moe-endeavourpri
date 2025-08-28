@@ -60,7 +60,8 @@ variant: markdown
 			<li><a href="https://photos.app.goo.gl/SjpTWGL7Hw372Dpw9">► Chinese New Year - 2025 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/uGUnsrXTHg72Qnut6">► P1 First Day in School - 2025 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/oKkcUEfAe24o1BxG6">► P1 Orientation - 2024 Photos</a></li>	
-			<li><a href="https://photos.app.goo.gl/e7r8vhNxrD6PVvtVA">► P6 Graduation - 2024 Photos</a></li>	
+			<li><a href="https://photos.app.goo.gl/e7r8vhNxrD6PVvtVA">► P6 Graduation - 2024 Photos</a></li>
+				<li><a href="https://youtube.com/live/AbJ1WK59QKM">► P6 Graduation - 2024</a></li>	
 			<li><a href="https://photos.app.goo.gl/JR12nYcShgbRtszF6">► Deepavali Celebration - 2024 Photos</a></li>	
 			<li><a href="https://www.youtube.com/playlist?list=PL7eIsoEkqcCDauG2q3L3fwoJmC58-_HmF">► Rainbow Day 3</a></li>	     <li><a href="https://photos.app.goo.gl/rEeGDcbZvA99FWV7A">► Rainbow Day 3 - 2024 Photos</a></li>	
 			<li><a href="https://photos.app.goo.gl/sobfpdCC5nUNZUCv9">► Children's Day Celebration - 2024 Photos</a></li>	
