@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://photos.app.goo.gl/fXybfVT2FWsqDb9r7">►  Lower Primary Games Day - 2025 Photos</a></li>
 			<li><a href="https://youtu.be/imL-VBQNLCg">►  Lower Primary Games Day Primary 1</a></li>
 			<li><a href="https://youtu.be/K446enFpwfM">►  Lower Primary Games Day Primary 2</a></li>
 				<li><a href="https://youtu.be/tsUEbEW4FGI">►  Lower Primary Games Day Primary 3</a></li>
