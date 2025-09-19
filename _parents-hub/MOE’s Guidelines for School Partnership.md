@@ -4,4 +4,7 @@ permalink: /moe-s-guidelines-for-school-partnership/
 variant: markdown
 description: ""
 ---
-###### Please click  [here](https://drive.google.com/file/d/1OGDYPkepwBGMTf_nUS8wQ6NcEtWnn010/view?usp=sharing) to view the Guidelines for School-Home Partnership.
+
+![](/images/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_1.png)
+
+![](/images/Annex_A___Refreshed_Guidelines_for_School_Home_Partnership_Page_2.png)
