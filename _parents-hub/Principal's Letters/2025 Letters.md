@@ -10,7 +10,7 @@ third_nav_title: Principal's Letters
 <table style="width: 700px; font-size: 17px; border: 1px solid black; table-layout: fixed;">
   <tbody>
 		<tr><td style="width: 50%; border: 1px solid black;">
-        <a href="https://youtu.be/1Yw8McF7Qyo">P's letter to Parents - Oct 2025.pdf</a>
+        <a href="https://drive.google.com/file/d/1LfBzwY_RMxmXbBECPzFNWWydAz7WhQCZ/view?usp=sharing">P's letter to Parents - Oct 2025.pdf</a>
       </td>
 			<td style="width: 50%; border: 1px solid black;"> 
       </td>
