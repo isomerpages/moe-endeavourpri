@@ -36,6 +36,14 @@ variant: tiptap
 <p>Mr Yap Meng Han</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Desktop Engineer 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Juhaimin Bin Jumahari</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
