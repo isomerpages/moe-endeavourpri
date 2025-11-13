@@ -47,6 +47,9 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+					<li><a href="https://photos.app.goo.gl/2bWZLqhaqzX3ZEiU7">►  P6 PLT Showcase - 2025 Photos</a></li>
+			<li><a href="https://photos.app.goo.gl/vxbYWpL91KFG2mLX7">►  P6 Interclass Games - 2025 Photos</a></li>
+				<li><a href="https://photos.app.goo.gl/h85F8q9xLKxSAYLq8">►  Deepavali Celebration - 2025 Photos</a></li>
 			<li><a href="https://youtu.be/P2G7unMYQ7k">►  Deepavali Celebration - 2025</a></li>
 			<li><a href="https://youtu.be/1Yw8McF7Qyo">►  P1 Rainbow Day &amp; Children's Day Celebration - 2025</a></li>
 			<li><a href="https://photos.app.goo.gl/fXybfVT2FWsqDb9r7">►  Lower Primary Games Day - 2025 Photos</a></li>
