@@ -13,8 +13,9 @@ third_nav_title: Workshops and Briefings
              <br>
                          <br>
             <a href="https://drive.google.com/file/d/1CLrQ6ky2J_pPn1CbxdK_Xixsp7I32dJF/view?usp=sharing">Admin Briefing to Parents (P1 Orientation)</a>
-             <br><br> 
-							</b></td><td style="border:1px solid black; width:350px;">
+             <br><br>  <a href="https://go.gov.sg/edp-primary1-2026">Endeavour Primary School P1 2025 (Website)</a><br>
+							</b>
+	</td><td style="border:1px solid black; width:350px;">
    <strong style="color: black; font-size: 18;"> Parents' briefing slides on 16th May 2025</strong>
              <br>
                          <br>
