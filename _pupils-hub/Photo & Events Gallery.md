@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://photos.app.goo.gl/f9qSzEX1AFoaM7hEA">►  P6 Graduation Ceremony - 2025 Photos</a></li>
 			<li><a href="https://youtube.com/live/i7ufVitK5qA?feature=share">►  P6 Graduation Ceremony - 2025</a></li>
 					<li><a href="https://photos.app.goo.gl/2bWZLqhaqzX3ZEiU7">►  P6 PLT Showcase - 2025 Photos</a></li>
 			<li><a href="https://photos.app.goo.gl/vxbYWpL91KFG2mLX7">►  P6 Interclass Games - 2025 Photos</a></li>
