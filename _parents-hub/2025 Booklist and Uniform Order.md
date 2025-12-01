@@ -17,7 +17,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1YEdPuSWataUKMgFiNb2TLvc3h2Ze52wE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
+<p><a href="https://drive.google.com/file/d/12-JodhPWulRQbq1PKz6BjSDGIzsqhJdH/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
