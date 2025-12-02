@@ -4,8 +4,7 @@ permalink: /general-information/permalink/schoolcanteenadvertisement/
 variant: markdown
 description: ""
 ---
-<div>
-<input type="hidde">
+
 <table style="minwidth: 75px; font-size: 17px; border: 1px solid black; table-layout: fixed;">
   <tbody>
 		 <tr><td style="width: 50%; border: 1px solid black; background-color: #f1f1f1;">
@@ -102,4 +101,3 @@ Singapore Food Agency (SFA).</p>
 <p>&nbsp;Shortlisted applicants will be notified for an interview and will
 be required to provide food sampling for the School Canteen Selection Committee
 at the applicant's own expense.</p>
-</div>
