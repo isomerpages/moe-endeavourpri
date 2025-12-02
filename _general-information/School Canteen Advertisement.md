@@ -4,8 +4,7 @@ permalink: /general-information/permalink/schoolcanteenadvertisement/
 variant: markdown
 description: ""
 ---
-<div hidden="">
-<input type="hidden">
+
 <table style="minwidth: 75px; font-size: 17px; border: 1px solid black; table-layout: fixed;">
   <tbody>
 		 <tr><td style="width: 50%; border: 1px solid black; background-color: #f1f1f1;">
@@ -19,15 +18,15 @@ description: ""
 <tr><td style="width: 50%; border: 1px solid black;">
        <p>Malay Noodles Stall</p>
       </td>
-			<td style="width: 50%; border: 1px solid black;">  <p>9 May 2025</p>
+			<td style="width: 50%; border: 1px solid black;">  <p>12 December 2025</p>
       </td>
-		<td style="width: 50%; border: 1px solid black;">  <p>To provide Malay noodle</p>
+		<td style="width: 50%; border: 1px solid black;">  <p>To provide Malay noodles dishes</p>
       </td>
 		    </tr>
   </tbody></table>
 
 <p>We are a single session school and have an estimated school enrolment
-of 1317 students and 120 staff.</p>
+of 1300 students and 120 staff.</p>
 <h3>Application Procedure</h3>
 <p>1. Download and complete the application form.
 You may also request for a hardcopy from the School’s General Office.</p>
@@ -102,4 +101,3 @@ Singapore Food Agency (SFA).</p>
 <p>&nbsp;Shortlisted applicants will be notified for an interview and will
 be required to provide food sampling for the School Canteen Selection Committee
 at the applicant's own expense.</p>
-</div>
