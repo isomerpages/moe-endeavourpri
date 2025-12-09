@@ -4,7 +4,6 @@ permalink: /general-information/permalink/schoolcanteenadvertisement/
 variant: markdown
 description: ""
 ---
-
 <table style="minwidth: 75px; font-size: 17px; border: 1px solid black; table-layout: fixed;">
   <tbody>
 		 <tr><td style="width: 50%; border: 1px solid black; background-color: #f1f1f1;">
@@ -18,7 +17,7 @@ description: ""
 <tr><td style="width: 50%; border: 1px solid black;">
        <p>Malay Noodles Stall</p>
       </td>
-			<td style="width: 50%; border: 1px solid black;">  <p>12 December 2025</p>
+			<td style="width: 50%; border: 1px solid black;">  <p>26 December 2025</p>
       </td>
 		<td style="width: 50%; border: 1px solid black;">  <p>To provide Malay noodles dishes</p>
       </td>
