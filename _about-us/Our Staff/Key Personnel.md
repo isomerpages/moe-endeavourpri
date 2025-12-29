@@ -158,6 +158,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD (ICT)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Pauline</strong>
+<br>
+<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -259,18 +271,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Information and Communication Technology [Internal HOD ICT])</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Teo Pauline</strong>
-<br>
-<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Subject Head (Student Leadership)</strong>
 </p>
 </td>
@@ -307,13 +307,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Co-curricular Activities [CCA]/ Physical Education [PE])</strong>
+<p><strong>Subject Head (Co-curricular Activities [CCA]/ Physical Education [PE] - Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Suhardi Bin Marino</strong>
+<p><strong>Mr Tan Jun Eng Bryse</strong>
 <br>
-<br><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhardi_marino@moe.edu.sg</a>
+<br><a href="mailto:tan_jun_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_eng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head (ICT - Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Eng Cui Shan</strong>
+</p>
+<p></p>
+<p><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -331,6 +344,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Level Head (Mathematics)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Kai Ling</strong>
+<br>
+<br><a href="mailto:teo_kai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kai_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Lead Teacher (Mathematics) </strong>
 <br>
 </p>
@@ -340,18 +365,6 @@ variant: tiptap
 <br>
 </p>
 <p><a href="mailto:jahangeer_b_mohamed_jahabar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jahangeer_b_mohamed_jahabar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lead Teacher (Science)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Raveendran Pavithra</strong>
-<br>
-<br><a href="mailto:raveendran_pavithra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raveendran_pavithra@schools.gov.sg</a>
 </p>
 </td>
 </tr>
