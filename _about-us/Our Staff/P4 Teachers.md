@@ -99,11 +99,6 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Ali Bin Abd Rahman
-<br>
-<br><a href="mailto:mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ali@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Loh Cai Ying
 <br>
 <br><a href="mailto:loh_cai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_cai_ying@moe.edu.sg</a>
