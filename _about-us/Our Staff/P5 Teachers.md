@@ -39,6 +39,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Annemarie Jacob Israel
+<br>
+<br><a href="mailto:annemarie_jacob_israel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annemarie_jacob_israel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,6 +62,11 @@ variant: tiptap
 <p></p>
 <p><a href="mailto:vellasamy_rasandran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vellasamy_rasandran_a@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Fiona Ho Kok Luei
+<br>
+<br><a href="mailto:ho_kok_luei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kok_luei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -68,10 +78,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Jiajia
-<br>
-<br><a href="mailto:wang_jiajia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jiajia_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
