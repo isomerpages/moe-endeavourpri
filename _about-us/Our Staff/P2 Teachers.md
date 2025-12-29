@@ -93,7 +93,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Tian Zhe
+<br>
+<br><a href="mailto:tian_zhe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tian_zhe@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
