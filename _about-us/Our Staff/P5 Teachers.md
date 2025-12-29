@@ -104,6 +104,8 @@ variant: tiptap
 <br>
 <br><a href="mailto:namdi_b_salleh@edu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">namdi_b_salleh@edu.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Siti Suhaida Bte Surir</p>
 </td>
 </tr>
 <tr>
@@ -117,6 +119,11 @@ variant: tiptap
 <p>Mrs Chia-Tjen Sak Tju Cindy
 <br>
 <br><a href="mailto:chia-_tjen_sak_tju@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@schools.gov.sg</a>
+</p>
+<p></p>
+<p>Mr Don Tay Chin Boon
+<br>
+<br><a href="mailto:tay_chin_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chin_boon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
