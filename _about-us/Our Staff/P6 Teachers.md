@@ -54,6 +54,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:adriel_ow_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adriel_ow_yong@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mr Muhammad Aidilsofyan
+<br>
+<br><a href="mailto:Muhammad_Aidilsofyan_Abd_RAHMAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidilsofyan_abdul_rahman@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ramanan Ramadoss
