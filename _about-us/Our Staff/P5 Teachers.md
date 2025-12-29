@@ -121,7 +121,10 @@ variant: tiptap
 <p>P5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Agnes Tan Mui Kheng</p>
 <p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_mui_kheng_a@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Don Tay Chin Boon
