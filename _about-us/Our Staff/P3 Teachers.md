@@ -75,6 +75,11 @@ variant: tiptap
 <p></p>
 <p><a href="mailto:mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_sani@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mr Suhardi Bin Marino</p>
+<p></p>
+<p><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>suhardi_marino@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -106,10 +111,7 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jayapriya Kanagasundram</p>
 <p></p>
-<p><a href="mailto:jayapriya_kanagasundram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayapriya_kanagasundram@moe.edu.sg</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Ruo Lin Doreen
@@ -124,8 +126,9 @@ variant: tiptap
 <br>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suhardi Bin Marino</p>
-<p><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhardi_marino@moe.edu.sg</a>
+<p>Mdm Zheng Li
+<br>
+<br><a href="mailto:zheng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_li@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
