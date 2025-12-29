@@ -100,12 +100,22 @@ variant: tiptap
 <p>
 <br><a href="mailto:lim_hui_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_qi@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mr Mohammad Zulkiffly Zainal
+<br>
+<br><a href="mailto:mohammad_zulkiffly_bin_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_zulkiffly_bin_zainal@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kee Loi Seng
 <br>
 </p>
 <p><a href="mailto:kee_loi_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kee_loi_seng@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Ms Eng Cui Shan
+<br>
+<br><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -136,6 +146,11 @@ variant: tiptap
 <p>Mdm Salinah Bte Sudarmo
 <br>
 <br><a href="mailto:salinah_sudarmo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salinah_sudarmo@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mr Bryse Tan Jun Eng
+<br>
+<br><a href="mailto:tan_jun_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_eng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
