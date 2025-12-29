@@ -87,6 +87,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sindhu Rathakrishnan</p>
+<p></p>
+<p><a href="mailto:sindhu_rathakrishnan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sindhu_rathakrishnan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Poh Bee
