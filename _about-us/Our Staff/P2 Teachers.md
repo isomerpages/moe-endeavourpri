@@ -122,9 +122,9 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Shao Lan
+<p>Ms Thamayanthi d/o Chillayah
 <br>
-<br><a href="mailto:lim_shao_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shao_lan@moe.edu.sg</a>
+<br><a href="mailto:thamayanthi_chillayah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thamayanthi_chillayah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,9 +140,9 @@ variant: tiptap
 <br>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Govindarajoo Geetha
+<p>Ms Ooi Guat Lan
 <br>
-<br><a href="mailto:govindarajoo_geetha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">govindarajoo_geetha@moe.edu.sg</a>
+<br><a href="mailto:ooi_guat_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ooi_guat_lan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
