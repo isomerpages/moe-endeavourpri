@@ -35,11 +35,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Li Yen
-<br>
-<br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Annemarie Jacob Israel
 <br>
 <br><a href="mailto:annemarie_jacob_israel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annemarie_jacob_israel@moe.edu.sg</a>
