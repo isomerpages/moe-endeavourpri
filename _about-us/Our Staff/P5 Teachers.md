@@ -70,10 +70,16 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Adriel Ow Yong
+<br>
+<br><a href="mailto:adriel_ow_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adriel_ow_yong@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Salinah Bte Sudarmo
+<br>
+<br><a href="mailto:salinah_sudarmo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salinah_sudarmo@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
