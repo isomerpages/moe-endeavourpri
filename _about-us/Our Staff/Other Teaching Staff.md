@@ -81,6 +81,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Rayshaun Gan Wei Hern</p>
+<p></p>
+<p><a href="mailto:rayshaun_gan_wei_hern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rayshaun_gan_wei_hern@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
