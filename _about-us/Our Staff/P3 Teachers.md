@@ -65,7 +65,10 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Teo Kai Ling</p>
 <p></p>
+<p><a href="mailto:teo_kai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kai_ling@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ida Ruyani Bte Snin</p>
