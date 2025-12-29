@@ -76,6 +76,11 @@ variant: tiptap
 <br>
 <br><a rel="noopener noreferrer nofollow" target="_blank">koh_ee_ee@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Cynthia Ong Gek Lin
+<br>
+<br><a href="mailto:ong_gek_lin_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_gek_lin_cynthia@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Nur Hajjar
