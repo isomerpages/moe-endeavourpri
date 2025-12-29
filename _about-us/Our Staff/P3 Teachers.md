@@ -65,17 +65,9 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loo Lai Yin
-<br>
-<br><a href="mailto:loo_lai_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_lai_yin@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Sani Bin Mohd Hafid</p>
-<p></p>
-<p><a href="mailto:mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_sani@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mr Suhardi Bin Marino</p>
 <p></p>
 <p><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>suhardi_marino@moe.edu.sg</u></a>
@@ -132,7 +124,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Azemi Bin Manap
+<br>
+<br><a href="mailto:azemi_manap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azemi_manap@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
