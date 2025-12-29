@@ -47,10 +47,7 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rebecca Francis
-<br>
-<br><a href="mailto:rebecca_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_francis@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Meera Devi
@@ -107,9 +104,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ramadhan s/o Isahaak Piperdy
+<p>Mdm Ho Ruo Lin Doreen
 <br>
-<br><a href="mailto:ramadhan_isaahak_piperdy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramadhan_isaahak_piperdy@moe.edu.sg</a>
+<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -124,9 +121,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Farah Adibah Bte Johari</p>
-<p><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
