@@ -77,6 +77,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:annemarie_jacob_israel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annemarie_jacob_israel@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mr Jeremy Tan Jian'an
+<br>
+<br><a href="mailto:tan_jianan_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jianan_jeremy@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Fiona Ho Kok Luei
