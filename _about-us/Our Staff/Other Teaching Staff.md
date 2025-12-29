@@ -70,6 +70,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kavitha Kandeepan</p>
+<p></p>
+<p><a href="mailto:kanvitha_kandeepan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kanvitha_kandeepan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -78,6 +81,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Rayshaun Gan Wei Hern</p>
+<p></p>
+<p><a href="mailto:rayshaun_gan_wei_hern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rayshaun_gan_wei_hern@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,17 +94,6 @@ variant: tiptap
 <p>Mdm Claire Tan E Peng
 <br>
 <br><a href="mailto:claire_tan_e_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">claire_tan_e_peng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Velllasamy Rasandran</p>
-<p></p>
-<p><a href="mailto:vellasamy_rasandran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vellasamy_rasandran_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>

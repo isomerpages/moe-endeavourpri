@@ -72,6 +72,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ida Ruyani Bte Snin</p>
+<p></p>
+<p><a href="mailto:ida_ruyani_snin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ida_ruyani_snin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
