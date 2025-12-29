@@ -32,7 +32,10 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Wong Lin Hui
+<br>
+<br><a href="mailto:wong_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lin_hui@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lin Chee Keong
@@ -84,11 +87,16 @@ variant: tiptap
 <br>
 <br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohd_noor_a@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Yang Shiya</p>
+<p></p>
+<p><a href="mailto:yang_shiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_shiya@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Juliana Woo Xueyi</p>
+<p>Mr Selwyn Lim</p>
 <p></p>
-<p><a href="mailto:juliana_woo_xueyi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_woo_xueyi_a@moe.edu.sg</a>
+<p><a href="mailto:selwyn_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selwyn_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
