@@ -92,12 +92,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kee Loi Seng
-<br>
-</p>
-<p><a href="mailto:kee_loi_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kee_loi_seng@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Eng Cui Shan
 <br>
 <br><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg</a>
