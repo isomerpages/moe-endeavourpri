@@ -32,7 +32,10 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Zhang Yin</p>
 <p></p>
+<p><a href="mailto:zhang_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Annemarie Jacob Israel
