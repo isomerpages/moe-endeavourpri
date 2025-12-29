@@ -61,8 +61,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Khairunnisah d/o Abu Bakar
-<br>
+<p>Ms Khairunnisah d/o Abu Bakar</p>
+<p></p>
+<p><a href="mailto:khairunnisah_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisah_abu_bakar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
