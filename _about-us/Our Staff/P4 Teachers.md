@@ -51,6 +51,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:loh_cai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_cai_ying@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Rebecca Francis
+<br>
+<br><a href="mailto:rebecca_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_francis@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Amirul Hakim Bin Zailanee
@@ -93,6 +98,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Miss E Vidtheya</p>
+<p></p>
+<p><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -125,9 +135,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Kai Ling</p>
-<p>
-<br><a href="mailto:teo_kai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kai_ling@moe.edu.sg</a>
+<p>Ms Farah Adibah Bte Johari</p>
+<p></p>
+<p><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
