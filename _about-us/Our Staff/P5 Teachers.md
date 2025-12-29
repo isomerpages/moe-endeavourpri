@@ -32,10 +32,7 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sangeetha d/o Arumugam
-<br>
-<br><a href="mailto:sangeetha_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sangeetha_arumugam@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Li Yen
@@ -50,9 +47,9 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Aidilsofyan
+<p>Mr Mohammad Ridzal Bin Md Ajis
 <br>
-<br><a href="mailto:Muhammad_Aidilsofyan_Abd_RAHMAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidilsofyan_abdul_rahman@moe.edu.sg</a>
+<br><a href="mailto:mohammad_ridzal_mohd_ajis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_ridzal_mohd_ajis@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,10 +65,7 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeremy Tan Jian'an
-<br>
-<br><a href="mailto:tan_jianan_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jianan_jeremy@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wang Jiajia
@@ -85,16 +79,13 @@ variant: tiptap
 <p>P5 Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Zulkiffly Zainal
-<br>
-<br><a href="mailto:mohammad_zulkiffly_bin_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_zulkiffly_bin_zainal@moe.edu.sg</a>
+<p>Mrs Jayapriya Kanagasundram</p>
+<p></p>
+<p><a href="mailto:jayapriya_kanagasundram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayapriya_kanagasundram@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eng Cui Shan
-<br>
-<br><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -120,10 +111,7 @@ variant: tiptap
 <p>P5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Bryse Tan Jun Eng
-<br>
-<br><a href="mailto:tan_jun_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_eng@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Chia-Tjen Sak Tju Cindy
