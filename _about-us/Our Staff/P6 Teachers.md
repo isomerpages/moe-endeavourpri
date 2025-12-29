@@ -78,11 +78,6 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Annemarie Jacob Israel
-<br>
-<br><a href="mailto:annemarie_jacob_israel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">annemarie_jacob_israel@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mr Jeremy Tan Jian'an
 <br>
 <br><a href="mailto:tan_jianan_jeremy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jianan_jeremy@moe.edu.sg</a>
@@ -92,6 +87,11 @@ variant: tiptap
 <p>Ms Fiona Ho Kok Luei
 <br>
 <br><a href="mailto:ho_kok_luei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kok_luei@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Wang Jiajia
+<br>
+<br><a href="mailto:wang_jiajia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jiajia_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
