@@ -38,9 +38,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Poh Bee
+<p>Mdm Ng Li Yen
 <br>
-<br><a href="mailto:tan_poh_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_bee@moe.edu.sg</a>
+<br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -50,11 +50,6 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Adriel Ow Yong
-<br>
-<br><a href="mailto:adriel_ow_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">adriel_ow_yong@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mr Muhammad Aidilsofyan
 <br>
 <br><a href="mailto:Muhammad_Aidilsofyan_Abd_RAHMAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidilsofyan_abdul_rahman@moe.edu.sg</a>
@@ -84,11 +79,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Ho Kok Luei
-<br>
-<br><a href="mailto:ho_kok_luei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kok_luei@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Wang Jiajia
 <br>
 <br><a href="mailto:wang_jiajia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jiajia_a@moe.edu.sg</a>
@@ -157,6 +147,11 @@ variant: tiptap
 <p>Mdm Agnes Tan Mui Kheng</p>
 <p></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_mui_kheng_a@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mrs Chia-Tjen Sak Tju Cindy
+<br>
+<br><a href="mailto:chia-_tjen_sak_tju@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@schools.gov.sg</a>
 </p>
 </td>
 </tr>
