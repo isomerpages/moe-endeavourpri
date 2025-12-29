@@ -94,6 +94,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:nadia_awalluddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_awalluddin@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Shahana Mol
+<br>
+<br><a href="mailto:shahana_mol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahana_mol@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Tian Zhe
@@ -133,7 +138,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tok Chai Leng</p>
 </td>
 </tr>
 <tr>
