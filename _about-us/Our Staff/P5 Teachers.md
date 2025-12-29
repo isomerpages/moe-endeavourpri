@@ -56,11 +56,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Velllasamy Rasandran</p>
-<p></p>
-<p><a href="mailto:vellasamy_rasandran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vellasamy_rasandran_a@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Fiona Ho Kok Luei
 <br>
 <br><a href="mailto:ho_kok_luei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kok_luei@moe.edu.sg</a>
