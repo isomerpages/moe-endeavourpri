@@ -114,10 +114,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Phang Huey Fen
+<p>Mdm Pang Wan Ching
 <br>
-<br><a href="mailto:phang_huey_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phang_huey_fen@moe.edu.sg</a>
+<br><a href="mailto:pang_wan_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_wan_ching@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -132,10 +133,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Bte Mohd Ata
-<br>
-<br><a href="mailto:fauziah_mohamed_ata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ata@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
