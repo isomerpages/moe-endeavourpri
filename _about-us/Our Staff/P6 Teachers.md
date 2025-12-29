@@ -32,9 +32,9 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Valliammai d/o Nagappan
+<p>Ms Sangeetha d/o Arumugam
 <br>
-<br><a href="mailto:valliammai_nagappan_sekar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valliammai_nagappan_sekar@moe.edu.sg</a>
+<br><a href="mailto:sangeetha_arumugam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sangeetha_arumugam@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -64,6 +64,11 @@ variant: tiptap
 <p>Mr Ramanan Ramadoss
 <br>
 <br><a href="mailto:ramanan_ramadoss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramanan_ramadoss@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mdm Valliammai d/o Nagappan
+<br>
+<br><a href="mailto:valliammai_nagappan_sekar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valliammai_nagappan_sekar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -96,11 +101,6 @@ variant: tiptap
 <br>Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Hui Qi</p>
-<p>
-<br><a href="mailto:lim_hui_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_qi@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mr Mohammad Zulkiffly Zainal
 <br>
 <br><a href="mailto:mohammad_zulkiffly_bin_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_zulkiffly_bin_zainal@moe.edu.sg</a>
@@ -125,9 +125,9 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Don Tay Chin Boon
+<p>Mrs Mann-Oh Hui Chan Keline
 <br>
-<br><a href="mailto:tay_chin_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chin_boon@moe.edu.sg</a>
+<br><a href="mailto:oh_hui_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_hui_chan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
