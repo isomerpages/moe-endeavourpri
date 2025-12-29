@@ -32,7 +32,10 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Reena Shukla d/o Prempal Shuka</p>
 <p></p>
+<p><a href="mailto:reena_shukla_prempal_shukal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>reena_shukla_prempal_shukal@moe.edu.sg</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamad Zaidi Bin Hasbollah</p>
