@@ -62,11 +62,6 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Azemi Bin Manap
-<br>
-<br><a href="mailto:azemi_manap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azemi_manap@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Loo Lai Yin
 <br>
 <br><a href="mailto:loo_lai_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_lai_yin@moe.edu.sg</a>
@@ -113,6 +108,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:mohamed_ali@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_ali@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Loh Cai Ying
+<br>
+<br><a href="mailto:loh_cai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_cai_ying@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ramadhan s/o Isahaak Piperdy
@@ -127,7 +127,10 @@ variant: tiptap
 <br>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ramanan Ramadoss
+<br>
+<br><a href="mailto:ramanan_ramadoss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramanan_ramadoss@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Farah Adibah Bte Johari</p>
