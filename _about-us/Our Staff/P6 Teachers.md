@@ -56,11 +56,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ramanan Ramadoss
-<br>
-<br><a href="mailto:ramanan_ramadoss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramanan_ramadoss@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Valliammai d/o Nagappan
 <br>
 <br><a href="mailto:valliammai_nagappan_sekar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valliammai_nagappan_sekar@moe.edu.sg</a>
