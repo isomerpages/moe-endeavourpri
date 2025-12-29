@@ -30,10 +30,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Receptionist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hasnah Bte Ahmad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Dental Therapist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Wei Wei</p>
+<p>Ms Selina Liew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Lab Technician</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Teck Neo Kim</p>
 </td>
 </tr>
 </tbody>
