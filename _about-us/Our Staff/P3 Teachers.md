@@ -50,12 +50,12 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms V K Aswini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Meera Devi
-<br>
-<br><a href="mailto:meera_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meera_devi@moe.edu.sg</a>
+<p>Mr Suhardi Bin Marino</p>
+<p></p>
+<p><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>suhardi_marino@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -68,10 +68,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suhardi Bin Marino</p>
 <p></p>
-<p><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>suhardi_marino@moe.edu.sg</u></a>
-</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +100,7 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Suhaila Binte Solhan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Ruo Lin Doreen
