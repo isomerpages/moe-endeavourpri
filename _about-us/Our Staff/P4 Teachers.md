@@ -68,11 +68,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kong Kit Wan
-<br>
-<br><a href="mailto:kong_kit_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_kit_wan</u>@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Lim Hui Qi</p>
 <p>
 <br><a href="mailto:lim_hui_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_qi@moe.edu.sg</a>
