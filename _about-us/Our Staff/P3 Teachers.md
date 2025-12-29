@@ -32,10 +32,7 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jennifer Poh Siew Hua
-<br>
-<br><a href="mailto:poh_siew_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_siew_hua@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lin Chee Keong
