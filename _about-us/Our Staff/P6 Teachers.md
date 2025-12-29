@@ -128,11 +128,6 @@ variant: tiptap
 <br>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Salinah Bte Sudarmo
-<br>
-<br><a href="mailto:salinah_sudarmo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salinah_sudarmo@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mr Bryse Tan Jun Eng
 <br>
 <br><a href="mailto:tan_jun_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_eng@moe.edu.sg</a>
