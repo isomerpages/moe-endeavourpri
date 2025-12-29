@@ -57,6 +57,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Principal 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Swee Hoon Joyce</strong>
+</p>
+<p></p>
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -76,7 +88,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong>
+<p><strong>School Staff Developer/Covering Art Department</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,18 +136,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>HOD (Science)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lo Zhi Hui Jonathan</strong>
-<br>
-<br><a href="mailto:lo_zhi_hui_jonathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lo_zhi_hui_jonathan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>HOD (Mathematics)</strong>
 </p>
 </td>
@@ -158,6 +158,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD (ICT)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Pauline</strong>
+<br>
+<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -177,19 +189,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Pri 5 and 6)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Lim Chin Boon Matt</strong>
-<br>
-<br><a href="mailto:lim_chin_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_boon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Year Head (Pri 3 and 4)</strong>
+<p><strong>Year Head (Pri 4 and 5)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,19 +213,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Pri 5)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Mohamed Sani Bin Mohamed Hafid</strong>
-<br>
-<br><a href="mailto:mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_sani@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Pri 4)</strong>
+<p><strong>Assistant Year Head (Pri 6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,10 +225,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Pri 1)</strong>
+<p><strong>Assistant Year Head (Pri 3)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Mohamed Sani Bin Mohamed Hafid</strong>
+<br>
+<br><a href="mailto:mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_sani@moe.edu.sg</a>
+</p>
+<p></p>
 <p><strong>Ms Wong Lin Hui</strong>
 <br>
 <br><a href="mailto:wong_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lin_hui@moe.edu.sg</a>
@@ -273,18 +266,6 @@ variant: tiptap
 <p><strong>Mdm Nazreen Bte Mohamed Noor</strong>
 <br>
 <br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazreen_mohamed_noor@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head (Information and Communication Technology [Internal HOD ICT])</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Teo Pauline</strong>
-<br>
-<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -326,13 +307,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (Co-curricular Activities [CCA]/ Physical Education [PE])</strong>
+<p><strong>Subject Head (Co-curricular Activities [CCA]/ Physical Education [PE] - Internal)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Suhardi Bin Marino</strong>
+<p><strong>Mr Tan Jun Eng Bryse</strong>
 <br>
-<br><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhardi_marino@moe.edu.sg</a>
+<br><a href="mailto:tan_jun_eng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jun_eng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head (ICT - Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Eng Cui Shan</strong>
+</p>
+<p></p>
+<p><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -350,6 +344,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Level Head (Mathematics)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Kai Ling</strong>
+<br>
+<br><a href="mailto:teo_kai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kai_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Lead Teacher (Mathematics) </strong>
 <br>
 </p>
@@ -359,18 +365,6 @@ variant: tiptap
 <br>
 </p>
 <p><a href="mailto:jahangeer_b_mohamed_jahabar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jahangeer_b_mohamed_jahabar@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Lead Teacher (Science)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Raveendran Pavithra</strong>
-<br>
-<br><a href="mailto:raveendran_pavithra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raveendran_pavithra@schools.gov.sg</a>
 </p>
 </td>
 </tr>

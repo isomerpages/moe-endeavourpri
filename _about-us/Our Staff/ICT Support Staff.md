@@ -44,6 +44,14 @@ variant: tiptap
 <p>Mr Juhaimin Bin Jumahari</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Trainer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Tan Jia-Huei</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>

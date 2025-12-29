@@ -47,10 +47,37 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhang Yin</p>
-<p></p>
-<p><a href="mailto:zhang_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yin@moe.edu.sg</a>
+<p>Mdm Koh Ee-Ee
+<br>
+<br><a rel="noopener noreferrer nofollow" target="_blank">koh_ee_ee@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Namdi Bin Salleh
+<br>
+<br><a href="mailto:namdi_b_salleh@edu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">namdi_b_salleh@edu.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kavitha Kandeepan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rayshaun Gan Wei Hern</p>
 </td>
 </tr>
 <tr>
@@ -69,9 +96,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Cheen Sze (Math)</p>
+<p>Mr Velllasamy Rasandran</p>
 <p></p>
-<p><a href="mailto:tan_cheen_sze_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_cheen_sze_a@moe.edu.sg</a>
+<p><a href="mailto:vellasamy_rasandran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vellasamy_rasandran_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -91,7 +118,31 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Ping (Chinese Language)
+<p>Mdm Laura Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Patimah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Yoon Kee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Ping
 <br>
 <br><a href="mailto:oth_yang_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oth_yang_ping@moe.edu.sg</a>
 </p>
@@ -102,9 +153,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Jia Ern Cheryl</p>
-<p></p>
-<p><a href="mailto:wong_jia_en_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jia_en_cheryl@moe.edu.sg</a>
+<p>Mr Lin Chee Keong
+<br>
+<br><a href="mailto:lin_chee_keong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_chee_keong_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>

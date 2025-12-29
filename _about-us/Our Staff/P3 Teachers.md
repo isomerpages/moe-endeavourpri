@@ -32,15 +32,15 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jennifer Poh Siew Hua
+<p>Mdm Wong Lin Hui
 <br>
-<br><a href="mailto:poh_siew_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_siew_hua@moe.edu.sg</a>
+<br><a href="mailto:wong_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lin_hui@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Chee Keong
-<br>
-<br><a href="mailto:lin_chee_keong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_chee_keong_a@moe.edu.sg</a>
+<p>Mdm Jolene Tan Yi-Lin</p>
+<p></p>
+<p><a href="mailto:tan_yi-lin_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi-lin_jolene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -50,15 +50,12 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rebecca Francis
-<br>
-<br><a href="mailto:rebecca_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_francis@moe.edu.sg</a>
-</p>
+<p>Ms V K Aswini</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Meera Devi
-<br>
-<br><a href="mailto:meera_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">meera_devi@moe.edu.sg</a>
+<p>Mr Suhardi Bin Marino</p>
+<p></p>
+<p><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>suhardi_marino@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -68,16 +65,13 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loo Lai Yin
-<br>
-<br><a href="mailto:loo_lai_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_lai_yin@moe.edu.sg</a>
+<p>Ms Teo Kai Ling</p>
+<p></p>
+<p><a href="mailto:teo_kai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kai_ling@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Sani Bin Mohd Hafid</p>
-<p></p>
-<p><a href="mailto:mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_sani@moe.edu.sg</a>
-</p>
+<p>Mdm Ida Ruyani Bte Snin</p>
 </td>
 </tr>
 <tr>
@@ -86,15 +80,15 @@ variant: tiptap
 <br>Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin Bte Mohd Noor
-<br>
-<br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohd_noor_a@moe.edu.sg</a>
+<p>Mdm Yang Shiya</p>
+<p></p>
+<p><a href="mailto:yang_shiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_shiya@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Juliana Woo Xueyi</p>
+<p>Mr Selwyn Lim</p>
 <p></p>
-<p><a href="mailto:juliana_woo_xueyi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_woo_xueyi_a@moe.edu.sg</a>
+<p><a href="mailto:selwyn_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selwyn_lim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -104,15 +98,12 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jayapriya Kanagasundram</p>
-<p></p>
-<p><a href="mailto:jayapriya_kanagasundram@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jayapriya_kanagasundram@moe.edu.sg</a>
-</p>
+<p>Mdm Suhaila Binte Solhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ramadhan s/o Isahaak Piperdy
+<p>Mdm Ho Ruo Lin Doreen
 <br>
-<br><a href="mailto:ramadhan_isaahak_piperdy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramadhan_isaahak_piperdy@moe.edu.sg</a>
+<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -122,13 +113,15 @@ variant: tiptap
 <br>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Suhardi Bin Marino</p>
-<p><a href="mailto:suhardi_marino@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhardi_marino@moe.edu.sg</a>
+<p>Mdm Zheng Li
+<br>
+<br><a href="mailto:zheng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_li@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Farah Adibah Bte Johari</p>
-<p><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
+<p>Mr Amirul Hakim Bin Zailanee
+<br>
+<br><a href="mailto:amirul_hakim_zailanee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amirul_hakim_zailanee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
