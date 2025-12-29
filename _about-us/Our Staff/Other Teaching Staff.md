@@ -69,6 +69,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Kavitha Kandeepan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rayshaun Gan Wei Hern</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Claire Tan E Peng
 <br>
 <br><a href="mailto:claire_tan_e_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">claire_tan_e_peng@moe.edu.sg</a>
@@ -102,6 +118,30 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Laura Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Patimah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ho Yoon Kee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mdm Yang Ping
 <br>
 <br><a href="mailto:oth_yang_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oth_yang_ping@moe.edu.sg</a>
@@ -113,7 +153,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lin Chee Keong
+<br>
+<br><a href="mailto:lin_chee_keong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_chee_keong_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
