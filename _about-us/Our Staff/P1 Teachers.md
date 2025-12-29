@@ -50,11 +50,6 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Lai Pheng
-<br>
-<br><a href="mailto:leong_lai_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_lai_pheng@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Siti Ayuni Bte Aidil
 <br>
 <br><a href="mailto: siti_ayuni_aidil@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_ayuni_aidil@moe.edu.sg</a>
