@@ -118,11 +118,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chia-Tjen Sak Tju Cindy
-<br>
-<br><a href="mailto:chia-_tjen_sak_tju@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@schools.gov.sg</a>
-</p>
-<p></p>
 <p>Mr Don Tay Chin Boon
 <br>
 <br><a href="mailto:tay_chin_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_chin_boon@moe.edu.sg</a>
