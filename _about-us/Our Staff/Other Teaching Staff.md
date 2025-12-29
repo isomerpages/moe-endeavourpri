@@ -80,7 +80,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Velllasamy Rasandran</p>
 <p></p>
+<p><a href="mailto:vellasamy_rasandran_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vellasamy_rasandran_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
