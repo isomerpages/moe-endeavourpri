@@ -111,11 +111,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Namdi Bin Salleh
-<br>
-<br><a href="mailto:namdi_b_salleh@edu.edu.sg" rel="noopener noreferrer nofollow" target="_blank">namdi_b_salleh@edu.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Siti Suhaida Bte Surir</p>
 </td>
 </tr>
