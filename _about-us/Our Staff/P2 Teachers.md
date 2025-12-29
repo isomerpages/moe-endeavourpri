@@ -37,13 +37,13 @@ variant: tiptap
 </p>
 <p><a href="mailto:tan_yi-lin_jolene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yi-lin_jolene@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Nadia Bte Awaluddin
+<br>
+<br><a href="mailto:nadia_awalluddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_awalluddin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Lin Hui
-<br>
-<br><a href="mailto:wong_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lin_hui@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Wang Liqin
 <br>
 <br><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg</a>
@@ -95,11 +95,6 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadia Bte Awaluddin
-<br>
-<br><a href="mailto:nadia_awalluddin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_awalluddin@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Shahana Mol
 <br>
 <br><a href="mailto:shahana_mol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahana_mol@moe.edu.sg</a>
