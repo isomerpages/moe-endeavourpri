@@ -44,11 +44,6 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Loh Cai Ying
-<br>
-<br><a href="mailto:loh_cai_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_cai_ying@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Ms Rebecca Francis
 <br>
 <br><a href="mailto:rebecca_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_francis@moe.edu.sg</a>
@@ -71,6 +66,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:azemi_manap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azemi_manap@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Loo Lai Yin
+<br>
+<br><a href="mailto:loo_lai_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_lai_yin@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kong Kit Wan
@@ -90,10 +90,11 @@ variant: tiptap
 <br>Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wong Jia En Cheryl
-<br>
-<br><a href="mailto:wong_jia_en_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jia_en_cheryl@moe.edu.sg</a>
+<p>Miss Juliana Woo Xueyi</p>
+<p></p>
+<p><a href="mailto:juliana_woo_xueyi_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juliana_woo_xueyi_a@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss E Vidtheya</p>
@@ -114,9 +115,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Shiya</p>
-<p></p>
-<p><a href="mailto:yang_shiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_shiya@moe.edu.sg</a>
+<p>Mr Ramadhan s/o Isahaak Piperdy
+<br>
+<br><a href="mailto:ramadhan_isaahak_piperdy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramadhan_isaahak_piperdy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -126,10 +127,7 @@ variant: tiptap
 <br>Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Selwyn Lim</p>
 <p></p>
-<p><a href="mailto:selwyn_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selwyn_lim@moe.edu.sg</a>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Farah Adibah Bte Johari</p>
