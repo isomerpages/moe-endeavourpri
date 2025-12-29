@@ -93,9 +93,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Subashini K Chandra</p>
-<p><a href="mailto:subashini_k_chandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subashini_k_chandra@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -104,9 +102,9 @@ variant: tiptap
 <br>Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sophia Chia
+<p>Mdm Jessie Lee Peng Peng
 <br>
-<br><a href="mailto:chia_mui_choo_sophia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_mui_choo_sophia@moe.edu.sg</a>
+<br><a href="mailto:lee_peng_peng_jessie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_peng_peng_jessie@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
