@@ -94,7 +94,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tan Poh Bee
+<br>
+<br><a href="mailto:tan_poh_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_bee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
