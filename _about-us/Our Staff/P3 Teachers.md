@@ -77,11 +77,6 @@ variant: tiptap
 <br>Perseverance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin Bte Mohd Noor
-<br>
-<br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohd_noor_a@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Yang Shiya</p>
 <p></p>
 <p><a href="mailto:yang_shiya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_shiya@moe.edu.sg</a>
