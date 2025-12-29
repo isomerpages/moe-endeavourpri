@@ -32,10 +32,7 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Ridzal Bin Md Ajis
-<br>
-<br><a href="mailto:mohammad_ridzal_mohd_ajis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_ridzal_mohd_ajis@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -80,6 +77,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:kong_kit_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_kit_wan</u>@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Lim Hui Qi</p>
+<p>
+<br><a href="mailto:lim_hui_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hui_qi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -94,11 +96,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Ruo Lin Doreen
-<br>
-<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Miss E Vidtheya</p>
 <p></p>
 <p><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
