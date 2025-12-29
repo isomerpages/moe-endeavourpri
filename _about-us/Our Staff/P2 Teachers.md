@@ -56,7 +56,10 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Leong Lai Pheng
+<br>
+<br><a href="mailto:leong_lai_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_lai_pheng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Guo Ling Lan
@@ -153,10 +156,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zheng Li
-<br>
-<br><a href="mailto:zheng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_li@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
