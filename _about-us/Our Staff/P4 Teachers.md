@@ -50,9 +50,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Amirul Hakim Bin Zailanee
+<p>Mr Azemi Bin Manap
 <br>
-<br><a href="mailto:amirul_hakim_zailanee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amirul_hakim_zailanee@moe.edu.sg</a>
+<br><a href="mailto:azemi_manap@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azemi_manap@moe.edu.sg</a>
 </p>
 </td>
 </tr>
