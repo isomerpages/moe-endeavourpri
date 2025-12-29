@@ -43,6 +43,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:wong_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lin_hui@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Ms Wang Liqin
+<br>
+<br><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -51,15 +56,13 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Dawn Yeo Meow Sim
-<br>
-<br><a href="mailto:yeo_meow_sim_dawn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_meow_sim_dawn@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Indarani d/o Kasinathan
+<p>Mdm Guo Ling Lan
 <br>
-<br><a href="mailto:Indarani_Kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Indarani_Kasinathan@moe.edu.sg</a>
+<br><a href="mailto:guo_linglan@moe.edu" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu</a>
+<a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
 </p>
 </td>
 </tr>
@@ -75,10 +78,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ian Hang Cheng
-<br>
-<br><a href="mailto:ian_hang_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ian_hang_cheng@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
