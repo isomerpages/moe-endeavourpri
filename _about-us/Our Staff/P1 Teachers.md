@@ -73,11 +73,6 @@ variant: tiptap
 <br>Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cynthia Ong Gek Lin
-<br>
-<br><a href="mailto:ong_gek_lin_cynthia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_gek_lin_cynthia@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Jennifer Poh Siew Hua
 <br>
 <br><a href="mailto:poh_siew_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poh_siew_hua@moe.edu.sg</a>
@@ -96,10 +91,7 @@ variant: tiptap
 <br>Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shahana Mol
-<br>
-<br><a href="mailto:shahana_mol@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahana_mol@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -135,7 +127,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Wong Jia En Cheryl
+<br>
+<br><a href="mailto:wong_jia_en_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_jia_en_cheryl@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -149,12 +144,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss E Vidtheya
-<br>
-</p>
-<p><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mdm Hafiza Bte Hassan
 <br>
 <br><a href="mailto:hafiza_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hafiza_hassan@moe.edu.sg</a>
