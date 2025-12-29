@@ -134,11 +134,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Agnes Tan Mui Kheng</p>
-<p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_mui_kheng_a@moe.edu.sg</a>
-</p>
-<p></p>
 <p>Mrs Chia-Tjen Sak Tju Cindy
 <br>
 <br><a href="mailto:chia-_tjen_sak_tju@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@schools.gov.sg</a>
