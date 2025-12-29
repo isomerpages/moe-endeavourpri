@@ -66,7 +66,8 @@ variant: tiptap
 <p><strong>Ms Lee Swee Hoon Joyce</strong>
 </p>
 <p></p>
-<p></p>
+<p><a href="mailto:Lee_swee_hoon_joyce@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_swee_hoon_joyce@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
