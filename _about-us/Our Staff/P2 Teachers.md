@@ -78,7 +78,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Siti Nur Hajjar
+<br>
+<br><a href="mailto:siti_nur_hajjar_mohammad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_hajjar_mohammad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
