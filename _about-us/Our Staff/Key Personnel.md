@@ -333,6 +333,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Level Head (English - Internal)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Oh Hui Chan</strong>
+</p>
+<p></p>
+<p><a href="mailto:oh_hui_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>oh_hui_chan@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Level Head (Science)</strong>
 </p>
 </td>
