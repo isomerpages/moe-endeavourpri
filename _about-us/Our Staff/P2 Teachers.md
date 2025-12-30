@@ -59,7 +59,7 @@ variant: markdown
 <p>Mdm Guo Ling Lan
 <br>
 <br><a href="mailto:guo_linglan@moe.edu" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu</a>
-<a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
