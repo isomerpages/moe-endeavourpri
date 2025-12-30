@@ -58,7 +58,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Guo Ling Lan
 <br>
-<br><a href="mailto:guo_linglan@moe.edu" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu</a>
+<br><a href="mailto:guo_linglan@moe.edu" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
 <a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
