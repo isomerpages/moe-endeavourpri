@@ -58,8 +58,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Guo Ling Lan
 <br>
-<br><a href="mailto:guo_linglan@moe.edu" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu</a>
-<a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>
+<br><a href="mailto:guo_linglan@moe.edu" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -131,6 +130,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tok Chai Leng</p>
+<p></p>
+<p><a href="mailto:tok_chai_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tok_chai_leng_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
