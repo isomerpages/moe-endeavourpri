@@ -39,6 +39,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamad Zaidi Bin Hasbollah</p>
+<p></p>
+<p><a href="mailto:mohamad_zaidi_hasbollah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_zaidi_hasbollah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
