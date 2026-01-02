@@ -47,7 +47,7 @@ more information on MOE Sexuality Education.</p>
 </li>
 </ol>
 <hr>
-<h3><strong>Overview of Endeavour Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2025</strong></h3>
+<h3><strong>Overview of Endeavour Primary</strong>&nbsp;<strong>School’s</strong>&nbsp;<strong>Sexuality Education Programme for 2026</strong></h3>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -89,7 +89,7 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <hr>
-<h3>At Endeavour Primary School, the following <strong>Sexuality</strong> Education lessons will be taught in&nbsp;2025:</h3>
+<h3>At Endeavour Primary School, the following <strong>Sexuality</strong> Education lessons will be taught in&nbsp;2026:</h3>
 <table style="minWidth: 75px">
 <tbody>
 <tr>
@@ -112,7 +112,7 @@ caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that one’s identity need not be negatively
 affected, even when one’s body is experiencing changes due to puberty.</p>
-<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><p>Term 1 Week 2</p></td></tr>	
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em></p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><p>Term 1 Week 3</p></td></tr>	
 <tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td colspan="1><p>Growing Years</td><td style=" valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;"><p>Did You Know? (60 min)</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;"><p>This lesson focuses on helping students know what pornography is and how
 it can affect themselves and others. Students will learn about the dangers
 of being exposed to sexually explicit materials and reject the viewing
@@ -155,7 +155,7 @@ from experiencing the feelings of infatuation. They will recognise that
 experiencing feelings of infatuation is part of growing up and becoming
 infatuated with someone does not mean that they should be involved in a
 romantic relationship. Instead, they should focus on building strong and
-healthy friendships with their circles of friends.</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><p>Term 1 Week 2
+healthy friendships with their circles of friends.</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; text-align: left;"><p>Term 1 Week 3
 </p></td></tr>	
 <tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td colspan="1><p>Growing Years</td><td style=" valign="center" height="21" style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 71px; text-align: left;"><p>Are We More than Friends? Lesson 2 (60 min</p></td><td style="box-sizing: inherit; padding: 5px 10px; border: 1px solid rgb(0, 0, 0); height: 21px; width: 573px; text-align: left;"><p>In this lesson, students will learn healthy ways to manage the emotions
 arising from infatuation and recognise the importance of respecting the
