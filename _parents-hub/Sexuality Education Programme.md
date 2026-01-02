@@ -134,32 +134,7 @@ from sexuality-related risks.</p>
 <br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
+</tr><tr>
 <td rowspan="3" colspan="0">
 <p>Growing Years</p>
 </td>
@@ -178,44 +153,7 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 <td rowspan="1" colspan="0">
 <p>Term 1 Week 3</p>
 </td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
+</tr><tr>
 <td rowspan="1" colspan="1><p>Growing Years</td><td style=">
 <p>Did You Know? (60 min)</p>
 </td>
@@ -233,38 +171,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
+</tr><tr>
 <td rowspan="1" colspan="1><p>Growing Years</td><td style=">
 <p>Keeping Myself Safe (60 min)</p>
 </td>
@@ -281,33 +188,7 @@ and how to seek help for themselves and their friends.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -358,32 +239,8 @@ and how to seek help for themselves and their friends.</p>
 <br><strong>(e.g. Term 1 Week 2)</strong>
 </p>
 </td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
+
+</tr><tr>
 <td rowspan="2" colspan="0">
 <p>Growing Years</p>
 </td>
@@ -402,42 +259,7 @@ healthy friendships with their circles of friends.</p>
 <td rowspan="1" colspan="0">
 <p>Term 1 Week 3</p>
 </td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+
 </tr>
 <tr>
 <td rowspan="1" colspan="1><p>Growing Years</td><td style=">
@@ -455,36 +277,7 @@ and learn to behave maturely towards each other.</p>
 <br>
 </p>
 </td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="0">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
+
 </tr>
 </tbody>
 </table>
