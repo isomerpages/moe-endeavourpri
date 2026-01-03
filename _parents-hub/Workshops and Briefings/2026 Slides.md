@@ -9,7 +9,7 @@ third_nav_title: Workshops and Briefings
 <tbody>
 		 <tr><td style="border: 1px solid black; width: 350px;">
              <b>
-             <strong style="color: black; font-size: 18;"> Parents' briefing slides on 19th Nov 2025</strong>
+             <strong style="color: black; font-size: 18;"> Parents' briefing slides on 2nd Jan 2026</strong>
              <br>
                          <br><a href="https://drive.google.com/file/d/1Ahhw5j47mWw9PhENEtGe787v7voUGMeF/view?usp=sharing">P1 Day 1 Briefing by Year Head</a><br><br>
 	</b></td>
