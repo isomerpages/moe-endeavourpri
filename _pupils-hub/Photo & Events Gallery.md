@@ -47,6 +47,7 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+				<li><a href="https://photos.app.goo.gl/dqCckDr818Zq2roW8">►  P1 First Day of School - 2026 Photos</a></li>
 			<li><a href="https://photos.app.goo.gl/8jdZETdh9XjAGA9D8">►  P1 Orientation - 2025 Photos</a></li>
 			<li><a href="https://photos.app.goo.gl/f9qSzEX1AFoaM7hEA">►  P6 Graduation Ceremony - 2025 Photos</a></li>
 			<li><a href="https://youtube.com/live/i7ufVitK5qA?feature=share">►  P6 Graduation Ceremony - 2025</a></li>
