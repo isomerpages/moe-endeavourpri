@@ -142,7 +142,8 @@ variant: tiptap
 <p>Student iCON Password Reset</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/622591f0b89fad0012ff253c" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/622591f0b89fad0012ff253c</a>
+<p><a href="https://go.gov.sg/edp-pwreset" rel="noopener noreferrer nofollow" target="_blank">https://</a>
+<a href="http://go.gov.sg/edp-pwreset" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/edp-pwreset</a>
 </p>
 </td>
 </tr>
