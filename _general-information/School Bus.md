@@ -2,12 +2,13 @@
 title: School Bus
 permalink: /general-information/permalink/
 description: ""
+variant: markdown
 ---
 <p style="text-align:left;font-size: 25px; color: blue; font-weight: bold;">School Bus Service</p>
 
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">School Bus Operator and Bus Fare</p>
 
-<a href="https://drive.google.com/file/d/14mWd94kOmUtpgrv5HR01otT4CR4xfDOG/view?usp=sharing">[ School Bus Prices (Jan 2024 to Dec 2025).pdf ]</a>
+<a href="https://drive.google.com/file/d/1gIOax2LddLyNiT6qB3zpm8OFkcNPn1Km/view?usp=drive_link">[ School Bus Prices (Jan 2024 to Dec 2025).pdf ]</a>
 
 <p style="text-align:left;font-size:19px; color: darkblue; font-weight: bold;">Request for School Bus Services</p>
 
