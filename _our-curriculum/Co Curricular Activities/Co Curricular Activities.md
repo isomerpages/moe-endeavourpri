@@ -18,37 +18,31 @@ and sense of responsibility to school, community and nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VISUAL-PERFORMING-ARTS.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chinese_Dance.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Dance.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English_Drama.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar_Ensemble.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir2.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng_Ensemble.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Malay_Dance.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML_Dance.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wushu2.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CLUBS-SOCIETIES.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Club.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_Club2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Club.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT_Club2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Club.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STEM_Club2.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/UNIFORMED-GROOUPS.png">
@@ -57,31 +51,31 @@ and sense of responsibility to school, community and nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scouts2.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PHYSICAL-SPORTS.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rugby.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Rugby2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sailing.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sailing2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table_Tennis.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table_Tennis2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball2.png">
 </div>
 <p></p>
 <p>P3 CCA Experience@EDP</p>
