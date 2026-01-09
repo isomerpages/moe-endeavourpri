@@ -27,7 +27,7 @@ and sense of responsibility to school, community and nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Drama.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng_Ensemble.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng_Ensemble2.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML_Dance.png">
@@ -94,5 +94,5 @@ choosing a CCA for themselves.</p>
 </p>
 <p><a href="https://drive.google.com/file/d/1Imh8EOc0CF6eQdK8QFyiArdkPrwvQ4qq/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">CCA Teachers, Days &amp; Venue 2025</a>
 </p>
-<p><em>Updated as of 4 July 2025</em>
+<p><em>Updated as of 9 Jan 2026</em>
 </p>
