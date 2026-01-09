@@ -27,7 +27,7 @@ and sense of responsibility to school, community and nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_Drama.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng_Ensemble.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng_Ensemble2.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML_Dance.png">
