@@ -16,7 +16,8 @@ third_nav_title: Principal's Letters
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://drive.google.com/file/d/1XNI1ySUTMcPvPN-iDdO3eO2Wd1q2SD-0/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P's letter to Parents - Jan 2026.pdf</a>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
