@@ -18,11 +18,6 @@ variant: tiptap
 <hr>
 </li>
 <li>
-<p><a href="/files/Student_Zoom_Onboarding_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Zoom&nbsp;with Student iCON!</a>
-</p>
-<hr>
-</li>
-<li>
 <p><a href="https://form.gov.sg/67e218f408dc2522e9d8555c" rel="noopener nofollow" target="_blank">Student MIMS Password Reset</a>
 </p>
 <hr>
