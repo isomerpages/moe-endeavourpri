@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Principal's Letters
 ---
-<p><strong>Please click on the link below for the Principal’s letters for 2024:</strong>
+<p><strong>Please click on the link below for the Principal’s letters for 2026:</strong>
 </p>
 <p></p>
 <table style="minWidth: 50px">
