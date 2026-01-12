@@ -63,7 +63,7 @@ and sense of responsibility to school, community and nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball2.png">
@@ -78,7 +78,7 @@ and sense of responsibility to school, community and nation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table_Tennis2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Volleyball2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vball.png">
 </div>
 <p></p>
 <p>P3 CCA Experience@EDP</p>
