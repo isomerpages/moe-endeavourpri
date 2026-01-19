@@ -4,7 +4,7 @@ permalink: /p3-mother-tongue-teachers/
 description: ""
 variant: markdown
 ---
- <div hidden="">
+
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,9 +26,9 @@ variant: markdown
 <p>3HCL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zheng Li</p>
+<p>Mdm Tan Poh Bee</p>
 <p></p>
-<p><a href="mailto:zheng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_li@moe.edu.sg</a>
+<p><a href="mailto:tan_poh_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_bee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -37,9 +37,9 @@ variant: markdown
 <p>3CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Liqin
+<p>Miss Phang Huey Fen
 <br>
-<br><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg</a>
+<br><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phang_huey_fen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -48,9 +48,9 @@ variant: markdown
 <p>3CL3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dong Jing Jing
+<p>Mdm Doreen Ho Ruolin
 <br>
-<br><a href="mailto:dong_jingjing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dong_jingjing_a@moe.edu.sg</a>
+<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -59,9 +59,9 @@ variant: markdown
 <p>3CL4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Pauline Teo
+<p>Mdm Wong Lin Hui
 <br>
-<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
+<br><a href="mailto:wong_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lin_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -70,35 +70,9 @@ variant: markdown
 <p>3CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Doreen Ho
+<p>Mdm Zheng Li
 <br>
-<br><a href="mailto:ho_ruo_lin_doreen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_ruo_lin_doreen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3CL6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wang Jia Jia
-<br>
-<br><a href="mailto:wang_jiajia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jiajia_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 MTSP-CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Eng Cui Shan
-<br>
-<br><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg</a>
-<br>
-<br>
-<br>
-<br>
+<br><a href="mailto:zheng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_li@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -172,4 +146,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p></div>
+<p></p>
