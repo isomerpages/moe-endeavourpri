@@ -26,9 +26,9 @@ variant: markdown
 <p>5HCL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tian Zhe
+<p>Miss Fiona Ho
 <br>
-<br><a href="mailto:tian_zhe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tian_zhe@moe.edu.sg</a>
+<br><a href="mailto:ho_kok_luei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kok_luei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -37,9 +37,9 @@ variant: markdown
 <p>5CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Li Yen
+<p>Mdm Zhang Yin
 <br>
-<br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg</a>
+<br><a href="mailto:zhang_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -48,9 +48,9 @@ variant: markdown
 <p>5CL3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Guo Linglan</p>
+<p>Ms Peh Chieh Yin</p>
 <p></p>
-<p><a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
+<p><a href="mailto:peh_chieh_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_chieh_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -59,9 +59,9 @@ variant: markdown
 <p>5CL4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Jia Jia
+<p>Miss Pauline Teo
 <br>
-<br><a href="mailto:wang_jiajia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jiajia_a@moe.edu.sg</a>
+<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -70,9 +70,9 @@ variant: markdown
 <p>5CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eng Cui Shan
+<p>Mdm Cindy Tjen
 <br>
-<br><a href="mailto:eng_cui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_cui_shan@moe.edu.sg</a>
+<br><a href="mailto:chia-_tjen_sak_tju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -81,9 +81,9 @@ variant: markdown
 <p>5CL6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cindy Tjen
+<p>Mdm Wong Lin Hui
 <br>
-<br><a href="mailto:ow_chia-_tjen_sak_tju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@moe.edu.sg</a>
+<br><a href="mailto:wong_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lin_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
