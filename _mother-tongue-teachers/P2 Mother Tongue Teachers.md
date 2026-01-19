@@ -77,17 +77,6 @@ variant: markdown
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2CL6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zheng Li</p>
-<p></p>
-<p><a href="mailto:zheng_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_li@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
