@@ -2,8 +2,9 @@
 title: P1 Mother Tongue Teachers
 permalink: /p1-mother-tongue-teachers/
 description: ""
-variant: tiptap
+variant: markdown
 ---
+<div hidden="">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,9 +26,9 @@ variant: tiptap
 <p>1CL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Liqin
+<p>Miss Phang Huey Fen
 <br>
-<br><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg</a>
+<br><a href="mailto:phang_huey_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phang_huey_fen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -36,9 +37,9 @@ variant: tiptap
 <p>1CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Guo Linglan</p>
+<p>Mdm Zhang Yin</p>
 <p></p>
-<p><a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
+<p><a href="mailto:zhang_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -47,9 +48,9 @@ variant: tiptap
 <p>1CL3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tian Zhe
+<p>Mdm Yang Ping
 <br>
-<br><a href="mailto:tian_zhe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tian_zhe@moe.edu.sg</a>
+<br><a href="mailto:oth_yang_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oth_yang_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -58,9 +59,9 @@ variant: tiptap
 <p>1CL4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Li Yen
+<p>Miss Pauline Teo
 <br>
-<br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg</a>
+<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -69,9 +70,9 @@ variant: tiptap
 <p>1CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cindy Tjen
+<p>Mdm Tan Poh Bee
 <br>
-<br><a href="mailto:ow_chia-_tjen_sak_tju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@moe.edu.sg</a>
+<br><a href="mailto:tan_poh_bee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_bee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -80,9 +81,9 @@ variant: tiptap
 <p>1CL6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Pauline Teo
+<p>Miss Fiona Ho
 <br>
-<br><a href="mailto:teo_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_pauline@moe.edu.sg</a>
+<br><a href="mailto:ho_kok_luei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_kok_luei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -157,4 +158,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
+<p></p></div>

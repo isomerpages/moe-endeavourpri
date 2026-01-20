@@ -4,6 +4,7 @@ permalink: /parents-hub/sexuality-education-programme/
 description: ""
 variant: markdown
 ---
+
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <ol>
 <li>
@@ -301,3 +302,4 @@ Education programme.</p>
 </li>
 </ol>
 <p></p>
+	
