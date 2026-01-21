@@ -51,6 +51,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms V K Aswini</p>
+<p></p>
+<p><a href="mailto:v_k_aswini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">v_k_aswini@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Suhardi Bin Marino</p>
