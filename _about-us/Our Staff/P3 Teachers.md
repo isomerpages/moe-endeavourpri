@@ -102,6 +102,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Suhaila Binte Solhan</p>
+<p></p>
+<p><a href="mailto:suhaila_solhan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suhaila_solhan@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ho Ruo Lin Doreen
