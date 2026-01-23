@@ -4,7 +4,6 @@ permalink: /p3-mother-tongue-teachers/
 description: ""
 variant: markdown
 ---
-
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -77,15 +76,8 @@ variant: markdown
 </td>
 </tr>
 </tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+</table><table style="minWidth: 50px">
+<tbody><tr><th rowspan="1" colspan="1">
 <p><strong>Class</strong>
 </p>
 </th>
