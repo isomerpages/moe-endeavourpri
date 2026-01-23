@@ -4,7 +4,7 @@ permalink: /p2-mother-tongue-teachers/
 description: ""
 variant: markdown
 ---
-<div hidden="">
+
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -137,4 +137,4 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<p></p></div>
+<p></p>
