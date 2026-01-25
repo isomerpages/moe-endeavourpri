@@ -106,7 +106,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1ML1</p>
+<p>P1ML1 (Beside Dental)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Juwita Bte Mohamad Salleh
@@ -117,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1ML2</p>
+<p>P1ML2 (1RY)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fauziah Bte Mohamed Ata
