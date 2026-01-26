@@ -2,9 +2,8 @@
 title: P2 Mother Tongue Teachers
 permalink: /p2-mother-tongue-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -28,7 +27,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Wang Liqin
 <br>
-<br><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg </a>
+<br><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -61,8 +60,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Li Yen
 <br>
-<br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg
-</a>
+<br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -97,12 +95,23 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2ML1</p>
+<p>P2ML1 (2Di)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Bte Mohamed Ata
+<p>Mdm Juwita Bte Mohamad Salleh
 <br>
-<br><a href="mailto:fauziah_mohamed_ata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ata@moe.edu.sg</a>
+<br><a href="mailto:juwita_mohamad_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juwita_mohamad_salleh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2ML2 (Beside Dental)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Farah Adibah Binte Johari
+<br>
+<br><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -129,9 +138,9 @@ variant: markdown
 <p>P2TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Indarani Kasinathan
+<p>Miss E Vidtheya
 <br>
-<br><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a>
+<br><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
 </p>
 </td>
 </tr>

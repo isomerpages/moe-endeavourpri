@@ -2,7 +2,7 @@
 title: P1 Mother Tongue Teachers
 permalink: /p1-mother-tongue-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -106,23 +106,23 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1ML1</p>
+<p>P1ML1 (Beside Dental)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin Bte Mohd Noor
+<p>Mdm Juwita Bte Mohamad Salleh
 <br>
-<br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohd_noor_a@moe.edu.sg</a>
+<br><a href="mailto:juwita_mohamad_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juwita_mohamad_salleh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1ML2</p>
+<p>P1ML2 (1RY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Farah Adibah Bte Johari
+<p>Mdm Fauziah Bte Mohamed Ata
 <br>
-<br><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
+<br><a href="mailto:fauziah_mohamed_ata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ata@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -149,9 +149,9 @@ variant: markdown
 <p>P1TL1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss E. Vidtheya
+<p>Midm Indarani kasinathan
 <br>
-<br><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
+<br><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>

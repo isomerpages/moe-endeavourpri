@@ -2,9 +2,8 @@
 title: P6 Mother Tongue Teachers
 permalink: /p6-mother-tongue-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,8 +38,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Li Yen
 <br>
-<br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg
-</a>
+<br><a href="mailto:ng_li_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_li_yen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -119,7 +117,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6ML</p>
+<p>P6ML (Big ML Room)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nazreen Bte Mohamed Noor</p>
@@ -129,12 +127,12 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 FDN</p>
+<p>P6 FDN ML (KB Lab)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazreen Bte Mohamed Noor</p>
+<p>Mdm Siti Suhaida Bte Surir</p>
 <p></p>
-<p><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazreen_mohamed_noor@moe.edu.sg</a>
+<p><a href="mailto:siti_suhaida_surir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_suhaida_surir@moe.edu.sg</a>
 </p>
 </td>
 </tr>

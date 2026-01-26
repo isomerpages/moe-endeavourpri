@@ -2,7 +2,7 @@
 title: P5 Mother Tongue Teachers
 permalink: /p5-mother-tongue-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -117,34 +117,75 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5ML</p>
+<p>P5ML 1 (Big ML Room)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Farah Adibah Bte Johari
+<p>Mdm Siti Suhaida Bte Surir
 <br>
-<br><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
+<br><a href="mailto:siti_suhaida_surir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_suhaida_surir@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 FDN</p>
+<p>P5ML 2 (Teaching Lab)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin Bte Mohd Noor
+<p>Mdm Nazreen Bte Mohamed Noor
 <br>
-<br><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohd_noor_a@moe.edu.sg</a>
+<br><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nazreen_mohamed_noor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 HMT</p>
+<p>P5 FDN ML (KB Lab)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Bte Mohamed Ata
+<p>Mdm Ida Ruyani Bte Snin
 <br>
-<br><a href="mailto:fauziah_mohamed_ata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ata@moe.edu.sg</a>
+<br><a href="mailto:ida_ruyani_snin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ida_ruyani_snin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Tamil Language Teachers</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5TL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Indarani kasinathan
+<br>
+<br><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5HTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss E Vidtheya
+<br>
+<br><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
 </p>
 </td>
 </tr>

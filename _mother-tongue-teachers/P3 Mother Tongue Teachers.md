@@ -2,7 +2,7 @@
 title: P3 Mother Tongue Teachers
 permalink: /p3-mother-tongue-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -76,8 +76,15 @@ variant: markdown
 </td>
 </tr>
 </tbody>
-</table><table style="minWidth: 50px">
-<tbody><tr><th rowspan="1" colspan="1">
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>Class</strong>
 </p>
 </th>
@@ -88,24 +95,24 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3ML</p>
+<p>P3ML (3RC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norashikin Bte Mohd Noor</p>
+<p>Mdm Fauziah Bte Mohamed Ata</p>
 <p></p>
-<p><a href="mailto:norashikin_mohd_noor_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norashikin_mohd_noor_a@moe.edu.sg</a>
+<p><a href="mailto:fauziah_mohamed_ata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ata@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3ML (MTSP)</p>
+<p>P3ML (MTSP) (Small ML Room)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Farah Adibah Bte Johari
+<p>Mdm Ida Ruyani Bte Snin
 <br>
 </p>
-<p><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
+<p><a href="mailto:ida_ruyani_snin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ida_ruyani_snin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -127,12 +134,12 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3TL</p>
+<p>P3TL &amp; MTSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss E. Vidtheya
+<p>Mdm Indarani kasinathan
 <br>
-<br><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
+<br><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
