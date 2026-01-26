@@ -106,7 +106,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3ML (MTSP) (Small ML room)</p>
+<p>P3ML (MTSP) (Small ML Room)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ida Ruyani Bte Snin
