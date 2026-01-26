@@ -117,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5ML 1 (Big ML room)</p>
+<p>P5ML 1 (Big ML Room)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Suhaida Bte Surir
@@ -139,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 Fdn ML (KB Lab)</p>
+<p>P5 FDN ML (KB Lab)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ida Ruyani Bte Snin
