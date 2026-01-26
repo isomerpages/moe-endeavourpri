@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4ML (Big ML room)</p>
+<p>P4ML (Big ML Room)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Farah Adibah Binte Johari
@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4ML (MTSP) (Small ML room)</p>
+<p>P4ML (MTSP) (Small ML Room)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ida Ruyani Bte Snin
