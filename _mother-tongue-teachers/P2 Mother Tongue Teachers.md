@@ -95,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2ML1 (2Dil)</p>
+<p>P2ML1 (2Di)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Juwita Bte Mohamad Salleh
