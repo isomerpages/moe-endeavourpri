@@ -2,9 +2,8 @@
 title: P4 Mother Tongue Teachers
 permalink: /p4-mother-tongue-teachers/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,7 +39,7 @@ variant: markdown
 <p>Mdm Wang Liqin
 <br>
 </p>
-<p><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg </a>
+<p><a href="mailto:wang_liqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_liqin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -120,25 +119,25 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4ML</p>
+<p>P4ML (Big ML room)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fauziah Bte Mohamed Ata
+<p>Miss Farah Adibah Binte Johari
 <br>
 </p>
-<p><a href="mailto:fauziah_mohamed_ata@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_mohamed_ata@moe.edu.sg</a>
+<p><a href="mailto:farah_adibah_johari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_adibah_johari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4ML (MTSP)</p>
+<p>P4ML (MTSP) (Small ML room)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazreen Bte Mohamed Noor
+<p>Mdm Ida Ruyani Bte Snin
 <br>
 </p>
-<p><a href="mailto:nazreen_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nazreen_mohamed_noor@moe.edu.sg</u></a>
+<p><a href="mailto:ida_ruyani_snin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ida_ruyani_snin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -162,12 +161,12 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4TL</p>
+<p>P4TL &amp; MTSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Indarani Kasinathan
+<p>Miss E Vidtheya
 <br>
-<br><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a>
+<br><a href="mailto:e_vidtheya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">e_vidtheya@moe.edu.sg</a>
 </p>
 </td>
 </tr>
