@@ -337,7 +337,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Oh Hui Chan</strong>
+<p><strong>Mrs Mann Oh Hui Chan</strong>
 </p>
 <p></p>
 <p><a href="mailto:oh_hui_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>oh_hui_chan@moe.edu.sg</u></a>
