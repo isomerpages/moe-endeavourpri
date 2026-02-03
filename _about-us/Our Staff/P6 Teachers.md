@@ -104,7 +104,7 @@ variant: tiptap
 <br>Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mann-Oh Hui Chan Keline
+<p>Mrs Mann Oh Hui Chan Keline
 <br>
 <br><a href="mailto:oh_hui_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oh_hui_chan@moe.edu.sg</a>
 </p>
