@@ -69,7 +69,7 @@ variant: markdown
             </td>
             <td style="width:50%" rowspan="1" colspan="1">
                 <p><strong>Contact Person:</strong> Ms Tan Wei Wei
-									<br>For <mark>JANUARY 2026</mark> Dental Schedule, please click <a href="https://drive.google.com/file/d/1nB3vseWaQPZ39tQeIiH6UNmWpYBmSy2e/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+									<br>For <mark>FEBRUARY 2026</mark> Dental Schedule, please click <a href="https://drive.google.com/file/d/1qjnqEaWz65Ju3xTpqUG56EtlYryD_oWE/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">here</a>.
                     <br><strong>Tel:</strong> 8518 8307
                     <br>For more information on Baby tooth extraction, click <a href="https://drive.google.com/file/d/11Hjh1nmibL2PeAtHPk5UB8oK4blbs2sk/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a>.
                     <br><strong>Opening hours:</strong> 
