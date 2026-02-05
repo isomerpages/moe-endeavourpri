@@ -15,14 +15,16 @@ third_nav_title: Workshops and Briefings
 		  <br><a href="https://drive.google.com/file/d/1fhLNn1BRWAlIEcu6BsU5a5as59Kad573/view?usp=drive_link">Parents Networking Session (P6) 30 Jan 2026 - P's slides</a><br>
 		  <br><a href="https://drive.google.com/file/d/1_lyROwQbfbBz8LvppSFB5JIUNrnqyoQt/view?usp=drive_link">Parents Networking Session (P6) 30 Jan 2026_YH Address</a><br>
 		  <br><a href="https://drive.google.com/file/d/1FK7K21yv0cpB-ohLNhr1F0pYcnufw9RX/view?usp=drive_link">Primary Cyber Wellness Parenting with Confidence Engagement Deck_UP</a><br>
-		  <br><a href="">Parenting for Wellness Deck 2026</a>
-                         <br>
+		  <br><a href="">Parenting for Wellness Deck 2026</a> <br>
+							 	<br><a href="https://drive.google.com/file/d/1qTRs3JhWeAbVptmqAwhOlKdfCoMBrjh4/view?usp=drive_link">2026 P5 &amp; P6 Parents Math Briefing</a><br>
+							 	<br><a href="https://drive.google.com/file/d/1BlWds6t4vycrzWHuJDSYBjg7ajvea91E/view?usp=drive_link">2026 P5 Parents' briefing Science</a><br>
+							 	<br><a href="https://drive.google.com/file/d/1aojtnNU2MRJz_TqnF-BEDrxca4-i37XI/view?usp=drive_link">2026 P6 Parents' briefing Science</a><br>
 	</b></td>
 	<td style="border:1px solid black; width:350px;">
    <strong style="color: black; font-size: 18;"> Parents' briefing slides on 2nd Jan 2026</strong>
              <br>
 		<br><a href="https://drive.google.com/file/d/1Ahhw5j47mWw9PhENEtGe787v7voUGMeF/view?usp=sharing">P1 Day 1 Briefing by Year Head</a><br>
-                         <br><br><br>
+                         <br>
 	
         
  </td></tr>
