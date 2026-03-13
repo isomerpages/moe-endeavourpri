@@ -14,7 +14,7 @@ third_nav_title: Workshops and Briefings
  </b></td></tr>
 <tr><td style="border: 1px solid black; width: 350px;">
              <b>
-             <strong style="color: black; font-size: 18;"> Parents' briefing slides on 30th Jan 2026</strong>
+             <strong style="color: black; font-size: 18;"> Parents' briefing slides on 20th Feb 2026</strong>
            <br>  <br><a href="https://drive.google.com/file/d/1QLyH9uKEdFO97Ev17JXSiQVeCqTnqlpw/view?usp=sharing">Parents Networking Session (P5) 30 Jan 2026 - P's slides</a><br>
 		  <br><a href="https://drive.google.com/file/d/10yvvQFcpfuAEYlzgKfOog8rdhY2ciSve/view?usp=drive_link">Parents Networking Session (P5) 30 Jan 2026_YH Address</a><br>
 		  <br><a href="https://drive.google.com/file/d/1fhLNn1BRWAlIEcu6BsU5a5as59Kad573/view?usp=drive_link">Parents Networking Session (P6) 30 Jan 2026 - P's slides</a><br>
@@ -26,9 +26,12 @@ third_nav_title: Workshops and Briefings
 							 	<br><a href="https://drive.google.com/file/d/1aojtnNU2MRJz_TqnF-BEDrxca4-i37XI/view?usp=drive_link">2026 P6 Parents' briefing Science</a><br>
 	</b></td>
 	<td style="border:1px solid black; width:350px;">
-   <strong style="color: black; font-size: 18;"> Parents' briefing slides on 2nd Jan 2026</strong>
+   <strong style="color: black; font-size: 18;"> Parents' briefing slides on 6th Feb 2026</strong>
              <br>
 		<br><a href="https://drive.google.com/file/d/1Ahhw5j47mWw9PhENEtGe787v7voUGMeF/view?usp=sharing">P1 Day 1 Briefing by Year Head</a><br>
+		<br><a href="https://drive.google.com/file/d/1Ahhw5j47mWw9PhENEtGe787v7voUGMeF/view?usp=sharing">P1 Day 1 Briefing by Year Head</a><br>
+		<br><a href="https://drive.google.com/file/d/1Ahhw5j47mWw9PhENEtGe787v7voUGMeF/view?usp=sharing">P1 Day 1 Briefing by Year Head</a><br>
+		<br><a href="https://drive.google.com/file/d/1_3WG9-2gd1k91dLIlFGoW2DqUnBBwNBM/view?usp=drive_link">2026_P4 PARENTS NETWORKING BRIEFING_HMT</a><br>
                          <br>
 	
         
