@@ -30,7 +30,7 @@ third_nav_title: Workshops and Briefings
              <br>
 		<br><a href="https://drive.google.com/file/d/1Ahhw5j47mWw9PhENEtGe787v7voUGMeF/view?usp=sharing">P1 Day 1 Briefing by Year Head</a><br>
 		<br><a href="https://drive.google.com/file/d/1Ahhw5j47mWw9PhENEtGe787v7voUGMeF/view?usp=sharing">P1 Day 1 Briefing by Year Head</a><br>
-		<br><a href="https://drive.google.com/file/d/1Ahhw5j47mWw9PhENEtGe787v7voUGMeF/view?usp=sharing">P1 Day 1 Briefing by Year Head</a><br>
+		<br><a href="https://drive.google.com/file/d/1521XroHN05Y_2VcLR9GsDpEtbxmBDL_W/view?usp=drive_link">Parents Networking Session (P3) 6 Feb 2026 - P's slides</a><br>
 		<br><a href="https://drive.google.com/file/d/1_3WG9-2gd1k91dLIlFGoW2DqUnBBwNBM/view?usp=drive_link">2026_P4 PARENTS NETWORKING BRIEFING_HMT</a><br>
                          <br>
 	
