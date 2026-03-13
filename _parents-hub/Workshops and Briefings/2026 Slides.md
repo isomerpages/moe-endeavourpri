@@ -15,7 +15,7 @@ third_nav_title: Workshops and Briefings
 <tr><td style="border: 1px solid black; width: 350px;">
              <b>
              <strong style="color: black; font-size: 18;"> Parents' briefing slides on 20th Feb 2026</strong>
-           <br>  <br><a href="https://drive.google.com/file/d/1QLyH9uKEdFO97Ev17JXSiQVeCqTnqlpw/view?usp=sharing">P1 English Language Briefing 2026</a><br>
+           <br>  <br><a href="https://drive.google.com/file/d/1BU2aMf30tz0HIPcravoaABJGtntBeHJY/view?usp=drive_link">P1 English Language Briefing 2026</a><br>
 		  <br><a href="https://drive.google.com/file/d/10yvvQFcpfuAEYlzgKfOog8rdhY2ciSve/view?usp=drive_link">P2 MT Briefing slides</a><br>
 		  <br><a href="https://drive.google.com/file/d/1fhLNn1BRWAlIEcu6BsU5a5as59Kad573/view?usp=drive_link">P1MT Briefing slides</a><br>
 		  <br><a href="https://drive.google.com/file/d/1_lyROwQbfbBz8LvppSFB5JIUNrnqyoQt/view?usp=drive_link">Parents Networking Session (P2) 20 Feb 2026_YH Address</a><br>
