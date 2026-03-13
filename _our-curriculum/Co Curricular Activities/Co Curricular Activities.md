@@ -90,7 +90,7 @@ choosing a CCA for themselves.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca_links%20(1).jpg">
 </div>
 <p>Information for parents:</p>
-<p><a href="https://drive.google.com/file/d/1fXQZxjTtgBovme_sCSZVieWNFCTLmLEd/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Term 2 CCA Schedule</a>
+<p><a href="https://drive.google.com/file/d/1qKX194UdDeOuTqulDQVQaDvwV9m-H-eV/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Term 2 CCA Schedule</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1Lv2eGpYYshAG503upc7lnNZovkcK2sjc/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">CCA Teachers, Days &amp; Venue 2026</a>
 </p>
