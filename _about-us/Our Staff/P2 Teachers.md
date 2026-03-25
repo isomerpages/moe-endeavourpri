@@ -129,9 +129,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tok Chai Leng</p>
+<p>Mdm Juwita Bte Mohamad Salleh</p>
 <p></p>
-<p><a href="mailto:tok_chai_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tok_chai_leng_a@moe.edu.sg</a>
+<p><a href="mailto:Juwita_mohammad_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juwita_mohammad_salleh@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -147,9 +147,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Juwita Bte Mohamad Salleh</p>
+<p>Ms Tok Chai Leng</p>
 <p></p>
-<p><a href="mailto:Juwita_mohammad_salleh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juwita_mohammad_salleh@moe.edu.sg</a>
+<p><a href="mailto:tok_chai_leng_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tok_chai_leng_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
