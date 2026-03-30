@@ -4,7 +4,7 @@ permalink: /2021-school-hours/
 description: ""
 variant: markdown
 ---
-### **2025 School Hours**
+### **2026 School Hours**
 
 **1\. Reporting Time for Primary 1 to Primary 6:**
 
