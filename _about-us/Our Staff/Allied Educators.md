@@ -78,6 +78,15 @@ variant: tiptap
 <p>Mr Ho Yoon Kee</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Welfare Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leena D/O Abu Bakar</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
