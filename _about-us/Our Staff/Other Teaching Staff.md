@@ -89,6 +89,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Rachel Tan Hui Yi</p>
+<p></p>
+<p><a href="mailto:rachael_tan_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachael_tan_c@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
