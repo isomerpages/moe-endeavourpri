@@ -76,6 +76,9 @@ variant: tiptap
 </p>
 <p></p>
 <p>Mr Ho Yoon Kee</p>
+<p></p>
+<p><a href="mailto:ho_yoon_kee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yoon_kee_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
