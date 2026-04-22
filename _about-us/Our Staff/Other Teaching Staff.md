@@ -144,6 +144,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Patimah</p>
+<p></p>
+<p><a href="mailto:siti_patimah_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_patimah_abdul_razak@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
