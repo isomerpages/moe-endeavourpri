@@ -142,22 +142,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Yoon Kee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ho Yoon Kee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Yang Ping
 <br>
 <br><a href="mailto:oth_yang_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">oth_yang_ping@moe.edu.sg</a>
