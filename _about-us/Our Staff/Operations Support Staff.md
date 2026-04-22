@@ -36,14 +36,6 @@ variant: tiptap
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Faridah Binte Yusoff</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Ui Chun Nong April</p>
 </td>
 </tr>
@@ -61,6 +53,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Tiam Huat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Alice Pang Kim Swee</p>
 </td>
 </tr>
 </tbody>
