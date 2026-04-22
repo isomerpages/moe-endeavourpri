@@ -157,6 +157,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sithi Salmah d/o Sagul Hamid</p>
+<p></p>
+<p><a href="mailto:sithi_salmah_sagul_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sithi_salmah_sagul_hamid@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Subashini K Chandra</p>
