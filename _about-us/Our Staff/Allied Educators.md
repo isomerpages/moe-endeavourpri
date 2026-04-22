@@ -57,6 +57,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SENO (Special Educational Needs Officer)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Petrina Tan Hui Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>School Counsellor</strong>
 </p>
 </td>
