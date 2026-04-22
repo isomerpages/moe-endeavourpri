@@ -38,18 +38,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Fauziah Daud</strong>
-<br>
-<br><a href="mailto:fauziah_daud@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fauziah_daud@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice Principal 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Ms Celeste Loh Shi Min</strong>
 </p>
 <p></p>
@@ -59,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal 3</strong>
+<p><strong>Vice Principal 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

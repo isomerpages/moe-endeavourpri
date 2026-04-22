@@ -57,6 +57,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SENO (Special Educational Needs Officer)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Petrina Tan Hui Yi</p>
+<p></p>
+<p><a href="mailto:tan_hui_yi_petrina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_yi_petrina@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>School Counsellor</strong>
 </p>
 </td>
@@ -64,6 +76,23 @@ variant: tiptap
 <p>Ms Khairunnisah d/o Abu Bakar</p>
 <p></p>
 <p><a href="mailto:khairunnisah_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisah_abu_bakar@moe.edu.sg</a>
+</p>
+<p></p>
+<p>Mr Ho Yoon Kee</p>
+<p></p>
+<p><a href="mailto:ho_yoon_kee_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yoon_kee_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Student Welfare Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leena D/O Abu Bakar</p>
+<p></p>
+<p><a href="mailto:leena_krishna_samy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leena_krishna_samy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
