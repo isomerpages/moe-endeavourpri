@@ -136,6 +136,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Laura Wee</p>
+<p><a href="mailto:laura_wee_may_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laura_wee_may_ying@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
