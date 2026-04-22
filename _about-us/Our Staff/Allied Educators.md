@@ -62,6 +62,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Petrina Tan Hui Yi</p>
+<p></p>
+<p><a href="mailto:tan_hui_yi_petrina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_yi_petrina@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
