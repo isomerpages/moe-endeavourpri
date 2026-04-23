@@ -90,7 +90,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Leena D/O Abu Bakar</p>
+<p>Ms Leena D/O Krishna Samy</p>
 <p></p>
 <p><a href="mailto:leena_krishna_samy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leena_krishna_samy@moe.edu.sg</a>
 </p>
