@@ -103,6 +103,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Relief Request</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/edprelief" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edprelief</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>E-Announcements</p>
 </td>
 <td rowspan="1" colspan="1">
