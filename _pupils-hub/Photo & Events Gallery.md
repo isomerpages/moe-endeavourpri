@@ -47,6 +47,8 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://youtu.be/vR0MmAyamPY">►  Cheerleading Competition 2026</a>
+				</li>
 				<li><a href="https://photos.app.goo.gl/JKpueEesh4Ugur76A">►  Mother Tongue Fortnight 2026 Photos</a>
 				</li><li><a href="https://youtu.be/27DUSHYUe2E">►  P3 Rainbow Day and International Friendship Day 2026</a>
 				</li><li><a href="https://photos.app.goo.gl/Ue1ofxJAWddp49vT8">►  Chinese New Year Celebration - 2026 Photos</a></li>	
