@@ -74,9 +74,8 @@ and sense of responsibility to school, community and nation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sailing2.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Table_Tennis2.png">
-</div>
+<p><a href="https://edpsailing.app.sg/" rel="noopener nofollow" target="_blank">https://edpsailing.app.sg/</a>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/vball.png">
 </div>
