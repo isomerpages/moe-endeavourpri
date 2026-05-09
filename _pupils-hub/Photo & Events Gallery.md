@@ -47,6 +47,8 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://photos.app.goo.gl/rFLMDKwMFdYFtHrW6">► Sports Day 2026 Photos</a>
+				</li>
 			<li><a href="https://youtu.be/vR0MmAyamPY">►  Cheerleading Competition 2026</a>
 				</li>
 				<li><a href="https://photos.app.goo.gl/JKpueEesh4Ugur76A">►  Mother Tongue Fortnight 2026 Photos</a>
