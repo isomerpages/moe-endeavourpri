@@ -107,16 +107,16 @@ programme. &nbsp;Through this programme, students are challenged to develop
 higher-order thinking skills via a wider repertoire of problem-solving
 tools.&nbsp; Students are also given opportunities to pit their wits against
 the best through Math Olympiad and inter-school Mathematics competitions.</p>
-<p><strong>Maths Competitions Achievements (2023-2025)</strong>
+<p><strong>Maths Competitions Achievements (2023-2026)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20260623_152611_610.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20260623_152611_826.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20260623_152611_908.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Math_Competitions_Achievements__2022___2025__Page_1.png">
