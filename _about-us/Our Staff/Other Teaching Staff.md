@@ -113,8 +113,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mariappan Bhanumathi</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
