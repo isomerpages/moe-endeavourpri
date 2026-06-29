@@ -18,7 +18,7 @@ sections:
           description: ""
           url: /parents-hub/workshops-and-briefings/permalink/
         - title: Open House
-          description: Key Highlight description
+          description: ""
           url: https://sites.google.com/view/edp-openhouse/home?authuser=0
       background: /images/EDP_Homepage.gif
   - infopic:
