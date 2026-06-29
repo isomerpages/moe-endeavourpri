@@ -32,9 +32,9 @@ variant: tiptap
 <br>Compassion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Reena Shukla d/o Prempal Shuka</p>
+<p>Mr Lin Chee Keong</p>
 <p></p>
-<p><a href="mailto:reena_shukla_prempal_shukal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>reena_shukla_prempal_shukal@moe.edu.sg</u></a>
+<p><a href="mailto:lin_chee_keong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lin_chee_keong_a@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,10 +50,7 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rebecca Francis
-<br>
-<br><a href="mailto:rebecca_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rebecca_francis@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Azemi Bin Manap

@@ -206,7 +206,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Valliamma d/o Nagappan</strong>
+<p><strong>Mdm Valliammai d/o Nagappan</strong>
 <br>
 <br><a href="mailto:valliammai_nagappan_sekar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valliammai_nagappan_sekar@moe.edu.sg</a>
 </p>

@@ -69,31 +69,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rayshaun Gan Wei Hern</p>
+<p>Ms Rathi Roshini</p>
 <p></p>
-<p><a href="mailto:rayshaun_gan_wei_hern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rayshaun_gan_wei_hern@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr A Nasheylen Pillai</p>
-<p></p>
-<p><a href="mailto:s_nasheylen_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s_nasheylen_pillai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Rachel Tan Hui Yi</p>
-<p></p>
-<p><a href="mailto:rachael_tan_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachael_tan_c@moe.edu.sg</a>
+<p><a href="mailto:Rathi_Roshini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rathi_roshini</a>
+<a href="mailto:rathi_roshini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -124,17 +103,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Siti Nurul Atiqah Bte Hashim</p>
-<p></p>
-<p><a href="mailto:siti_nurul_atiqah_hashim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurul_atiqah_hashim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Laura Wee</p>
 <p><a href="mailto:laura_wee_may_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laura_wee_may_ying@moe.edu.sg</a>
 </p>
@@ -145,10 +113,15 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Patimah</p>
+<p>Mdm Mariappan Bhanumathi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p><a href="mailto:siti_patimah_abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_patimah_abdul_razak@moe.edu.sg</a>
-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aiman Khursedah Begam</p>
 </td>
 </tr>
 <tr>
