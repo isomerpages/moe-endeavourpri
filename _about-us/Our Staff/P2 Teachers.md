@@ -78,6 +78,11 @@ variant: tiptap
 <br>
 <br><a href="mailto:siti_nur_hajjar_mohammad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nur_hajjar_mohammad@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mr Rayshaun Gan Wei Hern</p>
+<p></p>
+<p><a href="mailto:rayshaun_gan_wei_hern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rayshaun_gan_wei_hern@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
