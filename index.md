@@ -17,7 +17,7 @@ sections:
         - title: Parent's Briefing Resources
           description: ""
           url: /parents-hub/workshops-and-briefings/permalink/
-        - title: Open House
+        - title: Open House 2026
           description: ""
           url: https://sites.google.com/view/edp-openhouse/home?authuser=0
       background: /images/EDP_Homepage.gif
