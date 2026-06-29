@@ -71,7 +71,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Rathi Roshini</p>
 <p></p>
-<p><a href="mailto:rayshaun_gan_wei_hern@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rayshaun_gan_wei_hern@moe.edu.sg</a>
+<p><a href="mailto:Rathi_Roshini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rathi_roshini</a>
+<a href="mailto:rathi_roshini@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 </td>
 </tr>
