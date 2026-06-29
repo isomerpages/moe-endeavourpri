@@ -91,7 +91,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Mohamed Sani Bin Mohamed Hafid</p>
 <p></p>
+<p><a href="mailto:mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohamed_sani@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
