@@ -34,7 +34,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lin Chee Keong</p>
 <p></p>
-<p><a href="mailto:reena_shukla_prempal_shukal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lin_chee_keong_a@moe.edu.sg</u></a>
+<p><a href="mailto:lin_chee_keong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lin_chee_keong_a@moe.edu.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
