@@ -50,15 +50,15 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Aidilsofyan
+<p>Mr S Nasheylen
 <br>
-<br><a href="mailto:Muhammad_Aidilsofyan_Abd_RAHMAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidilsofyan_abdul_rahman@moe.edu.sg</a>
+<br><a href="mailto:s_nasheylen_pillai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s_nasheylen_pillai@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Valliammai d/o Nagappan
+<p>Mr Muhammad Aidilsofyan
 <br>
-<br><a href="mailto:valliammai_nagappan_sekar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">valliammai_nagappan_sekar@moe.edu.sg</a>
+<br><a href="mailto:Muhammad_Aidilsofyan_Abd_RAHMAN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidilsofyan_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -128,7 +128,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Chia-Tjen Sak Tju Cindy
+<br>
+<br><a href="mailto:chia-_tjen_sak_tju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

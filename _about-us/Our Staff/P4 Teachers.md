@@ -50,7 +50,10 @@ variant: tiptap
 <br>Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Rachel Tan Hui Yi</p>
 <p></p>
+<p><a href="mailto:rachel_tan_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rachel_tan_c@moe.edu.sg</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Azemi Bin Manap
