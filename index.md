@@ -20,7 +20,7 @@ sections:
         - title: Open House 2026
           description: ""
           url: https://sites.google.com/view/edp-openhouse/home?authuser=0
-      background: /images/EDP_Homepage.gif
+      background: /images/Champions_Banner.gif
   - infopic:
       title: C.A.M.P.S
       description: 5 Student Outcomes (C.A.M.P.S) for  Value-based Holistic Education
