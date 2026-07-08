@@ -178,7 +178,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head (Pri 4 and 5)</strong>
+<p><strong>Year Head (Pri 3 and 4)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -202,7 +202,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Pri 6)</strong>
+<p><strong>Year Head (Pri 5 and 6)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -214,7 +214,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head (Pri 3)</strong>
+<p><strong>Assistant Year Head (Pri 5)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,7 +222,14 @@ variant: tiptap
 <br>
 <br><a href="mailto:mohamed_sani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_sani@moe.edu.sg</a>
 </p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head (Pri 3)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Wong Lin Hui</strong>
 <br>
 <br><a href="mailto:wong_lin_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_lin_hui@moe.edu.sg</a>
