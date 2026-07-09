@@ -69,9 +69,9 @@ variant: tiptap
 <p>5CL5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cindy Tjen
+<p>Mdm Guo Ling Lan
 <br>
-<br><a href="mailto:chia-_tjen_sak_tju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@moe.edu.sg</a>
+<br><a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
