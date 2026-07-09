@@ -36,9 +36,10 @@ variant: tiptap
 <p>2CL2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Guo Ling Lan
+<p>Mdm Cindy Tjen
 <br>
-<br><a href="mailto:guo_linglan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">guo_linglan@moe.edu.sg</a>
+<br><a href="mailto:chia-_tjen_sak_tju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia-_tjen_sak_tju@moe.edu.sg</a>
+<a href="mailto:chia-_tjen_sak_tju@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
