@@ -137,9 +137,9 @@ variant: tiptap
 <p>P3TL &amp; MTSP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Indarani kasinathan
+<p>Mrs Rajan
 <br>
-<br><a href="mailto:indarani_kasinathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">indarani_kasinathan@moe.edu.sg</a>
+<br><a href="mailto:bhanumathi_tangarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bhanumathi_tangarajan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
