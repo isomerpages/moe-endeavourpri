@@ -47,6 +47,10 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+						<li><a href="https://youtu.be/A0SFCyIpvyw">► Student Leaders Investiture 2026</a>
+				</li>
+			<li><a href="https://youtu.be/5A4S0W2ZAZI">► EDP Celebrates Racial Harmony Day and P2 Rainbow Day</a>
+				</li>
 			<li><a href="https://photos.app.goo.gl/rFLMDKwMFdYFtHrW6">► Sports Day 2026 Photos</a>
 				</li>
 			<li><a href="https://youtu.be/vR0MmAyamPY">►  Cheerleading Competition 2026</a>
