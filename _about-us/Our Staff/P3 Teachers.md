@@ -94,7 +94,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Selwyn Lim</p>
 <p></p>
-<p><a href="mailto:selwyn_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selwyn_lim@moe.edu.sg</a>
+<p><a href="mailto:selwyn_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">selwyn_lim_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
