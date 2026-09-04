@@ -47,6 +47,9 @@ variant: markdown
 
 <div class="container">
 		<ul class="link-columns">
+			<li><a href="https://youtu.be/uzkfxP7Togk">►Teachers' Day Celebration</a>			
+			</li><li><a href="https://youtu.be/cPdpfVwqpLg">► National Day Celebration and P4 Rainbow Day</a>			
+			</li>
 			<li><a href="https://youtu.be/cPdpfVwqpLg">► National Day Celebration and P4 Rainbow Day</a>			
 			</li><li><a href="https://youtu.be/A0SFCyIpvyw">► Student Leaders Investiture 2026</a>
 				</li>
