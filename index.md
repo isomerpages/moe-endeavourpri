@@ -17,10 +17,7 @@ sections:
         - title: Parent's Briefing Resources
           description: ""
           url: /parents-hub/workshops-and-briefings/permalink/
-        - title: Open House 2026
-          description: ""
-          url: https://sites.google.com/view/edp-openhouse/home?authuser=0
-      background: /images/banner2026.gif
+      background: /images/Champions_Banner.gif
   - infopic:
       title: C.A.M.P.S
       description: 5 Student Outcomes (C.A.M.P.S) for  Value-based Holistic Education
